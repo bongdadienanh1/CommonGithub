@@ -36,3 +36,5 @@ http://www.thinkplexx.com/learn/howto/security/tools/understanding-java-keytool-
 https://aboutssl.org/how-to-create-a-self-signed-certificate-using-java-keytool/
 https://www.sslshopper.com/article-how-to-create-a-self-signed-certificate-using-java-keytool.html
 https://www.namecheap.com/support/knowledgebase/article.aspx/9821/38/apache-redirect-to-https
+https://stackoverflow.com/questions/991758/how-to-get-pem-file-from-key-and-crt-files
+https://gist.github.com/stevenhaddox/1501893
