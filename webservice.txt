@@ -26,3 +26,88 @@ https://dev.liferay.com/develop/tutorials/-/knowledge_base/6-1/soap-web-services
 https://examples.javacodegeeks.com/enterprise-java/jws/jax-ws-client-basic-authentication-example/
 https://www.digizol.com/2008/07/web-service-axis-tutorial-client-server.html
 https://github.com/amusarra/SugarCRMJavaSOAPClient/tree/master/SOAPClient/src/com/sugarcrm/www/sugarcrm
+-------------------
+
+https://dzone.com/articles/troubleshooting-javaxnetsslsslhandshakeexception-r
+https://hostadvice.com/how-to/how-to-configure-https-in-apache-tomcat/
+https://warwick.ac.uk/services/its/servicessupport/web/sign-on/help/tls1-eol/java/
+https://blogs.oracle.com/java-platform-group/diagnosing-tls,-ssl,-and-https
+https://stackoverflow.com/questions/33364100/how-to-use-tls-1-2-in-java-6
+https://stackoverflow.com/questions/8171802/using-bouncycastle-for-a-simple-https-query
+https://stackoverflow.com/questions/9749339/does-tomcat-support-tls-v1-2
+https://docs.oracle.com/javase/6/docs/technotes/guides/security/SunProviders.html
+https://guptaashish.com/2016/07/15/changing-from-tls-v1-0-to-tls-v1-2-from-a-tomcat-java-7-app/
+https://serverfault.com/questions/868936/how-to-configure-tomcat-connector-to-use-both-ssl-and-tls-protocols
+https://grokbase.com/t/tomcat/users/1335h2v5bg/how-to-allow-only-tls-1-1-connections-to-tomcat-6-0-server-with-https
+https://support.globalsign.com/customer/portal/articles/2356063-how-to-enable-or-disable-ssl-and-tls-versions
+https://superuser.com/questions/747377/enable-tls-1-1-and-1-2-for-clients-on-java-7
+https://www.mkyong.com/tomcat/how-to-configure-tomcat-to-support-ssl-or-https/
+https://dzone.com/articles/setting-ssl-tomcat-5-minutes
+https://crunchify.com/step-by-step-guide-to-enable-https-or-ssl-correct-way-on-apache-tomcat-server-port-8443/
+https://www.supportsages.com/configure-ssl-tomcat-6-7-8-9/
+https://geekflare.com/apache-tomcat-hardening-and-security-guide/
+https://www.ntu.edu.sg/home/ehchua/programming/howto/Tomcat_HowTo.html
+
+----
+keytool -genkeypair -alias MyCert -keyalg RSA -keystore "C:\MyCert.cert"
+
+/**
+ * 
+ */
+package com.test;
+
+import java.io.BufferedReader;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.net.URL;
+import java.net.URLConnection;
+
+import javax.net.ssl.*;
+
+/**
+ * @author bongdadienanh1
+ *
+ */
+public class SSLClient {
+	
+	public void myHostVerifier(){
+		HostnameVerifier hv = new HostnameVerifier(){
+
+			@Override
+			public boolean verify(String arg0, SSLSession arg1) {
+				// TODO Auto-generated method stub
+				return true;
+			}
+			
+		};
+		HttpsURLConnection.setDefaultHostnameVerifier(hv);
+	}
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		SSLClient client = new SSLClient();
+		client.myHostVerifier();
+		try{
+			URL u = new URL("https://localhost:8443/");
+			URLConnection url = u.openConnection();
+			InputStreamReader inputStream = new InputStreamReader(url.getInputStream());
+			BufferedReader br = new BufferedReader(inputStream);
+			String temp = "";
+			String response = "";
+			while((temp = br.readLine()) != null){
+				response += temp + "\n";
+			}
+			br.close();
+			System.out.println(response);
+		}catch(Exception e){
+			e.printStackTrace();
+		}
+	}
+}
+-Djavax.net.ssl.trustStore=C:/MyCert.cert
+-Djavax.net.ssl.trustStorePassword=admin@123
+-Dhttps.protocols=TLSv1
+-Djavax.net.debug=ssl:handshake:verbose
