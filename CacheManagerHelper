@@ -1,0 +1,146 @@
+package com.wbs.util.cache;
+
+import com.google.common.base.Optional;
+import com.google.common.cache.CacheBuilder;
+import com.google.common.cache.CacheLoader;
+import com.google.common.cache.LoadingCache;
+import com.wbs.util.StringUtil;
+import org.apache.commons.logging.Log;
+import org.apache.commons.logging.LogFactory;
+
+import java.util.Collection;
+import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.TimeUnit;
+
+/**
+ * Created by Dao Duc Hai on 7/4/2016.
+ */
+public class CacheManagerHelper {
+    private static final Log log = LogFactory.getLog(CacheManagerHelper.class);
+
+    /**
+     * Enum defining the different types of cache managed by the class
+     */
+    public enum CACHE_IDS {
+        CACHE_ID1
+    }
+
+    private static final Integer REFRESH_CACHE = 20;
+    private static final Integer EXPIRE_CACHE = 1;
+    private static CacheManagerHelper instance = null;
+    private final static long MAX_SIZE_STATIC_CACHE = 500;
+
+    /**
+     * Map containing all the caches
+     */
+    public final static Map<CACHE_IDS, LoadingCache> caches = new ConcurrentHashMap<CACHE_IDS, LoadingCache>();
+
+    private CacheManagerHelper() {
+        for (CACHE_IDS cacheId : CACHE_IDS.values()) {
+            LoadingCache staticCache = CacheBuilder.newBuilder()
+                    .maximumSize(MAX_SIZE_STATIC_CACHE)
+                    .expireAfterWrite(EXPIRE_CACHE, TimeUnit.DAYS)
+                    .refreshAfterWrite(REFRESH_CACHE, TimeUnit.MINUTES)
+                    .build(
+                            new CacheLoader() {
+                                @Override
+                                public Collection load(Object key) throws Exception {
+                                    return (Collection) Optional.absent();
+                                }
+                            });
+
+            //Adding the cache to the manager
+            addCache(cacheId, staticCache);
+        }
+    }
+
+    public static final CacheManagerHelper getInstance() {
+        if (instance == null) {
+            synchronized (CacheManagerHelper.class) {
+                if (instance == null) {
+                    log.debug("getInstance(): First time getInstance was invoked!");
+                    instance = new CacheManagerHelper();
+                }
+            }
+
+        }
+        return instance;
+    }
+
+    /**
+     * Adds or replace one of the caches
+     *
+     * @param cacheId Identificator of the Cache
+     * @param cache   Cache to be added
+     */
+    public void addCache(CACHE_IDS cacheId, LoadingCache cache) {
+        caches.put(cacheId, cache);
+    }
+
+    /**
+     * Retrieves one of the managed cache
+     *
+     * @param cacheId Identificator of the Cache
+     * @return The cache if it exists or null if it doesn't
+     */
+    public LoadingCache<String, Object> getCache(CACHE_IDS cacheId) {
+        return caches.get(cacheId);
+    }
+
+    /**
+     * Retrieves directly a cached object from one of the defined caches
+     *
+     * @param cacheId
+     * @param elementId
+     * @return
+     */
+    public Object getCachedObject(CACHE_IDS cacheId, String elementId) {
+        Object result = null;
+
+        LoadingCache cache = getCache(cacheId);
+        if (cache != null) {
+            result = cache.getIfPresent(elementId);
+            if (!StringUtil.isEmpty((Collection) result)) {
+                log.debug("Cache data of " + cacheId + ", with keyCache :" + elementId + ", data :" + result);
+            } else {
+                log.debug("Don't get data from cache of key : " + elementId);
+            }
+        }
+
+        return result;
+    }
+
+
+    public void putCachedObject(CACHE_IDS cacheId, String elementId, Object dataObject) throws Exception {
+        LoadingCache cache = getCache(cacheId);
+        if (cache != null) {
+            cache.asMap().putIfAbsent(elementId.toString(), dataObject);
+        } else {
+            log.error("Don't put data to cache with data :" + dataObject);
+            throw new Exception("Don't put data to cache with data :" + dataObject);
+        }
+    }
+
+    public void clearCachedObject(CACHE_IDS cacheId, String elementId) throws Exception {
+        LoadingCache cache = getCache(cacheId);
+        if (cache != null) {
+            cache.refresh(elementId.toString());
+            log.info("ClearCachedObject :" + cacheId.toString() + ", elementId : " + elementId);
+        } else {
+            log.error("Don't clearCachedObject :" + cacheId.toString() + ", elementId : " + elementId);
+            throw new Exception("Don't clearCachedObject :" + cacheId.toString() + ", elementId : " + elementId);
+        }
+    }
+
+    public void clearALlCache(CACHE_IDS cacheId) throws Exception {
+        LoadingCache cache = getCache(cacheId);
+        if (cache != null) {
+            cache.invalidateAll();
+            log.info("Clear all cache with Id :" + cacheId.toString());
+        } else {
+            log.error("Don't clear all cache with Id :" + cacheId.toString());
+            throw new Exception("Don't clear all cache with Id :" + cacheId.toString());
+        }
+    }
+}
