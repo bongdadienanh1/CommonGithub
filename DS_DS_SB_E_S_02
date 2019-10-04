@@ -1,0 +1,174 @@
+package com.wbs.ds.ds;
+
+import com.ubanks.access.action.REOActionSupport;
+import com.ubanks.access.bo.BOException;
+import com.ubanks.access.bo.DataMap;
+import com.ubanks.framework.util.ConverterException;
+import com.wbs.util.StringUtil;
+import com.wbs.util.cache.CacheManagerHelper;
+import org.apache.commons.logging.Log;
+import org.apache.commons.logging.LogFactory;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+
+/**
+ * Created by Dao Duc Hai on 7/4/2016.
+ * @desc: Get data of all report from XR_CRT_DATA tables
+ */
+public class DS_DS_SB_E_S_02 extends REOActionSupport {
+    private static final Log log = LogFactory.getLog(DS_DS_SB_E_S_02.class);
+
+    public String execute() throws Exception {
+        try {
+            log.info("Parameter = " + this.getParameter() + ", Header = " + this.getHeader());
+            String screenUserId = StringUtil.getValueScreenSessionId(this.getHeader());
+
+            if (getRuleRunner() == null){
+                throw new BOException("Fail ruleRunner(DS_DS_SB_E_S_02) is null");
+            }
+
+            getRuleRunner().setAction(this);
+
+            Map param = this.getParameter();
+            String isCacheData = (String) param.get("isCacheData");
+            String typeData = (String) param.get("typeData");
+            String typeTemplate = (String) param.get("TYPE_TEMPLATE");
+            String keyCache = null,ruleName = null,sbmtNo = "",taxoName = "",srchLblLang = "";
+
+            if(StringUtil.hasText(typeData)){
+                keyCache = (param.get("ReportSystemCode") + "|" + param.get("BaseBankCode") + "|" + param.get("BaseDate")
+                        + "|"  + param.get("CreationSeq") + "|" + param.get("RPT_DIV_TP_CD") + "|" + param.get("TEC_START_DT")
+                        + "|" + param.get("SubmitNo") + "|" + param.get("ReportSeq")
+                        + "|" + typeData + "|DATA").trim();
+                sbmtNo = (String) param.get("SubmitNo");
+                taxoName = (String) param.get("TAXO_EXT_NM");
+                srchLblLang = (String) param.get("srchLblLang");
+                ruleName = "DS_RR_RR_I_S_04";
+                log.debug(screenUserId + "Key cache with type data :" + keyCache);
+            }else{
+                keyCache = (param.get("ReportSystemCode") + "|" + param.get("BaseBankCode") + "|" + param.get("BaseDate")
+                        + "|"  + param.get("CreationSeq") + "|" + param.get("RPT_DIV_TP_CD") + "|" + param.get("TEC_START_DT") + "|DATA").trim();
+                ruleName = "DS_DS_SB_E_S_02";
+                log.debug(screenUserId + "Key cache with no type data :" + keyCache);
+            }
+
+            List listData = new ArrayList();
+
+            if(StringUtil.hasText(isCacheData)){
+                if(isCacheData.trim().equalsIgnoreCase("1")){// cache
+                    listData = (List) CacheManagerHelper.getInstance().getCachedObject(CacheManagerHelper.CACHE_IDS.CACHE_ID1,keyCache);
+                    if(StringUtil.isEmpty(listData)){
+                        listData = getDataFromService(screenUserId,keyCache,ruleName,typeTemplate,typeData,sbmtNo,taxoName,srchLblLang);
+                        CacheManagerHelper.getInstance().putCachedObject(CacheManagerHelper.CACHE_IDS.CACHE_ID1,keyCache,listData);
+                        log.debug(screenUserId + "Put xr_crt_data/ds_sbmt_rpt_data to cache with key :" + keyCache);
+                    }
+                }else{// no cache
+                    listData = getDataFromService(screenUserId,keyCache,ruleName,typeTemplate,typeData,sbmtNo,taxoName,srchLblLang);
+                }
+            }else{
+                listData = getDataFromService(screenUserId,keyCache,ruleName,typeTemplate,typeData,sbmtNo,taxoName,srchLblLang);
+            }
+
+            log.debug(screenUserId + "Data query xr_crt_data: " + (StringUtil.isEmpty(listData) ? "0" : listData.size()));
+            this.setResult(listData);
+
+            return SUCCESS;
+
+        } catch (Exception e) {
+            log.error("BOException : " + e);
+            addActionError(e.getMessage());
+            throw ConverterException.convertBOException("SS0001", e);
+        }
+    }
+
+    private List getDataFromService(String screenUserId,String keyCache,String ruleName,String typeTemplate,String typeData,String sbmtNo,String taxoName,String srchLblLang) {
+        try {
+            Map calcMap = convertMap(keyCache);
+            if(typeTemplate.trim().equalsIgnoreCase("3") || typeTemplate.trim().equalsIgnoreCase("4") || typeTemplate.trim().equalsIgnoreCase("5")){
+                if(StringUtil.hasText(typeData)){
+                    calcMap.put("MAX_ROW_SQL", "            ,(SELECT MAX(to_number(DIM_ELMT_ID))" +
+                                    "                              FROM DS_SBMT_RPT_DATA" +
+                                    "                              WHERE sbmt_no=#{SubmitNo} " +
+                                    "                              AND rpt_seq=#{ReportSeq} " +
+                                    "                              AND RPT_SYS_CD =#{ReportSystemCode} "+
+                                    "                              AND DIM_ELMT_ID NOT LIKE 'R-%'" +
+                                    "                        ) as MAX_ROW ");
+                }else{
+                    calcMap.put("MAX_ROW_SQL", "           ,(SELECT MAX(to_number(DIM_ELMT_ID))" +
+                                    "                              FROM xr_crt_data" +
+                                    "                              WHERE rpt_sys_cd  = #{ReportSystemCode}" +
+                                    "                              AND base_bank_cd  = #{BaseBankCode}" +
+                                    "                              AND base_ymd      = #{BaseDate}" +
+                                    "                              AND crt_seq       = #{CreationSeq}" +
+                                    "                              AND RPT_DIV_TP_CD = #{RPT_DIV_TP_CD}" +
+                                    "                              AND TEC_START_DT  = #{TEC_START_DT}" +
+                                    "                              AND DIM_ELMT_ID NOT LIKE 'R-%'" +
+                                    "                        ) as MAX_ROW ");
+                }
+            }
+
+            if(typeTemplate.trim().equalsIgnoreCase("4")){
+                if(StringUtil.hasText(typeData)){
+                    calcMap.put("EXIT_R_ELEMT_SQL", "        ,(SELECT COUNT(*)" +
+                                    "                              FROM DS_SBMT_RPT_DATA" +
+                                    "                              WHERE sbmt_no=#{SubmitNo} " +
+                                    "                              AND rpt_seq=#{ReportSeq} " +
+                                    "                              AND RPT_SYS_CD =#{ReportSystemCode} "+
+                                    "                              AND DIM_ELMT_ID LIKE 'R-%'" +
+                                    "                        ) AS EXIT_R_ELEMT ");
+                }else{
+                    calcMap.put("EXIT_R_ELEMT_SQL","       ,(SELECT COUNT(*)" +
+                                    "                              FROM xr_crt_data" +
+                                    "                              WHERE rpt_sys_cd  = #{ReportSystemCode}" +
+                                    "                              AND base_bank_cd  = #{BaseBankCode}" +
+                                    "                              AND base_ymd      = #{BaseDate}" +
+                                    "                              AND crt_seq       = #{CreationSeq}" +
+                                    "                              AND RPT_DIV_TP_CD = #{RPT_DIV_TP_CD}" +
+                                    "                              AND TEC_START_DT  = #{TEC_START_DT}" +
+                                    "                              AND DIM_ELMT_ID LIKE 'R-%'" +
+                                    "                        ) AS EXIT_R_ELEMT ");
+                }
+            }
+
+            if(ruleName.trim().equalsIgnoreCase("DS_RR_RR_I_S_04")){
+                log.trace("add join table DS_RR_RR_I_S_04 :" + sbmtNo);
+                calcMap.put("SQL_RPT_CELL_VAL"," union all" +
+                        "                select '" +  sbmtNo + "' ,PRM_ELMT_ID PrmElmtID,dim_elmt_id DimElmtID,DISP_VAL DataValue,'current' stat" +
+                        "                from DS_RPT_CELL_VAL " +
+                        "                where RPT_SYS_CD = #{ReportSystemCode} and RPT_START_DT = (select RPT_START_DT from DS_RPT_SYS where RPT_SYS_CD = #{ReportSystemCode})" +
+                        "                and DISP_LANG = #{srchLblLang} and TAXO_EXT_NM = #{TAXO_EXT_NM}  and DIM_ELMT_ID != 'ROOT'");
+                calcMap.put("TAXO_EXT_NM",taxoName);
+                calcMap.put("srchLblLang",srchLblLang);
+            }
+
+            log.debug(screenUserId + "Parameter of ruleName " + ruleName + " for xr_crt_data/DS_SBMT_RPT_DATA :" + calcMap.toString());
+            this.setParameter(calcMap);
+            getRuleRunner().exec(ruleName);
+            List list = (List) this.getResult();
+            log.debug(screenUserId + "List Object : " + (StringUtil.isEmpty(list) ? "0" : list.size()));
+            return list;
+        } catch (Exception e) {
+            log.error("Exception getDataFromService :",e);
+            return null;
+        }
+    }
+
+    private Map convertMap(String keyCache){
+        String[] array = keyCache.split("\\|");
+        int length = array.length;
+        Map calcMap = new DataMap();
+        calcMap.put("ReportSystemCode",  array[0]);
+        calcMap.put("BaseBankCode",  array[1]);
+        calcMap.put("BaseDate",  array[2]);
+        calcMap.put("CreationSeq",  array[3]);
+        calcMap.put("RPT_DIV_TP_CD",  array[4]);
+        calcMap.put("TEC_START_DT",  array[5]);
+        if(length > 8){
+            calcMap.put("SubmitNo",  array[6]);
+            calcMap.put("ReportSeq",  array[7]);
+        }
+        return calcMap;
+    }
+}
