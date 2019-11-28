@@ -1,0 +1,711 @@
+
+        <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706820">IDE</H3>
+        <DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706828">IntelliJ IDEA</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706830">JVM</H3>
+                <DL><p>
+                    <DT><A HREF="http://blogs.jetbrains.com/idea/2006/04/configuring-intellij-idea-vm-options/" ADD_DATE="1552706829">Configuring IntelliJ IDEA VM options | JetBrains IntelliJ IDEA Blog</A>
+                    <DT><A HREF="http://leshazlewood.com/2007/08/01/intellij-idea-on-mac-os-x-setting-java-vm-options/" ADD_DATE="1552706830">IntelliJ IDEA on Mac OS X – Setting Java VM options | Les Hazlewood</A>
+                    <DT><A HREF="http://www.inspire-software.com/en/index/view/articles-idea-setting-java-vmoptions-on-mac-win-linux-for-intellij-idea.html" ADD_DATE="1552706830">Intellij IDEA Java VM options on Mac, Windows, Linux - IDEA - articles - www.inspire-software.com</A>
+                </DL><p>
+                <DT><A HREF="http://wiki.jetbrains.net/intellij/Developing_applications_for_GlassFish_Server" ADD_DATE="1552706821">Developing applications for GlassFish Server - IntelliJ-Wiki</A>
+                <DT><A HREF="http://wiki.jetbrains.net/intellij/" ADD_DATE="1552706821">IntelliJ-Wiki</A>
+                <DT><A HREF="http://www.jetbrains.com/idea/webhelp/enabling-web-application-support.html" ADD_DATE="1552706822">Enabling Web Application Support</A>
+                <DT><A HREF="http://dev.day.com/docs/en/crx/current/how_to/setting_up_an_intellij.html" ADD_DATE="1552706822">Setting Up an IntelliJ IDEA Project</A>
+                <DT><A HREF="http://www.jetbrains.com/idea/webhelp/getting-help.html" ADD_DATE="1552706822">Getting Help</A>
+                <DT><A HREF="http://blogs.jetbrains.com/idea/2010/08/quickly-create-jar-artifact/" ADD_DATE="1552706823">Quickly create Jar artifact for application | JetBrains IntelliJ IDEA Blog</A>
+                <DT><A HREF="http://beans.seartipy.com/2008/08/20/%E2%80%9Chello-world%E2%80%9D-web-application-using-struts-2-in-intellij-idea-80-m1/" ADD_DATE="1552706823">Every Flavour Beans | “Hello, World” Web Application using Struts 2 in IntelliJ IDEA 8.0 M1</A>
+                <DT><A HREF="http://confluence.jetbrains.net/pages/viewpage.action?pageId=35367" ADD_DATE="1552706823">Struts 2 Plugin Features &amp; User Guide - Contest - Confluence</A>
+                <DT><A HREF="http://zeroturnaround.com/jrebel/jrebel-how-to-setting-up-multi-module-projects-in-intellij-idea/" ADD_DATE="1552706824">JRebel How-to: Setting up multi-module projects in IntelliJ IDEA | zeroturnaround.com</A>
+                <DT><A HREF="http://wiki.jetbrains.net/intellij/Web_Services_with_IntelliJ_IDEA" ADD_DATE="1552706824">Web Services with IntelliJ IDEA - IntelliJ-Wiki</A>
+                <DT><A HREF="http://wiki.jetbrains.net/intellij/Developing_a_simple_Apache_Axis_WebService" ADD_DATE="1552706824">Developing a simple Apache Axis WebService - IntelliJ-Wiki</A>
+                <DT><A HREF="http://amilamanoj.blogspot.com/2011/09/running-debugging-apache-axis2-inside.html" ADD_DATE="1552706824">:: Amila Manoj&#39;s Blog ::: Running / Debugging Apache Axis2 inside IntelliJ IDEA</A>
+                <DT><A HREF="http://wiki.jetbrains.net/intellij/Developing_a_simple_JaxWS_WebService" ADD_DATE="1552706825">Developing a simple JaxWS WebService - IntelliJ-Wiki</A>
+                <DT><A HREF="http://www.liferay.com/community/wiki/-/wiki/Main/Running+Liferay+from+IntelliJ" ADD_DATE="1552706825">Running Liferay from IntelliJ - Wiki - Liferay.com</A>
+                <DT><A HREF="http://stackoverflow.com/questions/8677831/tomcat-7-spring-app-intellij-idea-10-5-outofmemoryerror-permgen-space" ADD_DATE="1552706825">Tomcat 7 Spring App IntelliJ IDEA 10.5 OutOfMemoryError: PermGen space - Stack Overflow</A>
+                <DT><A HREF="http://www.javawhat.com/showWebsiteContent.do?id=527277" ADD_DATE="1552706825">JavaWhat - IntelliJ Quick Guide</A>
+                <DT><A HREF="https://uisapp2.iu.edu/confluence-prd/display/HR/Module+Settings" ADD_DATE="1552706825">Module Settings - Human Resources Management Systems - Indiana University Enterprise Confluence</A>
+                <DT><A HREF="http://color-themes.com/?view=download-all" ADD_DATE="1552706826">Color Themes</A>
+                <DT><A HREF="https://darekkay.com/2014/11/23/monokai-theme-intellij/" ADD_DATE="1552706826">Monokai Theme for IntelliJ IDEA - Darek Kay</A>
+                <DT><A HREF="http://tedwise.com/2009/02/26/dark-pastels-theme-for-intellij-idea/" ADD_DATE="1552706826">Dark Pastels theme for IntelliJ IDEA | Ted Wise</A>
+                <DT><A HREF="https://plugins.jetbrains.com/plugin/8006?pr=idea" ADD_DATE="1552706826">JetBrains Plugin Repository :: Material Theme UI</A>
+                <DT><A HREF="https://medium.com/@echoAlexey/intellij-idea-tips-and-tricks-in-5-minutes-355771c668bd" ADD_DATE="1552706826">IntelliJ IDEA — tips and tricks in 5 minutes – Alexey Nikolaenko – Medium</A>
+                <DT><A HREF="https://www.youtube.com/watch?v=HsdcEWYHS4U" ADD_DATE="1552706827">How to activate phpstorm 2017.3.4 - YouTube</A>
+                <DT><A HREF="http://www.cnblogs.com/diegodu/p/7464721.html" ADD_DATE="1552706827">IntelliJ IDEA 2017.2.2 的破解 有效期 2116年 - 穆穆兔兔 - 博客园</A>
+                <DT><A HREF="http://jetbrains.license.laucyun.com/" ADD_DATE="1552706827">Free JetBrains Products License Server</A>
+                <DT><A HREF="https://github.com/zhangjiemin000/ilsap" ADD_DATE="1552706827">zhangjiemin000/ilsap: ilsap - Intellij License Server Active Proxy</A>
+                <DT><A HREF="https://blog.csdn.net/Chation_99/article/details/78773309" ADD_DATE="1552706827">JetBrains License Server全系列软件通用激活服务器地址 - CSDN博客</A>
+                <DT><A HREF="https://www.haxotron.com/jetbrains-intellij-idea-crack/" ADD_DATE="1552706827">JetBrains IntelliJ IDEA Ultimate 2017.2.4 Crack | Haxotron</A>
+                <DT><A HREF="https://ideaserver.pro/" ADD_DATE="1552706827">Free license server for JetBrains products</A>
+                <DT><A HREF="https://www.cnblogs.com/ikoo4396/p/8143428.html" ADD_DATE="1552706828">IntelliJ IDEA - Activation code - 你的笑忘书 - 博客园</A>
+                <DT><A HREF="http://jetbrains.tools/" ADD_DATE="1552706828">Free JetBrains Products License Server - jetbrains.tools</A>
+                <DT><A HREF="https://blog.csdn.net/ATYZ123/article/details/80021579" ADD_DATE="1552706828">2018-04-20 IntelliJ IDEA 2018.1.1 激活破解方法 - CSDN博客</A>
+                <DT><A HREF="https://gist.github.com/ankushpatel18/180e649b0adf21f35d8f8ad6b1f27159" ADD_DATE="1552706828">JetBrains License server and activation codes for PhpStrom, CLion, DataGrip, PyCharm.</A>
+                <DT><A HREF="https://rolf-engelhard.de/2015/08/timeout-configuration-in-hikaricp-db2-and-mysql/" ADD_DATE="1552706828">Timeout Configuration in HikariCP, DB2 and MySQL | Rolf Engelhard</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706824">NetBean</H3>
+            <DL><p>
+                <DT><A HREF="http://uml.netbeans.org/" ADD_DATE="1552706821">uml: NetBeans UML Modeling</A>
+                <DT><A HREF="http://www.netbeans.org/switch/" ADD_DATE="1552706821">Switch to NetBeans IDE</A>
+                <DT><A HREF="http://www.netbeans.org/kb/55/flash.html" ADD_DATE="1552706821">List of Flash Demos of NetBeans IDE</A>
+                <DT><A HREF="http://www.netbeans.org/kb/index.html" ADD_DATE="1552706822">NetBeans IDE Docs &amp; Support Resources</A>
+                <DT><A HREF="http://www.netbeans.org/kb/55/using-netbeans/index.html" ADD_DATE="1552706822">Using NetBeans IDE 5.5 - Your Guide to Getting Work Done in NetBeans IDE</A>
+                <DT><A HREF="http://www.netbeans.org/kb/55/mobilitycdc-matisse.html" ADD_DATE="1552706822">GUI Design with NetBeans Mobility Pack 5.5 for CDC</A>
+                <DT><A HREF="http://www.netbeans.org/kb/trails/soa.html" ADD_DATE="1552706823">SOA Applications and UML Modeling Learning Trails</A>
+                <DT><A HREF="http://www.netbeans.org/kb/kb.html" ADD_DATE="1552706823">Articles</A>
+                <DT><A HREF="http://www.netbeans.org/kb/trails/java-ee.html" ADD_DATE="1552706823">Java EE Applications Learning Trail</A>
+                <DT><A HREF="http://developers.sun.com/prodtech/javatools/jsenterprise/nb_enterprise_pack/reference/techart/uml_activity_diagram.html" ADD_DATE="1552706824">UML Modeling: Creating Activity Diagrams</A>
+                <DT><A HREF="http://wiki.netbeans.org/wiki/view" ADD_DATE="1552706824">NetBeans Wiki: Main</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706824">Eclispe</H3>
+            <DL><p>
+                <DT><A HREF="http://www.eclipse.org/modeling/mdt/?project=uml2tools#uml2tools" ADD_DATE="1552706821">Eclipse Modeling - MDT - Home</A>
+                <DT><A HREF="http://www.papyrusuml.org/scripts/home/publigen/content/templates/show.asp?L=EN&P=55&vTicker=alleza&ITEMID=3" ADD_DATE="1552706821">Papyrus UML - Welcome to Papyrus UML web site</A>
+                <DT><A HREF="http://www.acceleo.org/pages/download-acceleo/en" ADD_DATE="1552706821">Acceleo : MDA generator - Download Acceleo</A>
+                <DT><A HREF="http://www.eclipse.org/downloads/" ADD_DATE="1552706822">Eclipse Downloads</A>
+                <DT><A HREF="http://www.eclipse.org/europa/projects.php" ADD_DATE="1552706822">Eclipse Europa Release Projects</A>
+                <DT><A HREF="http://www.eclipse.org/callisto/" ADD_DATE="1552706822">Eclipse Callisto</A>
+                <DT><A HREF="http://sourceforge.jp/projects/amateras/wiki/AmaterasUML_1_3_2" ADD_DATE="1552706823">AmaterasUML_1_3_2 - Amateras Wiki - Amateras - SourceForge.JP</A>
+                <DT><A HREF="http://jar-plug.sourceforge.net/" ADD_DATE="1552706823">JarPlug: Say Goodbye to File Explorer!</A>
+                <DT><A HREF="http://jadclipse.sourceforge.net/wiki/index.php/Main_Page#Installation" ADD_DATE="1552706823">Main Page - JadClipse</A>
+                <DT><A HREF="http://www.cloudgarden.com/jigloo/" ADD_DATE="1552706824">Cloud Garden - Jigloo GUI Builder (SWT and Swing) for Eclipse</A>
+                <DT><A HREF="http://www.objectteams.org/documentation.html" ADD_DATE="1552706824">Object Teams | Home</A>
+                <DT><A HREF="http://code.google.com/p/visualswing4eclipse/" ADD_DATE="1552706824">visualswing4eclipse - Project Hosting on Google Code</A>
+                <DT><A HREF="http://www.ibm.com/developerworks/lotus/library/sametime-eclipse-pt4/" ADD_DATE="1552706824">Working with plug-ins in IBM Lotus Sametime V7.5.1: Deploying plug-ins</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706823">Oracle Workshop</H3>
+            <DL><p>
+                <DT><A HREF="http://java.dzone.com/announcements/oracle-removes-licensing-works" ADD_DATE="1552706821">Oracle Removes Licensing for Workshop Eclipse Plug-ins | Javalobby</A>
+                <DT><A HREF="http://edocs.bea.com/wlw/docs100/index.html" ADD_DATE="1552706821">BEA Workshop for WebLogic Platform 10.0 Documentation</A>
+                <DT><A HREF="http://www.oracle.com/technology/products/workshop/highlights.html" ADD_DATE="1552706821">highlights.html</A>
+                <DT><A HREF="http://www.oracle.com/technology/pub/articles/tech_dev.html" ADD_DATE="1552706822">Technical Articles for Developers and Architects: J2EE, Web Services,.NET, Open Source, and More</A>
+                <DT><A HREF="http://edocs.bea.com/wlw/docs103/guide/index.html" ADD_DATE="1552706822">Oracle Workshop for WebLogic User Guide</A>
+                <DT><A HREF="http://edocs.bea.com/wlw/docs103/guide/ormworkbench/hibernate-tutorial/tutHibernate1.html" ADD_DATE="1552706822">Hibernate Tutorial: Introduction</A>
+                <DT><A HREF="http://www.oracle.com/technology/products/workshop/index.html" ADD_DATE="1552706823">Oracle Workshop Products</A>
+            </DL><p>
+        </DL><p>
+        <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706820">Source Code</H3>
+        <DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706826">Payment Gateway</H3>
+            <DL><p>
+                <DT><A HREF="http://www.j2pay.org/introduction.php" ADD_DATE="1552706820">Introduction</A>
+                <DT><A HREF="http://killbill.io/tutorials/" ADD_DATE="1552706821">Kill Bill Tutorials - Kill Bill</A>
+                <DT><A HREF="https://github.com/techquest" ADD_DATE="1552706821">Interswitch Techquest · GitHub</A>
+                <DT><A HREF="https://github.com/killbill/killbill/blob/master/account/src/main/resources/org/killbill/billing/account/ddl.sql" ADD_DATE="1552706822">killbill/ddl.sql at master · killbill/killbill · GitHub</A>
+                <DT><A HREF="https://www.authorize.net/resources/howitworksdiagram/" ADD_DATE="1552706822">How Credit Card Processing Works — Authorize.Net Diagram</A>
+                <DT><A HREF="https://github.com/rstoyanchev/spring-payment/tree/master/core/src/main/java/org/springframework/payment/core" ADD_DATE="1552706823">spring-payment/core/src/main/java/org/springframework/payment/core at master · rstoyanchev/spring-payment · GitHub</A>
+                <DT><A HREF="https://github.com/CyberSource/cybersource-sdk-java/releases" ADD_DATE="1552706823">Releases · CyberSource/cybersource-sdk-java · GitHub</A>
+                <DT><A HREF="https://www.cybersource.com/developers/integration_methods/simple_order_and_soap_toolkit_api/" ADD_DATE="1552706823">Simple Order API and SOAP Toolkit API Documentation and Downloads - CyberSource&lt;</A>
+                <DT><A HREF="http://blog.unibulmerchantservices.com/how-visas-payment-system-works/" ADD_DATE="1552706823">How Visa&#39;s Payment System Works</A>
+                <DT><A HREF="https://github.com/akashmantry/Phoenix-Secure-E-Commerce-Payment-System-" ADD_DATE="1552706824">GitHub - akashmantry/Phoenix-Secure-E-Commerce-Payment-System-: A secure E-commerce application system involving Merchant, Payment Gateway and Android clients</A>
+                <DT><A HREF="http://developer-legacy.clearent.com/integrating-payments/" ADD_DATE="1552706824">Legacy Clearent Developer Center | Integrating Payments into a Spring Boot Service</A>
+                <DT><A HREF="https://codecanyon.net/item/ewallet-online-payment-gateway/19316332" ADD_DATE="1552706824">eWallet - Online Payment Gateway by IdealBrothers | CodeCanyon</A>
+                <DT><A HREF="https://developer.hipay.com/getting-started/platform-hipay-marketplace/overview/" ADD_DATE="1552706824">Platform documentation - Developer Portal</A>
+                <DT><A HREF="https://epayments.developer-ingenico.com/documentation/payment-products/group/bank-transfer" ADD_DATE="1552706825">Payment group</A>
+                <DT><A HREF="https://gitee.com/thlws/payment-alipay/tree/master" ADD_DATE="1552706825">thlws/payment-alipay - 码云 - 开源中国</A>
+                <DT><A HREF="https://gitee.com/roncoocom/roncoo-pay/tree/master/roncoo-pay-web-merchant/src/main" ADD_DATE="1552706825">RonCoo/roncoo-pay: 龙果支付系统，已接通支付宝、微信支付，具备支付、对账、清结算等功能 - Gitee</A>
+                <DT><A HREF="https://gitee.com/suninformation/ymate-payment-v2/tree/master/ymate-payment-alipay/src/main/java/net/ymate/payment/alipay/base" ADD_DATE="1552706825">ymate-payment-alipay/src/main/java/net/ymate/payment/alipay/base · 有理想的鱼/ymate-payment-v2 - 码云 - 开源中国</A>
+                <DT><A HREF="https://gitee.com/gqb/api-gateway/tree/master/src/main/java/com/apigateway/fileServer" ADD_DATE="1552706826">src/main/java/com/apigateway/fileServer · 小泽玛丽罗/api-gateway - 码云 - 开源中国</A>
+                <DT><A HREF="https://gitee.com/mirrors/jigsaw-payment/tree/master" ADD_DATE="1552706826">码云极速下载/jigsaw-payment - 码云 - 开源中国</A>
+                <DT><A HREF="https://gitee.com/pjoc/pjoc-pay/tree/dev" ADD_DATE="1552706826">PJOC/pjoc-pay - 码云 - 开源中国</A>
+                <DT><A HREF="https://github.com/acogoluegnes/Spring-Batch-in-Action/blob/master/sbia/ch10/src/main/resources/com/manning/sbia/ch10/job-with-listeners.xml" ADD_DATE="1552706826">Spring-Batch-in-Action/job-with-listeners.xml at master · acogoluegnes/Spring-Batch-in-Action</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706822">CVS</H3>
+            <DL><p>
+                <DT><A HREF="https://www.dev.java.net/scdocs/ddUsingWinCvs" ADD_DATE="1552706821">Using WinCvs to Work with Project Source Files</A>
+                <DT><A HREF="http://www.march-hare.com/cvsnt/techspecs/" ADD_DATE="1552706821">CVS Suite - 2.5.03 Scorpio Tech Specs</A>
+                <DT><A HREF="http://web.telia.com/~u86216177/InstallCVSNT25.html" ADD_DATE="1552706821">CVSNT 2.5.03 Installation Tips</A>
+                <DT><A HREF="http://www.cvsnt.org/wiki/FrontPage" ADD_DATE="1552706822">FrontPage - The CVSNT Wiki</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706826">SVN</H3>
+            <DL><p>
+                <DT><A HREF="http://glast-ground.slac.stanford.edu/workbook/pages/installingOfflineSW/tortoiseCVS.htm" ADD_DATE="1552706821">TortoiseCVS</A>
+                <DT><A HREF="http://www.tortoisecvs.org/lang.shtml" ADD_DATE="1552706821">TortoiseCVS: Translations</A>
+                <DT><A HREF="http://subclipse.tigris.org/" ADD_DATE="1552706821">subclipse.tigris.org</A>
+                <DT><A HREF="http://subclipse.tigris.org/install.html" ADD_DATE="1552706822">subclipse: Installation</A>
+                <DT><A HREF="http://www-128.ibm.com/developerworks/opensource/library/os-ecl-subversion/" ADD_DATE="1552706822">How to use Subversion with Eclipse</A>
+                <DT><A HREF="http://markphip.blogspot.com/search/label/subclipse" ADD_DATE="1552706823">svn commit ./me: subclipse</A>
+                <DT><A HREF="http://svnkit.com/" ADD_DATE="1552706823">SVNKit :: Subversion for Java</A>
+                <DT><A HREF="http://blog.excastle.com/2005/05/31/mere-moments-guide-to-installing-a-subversion-server-on-windows/" ADD_DATE="1552706823">Joe White’s Blog » Blog Archive » Mere-Moments Guide to installing a Subversion server on Windows</A>
+                <DT><A HREF="http://www.onlamp.com/pub/a/apache/2002/12/19/svn2.html" ADD_DATE="1552706823">ONLamp.com -- Multiuser Subversion</A>
+                <DT><A HREF="http://donie.homeip.net:8080/pebble/Steve/2006/02/27/1141079943879.html" ADD_DATE="1552706824">Installing Subversion Server on Windows - Something Pithy</A>
+                <DT><A HREF="http://blogs.vertigosoftware.com/teamsystem/archive/2006/01/16/Setting_up_a_Subversion_Server_under_Windows.aspx" ADD_DATE="1552706824">Team System : Setting up a Subversion Server under Windows</A>
+                <DT><A HREF="http://www.codeandcoffee.com/2007/07/24/how-to-setup-a-subversion-server-on-windows/" ADD_DATE="1552706824">How to Setup a Subversion Server on Windows | Code and Coffee</A>
+                <DT><A HREF="http://svn.spears.at/" ADD_DATE="1552706824">Subversion for Windows with Apache server HOWTO</A>
+                <DT><A HREF="http://blogs.clearscreen.com/migs/archive/2005/01/21/824.aspx" ADD_DATE="1552706825">Subversion Part 1 - Installing Subversion as your code repository for Windows users</A>
+                <DT><A HREF="http://www.visualsvn.com/server/" ADD_DATE="1552706825">VisualSVN Server | Subversion Server for Windows</A>
+                <DT><A HREF="http://dserodio.livejournal.com/11122.html" ADD_DATE="1552706825">dserodio: How to branch with Subclipse</A>
+                <DT><A HREF="https://www.projects.dev2dev.bea.com/Subversion%20Clients/How%20to%20use%20-%20Subclipse.html" ADD_DATE="1552706825">How to use the Subclipse Client</A>
+                <DT><A HREF="http://www-128.ibm.com/developerworks/java/library/j-subversion/index.html" ADD_DATE="1552706825">Introducing Subversion</A>
+                <DT><A HREF="http://subclipse.tigris.org/branch_tag.html" ADD_DATE="1552706826">subclipse: Branch/Tag Support</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706828">Maven</H3>
+            <DL><p>
+                <DT><A HREF="http://portofino.manydesigns.com/en/docs/portofino3/tutorials/using-maven-profiles-and-resource-filtering" ADD_DATE="1552706821">Using Maven profiles and resource filtering</A>
+                <DT><A HREF="http://www.petrikainulainen.net/programming/tips-and-tricks/creating-profile-specific-configuration-files-with-maven/" ADD_DATE="1552706821">Creating Profile Specific Configuration Files With Maven</A>
+                <DT><A HREF="http://codeandme.blogspot.com/2013/07/tycho-10-signing-plugins-and-executables.html" ADD_DATE="1552706821">Code &amp; Me: Tycho 10: Signing plugins and executables</A>
+                <DT><A HREF="http://agenticarus.blogspot.com/2008/09/maven2-assembly-plugin-and-jar-signing.html" ADD_DATE="1552706822">Mike&#39;s Blog: Maven2 assembly plugin and jar signing</A>
+                <DT><A HREF="http://www.programmers-pain.de/2011/02/09/maven-jarsigner-plugin-sign-multiple-jar-files/" ADD_DATE="1552706822">maven-jarsigner-plugin: sign multiple jar files « Programmers&#39; Pain</A>
+                <DT><A HREF="http://www.hascode.com/2010/04/signing-apk-with-the-maven-jar-signer-plugin/" ADD_DATE="1552706823">hasCode.com » Blog Archive » Signing APK with the Maven-Jar-Signer Plugin</A>
+                <DT><A HREF="http://www.simpligility.com/2010/07/sign-zipalign-and-to-market-to-market-with-maven/" ADD_DATE="1552706823">Sign, zipalign and to market, to market with Maven - simpligilitysimpligility</A>
+                <DT><A HREF="https://maven.apache.org/plugins/maven-jarsigner-plugin/usage.html" ADD_DATE="1552706823">Apache Maven Jarsigner Plugin – Usage</A>
+                <DT><A HREF="http://rccode.blogspot.com/2014/02/java-keystore-and-jar-signing.html" ADD_DATE="1552706823">The code that I use everyday....: Java keystore and jar signing</A>
+                <DT><A HREF="http://crunchify.com/how-to-create-build-java-project-including-all-dependencies-using-maven-maven-resources-maven-dependency-maven-jar-plugin-tutorial/" ADD_DATE="1552706824">How to Create Build Java Project including all Dependencies Using Maven? &#39;maven-resources&#39;, &#39;maven-dependency&#39; &amp; &#39;maven-jar&#39; Plugins • Crunchify</A>
+                <DT><A HREF="http://www.avajava.com/tutorials/lessons/how-do-i-build-a-jar-file-that-contains-its-dependencies.html" ADD_DATE="1552706824">How do I build a jar file that contains its dependencies? - Web Tutorials - avajava.com</A>
+                <DT><A HREF="http://www.mkyong.com/maven/create-a-fat-jar-file-maven-assembly-plugin/" ADD_DATE="1552706824">Create a fat Jar file – Maven Assembly Plugin</A>
+                <DT><A HREF="http://stackoverflow.com/questions/574594/how-can-i-create-an-executable-jar-with-dependencies-using-maven" ADD_DATE="1552706824">java - How can I create an executable JAR with dependencies using Maven? - Stack Overflow</A>
+                <DT><A HREF="http://blog.sonatype.com/2009/08/how-to-make-an-executable-jar-in-maven/" ADD_DATE="1552706825">How to make an executable jar in Maven</A>
+                <DT><A HREF="http://www.javavids.com/video/how-to-create-runnable-jar-file-with-maven.html" ADD_DATE="1552706825">How to create runnable JAR file with Maven</A>
+                <DT><A HREF="http://blog.valdaris.com/post/custom-jar/" ADD_DATE="1552706825">Adding a custom jar as a maven dependency | Segmentation Fault</A>
+                <DT><A HREF="https://caffebig.wordpress.com/2013/04/05/executable-jar-file-with-dependent-jars-using-maven/" ADD_DATE="1552706825">Executable jar file with dependent jars using Maven | Caffe Big</A>
+                <DT><A HREF="https://rishisoftwareblog.wordpress.com/2010/12/02/packaging-a-jar-with-all-dependencies-using-maven/" ADD_DATE="1552706825">Packaging a jar with all dependencies using maven | Rishi / Software</A>
+                <DT><A HREF="http://ryancompton.net/2014/05/19/sample-pomxml-to-build-scala--jar-with-dependenciesjar/" ADD_DATE="1552706826">Sample pom.xml to build Scala *-jar-with-dependencies.jar - Ryan Compton</A>
+                <DT><A HREF="http://docs.aws.amazon.com/lambda/latest/dg/java-create-jar-pkg-maven-no-ide.html" ADD_DATE="1552706826">Creating a .jar Deployment Package Using Maven without any IDE (Java) - AWS Lambda</A>
+                <DT><A HREF="https://eureka.ykyuen.info/2013/10/30/maven-package-the-jar-file-with-dependencies/" ADD_DATE="1552706826">Maven – Package the jar file with dependencies | Eureka!</A>
+                <DT><A HREF="http://etfdevlab.blogspot.com/2010/10/assembly-executable-jar-with.html" ADD_DATE="1552706826">ETF_DevLab: Assemble executable JAR with dependencies using Maven</A>
+                <DT><A HREF="http://jonathangraham.github.io/2016/01/05/Local_Jar_Dependency_With_Maven/" ADD_DATE="1552706826">Adding Local Jar Dependency in Maven</A>
+                <DT><A HREF="http://www.petrikainulainen.net/programming/tips-and-tricks/creating-a-runnable-binary-distribution-with-maven-assembly-plugin/" ADD_DATE="1552706827">Creating a Runnable Binary Distribution With Maven Assembly Plugin</A>
+                <DT><A HREF="https://portofino.manydesigns.com/en/docs/portofino3/tutorials/using-maven-profiles-and-resource-filtering" ADD_DATE="1552706827">Using Maven profiles and resource filtering</A>
+                <DT><A HREF="https://examples.javacodegeeks.com/enterprise-java/spring/loading-environment-specific-configurations-properties-spring-using-maven-profiles-xml-settings-file-example/" ADD_DATE="1552706827">Loading environment specific configurations and properties with Spring using Maven Profiles and Settings Example | Examples Java Code Geeks - 2018</A>
+                <DT><A HREF="https://javapointers.com/tutorial/maven-building-different-environments/" ADD_DATE="1552706827">Maven Building Different Environments - JavaPointers</A>
+                <DT><A HREF="https://github.com/hantsy/angularjs-springmvc-sample/blob/master/pom.xml" ADD_DATE="1552706827">angularjs-springmvc-sample/pom.xml at master · hantsy/angularjs-springmvc-sample</A>
+                <DT><A HREF="https://github.com/pkainulainen/maven-examples/blob/master/properties-filtering/pom.xml" ADD_DATE="1552706827">maven-examples/pom.xml at master · pkainulainen/maven-examples</A>
+                <DT><A HREF="http://roufid.com/3-ways-to-add-local-jar-to-maven-project/" ADD_DATE="1552706827">3 ways to add local jar to maven project - Roufid</A>
+                <DT><A HREF="https://stackoverflow.com/questions/3765903/how-to-include-local-jar-files-in-maven-project" ADD_DATE="1552706828">java - How to include local jar files in Maven project - Stack Overflow</A>
+                <DT><A HREF="https://examples.javacodegeeks.com/enterprise-java/maven/maven-jar-plugin-example/" ADD_DATE="1552706828">Maven jar plugin example | Examples Java Code Geeks - 2018</A>
+                <DT><A HREF="https://github.com/vladmihalcea/flexy-pool/blob/master/flexy-dbcp2/pom.xml" ADD_DATE="1552706828">flexy-pool/pom.xml at master · vladmihalcea/flexy-pool</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706822">Git</H3>
+            <DL><p>
+                <DT><A HREF="https://github.com/twtrubiks/Git-Tutorials/tree/master/Git-Flow" ADD_DATE="1552706821">Git-Tutorials/Git-Flow at master · twtrubiks/Git-Tutorials</A>
+                <DT><A HREF="https://blogs.endjin.com/2015/01/using-smartgit-to-follow-the-gitflow-branching-and-workflow-model/" ADD_DATE="1552706821">Using SmartGit to follow the GitFlow branching and workflow model | endjin blog</A>
+                <DT><A HREF="http://rogerdudler.github.io/git-guide/index.vi.html" ADD_DATE="1552706821">git - hướng dẫn đơn giản</A>
+                <DT><A HREF="https://yitdeveloper.wordpress.com/2014/06/12/quan-ly-code-voi-git/" ADD_DATE="1552706822">Quản lý code với git | yitdeveloper&#39;s Blog</A>
+                <DT><A HREF="https://kipalog.com/posts/Ban-da-hieu-ro-ve-git-flow-chua" ADD_DATE="1552706822">Bạn đã hiểu rõ về git flow chưa?</A>
+                <DT><A HREF="https://viblo.asia/p/tim-hieu-ve-mo-hinh-quan-ly-source-git-OeVKBgjdZkW" ADD_DATE="1552706822">Tìm hiểu về mô hình quản lý source GIT - Viblo</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706822">Project Management</H3>
+            <DL><p>
+                <DT><A HREF="https://techmaster.vn/posts/33889/cong-cu-quan-ly-du-an-tot-nhat" ADD_DATE="1552706821">Cộng cụ quản lý dự án phần mềm tốt nhất hiện nay</A>
+                <DT><A HREF="https://www.openproject.org/" ADD_DATE="1552706821">OpenProject - online project management software - free and open source</A>
+                <DT><A HREF="https://github.com/MyCollab/mycollab/tree/master/mycollab-migration/src/main/resources/db/migration" ADD_DATE="1552706821">mycollab/mycollab-migration/src/main/resources/db/migration at master · MyCollab/mycollab · GitHub</A>
+                <DT><A HREF="https://opensource.com/business/16/3/top-project-management-tools-2016?sc_cid=701600000011jJaAAI" ADD_DATE="1552706822">Top open source project management tools of 2016 | Opensource.com</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706822">Jira</H3>
+            <DL><p>
+                <DT><A HREF="https://viblo.asia/p/tim-hieu-ve-jira-mrDkMrLlvzL" ADD_DATE="1552706821">Tìm hiểu về Jira - Viblo</A>
+                <DT><A HREF="http://econet.vn/huong-dan-su-dung-jira:-lam-the-nao-de-su-dung-hieu-qua-jira-cho-viec-quan-ly-cac-du-an-agile-_63.html" ADD_DATE="1552706821">Econet</A>
+                <DT><A HREF="http://www.gocit.vn/bai-viet/atlassian-jira/" ADD_DATE="1552706821">Atlassian JIRA : Góc IT</A>
+                <DT><A HREF="https://kipalog.com/posts/Quan-ly-du-an-theo-Scrum-don-gian--tien-loi-va-tiet-kiem-voi-Github" ADD_DATE="1552706822">Quản lý dự án theo Scrum đơn giản, tiện lợi và tiết kiệm với Github</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706822">Trello</H3>
+            <DL><p>
+                <DT><A HREF="https://blog.siliconstraits.vn/trello-cong-cu-quan-ly-cong-viec/" ADD_DATE="1552706821">Trello là gì? : Blog of the Pirates</A>
+                <DT><A HREF="https://blog.siliconstraits.vn/su-dung-trello-quan-ly-project/" ADD_DATE="1552706821">SSS sử dụng Trello quản lý project thế nào? : Blog of the Pirates</A>
+                <DT><A HREF="https://toidicodedao.com/2017/05/09/quan-ly-cong-viec-kanban-trello/" ADD_DATE="1552706821">Quản lý công việc hiệu quả với Kanban và Trẻ Lô (Trello) | Từ coder đến developer – Tôi đi code dạo</A>
+                <DT><A HREF="https://dinhnn.com/2014/12/06/jira-ngy-1-cch-khi-niem-cua-jira/" ADD_DATE="1552706822">JIRA ngày #1 – Cách khái niệm của JIRA | Đỉnh NGUYỄN</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706823">exoPlatform</H3>
+            <DL><p>
+                <DT><A HREF="https://docs.exoplatform.org/public/index.jsp?topic=%2FPLF44%2FPLFUserGuide.WorkingWithTasks.html" ADD_DATE="1552706820">eXo Platform Documentation</A>
+                <DT><A HREF="https://docs.exoplatform.org/" ADD_DATE="1552706821">eXo Platform Documentation</A>
+                <DT><A HREF="https://github.com/exoplatform?page=1" ADD_DATE="1552706821">eXo Blessed Repositories · GitHub</A>
+                <DT><A HREF="http://developer.exoplatform.org/" ADD_DATE="1552706822">Welcome on developer.exoplatform.org!</A>
+                <DT><A HREF="https://www.exoplatform.com/company/community-faq" ADD_DATE="1552706822">Open source &amp; Community FAQ | eXo Platform</A>
+                <DT><A HREF="https://community.exoplatform.com/portal/intranet/" ADD_DATE="1552706823">eXo Community</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706829">Redmine</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706835">Plugins</H3>
+                <DL><p>
+                    <DT><A HREF="https://www.easyredmine.com/" ADD_DATE="1552706829">Redmine plugins, hosting, solutions - Easy Redmine</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/redmine_lightbox2" ADD_DATE="1552706829">Lightbox Plugin 2 - Plugins - Redmine</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/clipboard_image_paste" ADD_DATE="1552706830">Attach image from clipboard - Plugins - Redmine</A>
+                    <DT><A HREF="https://github.com/dhanasingh/redmine_wktime" ADD_DATE="1552706830">GitHub - dhanasingh/redmine_wktime: ERPmine is an open source free ERP for Service Industries. It runs within Redmine</A>
+                    <DT><A HREF="https://redmine.ociotec.com/projects/redmine-plugin-scrum/wiki/How_it_works" ADD_DATE="1552706831">How it works - Scrum - Redmine OCIO y TECnología</A>
+                    <DT><A HREF="https://www.redmineup.com/pages/plugins/tags" ADD_DATE="1552706831">Redmine Tags Plugin from RedmineUP</A>
+                    <DT><A HREF="http://rmplus.pro/" ADD_DATE="1552706831">«RM+» — flexible solutions development based on Redmine</A>
+                    <DT><A HREF="https://www.r-labs.org/projects" ADD_DATE="1552706831">Projects - r-labs</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/dmsf" ADD_DATE="1552706831">DMSF - Plugins - Redmine</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/scrum2b" ADD_DATE="1552706832">Scrum2B Tool - Plugins - Redmine</A>
+                    <DT><A HREF="http://automagicallyprogramming.com/post/new-redmine-plugin%C2%A0improved-road-map" ADD_DATE="1552706832">New Redmine plugin: Improved Road Map - Automagically programming</A>
+                    <DT><A HREF="https://github.com/luciof55/plus_gantt/wiki/Plus-Gantt-Overview" ADD_DATE="1552706832">Plus Gantt Overview · luciof55/plus_gantt Wiki · GitHub</A>
+                    <DT><A HREF="http://www.agiledwarf.com/?page_id=78" ADD_DATE="1552706832">Screenshots | Agile Dwarf</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/redmine_scrum_cards_plugin" ADD_DATE="1552706833">Redmine Scrum Cards - Plugins - Redmine</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/earned_value_management" ADD_DATE="1552706833">Earned Value Management - Plugins - Redmine</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/redmine_scheduling_poll" ADD_DATE="1552706833">Scheduling Poll - Plugins - Redmine</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/financialmonitoring" ADD_DATE="1552706833">Financial monitoring - Plugins - Redmine</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/mmqb" ADD_DATE="1552706833">Book Meeting Room - Plugins - Redmine</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/redmine_materials" ADD_DATE="1552706833">Redmine Materials - Plugins - Redmine</A>
+                    <DT><A HREF="https://github.com/GitDries/redmine_pipeline_plugin" ADD_DATE="1552706834">GitHub - GitDries/redmine_pipeline_plugin: Redmine Pipeline Plugin</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/redmine_hourglass" ADD_DATE="1552706834">Hourglass - Plugins - Redmine</A>
+                    <DT><A HREF="https://github.com/alperenbozkurt/redmine_users_performance" ADD_DATE="1552706834">GitHub - alperenbozkurt/redmine_users_performance: A redmine plugin that graphically shows the time entries of users.</A>
+                    <DT><A HREF="https://github.com/BlueXML/redmine_queries_management" ADD_DATE="1552706834">GitHub - BlueXML/redmine_queries_management</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/list-of-roles-members" ADD_DATE="1552706834">List of Roles Members - Plugins - Redmine</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/subtask-overview-enhanced" ADD_DATE="1552706834">Subtask Overview Enhanced - Plugins - Redmine</A>
+                    <DT><A HREF="https://github.com/savoirfairelinux/redmine-timebank" ADD_DATE="1552706834">GitHub - savoirfairelinux/redmine-timebank: Show a table with summation total of spent and estimated hours, story points, remaining and projected in version pages.</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/redmine_portfolio_management" ADD_DATE="1552706834">Redmine Portfolio Management - Plugins - Redmine</A>
+                    <DT><A HREF="https://github.com/imaginary-cloud/redmine_risk_management" ADD_DATE="1552706834">GitHub - imaginary-cloud/redmine_risk_management: Risk Management Plugin for Redmine</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/redmine_favourite_projects" ADD_DATE="1552706834">Favourite Projects - Plugins - Redmine</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/redmine_tpa" ADD_DATE="1552706834">Redmine TPA (Tags for Performance Appraisal) - Plugins - Redmine</A>
+                    <DT><A HREF="https://github.com/dr-itz/redmine_workflow_enhancements" ADD_DATE="1552706834">GitHub - dr-itz/redmine_workflow_enhancements: Redmine workflow enhancements</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/leave_management_system" ADD_DATE="1552706834">Leave Management System - Plugins - Redmine</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/redmine_pusher_notifications" ADD_DATE="1552706834">Redmine Pusher Notifications - Plugins - Redmine</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/redmine_issues_tree" ADD_DATE="1552706835">Redmine Issues Tree - Plugins - Redmine</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/advanced_roadmap_v2" ADD_DATE="1552706835">Advanced Roadmap v2 - Plugins - Redmine</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/redmine_percent_done" ADD_DATE="1552706835">Issue Done Ratio Plugin - Plugins - Redmine</A>
+                    <DT><A HREF="https://github.com/braini75" ADD_DATE="1552706835">braini75 (Thomas K.) · GitHub</A>
+                    <DT><A HREF="https://github.com/alphanodes/redmine_rate" ADD_DATE="1552706835">GitHub - AlphaNodes/redmine_rate: The Rate plugin provides an API that can be used to find the rate for a Member of a Project at a specific date. It also stores historical rate data so calculations will remain correct in the future.</A>
+                    <DT><A HREF="https://github.com/centosadmin/redmine_recurring_tasks" ADD_DATE="1552706835">GitHub - centosadmin/redmine_recurring_tasks: Plugin for creating scheduled tasks from templates</A>
+                    <DT><A HREF="https://github.com/momibun926?tab=repositories" ADD_DATE="1552706835">momibun926 (Hajime Nakagama) / Repositories · GitHub</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/subtask_list_columns" ADD_DATE="1552706835">Subtask list columns - Plugins - Redmine</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/redhopper" ADD_DATE="1552706835">Redhopper - Plugins - Redmine</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/redmine_vote_plugin" ADD_DATE="1552706835">Redmine Vote - Plugins - Redmine</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/issue_charts" ADD_DATE="1552706835">Issue Charts - Plugins - Redmine</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/redmine_xlsx_format_issue_exporter" ADD_DATE="1552706835">Redmine XLSX format issue exporter - Plugins - Redmine</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/progressive-projects-list" ADD_DATE="1552706835">Progressive Projects List - Plugins - Redmine</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/spent_time_in_issue_description" ADD_DATE="1552706835">Spent Time In Issue Description - Plugins - Redmine</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/redmine_knowledgebase" ADD_DATE="1552706835">Knowledgebase - Plugins - Redmine</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/scrum-plugin" ADD_DATE="1552706835">Scrum - Plugins - Redmine</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/redmine_subtask_list_accordion" ADD_DATE="1552706835">Redmine Subtask List Accordion - Plugins - Redmine</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/redmine_issue_dynamic_edit" ADD_DATE="1552706835">Redmine Issue Dynamic Edit - Plugins - Redmine</A>
+                    <DT><A HREF="https://github.com/GEROMAX/redmine_editor_preview_tab/releases" ADD_DATE="1552706835">Releases · GEROMAX/redmine_editor_preview_tab · GitHub</A>
+                    <DT><A HREF="https://github.com/benoitlm/Redmine-Monitoring-Controlling" ADD_DATE="1552706835">benoitlm/Redmine-Monitoring-Controlling: Redmine Plugin that works with Highcharts to show tasks on project throught Charts.</A>
+                    <DT><A HREF="https://github.com/tleish/redmine_jstoolbar_ext" ADD_DATE="1552706835">tleish/redmine_jstoolbar_ext: The Redmine jsToolbar Extension is the base library for adding additional functionality to the [Redmine](http://www.redmine.org/) wiki and text editor toolbar.</A>
+                    <DT><A HREF="http://www.redmine.org/plugins/quick_view" ADD_DATE="1552706835">Quick View - Plugins - Redmine</A>
+                    <DT><A HREF="https://github.com/annikoff/redmine_plugin_computed_custom_field" ADD_DATE="1552706835">annikoff/redmine_plugin_computed_custom_field: Computed Custom Field for Redmine</A>
+                    <DT><A HREF="http://www.adhisoftware.co.in/products/erpmine/resources/" ADD_DATE="1552706835">Resources – Adhi Software</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706834">Redmine Apache</H3>
+                <DL><p>
+                    <DT><A HREF="http://nlb-creations.com/2013/06/26/installing-ruby-on-rails-and-redmine-with-xampp-on-windows-7/" ADD_DATE="1552706829">Installing Ruby on Rails and Redmine with XAMPP on Windows 7 - NLB Creations NLB Creations</A>
+                    <DT><A HREF="http://www.benkirane.ch/deployment-rails-4-app-windows/" ADD_DATE="1552706829">Deploying Rails 4 App on Windows</A>
+                    <DT><A HREF="https://www.speedshop.co/2015/07/29/scaling-ruby-apps-to-1000-rpm.html" ADD_DATE="1552706830">Scaling Ruby Apps to 1000 Requests per Minute - A Beginner&#39;s Guide</A>
+                    <DT><A HREF="https://www.learnwithdaniel.com/2015/01/apache-puma-via-reverse-proxy/" ADD_DATE="1552706830">Rails Server with Apache and Puma</A>
+                    <DT><A HREF="https://serverfault.com/questions/534515/apache-load-balancing-proxy-bypass-not-working" ADD_DATE="1552706831">Apache Load Balancing Proxy bypass not working - Server Fault</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/29400076/rails-puma-with-apache-httpd-proxy" ADD_DATE="1552706831">Rails/Puma with Apache HTTPD proxy? - Stack Overflow</A>
+                    <DT><A HREF="http://geoserver.geo-solutions.it/edu/en/clustering/load_balancing/apache_http.html" ADD_DATE="1552706831">Load Balancer Setup with Apache HTTP — GeoServer Training</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/8095070/rails-on-apache-on-windows-howto" ADD_DATE="1552706831">Rails on Apache on Windows - HOWTO - Stack Overflow</A>
+                    <DT><A HREF="http://grapethinking.com/getting-rails-to-work-on-a-windows-machine-running-xampp" ADD_DATE="1552706832">Install Xampp and Rails on a Windows Machine</A>
+                    <DT><A HREF="https://www.digitalocean.com/community/tutorials/how-to-use-apache-as-a-reverse-proxy-with-mod_proxy-on-centos-7" ADD_DATE="1552706832">How To Use Apache as a Reverse Proxy with mod_proxy on CentOS 7 | DigitalOcean</A>
+                    <DT><A HREF="https://geekflare.com/tomcat-load-balancer-using-mod-proxy-and-session-sticky/" ADD_DATE="1552706832">Tomcat Load Balancer with Apache using Mod Proxy and Session Sticky</A>
+                    <DT><A HREF="https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-passenger-and-apache-on-ubuntu-14-04" ADD_DATE="1552706832">How To Deploy a Rails App with Passenger and Apache on Ubuntu 14.04 | DigitalOcean</A>
+                    <DT><A HREF="https://httpd.apache.org/docs/2.4/mod/mod_proxy_balancer.html" ADD_DATE="1552706832">mod_proxy_balancer - Apache HTTP Server Version 2.4</A>
+                    <DT><A HREF="https://httpd.apache.org/docs/2.4/howto/reverse_proxy.html" ADD_DATE="1552706833">Reverse Proxy Guide - Apache HTTP Server Version 2.4</A>
+                    <DT><A HREF="http://www.hvaonline.net/hvaonline/readingRoom/item/120712.hva" ADD_DATE="1552706833">- .:: HVAOnline ::.</A>
+                    <DT><A HREF="https://www.ntu.edu.sg/home/ehchua/programming/howto/Apache_HowToConfigure.html" ADD_DATE="1552706833">How to configure Apache 2</A>
+                    <DT><A HREF="https://devops.profitbricks.com/tutorials/how-to-set-up-ip-and-port-based-virtual-hosting-vhosts-with-apache-web-server-on-centos-7/" ADD_DATE="1552706833">How to Set Up IP and Port-Based Virtual Hosting (Vhosts) With Apache Web Server on CentOS 7 | ProfitBricks DevOps Central</A>
+                    <DT><A HREF="https://www.tecmint.com/apache-ip-based-and-name-based-virtual-hosting/" ADD_DATE="1552706833">Apache Virtual Hosting: IP Based and Name Based Virtual Hosts in RHEL/CentOS/Fedora</A>
+                    <DT><A HREF="https://geekflare.com/multiple-domains-on-one-server-with-apache-nginx/" ADD_DATE="1552706833">Host Multiple Domains on One Server/IP with Apache or nginx</A>
+                    <DT><A HREF="https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts" ADD_DATE="1552706833">How To Set Up Apache Virtual Hosts on Ubuntu 14.04 LTS | DigitalOcean</A>
+                    <DT><A HREF="http://www.itinfo.am/eng/information-technology-infrastructure-library-guide/" ADD_DATE="1552706834">Information Technology Infrastructure Library (ITIL) Guide</A>
+                    <DT><A HREF="https://www.atlassian.com/it-unplugged/itsm" ADD_DATE="1552706834">ITSM - IT Service Management | Atlassian</A>
+                    <DT><A HREF="https://www.mitre.org/publications/systems-engineering-guide/enterprise-engineering/enterprise-technology-information-and-infrastructure/it-service-management" ADD_DATE="1552706834">IT Service Management | The MITRE Corporation</A>
+                    <DT><A HREF="https://its.ucsc.edu/itsm/servicemgmt.html" ADD_DATE="1552706834">ITS Service Management: Key Elements</A>
+                </DL><p>
+                <DT><A HREF="http://www.redmine.org/projects/redmine/wiki/HowTo_Install_Redmine_in_a_sub-URI_on_Windows_with_Apache#Install-Rails" ADD_DATE="1552706821">HowTo Install Redmine in a sub-URI on Windows with Apache - Redmine</A>
+                <DT><A HREF="https://codingtrabla.blogspot.com/2017/02/install-redmine-332-on-windows-7-x64.html" ADD_DATE="1552706822">codingtrabla: Install Redmine 3.3.2 on Windows 7 x64 via Bitnami installer</A>
+                <DT><A HREF="https://www.easyredmine.com/redmine-install/?utm_campaign=viet-local-all-group-0003&gclid=Cj0KCQjw3MPNBRDjARIsAOYU6x_dwT1bzjkABUcAVbM7LVpdQ3mszMim1Mhlmg2eEbFG4L2oXbHQOIAaAld_EALw_wcB" ADD_DATE="1552706822">Redmine Install and Upgrade - Easy Redmine</A>
+                <DT><A HREF="http://www.redmine.org/projects/redmine/wiki/Features" ADD_DATE="1552706823">Features - Redmine</A>
+                <DT><A HREF="http://www.redmine.org/projects/redmine/wiki/RedmineInstall" ADD_DATE="1552706823">RedmineInstall - Redmine</A>
+                <DT><A HREF="http://www.redmine.org/projects/redmine/wiki/Plugin_Tutorial" ADD_DATE="1552706823">Plugin Tutorial - Redmine</A>
+                <DT><A HREF="https://www.easyredmine.com/resources/installation/custom-installation?utm_source=mautic&utm_medium=e-mail&utm_campaign=firstInstall" ADD_DATE="1552706823">Custom Installation - Easy Redmine</A>
+                <DT><A HREF="https://www.easyredmine.com/resources/installation/virtualbox?utm_source=mautic&utm_medium=e-mail&utm_campaign=firstInstall" ADD_DATE="1552706824">VirtualBox - Easy Redmine</A>
+                <DT><A HREF="https://www.youtube.com/watch?v=VKiKED6ZXEc" ADD_DATE="1552706824">cai redmine tren ubuntu - YouTube</A>
+                <DT><A HREF="https://quantumwarp.com/kb/articles/89-redmine/515-install-redmine-on-windows" ADD_DATE="1552706824">Install Redmine on Windows | QuantumWarp</A>
+                <DT><A HREF="https://habrahabr.ru/post/250141/" ADD_DATE="1552706825">Установка Redmine на Windows 7 в виде службы, с базой данных sqlite3 / Хабрахабр</A>
+                <DT><A HREF="https://www.howtoforge.com/tutorial/how-to-install-redmine-3-with-nginx-on-centos-7/" ADD_DATE="1552706825">How to Install Redmine 3 with Nginx on CentOS 7</A>
+                <DT><A HREF="https://stackoverflow.com/questions/29368332/failed-to-load-libmysql-dll-file-using-ruby-on-rails-3" ADD_DATE="1552706825">mysql - Failed to load libmysql.dll file using Ruby on Rails 3 - Stack Overflow</A>
+                <DT><A HREF="https://www.richardnichols.net/2009/09/1-minute-guide-installing-redmine-on-windows/" ADD_DATE="1552706825">1 Minute Guide - Installing Redmine on Windows</A>
+                <DT><A HREF="http://vanuan.github.io/2010/11/14/install-redmine-on-windows-with-sqlite.html" ADD_DATE="1552706825">Install redmine on Windows with sqlite – VansLog</A>
+                <DT><A HREF="https://lookdit.wordpress.com/2014/08/27/installing-redmine-in-windows/" ADD_DATE="1552706826">Installing Redmine in Windows | Articles in Software Developments</A>
+                <DT><A HREF="https://www.javierrguez.com/en/install-xampp-redmine-march-2/" ADD_DATE="1552706826">Installing Redmine 3.2 on Xampp - Blog of Javier Rguez</A>
+                <DT><A HREF="http://www.rvaidya.com/blog/ruby/2009/09/15/step-by-step-quick-installation-of-redmine-svn-on-windows/" ADD_DATE="1552706826">Step-by-step quick installation of Redmine + SVN on Windows | Rahul Vaidya&#39;s Blog</A>
+                <DT><A HREF="http://rpouiller.developpez.com/tutoriels/alm/installation-gestionnaire-projets-redmine-sous-windows/" ADD_DATE="1552706826">Installation du gestionnaire de projets Redmine sous Windows</A>
+                <DT><A HREF="https://github.com/rmagick/rmagick/wiki/Installing-on-Windows" ADD_DATE="1552706826">Installing on Windows · rmagick/rmagick Wiki · GitHub</A>
+                <DT><A HREF="http://codeofalice.com/code/installing-rmagick-on-windows-7/" ADD_DATE="1552706826">Installing RMagick on Windows 7 – Coding with Bunnies</A>
+                <DT><A HREF="https://viblo.asia/p/nhung-luu-y-quan-ly-issue-trong-redmine-DZrGNNOjGVB" ADD_DATE="1552706826">Những lưu ý quản lý issue trong redmine - Viblo</A>
+                <DT><A HREF="http://www.gocit.vn/bai-viet/huong-dan-cai-redmine/" ADD_DATE="1552706827">Hướng dẫn cài Redmine : Góc IT</A>
+                <DT><A HREF="http://www.redmine.org/boards/2/topics/2768" ADD_DATE="1552706827">How To Install Redmine in your home directory using SQLITE3 - Redmine</A>
+                <DT><A HREF="http://www.redmine.org/boards/1/topics/4273" ADD_DATE="1552706827">Install Redmine on Windows (XP / 2003) with sqlite ? - Redmine</A>
+                <DT><A HREF="https://viblo.asia/p/cai-dat-redmine-tren-centos-aWj53VBol6m" ADD_DATE="1552706827">Cài đặt redmine trên Centos - Viblo</A>
+                <DT><A HREF="http://www.redmine.org/boards/2/topics/11055" ADD_DATE="1552706827">HELP: how to uninstall a wrong installed plugin - Redmine</A>
+                <DT><A HREF="http://www.mylinuxguide.com/installing-and-uninstalling-redmine-plugins/" ADD_DATE="1552706827">Installing and uninstalling redmine plugins | Linux Tutorials for roots !</A>
+                <DT><A HREF="https://www.javierrguez.com/wp-content/uploads/diagrama-entidad-relacion-redmine-3-1-1.png" ADD_DATE="1552706827">diagrama-entidad-relacion-redmine-3-1-1.png (2310×2124)</A>
+                <DT><A HREF="http://www.redmine.org/projects/redmine/wiki/PluginTimesheet" ADD_DATE="1552706828">PluginTimesheet - Redmine</A>
+                <DT><A HREF="http://theadmin.org/files/2011/04/models.png" ADD_DATE="1552706828">models.png (3545×2200)</A>
+                <DT><A HREF="http://techwatch.keeward.com/geeks-and-nerds/redmine-step-by-step-installation-on-ubuntu/" ADD_DATE="1552706828">Redmine step-by-step installation on Ubuntu | Keeward’s TechWatch blog</A>
+                <DT><A HREF="https://www.devbattles.com/en/sand/post-3356-Installation_Redmine_to_Ubuntu_1404" ADD_DATE="1552706828">​Installation Redmine to Ubuntu 14.04</A>
+                <DT><A HREF="https://superuser.com/questions/376027/redmine-install-on-centos" ADD_DATE="1552706828">Redmine install on CentOs - Super User</A>
+                <DT><A HREF="http://www.aalasolutions.com/blog/tag/redmine" ADD_DATE="1552706828">redmine | AA&#39;LA Solutions&#39; Blog</A>
+                <DT><A HREF="http://www.redmine.org/projects/redmine/wiki/EmailConfiguration" ADD_DATE="1552706828">EmailConfiguration - Redmine</A>
+                <DT><A HREF="http://www.redminecookbook.com/BlogPosts/index/page:3" ADD_DATE="1552706828">Blog</A>
+                <DT><A HREF="https://simonecarletti.com/blog/2009/07/configuring-git-repository-with-redmine/" ADD_DATE="1552706828">Configuring a Git repository with Redmine — Simone Carletti</A>
+                <DT><A HREF="https://kartar.net/2011/05/github-and-redmine-integration/" ADD_DATE="1552706828">GitHub and Redmine integration –</A>
+                <DT><A HREF="https://viblo.asia/p/cai-dat-redmine-su-dung-web-server-nginx-tren-centos-7-RQqKLnRrl7z" ADD_DATE="1552706828">Cài đặt Redmine sử dụng web server Nginx trên Centos 7 - Viblo</A>
+                <DT><A HREF="https://www.howtoforge.com/tutorial/how-to-install-redmine-with-nginx-on-ubuntu/" ADD_DATE="1552706828">How to Install Redmine 3.2 with Nginx on Ubuntu 16.04</A>
+                <DT><A HREF="https://docs.bitnami.com/installer/apps/redmine/" ADD_DATE="1552706828">Bitnami Redmine Installer</A>
+                <DT><A HREF="http://ruby-journal.com/how-to-setup-rails-app-with-puma-and-nginx/" ADD_DATE="1552706828">How to setup Rails app with puma and NGINX - Ruby Journal</A>
+                <DT><A HREF="http://mintuz.com/2013/07/28/nginx-reverse-proxy-with-apache-2-and-puma/" ADD_DATE="1552706828">Nginx Reverse Proxy with Apache 2 and PumaMintuz</A>
+                <DT><A HREF="https://erudinsky.com/2017/05/15/how-to-run-rails-app-with-postgres-puma-and-nginx-in-docker" ADD_DATE="1552706828">How to run Rails app with Postgres, Puma and Nginx in docker</A>
+                <DT><A HREF="https://gist.github.com/rkjha/d898e225266f6bbe75d8" ADD_DATE="1552706828">Nginx config for rails 4 application using puma [ssl and non-ssl version]</A>
+                <DT><A HREF="http://igotablog.com/using-puma-with-nginx/" ADD_DATE="1552706828">Using Puma with NGINX</A>
+                <DT><A HREF="https://github.com/hicknhack-software/rails-disco/wiki/Installing-puma-on-windows" ADD_DATE="1552706828">Installing puma on windows · hicknhack-software/rails-disco Wiki</A>
+                <DT><A HREF="https://www.server-world.info/en/note?os=CentOS_7&p=redmine" ADD_DATE="1552706829">CentOS 7 : Install Redmine : Server World</A>
+                <DT><A HREF="http://www.redmine.org/projects/redmine/wiki/How_to_Install_Redmine_on_CentOS_(Detailed)" ADD_DATE="1552706829">How to Install Redmine on CentOS (Detailed) - Redmine</A>
+                <DT><A HREF="http://www.techprimelab.com/blogs/how-to-install-redmine-version-3-1-1-on-apache-centos-7" ADD_DATE="1552706829">How to install Redmine (version 3.1.1) on Apache – CentOS 7</A>
+                <DT><A HREF="https://www.howtoforge.com/tutorial/how-to-install-redmine-3-with-nginx-on-ubuntu-15-10/" ADD_DATE="1552706829">How to Install Redmine 3 with Nginx on Ubuntu 15.10</A>
+                <DT><A HREF="https://gitlab.inria.fr/sgilles/homepage/wikis/set-up-a-redmine-on-a-centos-7" ADD_DATE="1552706829">Set up a redmine on a centos 7 · Wiki · GILLES Sebastien / Home page · GitLab</A>
+                <DT><A HREF="https://hostpresto.com/community/tutorials/how-to-install-redmine-3-on-centos-7/" ADD_DATE="1552706829">How to Install Redmine 3 on CentOS 7</A>
+                <DT><A HREF="https://www.codementor.io/aak483/redmine-centos-7-9smavfuty" ADD_DATE="1552706829">Redmine / CentOS 7 | Codementor</A>
+                <DT><A HREF="https://www.unixmen.com/install-redmine-3-centos-7-nginx-web-server/" ADD_DATE="1552706829">Install Redmine 3 on CentOS 7 with Nginx as web server</A>
+                <DT><A HREF="https://www.linkedin.com/pulse/how-install-redmine-version-311-apache-centos-7-umesh-potbhare" ADD_DATE="1552706829">How to install Redmine (version 3.1.1) on Apache – CentOS 7 | Umesh Potbhare | Pulse | LinkedIn</A>
+                <DT><A HREF="https://acpaneltech.com/how-to-install-redmine-in-centos7/" ADD_DATE="1552706829">How to install redmine in CentOS7 | cPanelTech</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706827">Digital Banking</H3>
+            <DL><p>
+                <DT><A HREF="https://architecture-framework.weebly.com/banking" ADD_DATE="1552706821">ARCHITECTURE-FRAMEWORK - ARCHITECTURE-FRAMEWORK</A>
+                <DT><A HREF="http://www.icommercecentral.com/open-access/a-secured-hybrid-architecture-model-for-internet-banking-ebanking.php?aid=38297" ADD_DATE="1552706821">A Secured Hybrid Architecture Model for Internet Banking (e-Banking) | Open Access Journals</A>
+                <DT><A HREF="https://creately.com/diagram/example/gtagd1y41/diagram-products" ADD_DATE="1552706821">Interent Banking | Editable Diagram Template on Creately</A>
+                <DT><A HREF="http://www.dell.com/content/topics/global.aspx/power/en/ps2q01_woolwich?c=us&l=en" ADD_DATE="1552706822">Building a Scalable Online Banking Environment at the Woolwich | Dell</A>
+                <DT><A HREF="https://microservices.io/patterns/microservices.html" ADD_DATE="1552706822">Microservice Architecture pattern</A>
+                <DT><A HREF="http://collagenrestores.com/class-diagram-for-online-banking-picture/er-diagram-of-online-banking-system-architect-cad-software-3/" ADD_DATE="1552706822">Diagrams Er Diagram Of Online Banking System Architect Cad Software Class Diagram For Online Banking Picture - Wiring Diagram - Everything You Need to Know About Wiring Diagram Just another WordPress site</A>
+                <DT><A HREF="http://collagenrestores.com/class-diagram-for-online-banking-picture/a-secured-hybrid-architecture-model-for-internet-banking-e/" ADD_DATE="1552706823">Diagrams A Secured Hybrid Architecture Model For Internet Banking (e ... Class Diagram For Online Banking Picture - Wiring Diagram - Everything You Need to Know About Wiring Diagram Just another WordPress site</A>
+                <DT><A HREF="http://collagenrestores.com/class-diagram-for-online-banking-system-photo/use-case-diagram-banking-system-software-use-case-diagram-2/" ADD_DATE="1552706823">Diagrams Use Case Diagram Banking System Software Use Case Diagram Class Diagram For Online Banking System Photo - Wiring Diagram - Everything You Need to Know About Wiring Diagram Just another WordPress site</A>
+                <DT><A HREF="https://docs.microsoft.com/en-us/azure/iot-fundamentals/iot-security-architecture" ADD_DATE="1552706823">IoT Security Architecture | Microsoft Docs</A>
+                <DT><A HREF="https://tobecomeanarchitect.wordpress.com/2012/08/06/uml/online-banking-system/" ADD_DATE="1552706824">Online Banking System | How to become an Architect</A>
+                <DT><A HREF="https://www.sciencedirect.com/science/article/pii/S111001681200018X" ADD_DATE="1552706824">A model to authenticate requests for online banking transactions - ScienceDirect</A>
+                <DT><A HREF="http://www.ignify.com/Ignify-eCommerce-Technical-Architecture.asp" ADD_DATE="1552706824">Ignify eCommerce Technical Architecture</A>
+                <DT><A HREF="http://pinnacleeventswnc.com/use-case-to-activity-diagram/use-case-to-activity-diagram-pretty-god-s-gift-internet-banking-system-use-case-diagram/" ADD_DATE="1552706824">Use Case to Activity Diagram Pretty God S Gift Internet Banking System Use Case Diagram – wiring diagram</A>
+                <DT><A HREF="http://www.w2b.ru/OnlineBanking/W2Bank_eng.htm" ADD_DATE="1552706825">www.w2b.ru/OnlineBanking/W2Bank_eng.htm</A>
+                <DT><A HREF="https://www.researchgate.net/figure/Sequence-Diagram-of-Cheque-Services_fig3_45919149" ADD_DATE="1552706825">Sequence Diagram of “Cheque Services”  | Download Scientific Diagram</A>
+                <DT><A HREF="https://www.elastic.co/blog/psd2-architectures-with-the-elastic-stack" ADD_DATE="1552706825">PSD2: Modern Banking API Architectures with the Elastic Stack | Elastic</A>
+                <DT><A HREF="https://www.infoq.com/articles/C4-architecture-model" ADD_DATE="1552706825">The C4 Model for Software Architecture</A>
+                <DT><A HREF="https://c4model.com/" ADD_DATE="1552706825">The C4 model for software architecture</A>
+                <DT><A HREF="https://github.com/OpenBankProject/OBP-API/wiki/Open-Bank-Project-Architecture" ADD_DATE="1552706826">Open Bank Project Architecture · OpenBankProject/OBP-API Wiki</A>
+                <DT><A HREF="https://aws.amazon.com/architecture/" ADD_DATE="1552706826">AWS Architecture Center</A>
+                <DT><A HREF="https://github.com/aws-samples/lambda-refarch-image-moderation-chatbot" ADD_DATE="1552706826">aws-samples/lambda-refarch-image-moderation-chatbot: The Image Moderator Chatbot serverless reference architecture demonstrates how to leverage Amazon Rekognition&#39;s image moderation deep learning feature to automatically remove messages containing explicit or suggestive images from channels of popular chat apps using Amazon API Gateway, AWS Lambda, and Amazon Rekognition.</A>
+                <DT><A HREF="https://github.com/aws-samples/aws-refarch-drupal" ADD_DATE="1552706826">aws-samples/aws-refarch-drupal: This reference architecture provides best practices and a set of YAML CloudFormation templates for deploying Drupal on AWS.</A>
+                <DT><A HREF="https://github.com/aws-samples/aws-refarch-wordpress" ADD_DATE="1552706826">aws-samples/aws-refarch-wordpress: This reference architecture provides best practices and a set of YAML CloudFormation templates for deploying WordPress on AWS.</A>
+                <DT><A HREF="https://github.com/aws-quickstart/quickstart-magento" ADD_DATE="1552706827">aws-quickstart/quickstart-magento: AWS Quick Start Team</A>
+                <DT><A HREF="https://www.portfolioplus.com/banking_software/web_banking_software.htm" ADD_DATE="1552706827">Web Banking Software, Online Banking Software</A>
+                <DT><A HREF="https://dzone.com/articles/top-5-microservices-architecture-and-design-best-p" ADD_DATE="1552706827">Top 5+ Microservices Architecture and Design Best Practices - DZone Microservices</A>
+                <DT><A HREF="https://www.bdb.ai/big-Data-Pipeline" ADD_DATE="1552706827">BDB Solutions For Big Data Pipeline</A>
+                <DT><A HREF="https://medium.com/abn-amro-developer/abn-amros-data-integration-architecture-f33506a211c3" ADD_DATE="1552706827">ABN AMRO’s Data Integration Architecture – ABN AMRO Developer Blog – Medium</A>
+                <DT><A HREF="https://azure.microsoft.com/tr-tr/blog/design-patterns-for-microservices/" ADD_DATE="1552706827">Design patterns for microservices | Blog | Microsoft Azure</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1553575051">Tunning performance</H3>
+            <DL><p>
+                <DT><A HREF="https://topdev.vn/blog/speed-up-microservices-3-export-du-lieu-ra-excel/?fbclid=IwAR3ANbUtQTIZYe3l5zu7W0TW2Bc81akDdBSrKvKs4axZMaH5HHkhp6k6C50" ADD_DATE="1552706821">Speed up Microservices 3: Export dữ liệu ra Excel | TopDev</A>
+                <DT><A HREF="https://topdev.vn/blog/speed-up-microservices-2-tan-dung-trinh-duyet-va-cache/" ADD_DATE="1552706821">Speed up Microservices 2: Tận dụng trình duyệt và cache | TopDev</A>
+                <DT><A HREF="https://topdev.vn/blog/microserices-la-gi/" ADD_DATE="1552706821">Speed up Microservices 1: Tác dụng phụ và một số chiến lược cơ bản | TopDev</A>
+                <DT><A HREF="http://bloghoctap.com/technology/web-scalability-101-database-va-microservices.html" ADD_DATE="1552706822">Web Scalability 101: Database và Microservices | Blog Hoc Tap</A>
+                <DT><A HREF="http://bloghoctap.com/web-programming/database-denormalization.html" ADD_DATE="1552706822">Database Denormalization | Blog Hoc Tap</A>
+                <DT><A HREF="http://bloghoctap.com/web-programming/luu-du-lieu-da-ngon-ngu-trong-database.html" ADD_DATE="1552706823">Lưu dữ liệu đa ngôn ngữ trong Database | Blog Hoc Tap</A>
+                <DT><A HREF="https://viblo.asia/p/top-12-cong-cu-mien-phi-de-test-performance-tren-website-4dbZNwNglYM" ADD_DATE="1553575051">Top 12 công cụ miễn phí để test performance trên website - Viblo</A>
+                <DT><A HREF="https://viblo.asia/p/tang-toc-website-voi-nginx-va-mod-pagespeed-bJzKmGorl9N" ADD_DATE="1553575051">Tắng tốc website với Nginx và mod_pagespeed - Viblo</A>
+                <DT><A HREF="https://viblo.asia/p/mot-so-truy-van-huu-ich-trong-mysql-924lJEjbZPM" ADD_DATE="1553575051">Một số truy vấn hữu ích trong MySQL - Viblo</A>
+            </DL><p>
+            <DT><A HREF="https://grandcentral.cloudbees.com/account/settings" ADD_DATE="1552706820">CloudBees - Account Settings</A>
+            <DT><A HREF="https://app.cloudforge.com/dashboard" ADD_DATE="1552706820">CloudForge: Dashboard</A>
+            <DT><A HREF="http://www.opensourceprojectmanagement.org/" ADD_DATE="1552706820">Open Source Project Management Software Tools</A>
+        </DL><p>
+        <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706820">Collection</H3>
+        <DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706827">Software</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706831">Gmail</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.echip.com.vn/echiproot/weblh/sdpm/99/net/yahoooe/yahoooe.htm" ADD_DATE="1552706829">Yahoo va Outllok Express</A>
+                    <DT><A HREF="http://tintuc.vnn.vn/forum/viewmessages.cfm?m=66492" ADD_DATE="1552706830">VDC-VNN Forum</A>
+                    <DT><A HREF="http://www.echip.com.vn/echiproot/html/2004/so151/gmailtuyetvoi.html" ADD_DATE="1552706830">Echip - Tuan tin cong nghe thong tin - Vien thong VASC</A>
+                    <DT><A HREF="http://gmail.google.com/support/bin/answer.py?answer=13276&useful=1&show_useful=1" ADD_DATE="1552706830">Gmail: Help Center - Configuring your email client: Outlook Express and Outlook 2002 (Windows only)</A>
+                    <DT><A HREF="http://mail.google.com/support/bin/answer.py?answer=38343" ADD_DATE="1552706830">Gmail: Help Center - Configuring your email client: Thunderbird 1.5</A>
+                    <DT><A HREF="http://kb.mozillazine.org/Using_Gmail_with_Thunderbird_and_Mozilla_Suite" ADD_DATE="1552706831">Using Gmail with Thunderbird and Mozilla Suite - MozillaZine Knowledge Base</A>
+                    <DT><A HREF="http://gmail.google.com/support/bin/topic.py?topic=1555" ADD_DATE="1552706831">Gmail: Help Center</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706831">May tinh</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.dantri.com.vn/cong-nghe/2007/9/196148.vip" ADD_DATE="1552706829">Sao lưu và ghi đĩa một cách đơn giản với ImgBurn - Sao luu va ghi dia mot cach don gian voi ImgBurn - Dân trí điện tử Dantri.com.vn</A>
+                    <DT><A HREF="http://www.dantri.com.vn/cong-nghe/2007/9/196338.vip" ADD_DATE="1552706829">Để không là &quot;gà&quot; khi mua laptop - De khong la &quot;ga&quot; khi mua laptop - Dân trí điện tử Dantri.com.vn</A>
+                    <DT><A HREF="http://pcsupport.about.com/od/commandlinereference/a/run-commands-windows-7.htm" ADD_DATE="1552706830">Run Commands in Windows 7</A>
+                    <DT><A HREF="http://technet.microsoft.com/en-us/library/cc754081.aspx" ADD_DATE="1552706830">Open Device Manager</A>
+                    <DT><A HREF="https://www.tinhte.vn/threads/cach-kiem-tra-check-may-galaxy-note-3-s4-xach-tay.2252065/" ADD_DATE="1552706831">Cách kiểm tra, check máy Galaxy Note 3/S4 xách tay | Tinhte.vn</A>
+                    <DT><A HREF="https://www.tinhte.vn/threads/phan-tich-galaxy-note-3-scl22-va-sc-01f-nhat-co-dang-mua.2327052/" ADD_DATE="1552706831">Phân Tích Galaxy Note 3 SCL22 và SC-01F Nhật có đáng mua ? | Tinhte.vn</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706834">Ebook</H3>
+                <DL><p>
+                    <DT><A HREF="http://books4java.blogspot.com/" ADD_DATE="1552706829">Free Downloadable Java,J2EE,Struts,XML EBooks</A>
+                    <DT><A HREF="http://www.ebooks-space.com/" ADD_DATE="1552706830">FREE Download eBooks » Online eBooks Free download site PDF-CHM</A>
+                    <DT><A HREF="http://ebooks-library.blogspot.com/" ADD_DATE="1552706830">eBooks Library for download free</A>
+                    <DT><A HREF="http://many-ebooks.blogspot.com/" ADD_DATE="1552706830">Many Ebooks FREE Download Website</A>
+                    <DT><A HREF="http://ebook-free.blog.com/" ADD_DATE="1552706830">EBOOK FREE Download in PDF-CHM files</A>
+                    <DT><A HREF="http://ebookw.net/ebook/computersit/page/4/" ADD_DATE="1552706831">Computers &amp; IT » Free Download Ebooks - Share For All</A>
+                    <DT><A HREF="http://forum.megasharesvn.com/forumdisplay.php?s=73760b788c892dcb2eca075179e23baf&f=127" ADD_DATE="1552706831">Computer - IT Ebook - MegaSharesVn.com</A>
+                    <DT><A HREF="http://www.wowebook.be/#" ADD_DATE="1552706831">Home | Wow! eBook - Blog</A>
+                    <DT><A HREF="http://www.izwebz.com/design-usability/huong-dan-dung-sublime-text-2/" ADD_DATE="1552706832">Hướng dẫn dùng Sublime text 2 | Học thiết kế web theo chuẩn.</A>
+                    <DT><A HREF="http://www.ebook3000.com/" ADD_DATE="1552706832">Free eBooks Download - ebook3000.com</A>
+                    <DT><A HREF="http://ebookee.org/Mastering-Web-Application-Development-with-AngularJS_2474056.html" ADD_DATE="1552706832">Mastering Web Application Development with AngularJS | Free eBooks Download - EBOOKEE!</A>
+                    <DT><A HREF="http://bora-ebooks.com/index.php?do=search" ADD_DATE="1552706832">Site search » Free download ebooks</A>
+                    <DT><A HREF="http://smtebooks.com/Category/programming-it?page=18" ADD_DATE="1552706833">Programming &amp; IT - Ebooks Download</A>
+                    <DT><A HREF="http://premiumleech.eu/generate-premium-link" ADD_DATE="1552706833">PremiumLeech.eu - Premium Link Generator</A>
+                    <DT><A HREF="http://hungryleech.com/?utm_source=PL&utm_medium=limit&utm_campaign=PL&utm_term=&utm_content=PL" ADD_DATE="1552706833">HungryLeech.com - Premium Link Generator</A>
+                    <DT><A HREF="http://leech.ninja/generate-premium-link" ADD_DATE="1552706833">Leech.Ninja - Premium Link Generator</A>
+                    <DT><A HREF="http://leech.ae/" ADD_DATE="1552706833">Leech.ae - Premium link generator for Rapidgator, Depositfiles, Uploaded, Filesflash &amp; turbobit</A>
+                    <DT><A HREF="https://www.leechlisting.com/hosts/turbobit/leechlisting.com-turbobit.net-free-premium-link-generators-list#" ADD_DATE="1552706833">LeechListing - Innovative free premium link generators list for turbobit.net</A>
+                    <DT><A HREF="http://www.kikisso.com/en/file-sharing/premium-link-generator/navigator/leechjet/" ADD_DATE="1552706834">Free Premium Link Generators - LeechJet - Navigator</A>
+                    <DT><A HREF="http://ebook-dl.com/book/4010" ADD_DATE="1552706834">Getting Started with React Native Free Download | Ebook-dl</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706832">Software</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.mrzuo.com/index.php/2012/07/jetbrains-intellij-idea-11-1-3-ultimate-edition-incl-keygen/" ADD_DATE="1552706829">JetBrains IntelliJ IDEA 11.1.3 Ultimate Edition incl Keygen | Rapidshare.com links</A>
+                    <DT><A HREF="http://www.dl4all.com/etb/tag/JetBrain+WebStorm.html" ADD_DATE="1552706830">Direct Download: JetBrain WebStorm from Dl4All</A>
+                    <DT><A HREF="http://www.lenguyenpc.net/2012/09/jetbrains-webstorm-50-keygen.html" ADD_DATE="1552706830">JetBrains WebStorm 5.0 + Keygen ~ LÊ NGUYỄN COMPUTER ~ SỬA MÁY VI TÍNH QUẬN BÌNH TÂN. TÂN PHÚ, 6, 11</A>
+                    <DT><A HREF="http://thuvientinhoc.vn/soft/84090-jetbrains-webstorm-401-eng-portable.html" ADD_DATE="1552706830">JetBrains WebStorm 4.0.1 Eng Portable » Thư viện Tin Học - Kho báu của các chuyên gia Đồ họa</A>
+                    <DT><A HREF="http://forum.cuasotinhoc.vn/topic/635400-jetbrains-intellij-idea-v1113-ultimate-edition/page__p__2482965__hl__%2Bintellij+%2Bidea__fromsearch__1#entry2482965" ADD_DATE="1552706830">Jetbrains Intellij Idea v11.1.3 Ultimate Edition - [ iT ] Forums</A>
+                    <DT><A HREF="http://itekzone.blogspot.com/2012/06/sublime-text-2-final-released-inc-patch.html" ADD_DATE="1552706831">iTek Zone: Sublime Text 2 Final Released [Inc Patch + License Key] - iTech Blog</A>
+                    <DT><A HREF="http://www.narvenblog.com/2011/09/20/sublime-text-2-shortcuts/" ADD_DATE="1552706831">My fav Sublime Text 2 shortcuts</A>
+                    <DT><A HREF="http://www.thinstallsoft.com/files/298/" ADD_DATE="1552706831">Download Mipony Portable 2.1.0 - ThinstallSoft.com</A>
+                    <DT><A HREF="http://svth-wru.blogspot.com/2013/12/intellij-idea-13-ultimate-full-incl.html#.UrEDgdIW3pw" ADD_DATE="1552706832">IntelliJ IDEA 13 Ultimate full, incl Keygen with GUI | Sinh viên CNTT - WRU</A>
+                    <DT><A HREF="http://www.bloggerkoyan.com/search/label/Programming%20Tools" ADD_DATE="1552706832">Latest Software Full version download : Programming Tools</A>
+                    <DT><A HREF="http://www.0daydown.com/" ADD_DATE="1552706832">0DayDown | 0天与您关注资讯</A>
+                    <DT><A HREF="https://itrum.net/forums/all-in-one-protable/" ADD_DATE="1552706832">All In One - Portable - ITRUM - Diễn Đàn Công Nghệ Thông Tin</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706835">Mua hang</H3>
+                <DL><p>
+                    <DT><H3 ADD_DATE="1552706829" LAST_MODIFIED="1552706837">IKEA</H3>
+                    <DL><p>
+                        <DT><A HREF="http://ybuy.vn/" ADD_DATE="1552706836">Nội thất Ikea - Cửa hàng nội thất YBUY chuyên bán đồ nội thất IKEA</A>
+                        <DT><A HREF="http://www.huyenikea.com/do-nha-bep" ADD_DATE="1552706836">Đồ nhà bếp</A>
+                        <DT><A HREF="http://homestuff.com.vn/danh-sach-san-pham/sale-off-tet/page:2" ADD_DATE="1552706836">homestuff.com.vn/danh-sach-san-pham/sale-off-tet/page:2</A>
+                        <DT><A HREF="http://ikshop.vn/c89/dung-cu-nha-bep.html" ADD_DATE="1552706836">Đồ dùng nhà bếp</A>
+                        <DT><A HREF="http://bandogiadung.com/" ADD_DATE="1552706836">Đồ gia dụng IKEA - Quà tặng độc đáo - Đồ trang trí đẹp cho mọi nhà - Đồ gia dụng &amp; trang trí Tiny House Store</A>
+                        <DT><A HREF="http://beehomevn.com/shops/Bat-dia-coc-chen/" ADD_DATE="1552706836">Bát đĩa cốc chén - Đồ gia dụng IKEA, nội thất IKEA Hà Nội giá rẻ nhất</A>
+                        <DT><A HREF="http://european-shop-ikea.vn/index.php/product/productview/category/11/page/1/order/3" ADD_DATE="1552706837">European shop ikea&gt;</A>
+                        <DT><A HREF="http://www.ihomevn.com/gia-do-moc-treo/14388.html" ADD_DATE="1552706837">Giá đỡ&amp;Móc treo</A>
+                        <DT><A HREF="http://www.ithings.vn/index.php?option=com_virtuemart&category_id=30&page=shop.browse&Itemid=99&limit=50&limitstart=50" ADD_DATE="1552706837">Giá đỡ &amp; Móc treo</A>
+                        <DT><A HREF="http://mgod.webtretho.com/forum/f2540/hang-ikea-sieu-dep-sieu-re-free-ship-cho-don-hang-tren-300k-nhe-1266281/" ADD_DATE="1552706837">Hàng IKEA Siêu đẹp! Siêu rẻ!!! Free ship cho đơn hàng trên 300k nhé!</A>
+                    </DL><p>
+                    <DT><A HREF="http://muare.vn/threads/36/852030/" ADD_DATE="1552706829">Lock&amp;Lock giá rẻ: loại 2L 100k/3 hộp, đồ khuyến mại, đồ hàng không, đồ tiện ích | Muare.vn cộng đồng thương mại điện tử</A>
+                    <DT><A HREF="http://bachhoa24.com/do-khuyen-mai-cua-locklock-gia-re-cho-moi-nha-cl-1065045.html" ADD_DATE="1552706830">Đồ khuyến mại của lock&amp;lock, giá rẻ cho mọi nhà - Đồ dùng gia đình - Mặt hàng khác - Bộ bát sứ xương</A>
+                    <DT><A HREF="http://rongbay.com/Ha-Noi/Bo-dung-com-cao-cap-Lock-Lock-chinh-ha-c276-raovat-18148213.html" ADD_DATE="1552706830">Bộ đựng cơm cao cấp Lock Lock chính hãng giá rẻ nhất Hà Nội - Mua sắm tại Hà Nội - 18148213 | Rao vặt RồngBay.com</A>
+                    <DT><A HREF="http://muare.vn/threads/36/1859238/" ADD_DATE="1552706830">Giảm giá siêu sốc hộp cơm giữ nhiệt Lock &amp; Lock | Muare.vn cộng đồng thương mại điện tử</A>
+                    <DT><A HREF="http://webphunu.net/content/bo-hop-com-giu-nhiet-locklock-re-dep-an-toan" ADD_DATE="1552706831">bộ hộp cơm giữ nhiệt Lock&amp;Lock, rẻ, đep, an toàn</A>
+                    <DT><A HREF="http://muaban.com.vn/index/frame/detail/id/1198282/Hang-KM-Lock&Lock-Sharp,-noi-dat,-hop-com-Panasonic,.html" ADD_DATE="1552706831">Hàng KM Lock&amp;Lock Sharp, nồi đất, hộp cơm Panasonic,, Mua bán, mua ban, rao vặt, rao vat, muaban.com.vn ::</A>
+                    <DT><A HREF="http://www.yes24.vn/khuyen-mai/497710/" ADD_DATE="1552706831">Yes24.com Vietnam - End Of Year - Lock&amp;Lock</A>
+                    <DT><A HREF="http://enbac.com/Tong-hop/p947361/CelaShop-Chuyen-do-khuyen-mai-Lock-lock-gia-re-bang-1-3-gia-hang.html" ADD_DATE="1552706831">CelaShop: Chuyên đò khuyến mại Lock lock giá rẻ bằng 1/3 giá hãng - Khuyến mãi, Giảm giá - Tổng hợp tại Hà Nội | ÉnBạc.com</A>
+                    <DT><A HREF="http://www.lamchame.com/forum/showthread.php/522641-Thanh-l%C3%BD-h%C3%A0ng-khuy%E1%BA%BFn-m%E1%BA%A1i-lock-amp-lock-r%E1%BA%BB-nh%E1%BA%A5t-lamchame" ADD_DATE="1552706832">Toàn quốc: $$$ Thanh lý hàng khuyến mại lock&amp;lock rẻ nhất lamchame</A>
+                    <DT><A HREF="http://rongbay.com/Ha-Noi/Do-khuyen-mai-cua-lock-lock-gia-re-ch-c276-raovat-16434548.html" ADD_DATE="1552706832">Đồ khuyến mại của lock lock, giá rẻ cho mọi nhà - Mua sắm tại Hà Nội - 16434548 | Rao vặt RồngBay.com</A>
+                    <DT><A HREF="http://quakhuyenmai.vn/san-pham/do-dung-gia-dinh.html" ADD_DATE="1552706832">Đồ dùng gia đình - Quà khuyến mãi ,0838216325 , 0908140096 , 120 Hàm Nghi , hàng khuyến mãi , hang khuyen mai , thương thương shop</A>
+                    <DT><A HREF="http://www.quagiadinh.com/" ADD_DATE="1552706832">Shop Quà Gia Đình | Đồ khuyến mại</A>
+                    <DT><A HREF="http://mgod.webtretho.com/forum/f3033/bo-noi-vision-va-elmich-phap-sec-nhap-khau-chau-au-giam-gia-5-den-15-bao-hanh-10-nam-cam-ket-gia-re-nhat-1773914/" ADD_DATE="1552706832">Bộ Nồi VISION và ELMICH ( PHÁP - SÉC ) Nhập Khẩu Châu Âu , Giảm Giá 5% Đến 15% , Bảo Hành 10 Năm , Cam Kết Giá Rẻ Nhất</A>
+                    <DT><A HREF="http://www.lamchame.com/forum/showthread.php/1060621-B%E1%BA%BFp-xinh-shop-NHANH-TAY-S%E1%BA%AEM-T%E1%BA%BET-NH%C3%80-B%E1%BA%BEP-%C4%90%E1%BA%B8P-XINH" ADD_DATE="1552706833">Hà Nội: Bếp xinh shop: NHANH TAY SẮM TẾT, NHÀ BẾP ĐẸP XINH</A>
+                    <DT><A HREF="http://www.lamchame.com/forum/showthread.php/668991-%C4%90%E1%BB%93-gia-d%E1%BB%A5ng-ELMICH-Nh%E1%BA%ADp-kh%E1%BA%A9u-t%E1%BB%AB-s%C3%A9c-Call-0968-204-869-%C4%91%E1%BB%83-c%C3%B3-gi%C3%A1-C%E1%BB%B0C-S%E1%BB%90C" ADD_DATE="1552706833">Toàn quốc: Đồ gia dụng ELMICH Nhập khẩu từ séc : Call 0968 204 869 để có giá CỰC SỐC!</A>
+                    <DT><A HREF="http://shopmeyeucon.vn/vi/shops/Do-nha-bep/page-2/" ADD_DATE="1552706833">Đồ nhà bếp - Trang 2</A>
+                    <DT><A HREF="http://www.melinhxinh.com/category/do-dung-gia-dinh-1?page=5" ADD_DATE="1552706833">Đồ dùng gia đình | trang 5</A>
+                    <DT><A HREF="http://muare.vn/threads/101/bo-noi-elmich-noi-ap-suat-bep-tu-noi-hap-elmich-chao-chong-dinh-bep-tu-giam-gia-5-10.2545095/" ADD_DATE="1552706833">Bộ nồi Elmich , Nồi áp suất bếp từ , Nồi hấp Elmich , Chảo chống dính bếp từ , Giảm Giá 5% - 10% | Muare.vn cộng đồng thương mại điện tử</A>
+                    <DT><A HREF="http://muare.vn/threads/101/hop-bao-quan-thuc-pham-lock-lock-lam-qua-tang-cuc-sang-va-dep.2847353/" ADD_DATE="1552706833">Hộp bảo quản thực phẩm Lock&amp;Lock làm quà tặng cực sang và đẹp | Muare.vn cộng đồng thương mại điện tử</A>
+                    <DT><A HREF="http://pinsacdienthoai.net/sptk/tim-kiem-nang-cao/0/tk=1N2G2D1x2Kg1c2H2P1x2K1v2H2K1xgxw1Aww2F1N2A/timkiem.html" ADD_DATE="1552706834">Tìm kiếm sản phẩm</A>
+                    <DT><A HREF="http://www.lazada.vn/tai-nghe-lg-quadbeat-3-hss-f630-2017-red-5607536.html?spm=a2o4n.category-030101020000.0.0.Y5u61O&ff=1&sc=EekR&boost=3" ADD_DATE="1552706834">Tai nghe LG QuadBeat 3 HSS-F630 2017 | Lazada.vn</A>
+                    <DT><A HREF="http://www.lazada.vn/tai-nghe-lg-v20-chipset-bampo-play-2017den-5607528.html?spm=a2o4n.category-030101020000.0.0.Y5u61O&ff=1&sc=EekR&boost=3" ADD_DATE="1552706834">Tai Nghe Nhét Tai Trong Lg V20 Chipset B&amp;O Play 2017 (Đen Phối Trắng) - Hàng Nhập Khẩu | Lazada.vn</A>
+                    <DT><A HREF="http://www.lazada.vn/tai-nghe-nhet-tai-samsung-galaxy-s8-den-hang-nhap-khau-5752927.html?spm=a2o4n.category-030101020000.0.0.fT8nmM&ff=1&sc=EekR&boost=3" ADD_DATE="1552706834">Tai nghe nhét tai Samsung Galaxy S8 (Đen) - Hàng nhập khẩu | Lazada.vn</A>
+                    <DT><A HREF="http://www.samsonitemall.co.kr/KR_AI309002.html" ADD_DATE="1552706834">BACKPACK M BLACK - Samsonite KR</A>
+                    <DT><A HREF="http://www.samsonitered.com/CN/product/unisex/400" ADD_DATE="1552706834">SAMSONITE RED GLOBAL</A>
+                    <DT><A HREF="http://bigbag.vn/balo-rivacase" ADD_DATE="1552706834">BALO RIVACASE | Đại Lý Balo Chính Hãng Rivacase 100% - MADE IN GERMANY – SHOP BIGBAG</A>
+                    <DT><A HREF="http://www.lazada.vn/tui-chong-soc-macbook-13-m174-xam-nhat-2106239.html?spm=a2o4n.category-100604000000.0.0.ApMPL6&ff=1&sc=Ewcn&boost=3" ADD_DATE="1552706834">Túi chống sốc Macbook 13 M174 (Xám nhạt) | Lazada.vn</A>
+                    <DT><A HREF="https://www.sendo.vn/san-pham/tui-chong-soc-jackspark-macbook-11-inch-12-inch-13-inch-5512010/?source_block_id=search_products&source_page_id=search_htm_rank" ADD_DATE="1552706834">Túi Chống sốc Jackspark Macbook 11 inch, 12 inch, 13 inch - Màu Xanh | Sendo.vn</A>
+                    <DT><A HREF="https://tinhte.vn/threads/review-may-nghe-nhac-onn-x5-hi-res-vuong-tuoc-tam-gia-1-trieu-dong.2701018/" ADD_DATE="1552706834">[Review] máy nghe nhạc ONN X5 Hi-Res: Vương Tước tầm giá 1 triệu đồng | Tinhte.vn</A>
+                    <DT><A HREF="https://vi.aliexpress.com/wholesale?catId=63710&initiative_id=AS_20170614194435&SearchText=onn+x5" ADD_DATE="1552706834">Bán sỉ onn x5 - Mua Các Lô onn x5 Giá Rẻ trên Aliexpress.com</A>
+                    <DT><A HREF="http://phukien.vn/collections/pin-sac-du-phong-anker" ADD_DATE="1552706834">Pin Sạc Dự Phòng Anker – Phukien.vn</A>
+                    <DT><A HREF="http://www.lazada.vn/tui-chong-soc-danh-cho-laptop/?spm=a2o4n.category-100604000000.0.0.h6YMrl&page=2&price=200000-500000&searchContext=category" ADD_DATE="1552706834">Túi Chống Sốc Laptop Bền Bỉ, Chống Thấm, Giá Tốt | Lazada.vn</A>
+                    <DT><A HREF="https://www.lotte.vn/tui-chong-soc-vai-tuyt-pha-da-kieu-british-15-4-apple-den-86290.html?wtk_cn=Adnetworks-Admicro&wtk_type=Paid&utm_source=Admicro007&utm_medium=Retargeting&utm_campaign=ado_00_145216_visited30d&utm_content=afamily.vn&cpa_tid=37ba7cb7-a47c-5f19-7b00-f432208d756a&tp=11&tpn=14&dmn=afamily.vn" ADD_DATE="1552706835">Túi Chống Sốc Vải Tuýt Pha Da Kiểu British 15.4&quot; GearMax (Đen) giá tốt ✓ Phụ Kiện Máy Tính</A>
+                    <DT><A HREF="http://thanhphukien.com/chi-tiet-san-pham/747/tui-chong-soc-tucano-sencond-skin-macbook-15-m193.html" ADD_DATE="1552706835">Túi chống sốc Tucano Sencond Skin Macbook 15-M193 | Thanhphukien.com</A>
+                </DL><p>
+                <DT><A HREF="http://vnexpress.net/Vietnam/Vi-tinh/2007/07/3B9F8A30/" ADD_DATE="1552706823">VnExpress - Giai &#39;Oscar&#39; cho phan mem ma mo</A>
+                <DT><A HREF="http://www.vietnamnet.vn/cntt/2007/07/723096/" ADD_DATE="1552706823">VietNamNet - 10 ứng dụng mã mở được đánh giá cao</A>
+                <DT><A HREF="http://www5.dantri.com.vn/cong-nghe/2007/10/200594.vip" ADD_DATE="1552706823">Những phần mềm tăng tốc Internet “xịn” nhất - Nhung phan mem tang toc Internet “xin” nhat - Dân trí điện tử Dantri.com.vn</A>
+                <DT><A HREF="http://vietnamnet.vn/cntt/2008/01/762762/" ADD_DATE="1552706823">VietNamNet - Những phần mềm sao lưu miễn phí</A>
+                <DT><A HREF="http://jetravel.wordpress.com/2007/02/07/th%E1%BB%A7-t%E1%BB%A5c-lam-h%E1%BB%99-chi%E1%BA%BFu/" ADD_DATE="1552706824">Thủ tục làm hộ chiếu « Je Travel - Blog Du lịch bụi</A>
+                <DT><A HREF="http://www.letsgomobile.org/en/" ADD_DATE="1552706824">Cellular Reviews, Cellphone News &amp; Compare Mobile Phones at LetsGoMobile</A>
+                <DT><A HREF="http://www.handheld.com.vn/" ADD_DATE="1552706824">HHVN :: Daily Tech - Trang chủ</A>
+                <DT><A HREF="http://hddvn.com/" ADD_DATE="1552706824">Phục hồi dữ liệu, cứu dữ liệu, sửa ổ cứng hdd - Phuc hoi du lieu, sua o cung may tinh, laptop - Trang nhất</A>
+                <DT><A HREF="http://dantri.com.vn/cong-nghe/hung-cong-cu-dich-rat-huu-ich-tren-Internet/2008/6/236615.vip" ADD_DATE="1552706825">Những công cụ dịch rất hữu ích trên Internet - Nhung cong cu dich rat huu ich tren Internet - Dân trí điện tử Dantri.com.vn</A>
+                <DT><A HREF="http://kenh14.vn/home/20081107093446553_tm,7cat36/top-5-cong-cu-chuyen-doi-tap-tin-da-phuong-tien-mien-phi.chn" ADD_DATE="1552706825">Top 5 công cụ chuyển đổi tập tin đa phương tiện miễn phí | Thủ thuật | kenh14.vn | Channel for Teens</A>
+                <DT><A HREF="http://www.vnstudy.net/" ADD_DATE="1552706825">Tin học bình dân</A>
+                <DT><A HREF="http://kenh14.vn/c36/t7/20100514121132938/tao-dia-video-that-kul-tu-anh-chup.chn" ADD_DATE="1552706825">Tạo đĩa video thật &quot;kul&quot; từ ảnh chụp | Thủ thuật | Kênh14 - Channel for Teens</A>
+                <DT><A HREF="https://nimbus.everhelper.me/client/recent/note/bRFqjDac3jLaBUJd" ADD_DATE="1552706826">Nimbus Note</A>
+                <DT><A HREF="https://tinhte.vn/threads/cac-van-de-thuong-gap-khi-dung-may-windows-hdd-100-khong-do-ra-wi-fi-ban-phim-ao-bung-len.2677952/" ADD_DATE="1552706826">Các vấn đề thường gặp khi dùng máy Windows: HDD 100%, không dò ra Wi-Fi, bàn phím ảo bung lên... | Tinhte.vn</A>
+                <DT><A HREF="https://downloadly.ir/" ADD_DATE="1552706826" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADC0lEQVQ4jUVTS2hdZRic+f5zzj159UbzKE0sglRxoQZBrBo3YjfiqqVNFYoi2ILiyiC6qBJdiSi4cKGb4gMVEndCrZCFLoRabAWtFTGltc1NTG6S5nVf5z//Py4ScPYD8+T2N88+4BfOf0DfGBNUgIAj066gKy8f+f7M0v79Lzys7I3TWfUCAByT3AwZsAvzK7+/WPXXDqm9PMCiPop2fdSF+rA16wOroX3HrcQ9cZ6t2ROdpXfq9XrfDBmgKYNEADBQZUEXkLgYhQizEC1RNMREDFZ0QoixZyXL3zzZr58m22tPiVMCKUhmUZFmzvK9w8j29IEkVJaEAJiLAggwqt3wTcf7r6Th7DOtxU8/a66MgoxmhKJAkEyrVWZDQ0z7+uCIWMTYhTQxI4IIx8KH6L3fyHuf+zoLv72q1eMGGEiCABQDLHGo9FeBkb35qMPFeGtj3qeVCkkiymIlT+mbG8OBP6z9szBuCCAliARJQEIsS7TzPb0fTZ368bF6eVC12sfNRoPKsnIEODe8tPrJd5d+uf1s7frhBA4SCUoQuOOYgosxzr31rnvv7nsXALw0uXj1zHJ9/fjPN+bumis6r5Q9Xd37OrqRQCCxS4YAERIgkgc2bpYC+Pafv9755fzVo/Ot5vOtnnwwCybXLgJoSgDsVMrdZezEDlHaGrmn+/ELsydvbi6+vlXJ9qF0yNpFKYgCEKHuBNiRHCUYABghEvnG6tbEpdrE3wO3fdhBhGs0PAAnAZF0Ls9QDbhopigJMGcSoHJ7W63lOuLGdmgBWegUwQklRFOUQl5JehK3fh+zyb+ubx5JShlBqGw04Te3EL1HllK0hEZGAiagCMZKmuYY9uHck939r30+Nv4HAZkliPI+dlbWoryPdBZBRkgBoqKEmGeVqrN/H0zyU7VHnz78xdj4ZU4fMwBIKHZVUnOl6IyAAFQSAJ49oM+ztJdDEV8dzQdPvz928BoFAiJ2H5mweuDbLdp66IodgxEGeSCr5qgN9vZffsR1n5h96NAMgQLT0w6cCP9XBvwHHHyY9bTNL0YAAAAASUVORK5CYII=">دانلود رایگان نرم افزار</A>
+                <DT><A HREF="http://www.0daydown.com/category/software/windows" ADD_DATE="1552706826">Windows | 下载,Download,uploaded|nitroflare|rapidgator</A>
+                <DT><A HREF="https://www.youtube.com/watch?v=osqkCUFjzPs" ADD_DATE="1552706826">How To Download Windows 10 for FREE Full Version[Download Windows 10 Pro/Home ISO File Without Key] - YouTube</A>
+                <DT><A HREF="https://win10.vn/tai-windows-10-creators-update-post2759.html" ADD_DATE="1552706826">Download Windows 10 Creators Update 1703 .ISO 32bit &amp; 64bit mới nhất</A>
+                <DT><A HREF="https://win10.vn/download-kmspico-active-win-10-office-2016-post361.html" ADD_DATE="1552706827">Download KMSPico 10.2.0 mới nhất - Active Win 10, 8, 7 &amp; Office 2016</A>
+                <DT><A HREF="https://www.yasdl.com/131465/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-jetbrains-intellij-idea.html" ADD_DATE="1552706827">دانلود JetBrains IntelliJ IDEA Ultimate 2018.2 محیط برنامه نویسی جاوا</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706828">Learn English</H3>
+            <DL><p>
+                <DT><A HREF="http://www.bbc.co.uk/vietnamese/learningenglish/" ADD_DATE="1552706820">BBCVietnamese.com</A>
+                <DT><A HREF="http://www.voanews.com/vietnamese/" ADD_DATE="1552706821">VOA News - VOA Tiếng Việt</A>
+                <DT><A HREF="http://englishpod.com/" ADD_DATE="1552706821">EnglishPod | Learn Business English with Daily MP3 Podcasts</A>
+                <DT><A HREF="http://www.australianetwork.com/businessenglish/stories/ep06.htm" ADD_DATE="1552706822">Australia Network - The Business of English - Episode 6 - What are the Options?</A>
+                <DT><A HREF="http://www.bayvut.com/hoctienganh/" ADD_DATE="1552706822">Bay Vút - Tiếng Anh Thực Dụng</A>
+                <DT><A HREF="http://www.english.language.webpark.pl/test2.htm" ADD_DATE="1552706822">Grammar test - upper intermediate</A>
+                <DT><A HREF="http://youtube.com/thedailyenglishshow" ADD_DATE="1552706823">YouTube - thedailyenglishshow&#39;s Channel</A>
+                <DT><A HREF="http://kenh14.channelvn.net/home/2Tek/200841411140770_tm,7_hoc-tieng-anh-truc-tuyen-tren-youtube.chn" ADD_DATE="1552706823">Học tiếng Anh trực tuyến trên YouTube - Hoc tieng Anh truc tuyen tren YouTube-Kênh 14 - Channel for Teens</A>
+                <DT><A HREF="http://www.englishclub.com/" ADD_DATE="1552706823">English Club ~ Learn English | Teach English</A>
+                <DT><A HREF="http://www.petalia.org/hoctienganh/grammar.htm" ADD_DATE="1552706824">Ngữ pháp tiếng Anh - Từ vựng tiếng Anh - English Grammar</A>
+                <DT><A HREF="http://www.eslpod.com/website/#" ADD_DATE="1552706824">English as a Second Language Podcast</A>
+                <DT><A HREF="http://www.englishgrammarsecrets.com/" ADD_DATE="1552706824">English Grammar Lessons</A>
+                <DT><A HREF="http://www.englishgrammarconnection.com/" ADD_DATE="1552706825">English Grammar Connection -&gt; Online lessons to improve english grammar skills</A>
+                <DT><A HREF="http://www.ohiou.edu/linguistics/esl/" ADD_DATE="1552706825">Linguistics: ESL: Student Resources</A>
+                <DT><A HREF="http://www.ego4u.com/" ADD_DATE="1552706825">English Grammar Online - free exercises, explanations, vocabulary, dictionary and teaching materials</A>
+                <DT><A HREF="http://www.usingenglish.com/glossary.html" ADD_DATE="1552706825">English Glossary of Grammar Terms - UsingEnglish.com</A>
+                <DT><A HREF="http://www.english-the-easy-way.com/" ADD_DATE="1552706825">English The Easy Way</A>
+                <DT><A HREF="http://www.listen-to-english.com/" ADD_DATE="1552706825">Listen to English - learn English!</A>
+                <DT><A HREF="http://englishconversations.org/" ADD_DATE="1552706826">English Conversations - English Conversation Recordings</A>
+                <DT><A HREF="http://www.businessenglishpod.com/" ADD_DATE="1552706826">Business English Pod :: The Business English Podcast for ESL Workplace English Training</A>
+                <DT><A HREF="http://www.englishbaby.com/lessons" ADD_DATE="1552706826">English Lessons | Learn English with free ESL lessons at English, baby!</A>
+                <DT><A HREF="http://www.elllo.org/" ADD_DATE="1552706826">English Listening Language Lab Online - Learn English Naturally</A>
+                <DT><A HREF="http://www.learn-english-online.org/" ADD_DATE="1552706826">Learn English Online - Free EFL/ESL English Lessons</A>
+                <DT><A HREF="http://www.britishcouncil.org/learnenglish-central-listening-downloads.htm" ADD_DATE="1552706826">Listening downloads - Central - LearnEnglish - British Council</A>
+                <DT><A HREF="http://www.engvid.com/" ADD_DATE="1552706827">engVid · Free English Video Lessons</A>
+                <DT><A HREF="http://www.englishcafe.com/" ADD_DATE="1552706827">Improve Your English at EnglishCafe: Speak and Write Better English!</A>
+                <DT><A HREF="http://www.tienganhonline.net/" ADD_DATE="1552706827">Học tiếng Anh online miễn phí - Hoc tieng Anh - Học anh ngữ - Học ngoại ngữ - Tài liệu tiếng anh - Luyện thi tiếng Anh: TOEFL, IELTS, GMAT, GRE...</A>
+                <DT><A HREF="http://www.learnenglish.de/" ADD_DATE="1552706827">Learn English Free Online</A>
+                <DT><A HREF="http://www.funefun.com/" ADD_DATE="1552706827">Hoc Anh Van online - Anh Van online mien phi - Anh van giao tiep online</A>
+                <DT><A HREF="http://www.1-language.com/englishcourse/index.htm" ADD_DATE="1552706827">1-language.com - Online English Course - Index Page</A>
+                <DT><A HREF="http://www.englisch-hilfen.de/en/" ADD_DATE="1552706827">Learning English - Exercises, Grammar, Vocabulary, Exams</A>
+                <DT><A HREF="http://tienganhcaptoc.com/index.php?option=com_content&view=frontpage&Itemid=1" ADD_DATE="1552706828">TiengAnhCapToc</A>
+                <DT><A HREF="http://toeic.com.vn/c123-tin-tuc.html" ADD_DATE="1552706828">Tin tuc - Toeic Vietnam</A>
+                <DT><A HREF="http://luyenthianhvan.org/2007/11/thi-th.html" ADD_DATE="1552706828">Online English Test: THỜI - THÌ, tài liệu toeic, tài liệu toefl, IELTS, SAT, GMAT</A>
+                <DT><A HREF="http://www.tienganhonline.net/toeic.htm" ADD_DATE="1552706828">Download tài liệu TOEIC miễn phí</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706823">Securites</H3>
+            <DL><p>
+                <DT><A HREF="http://diendan.phutoan.com.vn/" ADD_DATE="1552706821">Phu Toan | Diễn đàn chứng khoán, cổ phiếu, phân tích cổ phiếu, phân tích chứng khoán | Trang chủ</A>
+                <DT><A HREF="http://www.dobf.vn/index.html" ADD_DATE="1552706821">Công ty đào tạo đầu tư DoBF</A>
+                <DT><A HREF="http://stockbiz.vn/Default.aspx" ADD_DATE="1552706821">Trang chủ</A>
+                <DT><A HREF="http://f319.com/home" ADD_DATE="1552706822">Thị trường chứng khoán - F319.com</A>
+                <DT><A HREF="http://inteves.com/modules.php?name=News&op=viewcat&catid=28" ADD_DATE="1552706822">Nhà Đầu Tư Thông Minh | Tin tức | Phân tích kỹ thuật</A>
+                <DT><A HREF="http://vinase.com/forums/content.php" ADD_DATE="1552706822">Trang chủ - vinase</A>
+                <DT><A HREF="http://www.vietstock.vn/ChannelID/71/Tin-tuc/158380-tam-ly-than-trong-van-bao-trum-thi-truong.aspx" ADD_DATE="1552706823">Vietstock - Thông tin Kinh tế Tài chính Chứng khoán Việt Nam</A>
+                <DT><A HREF="http://www.adwin.com.vn/diendan/" ADD_DATE="1552706823">Diễn đàn Vàng, Forex và chứng khoán (Powered by Invision Power Board)</A>
+                <DT><A HREF="http://sndc.com.vn/Desktop.aspx/ND/CLDT-CLN/" ADD_DATE="1552706823">Trang chủ :: Công ty S &amp; D</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706825">Wine</H3>
+            <DL><p>
+                <DT><A HREF="http://www.daison.vn/wineshop/ktrvDetails.aspx?w=57" ADD_DATE="1552706821">Dai Son WineShop</A>
+                <DT><A HREF="http://my.opera.com/ngocuong1960/blog/index.dml/tag/v%C4%83n%20ho%C3%A1%20r%C6%B0%E1%BB%A3u%20vang" ADD_DATE="1552706821">văn hoá rượu vang - Personal Space</A>
+                <DT><A HREF="http://www.saigonnews.vn/sncdetailnews.aspx?Item=23328&Kind=15" ADD_DATE="1552706821">Trung tâm Thông tin Sài Gòn - SaigonNews Center</A>
+                <DT><A HREF="http://daidong-jsc.com/index.php?mnuType=1&mnuIndex=13&brandId=15" ADD_DATE="1552706822">Đại Đồng - Nhà phân phối rượu hàng đầu Việt Nam</A>
+                <DT><A HREF="http://www.thegioiruou.vn/default.aspx?FID=1&ViewArticleByGroup=1&ID=105" ADD_DATE="1552706822">THE GIOI RUOU * That mot tram phan tram</A>
+                <DT><A HREF="http://www.langthu.vn/index.php?option=com_content&task=view&id=9&Itemid=4" ADD_DATE="1552706822">Doanh nghiệp Làng Thu - Nhà phân phối độc quyền rượu vang Bordeaux Pháp</A>
+                <DT><A HREF="http://khoruou.com/Products/Default.aspx?MenuId=445" ADD_DATE="1552706823">Rượu Vang Chi Lê - Mua Rượu Vang Chile Cao Cấp Nhập Khẩu Giá Tốt Nhất</A>
+                <DT><A HREF="http://ruoungoaivodka.com/ruou-vang-chile/ruou-vang-chile-espiritu-premium-0-75l-589400.html" ADD_DATE="1552706823">Rượu Vang ChiLe Espiritu Premium 0.75L</A>
+                <DT><A HREF="http://www.vatgia.com/raovat/7863/3794230/phan-phoi-ruou-vang-chile-luoi-gia-tot-nhat.html" ADD_DATE="1552706823">PHÂN PHỐI RƯỢU VANG CHILE LƯỚI GIÁ TỐT NHẤT | Men bia, rượu</A>
+                <DT><A HREF="http://rongbay.com/Ha-Noi/Nha-phan-phoi-ruou-vang-Chi-le-vang-Phap-c276-raovat-16635845.html" ADD_DATE="1552706824">Nhà phân phối rượu vang Chi lê, vang Pháp nhập khẩu - Mua sắm tại Hà Nội - 16635845 | Rao vặt RồngBay.com</A>
+                <DT><A HREF="http://muaban.com.vn/index/frame/detail/id/1434180/Trung-tam-ruou-ngoai-(chivals,-balentines,-henessy,.html" ADD_DATE="1552706824">Trung tâm rượu ngoại (chivals, balentines, henessy,, Mua bán, mua ban, rao vặt, rao vat, muaban.com.vn ::</A>
+                <DT><A HREF="http://www.webtretho.com/forum/f505/mua-ruou-ngoai-o-dau-bao-dam-18118/index7.html" ADD_DATE="1552706824">Trang 7 - Mua rượu ngoại ở đâu bảo đảm</A>
+                <DT><A HREF="http://chaobuoisang.net/hoidap/traloi/206967/mua-ruou-ngoai-o-dau-bao-dam.html" ADD_DATE="1552706825">Mua rượu ngoại ở đâu bảo đảm? - Hỏi đáp - Chaobuoisang.net</A>
+                <DT><A HREF="http://ruouthienlong.com/vang-champagne/vang-chile-luoi.html" ADD_DATE="1552706825">Bán rượu Vang Chile lưới, giá rượu Vang Chile ở Hà Nội</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706822">Beer</H3>
+            <DL><p>
+                <DT><A HREF="http://muare.vn/threads/18/1677915/" ADD_DATE="1552706821">Update 26/5: Bia nhập khẩu các loại (HEINEKEN, DAB, STEIGER, PRIMATOR, KARPACKIE, Bia Nga, Bia Lào) | Muare.vn cộng đồng thương mại điện tử</A>
+                <DT><A HREF="http://thegioibia.net/P532/bia-duc.html" ADD_DATE="1552706821">Bia Đức - Bia Nhập Khẩu Nguyên Chất Từ Đức với Giá Tốt Nhất</A>
+                <DT><A HREF="http://ruouthienlong.com/bia-nhap-khau-cac-loai.html" ADD_DATE="1552706821">Giá bia Heinekens, Mua và bán bia nhập khẩu các loại</A>
+                <DT><A HREF="http://thucphamplaza.com/category/bia-ngoai/bia-chimay" ADD_DATE="1552706822">Bia Chimay (Bỉ) | Thực Phẩm Plaza – Sản phẩm cao cấp- Bán lẻ, bán buôn – Giao hàng tận nơi, nhanh chóng!</A>
+                <DT><A HREF="http://www.lamchame.com/forum/showthread.php/214333-Bia-ngo%E1%BA%A1i-B%E1%BB%89-%C4%90%E1%BB%A9c-(Bitburger-Chimay-Leffe-Duvel)-gi%C3%A1-r%E1%BA%BB-nh%E1%BA%A5t" ADD_DATE="1552706822">Hà Nội: Bia ngoại Bỉ, Đức (Bitburger, Chimay, Leffe, Duvel) giá rẻ nhất</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706822">Phim</H3>
+            <DL><p>
+                <DT><A HREF="http://downloadphimhd.vn/" ADD_DATE="1552706821">Download phim HD | Tải phim HD miễn phí</A>
+                <DT><A HREF="http://freehd.vn/diend@n/" ADD_DATE="1552706821">High-Definition For Free</A>
+                <DT><A HREF="http://phimfshare.com/" ADD_DATE="1552706821">Download Phim Fshare - Tải Phim Fshare</A>
+                <DT><A HREF="http://taiphimhd.net/" ADD_DATE="1552706822">Tai phim hd | download phim hd | phim hd</A>
+                <DT><A HREF="http://movies.hdviet.com/" ADD_DATE="1552706822">HDViet - Xem phim online miễn phí chất lượng cao full HD</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706825">Gout</H3>
+            <DL><p>
+                <DT><A HREF="http://chuabenhgout.net/10-thuc-pham-tot-cho-nguoi-benh-gout_657.html" ADD_DATE="1552706821">10 thực phẩm tốt cho người bệnh gout</A>
+                <DT><A HREF="http://suckhoedoisong.vn/benh-chuyen-khoa/thuc-pham-cho-nguoi-benh-gut-20120822024729277.htm" ADD_DATE="1552706821">Thực phẩm cho người bệnh gút | suckhoedoisong.vn</A>
+                <DT><A HREF="http://agarwood.org.vn/thuc-pham-nao-tot-cho-nguoi-mac-benh-gout-2094.html" ADD_DATE="1552706821">Thực phẩm nào tốt cho người mắc bệnh Gout</A>
+                <DT><A HREF="http://www.thaythuoccuaban.com/chedoan/gout.html" ADD_DATE="1552706822">Ăn kiêng cho người mắc bệnh Gout, Chế độ ăn, kiêng kị cho người dùng thuốc Gout, che do an uong kieng ky cho nguoi mac benh gout, che do an kieng cho nguoi dung thuoc gout</A>
+                <DT><A HREF="http://leconghoang.blogspot.com/2013/01/nguoi-bi-benh-gut-nen-uong-nhu-nao.html" ADD_DATE="1552706822">Chào bạn ghé thăm . . .: BỆNH GOUT</A>
+                <DT><A HREF="http://www.chuatribenhgut.com/2013/07/che-o-kieng-cho-nguoi-benh-gut.html" ADD_DATE="1552706823">CHẾ ĐỘ ĂN KIÊNG CHO NGƯỜI BỆNH GÚT | THUOC CHUA TRI BENH GOUT</A>
+                <DT><A HREF="http://www.chuabenhgut.xyz/2015/08/che-o-cho-nguoi-benh-gut-co-la-cach.html" ADD_DATE="1552706823">Cách phòng chống bệnh gout và chế độ ăn - Chữa Bệnh GUT Online</A>
+                <DT><A HREF="http://benhgouthcm.blogspot.com/2012/09/an-uong-phong-ngua-benh-gut.html" ADD_DATE="1552706823">Ăn uống phòng ngừa bệnh gút</A>
+                <DT><A HREF="http://benhgouthcm.blogspot.com/2012/06/benh-gout-la-gi.html" ADD_DATE="1552706823">Như thế nào là bệnh gút</A>
+                <DT><A HREF="http://benh-gout.blogspot.com/2013/04/nhung-thuc-pham-nguoi-mac-benh-gut-nen.html" ADD_DATE="1552706824">Những thực phẩm người mắc bệnh gút nên kiêng - benh gut kieng an gi | Bệnh gut, gút, gout</A>
+                <DT><A HREF="http://benh-gout.blogspot.com/" ADD_DATE="1552706824">Bệnh gut, gút, gout</A>
+                <DT><A HREF="http://cityplaza.vn/san-pham-uy-tin/thuc-pham-chuc-nang/dep-da-chong-lao-hoa/tao-xoan-spirulina-nhat-ban-tao-bien-nhat-ban-hop-2200-vien.aspx" ADD_DATE="1552706824">Tảo xoắn Spirulina Nhật Bản - Tảo biển Nhật Bản - Hộp 2200 viên</A>
+                <DT><A HREF="http://benhgout.com/" ADD_DATE="1552706824">Chuyên trang bệnh Gút - Phòng ngừa và chữa trị bệnh gout</A>
+                <DT><A HREF="http://motthegioi.vn/suckhoe/thiet-ke-thuc-don-vang-cho-nguoi-benh-gut-18087.html" ADD_DATE="1552706825">Thiết kế thực đơn vàng cho người bệnh gút</A>
+                <DT><A HREF="https://caothaoduoc.com/trao-nguoc-da-day-va-bi-quyet-tri-benh-re-tien-trong-2-tuan.html" ADD_DATE="1552706825">Vượt qua bệnh trào ngược dạ dày thực quản: Tại sao không ?</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706827">Virtualbox</H3>
+            <DL><p>
+                <DT><A HREF="http://www.wikihow.com/Install-VirtualBox" ADD_DATE="1552706821">How to Install VirtualBox: 13 Steps (with Pictures)</A>
+                <DT><A HREF="http://www.makeuseof.com/tag/how-to-use-virtualbox/" ADD_DATE="1552706821">How To Use VirtualBox: User&#39;s Guide</A>
+                <DT><A HREF="https://www.virtualbox.org/manual/ch01.html" ADD_DATE="1552706821">Chapter 1. First steps</A>
+                <DT><A HREF="http://forum.bkav.com.vn/forum/bkav-forum/bkav-contest/29597-huong-dan-tao-may-ao-bang-virtualbox-complete" ADD_DATE="1552706822">Hướng dẫn tạo máy ảo bằng VirtualBox [Complete] - Bkav Forum</A>
+                <DT><A HREF="http://forum.bkav.com.vn/forum/bkav-other/kinh-nghiem-thu-thuat/29598-huong-dan-cai-dat-h--h-windows-xp-va-cau-hinh-sao-luu-may-ao?28811-Huong-dan-cai-dat-HDH-Windows-XP-va-cau-hinh-sao-luu-may-ao=" ADD_DATE="1552706822">Hướng dẫn cài đặt HĐH Windows XP và cấu hình, sao lưu máy ảo - Bkav Forum</A>
+                <DT><A HREF="http://vietforum.vn/threads/cach-su-dung-may-ao-virtualbox-full.2324/" ADD_DATE="1552706823">Cách sử dụng máy ảo VirtualBox full | VietForum.vn - Let&#39;s share together</A>
+                <DT><A HREF="http://blogchiasekienthuc.com/thu-thuat-hay/tao-may-tinh-ao-virtualbox.html" ADD_DATE="1552706823">[Tut] Cách tạo máy tính ảo bằng phần mềm VirtualBox chi tiết nhất</A>
+                <DT><A HREF="http://vnreview.vn/tu-van-may-tinh/-/view_content/content/516752/huong-dan-su-dung-virtualbox-de-tao-may-ao-chay-windows-7" ADD_DATE="1552706823">Hướng dẫn sử dụng VirtualBox để tạo máy ảo chạy Windows 7 - VnReview - Tư vấn Máy tính</A>
+                <DT><A HREF="http://quantrimang.com/su-dung-virtualbox-cai-windows-7-tren-ubuntu-60441" ADD_DATE="1552706823">Sử dụng VirtualBox cài Windows 7 trên Ubuntu</A>
+                <DT><A HREF="http://www.wikihow.vn/C%C3%A0i-%C4%91%E1%BA%B7t-VirtualBox" ADD_DATE="1552706824">Cách để Cài đặt VirtualBox – wikiHow</A>
+                <DT><A HREF="http://www.sitecuatui.com/su-dung-usb-trong-virtualbox/" ADD_DATE="1552706824">Kết nối và sử dụng USB trong máy ảo VirtualBox - Site của tui</A>
+                <DT><A HREF="https://tinhte.vn/threads/huong-dan-cai-dat-windows-10-tren-may-ao-virtualbox.2402475/" ADD_DATE="1552706824">Hướng dẫn cài đặt Windows 10 trên máy ảo VirtualBox | Tinhte.vn</A>
+                <DT><A HREF="http://topthuthuat.com/thu-thuat/cach-cai-dat-windows-10-nhanh-tren-may-ao-virtualbox" ADD_DATE="1552706824">Cách cài đặt Windows 10 nhanh trên máy ảo VirtualBox</A>
+                <DT><A HREF="http://www.tbit.vn/chu-de/huong-dan-cai-win-xp-len-may-ao-virtualbox.232/" ADD_DATE="1552706825">Hướng dẫn cài Win XP lên máy ảo VirtualBox | TBit - Diễn đàn công nghệ số</A>
+                <DT><A HREF="https://www.youtube.com/watch?v=i31kijtxJ7U" ADD_DATE="1552706825">Hướng dẫn cài đặt và sử dụng máy tính ảo Oracle VM VirtualBo toàn tập - YouTube</A>
+                <DT><A HREF="https://www.youtube.com/watch?v=ZomioCZ4fJY" ADD_DATE="1552706825">Hướng dẫn tạo máy ảo trên win xp, win 7, win 8 từ A đến Z - YouTube</A>
+                <DT><A HREF="https://www.youtube.com/watch?v=mwKmxxRbvws" ADD_DATE="1552706825">How to Install Virtualbox Extension Pack - YouTube</A>
+                <DT><A HREF="https://www.youtube.com/watch?v=5IHPg7HV17U&index=2&list=PLYheK8RrTL4vsxbdCqqNqDA-klJimjxE8" ADD_DATE="1552706825">Hướng dẫn sử dụng máy ảo VirtualBox - Phần 2 - YouTube</A>
+                <DT><A HREF="http://diendan.vnetwork.vn/threads/huong-dn-s-dung-virtualbox-d-tao-may-ao.179/" ADD_DATE="1552706826">Hướng dẫn sử dụng VirtualBox để tạo máy ảo | Công Ty TNHH TM-DV Vnetwork</A>
+                <DT><A HREF="http://teaching.idallen.com/cst8207/14f/notes/000_centos_virtualbox_install.html" ADD_DATE="1552706826">Installation of CentOS in VirtualBox</A>
+                <DT><A HREF="https://www.sitecuatui.com/shared-folders-virtualbox/" ADD_DATE="1552706826">Thiết lập Shared Folders để chia sẻ file trong VirtualBox</A>
+                <DT><A HREF="https://www.youtube.com/watch?v=W6mhJXVVbrs" ADD_DATE="1552706826">Fedora 26 Workstation Installation + Guest Additions on Oracle VirtualBox [2017] - YouTube</A>
+                <DT><A HREF="https://www.youtube.com/watch?v=K6Y6SgrGTqY" ADD_DATE="1552706826">Fedora 26 Workstation Installation Offline with Virtual Box 5.1 - YouTube</A>
+                <DT><A HREF="https://fedoramagazine.org/install-fedora-virtualbox-guest/" ADD_DATE="1552706827">How to install Fedora as a VirtualBox guest - Fedora Magazine</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706824">Blackberry</H3>
+            <DL><p>
+                <DT><A HREF="http://blackberryvietnam.net/threads/update-nhung-bai-viet-hay-chia-se-ve-nhung-tinh-nang-moi-cua-os-10-3-x.37024/" ADD_DATE="1552706821">[Update] Những bài viết hay chia sẻ về những tính năng mới của OS 10.3.x | Cộng đồng BlackBerry Việt Nam</A>
+                <DT><A HREF="http://www.techrum.vn/threads/chi-tiet-nhung-thay-doi-va-bo-sung-trong-blackberry-os-10-3-2.21243/" ADD_DATE="1552706821">Chi tiết những thay đổi và bổ sung trong BlackBerry OS 10.3.2 | TECHRUM.VN</A>
+                <DT><A HREF="http://blackberryvietnam.net/threads/sachesi-dbbtools-hai-cong-cu-khong-the-thieu-cho-nguoi-dung-blackberry-10.37381/" ADD_DATE="1552706821">HƯỚNG DẪN - Sachesi &amp; DBBTools - Hai công cụ không thể thiếu cho người dùng BlackBerry 10 | Cộng đồng BlackBerry Việt Nam</A>
+                <DT><A HREF="http://bbvietnam.com/threads/xu-ly-loi-khong-xoa-duoc-ung-dung-android-tren-os-10-3-2-2876-do-loi-android-runtime.60703/page-2" ADD_DATE="1552706822">Tips - Xử lý lỗi không xoá được ứng dụng Android trên OS 10.3.2.2876 (do lỗi Android Runtime) | Page 2 #BBVietnam</A>
+                <DT><A HREF="http://tinhightech.net/xu-ly-loi-android-runtime-tren-os-10-3-2-2876-khong-xoa-duoc-ung-dung-android/" ADD_DATE="1552706822">Xử lý lỗi Android Runtime trên OS 10.3.2.2876 (không xoá được ứng dụng android)</A>
+                <DT><A HREF="http://wiwi.vn/diendan/threads/os-10-3-2-2876-loi-android-runtime-khong-xoa-duoc-ung-dung-android-hao-pin.2405/" ADD_DATE="1552706822">OS 10.3.2.2876 - Lỗi Android Runtime (không xoá được ứng dụng android + hao pin) | Sản phẩm mới - Đánh giá - Kinh nghiệm - Thủ thuật sử dụng</A>
+                <DT><A HREF="http://bbvietnam.com/threads/giup-do-xoa-viber-tren-bb10.60698/" ADD_DATE="1552706823">Hỏi - giúp đỡ xoá Viber trên BB10 #BBVietnam</A>
+                <DT><A HREF="http://forums.crackberry.com/bb10-leaked-beta-os-f395/sachesi-firmware-extractor-searcher-installer-825409/index138.html" ADD_DATE="1552706823">Sachesi: Firmware Extractor, Searcher and Installer - Page 138 - BlackBerry Forums at CrackBerry.com</A>
+                <DT><A HREF="http://masters.edu.vn/threads/12111-Xu-ly-loi-khong-xoa-duoc-ung-dung-Android-tren-OS-10322876-do-loi-Android-Runtime.html" ADD_DATE="1552706823">Xử lý lỗi không xoá được ứng dụng Android trên OS 10.3.2.2876 (do lỗi Android Runtime)</A>
+                <DT><A HREF="http://blackberryvietnam.net/threads/tong-hop-cac-thiet-lap-co-ban-can-co-giup-tiet-kiem-pin-toi-da-tren-blackberry-10.39512/" ADD_DATE="1552706824">TỔNG HỢP - Tổng hợp các thiết lập cơ bản cần có giúp tiết kiệm Pin tối đa trên BlackBerry 10 | Cộng đồng BlackBerry Việt Nam</A>
+                <DT><A HREF="http://tanmobile.vn/facebook-va-messenger-cua-android-chay-rat-tot-tren-bb10" ADD_DATE="1552706824">Facebook và Messenger của Android chạy rất tốt trên BB10</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706826">SublimeText</H3>
+            <DL><p>
+                <DT><A HREF="http://appnee.com/sublime-text-3-universal-license-keys-collection-for-win-mac-linux/" ADD_DATE="1552706821">[09.25] Sublime Text 2.x, 3.x Universal License Keys collection for Win, Mac &amp; Lin | AppNee Freeware Picks, Reviews &amp; Downloads</A>
+                <DT><A HREF="https://junookyo.blogspot.com/2014/09/chia-se-key-ban-quyen-sublime-text-3.html" ADD_DATE="1552706821">Chia sẻ Key bản quyền Sublime Text 3 (Build 3065) | Juno_okyo&#39;s Blog</A>
+                <DT><A HREF="https://gist.github.com/vertexclique/9839383" ADD_DATE="1552706821">Cracking guide for Sublime Text 3 Build 3059 / 3065 ( Mac / Win x86_64 / Windows x86 / Linux x64 / Linux x86 )</A>
+                <DT><A HREF="https://gist.github.com/rockdrigo/de9a16a4c8d75d7acb32" ADD_DATE="1552706822">Sublime Text 3 Build 3083 License Key - CRACK</A>
+                <DT><A HREF="http://blogit.vn/huong-dan-cai-dat-va-su-dung-sublime-text-3.html" ADD_DATE="1552706822">[Bài 1]: Hướng dẫn cài đặt và sử dụng Sublime Text 3 - BlogIT.vn</A>
+                <DT><A HREF="http://namcoder.com/meo-huong-dan-su-dung-sublime-text-3/" ADD_DATE="1552706822">Mẹo hay hướng dẫn sử dụng Sublime Text 3</A>
+                <DT><A HREF="http://passionery.blogspot.com/2015/01/huong-dan-su-dung-sublime-text-3.html" ADD_DATE="1552706823">Giới thiệu và Hướng dẫn sử dụng Sublime Text 3 | Passionery</A>
+                <DT><A HREF="https://viblo.asia/nguyen.duc.tung/posts/Zzb7vDYYRjKd" ADD_DATE="1552706823">HƯỚNG DẪN SUBLIME TEXT 3 | Viblo</A>
+                <DT><A HREF="http://blog.laptrinh.com.vn/2015/05/sublime-text-3-tuy-chinh-e-tien-loi-cho-develop-ung-dung-php.html" ADD_DATE="1552706823">Sublime Text 3 - Tuỳ chỉnh để tiện lợi cho develop ứng dụng PHP ~ Life of Coder - Lap Trinh</A>
+                <DT><A HREF="https://github.com/dzhibas/SublimePrettyJson" ADD_DATE="1552706824">dzhibas/SublimePrettyJson: Prettify/Minify/Query/Goto/Validate/Lint JSON plugin for Sublime Text 2 &amp; 3</A>
+                <DT><A HREF="https://scotch.io/bar-talk/the-best-sublime-text-3-themes-of-2014" ADD_DATE="1552706824">The Best Sublime Text 3 Themes of 2014 | Scotch</A>
+                <DT><A HREF="http://www.javahelps.com/2015/01/sublime-text.html" ADD_DATE="1552706824">Sublime Text</A>
+                <DT><A HREF="https://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings" ADD_DATE="1552706825">Best of Sublime Text 3: Features, Plugins, and Settings | Scotch</A>
+                <DT><A HREF="https://scotch.io/bar-talk/sublime-text-keyboard-shortcuts" ADD_DATE="1552706825">Sublime Text Keyboard Shortcuts | Scotch</A>
+                <DT><A HREF="https://medium.com/@MariaSpr/sublime-text-3-essential-packages-2596133aead9#.9qc27kdnc" ADD_DATE="1552706825">Top 15+2 Plugins for Sublime Text 3 – Medium</A>
+                <DT><A HREF="http://www.hongkiat.com/blog/sublime-text-tips/" ADD_DATE="1552706825">12 Most-Wanted Sublime Text Tips and Tricks - Hongkiat</A>
+                <DT><A HREF="http://huntout.me/2016/01/25/sublime-text-plugins/" ADD_DATE="1552706825">My Sublime Text 3 Plugins List — huntout.me</A>
+                <DT><A HREF="https://coderwall.com/p/dza-mw/exclude-files-folders-in-sublime-text" ADD_DATE="1552706825">Exclude files/folders in Sublime Text (Example)</A>
+                <DT><A HREF="https://godofredo.ninja/mejores-temas-para-sublime-text-3-2/" ADD_DATE="1552706826">Mejores temas para Sublime text 3 2017</A>
+                <DT><A HREF="https://uk.pinterest.com/pin/269371621442265931/" ADD_DATE="1552706826">Sublime Text 3 (OSX) Cheat Sheet by martinprins http://www.cheatography.com/martinprins/cheat-sheets/sublime-text-3-osx/ #cheatsheet #editor #subli… | Pinterest</A>
+                <DT><A HREF="https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/" ADD_DATE="1552706826">Setting up Sublime Text 3 for Full Stack Python Development - Real Python</A>
+            </DL><p>
