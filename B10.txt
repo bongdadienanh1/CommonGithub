@@ -1,0 +1,594 @@
+
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706823">ATOM</H3>
+            <DL><p>
+                <DT><A HREF="http://cliffordfajardo.com/2016/atom-editor-review/" ADD_DATE="1552706821">Clifford Fajardo - Atom Editor: Overview &amp; Package Roundup</A>
+                <DT><A HREF="http://atomthemes.io/" ADD_DATE="1552706821">Atom Themes - Syntax &amp; UI themes for the Atom editor.</A>
+                <DT><A HREF="https://github.com/nwinkler/atom-keyboard-shortcuts" ADD_DATE="1552706821">nwinkler/atom-keyboard-shortcuts: A list of keyboard shortcuts for the Atom text editor</A>
+                <DT><A HREF="https://www.sitepoint.com/12-favorite-atom-tips-and-shortcuts-to-improve-your-workflow/" ADD_DATE="1552706822">12 Favorite Atom Tips and Shortcuts to Improve Your Workflow</A>
+                <DT><A HREF="https://blog.bugsnag.com/atom-editor-cheat-sheet/" ADD_DATE="1552706822">Bugsnag Blog - Atom Editor Keyboard Shortcut Cheat Sheet</A>
+                <DT><A HREF="http://d2wy8f7a9ursnm.cloudfront.net/atom-editor-cheat-sheet.pdf" ADD_DATE="1552706823">atom-editor-cheat-sheet</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706823">Windows</H3>
+            <DL><p>
+                <DT><A HREF="https://www.fonepaw.com/windows/stop-windows-update.html" ADD_DATE="1552706820">How to Stop Windows 10/8/7 Automatic Update? [Proven]</A>
+                <DT><A HREF="https://www.itechtics.com/disable-bypass-pending-updates-restart-shutdown-windows-10/" ADD_DATE="1552706821">Disable or Bypass Pending Updates on Restart/Shutdown In Windows 10</A>
+                <DT><A HREF="https://www.guidingtech.com/fix-windows-10-update-and-shutdown-every-time-issue/" ADD_DATE="1552706821">How to Fix Windows 10 Update and Shutdown Every Time Issue</A>
+                <DT><A HREF="https://www.windowscentral.com/how-stop-updates-installing-automatically-windows-10" ADD_DATE="1552706822">How to stop automatic updates in Windows 10 | Windows Central</A>
+                <DT><A HREF="https://gadgets.ndtv.com/laptops/features/how-to-disable-windows-10-automatic-updates-728049" ADD_DATE="1552706822">How to Disable Windows 10 Automatic Updates | NDTV Gadgets360.com</A>
+                <DT><A HREF="https://www.howtogeek.com/224471/how-to-prevent-windows-10-from-automatically-downloading-updates/" ADD_DATE="1552706822">How to Prevent Windows 10 From Automatically Downloading Updates</A>
+                <DT><A HREF="https://www.windows-commandline.com/start-stop-windows-update-service/" ADD_DATE="1552706823">Stop Windows Update service</A>
+            </DL><p>
+            <DT><A HREF="https://medium.com/innovatube/%C4%91%E1%BB%99i-ng%C5%A9-s%E1%BA%A3n-ph%E1%BA%A9m-t%E1%BB%91t-cho-kh%E1%BB%9Fi-nghi%E1%BB%87p-th%C3%A0nh-c%C3%B4ng-ba297720f1bf" ADD_DATE="1552706820">ĐỘI NGŨ SẢN PHẨM TỐT CHO KHỞI NGHIỆP THÀNH CÔNG – Innovatube – Medium</A>
+            <DT><A HREF="https://www.facebook.com/phonglantim.tran/posts/1154798347877890" ADD_DATE="1552706820">Từ lâu lắm rồi, trừ thịt người là mình... - Phong Lan Tím Tran</A>
+            <DT><A HREF="https://www.facebook.com/profile.php?id=100004071905369&sk=photos&collection_token=100004071905369%3A2305272732%3A69&set=a.761465933999130.1073741871.100004071905369&type=3" ADD_DATE="1552706820">Trang XUxu</A>
+            <DT><A HREF="https://www.facebook.com/linhmalena/posts/640689706073598" ADD_DATE="1552706820">Linh Malena - CHỮA NÓNG GAN, YẾU GAN, NÓNG TRONG NGƯỜI, MẨN NGỨA,...</A>
+            <DT><A HREF="http://3tshophangnhat.com/bot-men-vi-sinh-song-bifina-health-aid-nhat-ban" ADD_DATE="1552706820">Bột men vi sinh sống Bifina Health Aid - Nhật Bản</A>
+            <DT><A HREF="https://www.facebook.com/3Tshophangnhat/posts/1379558442083629:0" ADD_DATE="1552706820">3T Shop Hàng Nhật - Bài viết</A>
+            <DT><A HREF="https://www.facebook.com/phonglantim.tran/posts/1625263624164691" ADD_DATE="1552706820">Thanh lọc cơ thể Có một vài cô gái đáng yêu hỏi... - Phong Lan Tím Tran</A>
+            <DT><A HREF="https://www.facebook.com/Rau-Thu%E1%BB%91c-Th%C3%A0nh-M%E1%BA%AFt-522382794626759/" ADD_DATE="1552706820">Rau Thuốc Thành Mắt - Trang chủ</A>
+            <DT><A HREF="https://www.facebook.com/thanh.nguyentrung.73113?fref=ufi" ADD_DATE="1552706820">Thanh Nguyen Trung</A>
+            <DT><A HREF="https://www.facebook.com/phamthisenprc?hc_ref=ARQs62zouA7cajjFOqi3I0XvoQDRcWMyIHJxRm8iiJNpogH5c3NvTk_j6Oc9trx2kV8&fref=nf" ADD_DATE="1552706820">Pham Thi Sen</A>
+            <DT><A HREF="https://www.facebook.com/permalink.php?story_fbid=10205740024294797&id=1681546520" ADD_DATE="1552706820">Van Nguyen - CHÈ HỮU CƠ AN TOÀN VÀ CHẤT LƯỢNG Trời mát, em đi bán...</A>
+            <DT><A HREF="https://www.facebook.com/groups/1538944596428558/permalink/1778004129189269/" ADD_DATE="1552706820">Hàng rào bê tông - Bác Hùng Y</A>
+            <DT><A HREF="https://www.facebook.com/groups/1538944596428558/permalink/1802583043398044/" ADD_DATE="1552706820">Hàng rào bê tông - Bác Hùng Y</A>
+            <DT><A HREF="http://soha.vn/uong-nuoc-gung-khi-doi-co-the-ban-se-nhan-duoc-7-tac-dung-khong-ngo-20170717161119325.htm" ADD_DATE="1552706820">Uống nước gừng khi đói cơ thể bạn sẽ nhận được 7 tác dụng không ngờ</A>
+            <DT><A HREF="https://tinhte.vn/threads/cach-dung-google-flight-de-tim-va-dat-ve-may-bay-gia-re.2715470/" ADD_DATE="1552706820">Cách dùng Google Flight để tìm và đặt vé máy bay giá rẻ | Tinhte.vn</A>
+            <DT><A HREF="https://www.facebook.com/permalink.php?story_fbid=1746326952354618&id=100009319910836" ADD_DATE="1552706820">Bài viết số 0 ! Mục lục và nội dung các bài... - Chiến Thắng Ung Thư</A>
+            <DT><A HREF="http://qtcs.com.vn/chuyen-gia-khuyen-hang-ngay-phai-dung-mat-ong-vao-thoi-diem-nay-de-co-the-ca-doi-khong-dinh-benh-tat/" ADD_DATE="1552706820">Chuyên gia khuyên: Hàng ngày phải dùng mật ong vào thời điểm này để cơ thể cả đời không dính bệnh tật | Quà tặng cuộc sống</A>
+            <DT><A HREF="http://ngoisao.net/tin-tuc/an-choi/an-gi/tra-chanh-gung-sa-detox-3623600.html" ADD_DATE="1552706820">Trà chanh gừng sả detox - Ngôi sao</A>
+            <DT><A HREF="http://dd3.baithuocdaday.com/" ADD_DATE="1552706820">Khỏi hoàn toàn trào ngược dạ dày</A>
+            <DT><A HREF="https://www.facebook.com/groups/rauthuocthanhmat/permalink/545682712306586/" ADD_DATE="1552706820">Rau Thuốc THÀNH MẮT</A>
+            <DT><A HREF="https://www.facebook.com/bacsinguyenlequyen/?hc_ref=ARTW-pecq5Fi9JaaJ33LtpppvnJ_62WA-NsxnwfjeoFcgdiD4VL49jhkJ0Xuc-SYO1Q" ADD_DATE="1552706820">Bác sĩ Nguyễn Lệ Quyên - Trang chủ</A>
+            <DT><A HREF="https://www.facebook.com/groups/1538944596428558/permalink/1949603075362706/" ADD_DATE="1552706820">Hàng rào bê tông - Bác Hùng Y</A>
+            <DT><A HREF="http://soha.vn/tac-dung-ky-dieu-cua-hanh-tay-ngam-ruou-vang-do-20160810225043867.htm" ADD_DATE="1552706820">Tác dụng kỳ diệu của hành tây ngâm rượu vang đỏ</A>
+            <DT><A HREF="http://cafebiz.vn/tra-gung-mat-ong-than-duoc-cho-mua-lanh-nhung-phai-biet-dung-dung-cach-20171026084751488.chn" ADD_DATE="1552706820">Trà gừng mật ong - &#39;thần dược&#39; cho mùa lạnh nhưng phải biết dùng đúng cách</A>
+            <DT><A HREF="http://cafef.vn/thai-doc-duong-ruot-thanh-loc-co-the-hay-uong-1-thia-mat-ong-vao-dung-thoi-diem-2017103115225119.chn" ADD_DATE="1552706820">Thải độc đường ruột, thanh lọc cơ thể: Hãy uống 1 thìa mật ong vào đúng thời điểm</A>
+            <DT><A HREF="http://www.giaoduc.edu.vn/nhung-ly-do-ban-nen-biet-nhom-mau-cua-minh.htm" ADD_DATE="1552706820">Những lý do bạn nên biết nhóm máu của mình | giaoduc.edu.vn</A>
+            <DT><A HREF="https://www.webtretho.com/forum/f92/anh-huong-cua-nhan-to-rh-hay-rh-den-thai-nhi-12594/" ADD_DATE="1552706820">Ảnh hưởng của nhân tố Rh (+) hay Rh (-) đến thai nhi! - 12594</A>
+            <DT><A HREF="https://yeutre.vn/bai-viet/yeu-to-rh-anh-huong-nhu-the-nao-den-thai-nhi-va-thai-phu.11196/" ADD_DATE="1552706820">Yếu tố Rh ảnh hưởng như thế nào đến thai nhi và thai phụ?</A>
+            <DT><A HREF="https://www.wikihow.vn/X%C3%A1c-%C4%91%E1%BB%8Bnh-Nh%C3%B3m-m%C3%A1u-D%C6%B0%C6%A1ng-t%C3%ADnh-v%C3%A0-%C3%82m-t%C3%ADnh" ADD_DATE="1552706820">Cách để Xác định Nhóm máu Dương tính và Âm tính</A>
+            <DT><A HREF="http://www.utemshop.com/mang-thai-b/rh-khong-tuong-thich/" ADD_DATE="1552706820">Rh không tương thích - thông tin quan trọng cần nắm rõ khi mang thai - Út Em Shop - Hà Nội</A>
+            <DT><A HREF="http://www.mamnon.com/DocsDetails.aspx?topicID=43733" ADD_DATE="1552706820">Nhóm máu và khả năng thụ thai: Ảnh hưởng về mặt Di truyền của nhóm Máu</A>
+            <DT><A HREF="http://vietnamnet.vn/vn/suc-khoe/tim-hieu-hai-nhom-mau-o-rh-va-o-rh-421286.html" ADD_DATE="1552706820">Tìm hiểu hai nhóm máu O Rh+ và O Rh-</A>
+            <DT><A HREF="https://vk.com/@maxstern-getting-rid-of-jetbrains-license-crap-forever" ADD_DATE="1552706820">Using a crack for JetBrains products (UPDATED February 3) | VK</A>
+        </DL><p>
+        <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706820">.Net</H3>
+        <DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706823">SSH</H3>
+            <DL><p>
+                <DT><A HREF="https://www.rebex.net/support/tutorial/ssh-shell/default.aspx" ADD_DATE="1552706821">SSH Shell Tutorial</A>
+                <DT><A HREF="http://www.codeproject.com/Articles/13422/Terminal-Control-Project-C-VT100-SSH-Telnet" ADD_DATE="1552706821">Terminal Control Project (C# VT100 SSH Telnet) - CodeProject</A>
+                <DT><A HREF="http://www.tamirgal.com/blog/page/SharpSSH.aspx" ADD_DATE="1552706821">Tamir Gal | SharpSSH - A Secure Shell (SSH) library for .NET</A>
+                <DT><A HREF="http://www.csharpopensource.com/sharpssh.aspx" ADD_DATE="1552706822">SharpSSH - A Secure Shell (SSH) library for .NET</A>
+                <DT><A HREF="http://www.codeproject.com/Articles/11966/sharpSsh-A-Secure-Shell-SSH-library-for-NET" ADD_DATE="1552706822">sharpSsh - A Secure Shell (SSH) library for .NET - CodeProject</A>
+                <DT><A HREF="http://www.dart.com/ssh-client-sample.aspx" ADD_DATE="1552706822">SSH C# Client | VB .NET Client Sample Application | Multiple SSH Sessions VB6</A>
+                <DT><A HREF="https://code.google.com/p/superputty/" ADD_DATE="1552706823">superputty - A Telnet/SSH/SCP/SFTP client using PuTTY - Google Project Hosting</A>
+                <DT><A HREF="http://www.vmdude.fr/en/news-en/sshautoconnect-vcenter-plugin/" ADD_DATE="1552706823">sshAutoConnect vCenter plugin | vmdude</A>
+                <DT><A HREF="https://sshnet.codeplex.com/releases/view/104648" ADD_DATE="1552706823">SSH.NET Library - Download: 2013.4.7</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706821">Source</H3>
+            <DL><p>
+                <DT><A HREF="http://www.codeplex.com/site/search?query=%22C%23%22&sortBy=Relevance&licenses=%7C" ADD_DATE="1552706821">CodePlex - Project Directory</A>
+                <DT><A HREF="http://cplus.about.com/od/codelibraryforc/" ADD_DATE="1552706821">A Library of Software written in C with full source code.</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706823">Remote Desktop</H3>
+            <DL><p>
+                <DT><A HREF="http://raunomagi.blogspot.com/2013/01/mechita-remote-desktop-application.html" ADD_DATE="1552706821">Home for small wisdoms: mechita - Remote Desktop application written in C#</A>
+                <DT><A HREF="http://kishordgupta.wordpress.com/2011/02/03/controlling-pc-and-remote-access-via-lan-in-c/" ADD_DATE="1552706821">Controlling PC And Remote Access via lan in c# | Kishordgupta&#39;s Blog</A>
+                <DT><A HREF="http://www.codeproject.com/Articles/43705/Remote-Desktop-using-C-NET" ADD_DATE="1552706821">Remote Desktop using C#.NET - CodeProject</A>
+                <DT><A HREF="http://www.codeproject.com/Articles/33979/Multi-RDP-Client-NET" ADD_DATE="1552706822">Multi RDP Client .NET - CodeProject</A>
+                <DT><A HREF="http://bobcravens.com/2009/04/create-a-remote-desktop-viewer-using-c-and-wcf/" ADD_DATE="1552706822">Create a Remote Desktop Viewer using C# and WCF</A>
+                <DT><A HREF="https://code.google.com/p/multiremotedesktopclient/downloads/list" ADD_DATE="1552706822">Downloads - multiremotedesktopclient - A Multi Remote Desktop Client .NET (32bit) written in C# under .NET 3.5 Framework - Google Project Hosting</A>
+                <DT><A HREF="http://sshnet.codeplex.com/documentation" ADD_DATE="1552706823">SSH.NET Library - Documentation</A>
+            </DL><p>
+        </DL><p>
+        <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706820">IBM BTT</H3>
+        <DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706825">Worklight</H3>
+            <DL><p>
+                <DT><A HREF="http://pic.dhe.ibm.com/infocenter/wrklight/v6r1m0/index.jsp" ADD_DATE="1552706820">Help - IBM Worklight</A>
+                <DT><A HREF="http://technocod.blogspot.com/search?updated-max=2013-01-09T06:54:00-08:00&max-results=7&start=7&by-date=false" ADD_DATE="1552706821">TechnoCod</A>
+                <DT><A HREF="https://developer.ibm.com/mobilefirstplatform/blogs/" ADD_DATE="1552706821">Blogs - IBM MobileFirst Platform Foundation</A>
+                <DT><A HREF="https://developer.ibm.com/mobilefirstplatform/" ADD_DATE="1552706822">Home - IBM MobileFirst Platform Foundation</A>
+                <DT><A HREF="https://www-01.ibm.com/support/knowledgecenter/SSHS8R_6.3.0/wl_welcome.html" ADD_DATE="1552706822">IBM Knowledge Center</A>
+                <DT><A HREF="https://developer.ibm.com/mobilefirstplatform/documentation/getting-started-all-tutorials-6-3/" ADD_DATE="1552706822">All Tutorials - IBM MobileFirst Platform Foundation</A>
+                <DT><A HREF="http://mfp.help/" ADD_DATE="1552706823">mfp.HELP() | The world&#39;s first MobileFirst Platform self-education resource</A>
+                <DT><A HREF="http://www.sitepoint.com/build-a-mobile-hybrid-app-using-ibm-worklight-part-1/" ADD_DATE="1552706823">Build a Mobile Hybrid App Using IBM Worklight: Part 1</A>
+                <DT><A HREF="https://www-01.ibm.com/support/knowledgecenter/SSHS8R_7.0.0/wl_welcome.html" ADD_DATE="1552706823">IBM Knowledge Center - IBM MobileFirst Platform Foundation 7.0.0</A>
+                <DT><A HREF="https://developer.ibm.com/mobilefirstplatform/documentation/getting-started-7-0/starter-application-samples/" ADD_DATE="1552706824">Starter application samples - IBM MobileFirst Platform</A>
+                <DT><A HREF="https://www.developergarden.com/en/apis/apis-sdks/ibm-worklight/get-started/" ADD_DATE="1552706824">Get Started - IBM Worklight - cross platform app development for iOS and Android | Developer Garden APIs</A>
+                <DT><A HREF="http://javatechig.com/tag/ibm-worklight" ADD_DATE="1552706824">IBM Worklight | JavaTechig</A>
+                <DT><A HREF="http://www.ibmworklightdevelopers.com/" ADD_DATE="1552706825">IBM Worklight Developers</A>
+            </DL><p>
+            <DT><A HREF="http://pic.dhe.ibm.com/infocenter/btt/v8r1m0/index.jsp" ADD_DATE="1552706820">IBM WebSphere Multichannel Bank Transformation Toolkit</A>
+            <DT><A HREF="http://www.ibm.com/developerworks/mobile/worklight/getting-started.html" ADD_DATE="1552706820">IBM developerWorks : IBM Worklight : Getting started</A>
+            <DT><A HREF="http://www-01.ibm.com/support/knowledgecenter/SSLLUH_7.1.0/com.ibm.btt.doc_7.1/doc/concepts/extend.html" ADD_DATE="1552706820">IBM Knowledge Center - Extending</A>
+        </DL><p>
+        <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706820">Mule ESB</H3>
+        <DL><p>
+            <DT><A HREF="http://technicalmumbojumbo.wordpress.com/2014/01/10/mule-esb-tutorial-series-an-introduction/" ADD_DATE="1552706820">Mule ESB Tutorial Series – An Introduction | My Experiments with Technology</A>
+            <DT><A HREF="http://www.mulesoft.org/documentation/display/current/Content-Based+Routing+Tutorial" ADD_DATE="1552706820">Content-Based Routing Tutorial - Current Mule Documentation</A>
+            <DT><A HREF="http://www.mulesoft.org/documentation-3.2/display/32X/Intermediate+Studio+Tutorial" ADD_DATE="1552706820">Intermediate Studio Tutorial - Mule 3.2.X Documentation</A>
+            <DT><A HREF="http://www.mulesoft.org/documentation-3.2/display/MULE2INTRO/Tutorial" ADD_DATE="1552706820">Tutorial - Mule 2.x Getting Started Guide</A>
+            <DT><A HREF="http://www.mulesoft.org/documentation-3.2/display/32X/Mule+Studio+3.2.X" ADD_DATE="1552706820">Mule Studio 3.2.X - Mule 3.2.X Documentation</A>
+            <DT><A HREF="http://www.mulesoft.org/documentation/display/current/Basic+Studio+Tutorial" ADD_DATE="1552706820">Basic Studio Tutorial - Current Mule Documentation</A>
+            <DT><A HREF="http://www.mulesoft.org/documentation/display/current/Mule+Examples" ADD_DATE="1552706820">Mule Examples - Current Mule Documentation</A>
+        </DL><p>
+        <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706820">Common</H3>
+        <DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706824">JBase</H3>
+            <DL><p>
+                <DT><A HREF="http://www.t24all.com/forum/10-jbase.html" ADD_DATE="1552706821">t24All :: Topics in jBASE (1/10) - t24All - Knowledge pool for Temenos T24</A>
+                <DT><A HREF="http://www.tutorialjinni.com/" ADD_DATE="1552706821">Java Tutorial | Temenos T24 | PHP Tutorial | AJAX Tutorial | EBooks |Database Tutorial | SEO Tutorial |Tutorial Jinni</A>
+                <DT><A HREF="http://www.tutorialjinni.com/2010/12/jbase-infobasic-function-encrypt.html" ADD_DATE="1552706821">jBase Infobasic Function ENCRYPT | Tutorial Jinni</A>
+                <DT><A HREF="https://groups.google.com/forum/?fromgroups=#!topic/jbase/8LhMQbHVpC4" ADD_DATE="1552706822">Help on JBASE 3DES BASE64 Encryption - Google Groups</A>
+                <DT><A HREF="http://www.jbase.com/r5/knowledgebase/" ADD_DATE="1552706822">jBASE International</A>
+                <DT><A HREF="http://docs.intersystems.com/ens20102/csp/docbook/DocBook.UI.Page.cls?KEY=RVBS_foconv" ADD_DATE="1552706823">OCONV</A>
+                <DT><A HREF="https://groups.google.com/forum/#!topic/jBASE/FCJFKBgkcIo" ADD_DATE="1552706823">JBASE- function to calculate the 2nd, 3rd and 4th monday of every month - Google Groups</A>
+                <DT><A HREF="http://www.wikibanking.info/?p=179" ADD_DATE="1552706823">Dates Manipulation « WIKIBANKING dot INFO</A>
+                <DT><A HREF="http://www.jbase.com/new/support/documentation.html" ADD_DATE="1552706824">jBASE International</A>
+                <DT><A HREF="http://jbc.temenos.com/pages/oconv.html" ADD_DATE="1552706824">OCONV</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706828">Flash</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706833">Flex</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.onjava.com/pub/a/onjava/2004/12/01/flexjava.html?page=2" ADD_DATE="1552706829">ONJava.com -- Integrating Macromedia Flex with Java</A>
+                    <DT><A HREF="http://coenraets.org/flex-spring" ADD_DATE="1552706830">Christophe Coenraets » Using Flex with Spring</A>
+                    <DT><A HREF="http://www.flex.org/" ADD_DATE="1552706830">Flex.org - The directory for Adobe Flex</A>
+                    <DT><A HREF="http://java.sys-con.com/read/210991_1.htm" ADD_DATE="1552706830">Rich Internet Applications with Adobe Flex 2 and Java @ JAVA DEVELOPER&#39;S JOURNAL</A>
+                    <DT><A HREF="http://coldfusion.sys-con.com/read/86127.htm" ADD_DATE="1552706830">Getting Started Integrating CFML with Java &amp; .NET @ COLDFUSION DEVELOPER&#39;S JOURNAL</A>
+                    <DT><A HREF="http://www.waldosmeets.com/category/adobe-engagement-platform/adobe-flex/" ADD_DATE="1552706831">Adobe Flex archive at Waldo Smeets .com on Rich Internet Applications</A>
+                    <DT><A HREF="http://www.augitaly.com/flexgala/index.php?cmd=newsreader&id=31" ADD_DATE="1552706831">News : Accedere a servizi Java remoti con il Remote Object</A>
+                    <DT><A HREF="http://www.adobe.com/devnet/flex/?tab:samples=1" ADD_DATE="1552706831">Adobe - Flex Developer Center</A>
+                    <DT><A HREF="http://labs.adobe.com/wiki/index.php/Flex:Open_Source" ADD_DATE="1552706832">Flex:Open Source - Adobe Labs</A>
+                    <DT><A HREF="http://www.adobe.com/devnet/flex/?tab:quickstart=1" ADD_DATE="1552706832">Adobe - Flex Developer Center</A>
+                    <DT><A HREF="http://learn.adobe.com/wiki/display/Flex/Event+Demo" ADD_DATE="1552706832">Event Demo - Flex 3 Getting Started - Adobe Learning Resources</A>
+                    <DT><A HREF="http://flex.org/showcase/" ADD_DATE="1552706832">http://flex.org/showcase/</A>
+                    <DT><A HREF="http://flex.org/showcase/widget" ADD_DATE="1552706832">Flex Showcase Widget | Flex.org - Rich Internet Application Development</A>
+                    <DT><A HREF="http://www.adobe.com/devnet/flex/" ADD_DATE="1552706833">Adobe - Flex Developer Center</A>
+                    <DT><A HREF="http://opensource.adobe.com/wiki/display/blazeds/BlazeDS" ADD_DATE="1552706833">BlazeDS - BlazeDS - Confluence</A>
+                    <DT><A HREF="http://www.jamesward.com/wordpress/2008/07/09/article-videos-on-integrating-flex-and-java/" ADD_DATE="1552706833">Article &amp; Videos on Integrating Flex and Java | James Ward - RIA Cowboy</A>
+                </DL><p>
+                <DT><A HREF="http://www.polar-lights.com/fla/detection.html" ADD_DATE="1552706821">How to detect Flash plug-in</A>
+                <DT><A HREF="http://www.quirksmode.org/js/flash.html" ADD_DATE="1552706821">JavaScript - Flash detect</A>
+                <DT><A HREF="http://www.kirupa.com/developer/mx/detection.htm" ADD_DATE="1552706822">kirupa.com - Flash Detection Scripts</A>
+                <DT><A HREF="http://www.flashpearls.com/archives/news_flash/" ADD_DATE="1552706822">Flash Pearls: News Flash Archives</A>
+                <DT><A HREF="http://www.javascriptkit.com/script/script2/plugindetect.shtml" ADD_DATE="1552706822">Cut &amp; Paste Detect Plugin (Flash, Java, RealPlayer etc) script</A>
+                <DT><A HREF="http://www.sitepoint.com/article/activex-activation-issue-ie" ADD_DATE="1552706823">ObjectSwap: Bypassing the ActiveX Activation Issue in IE [HTML &amp; XHTML Tutorials]</A>
+                <DT><A HREF="http://www.asual.com/swfaddress/" ADD_DATE="1552706823">Asual » SWFAddress</A>
+                <DT><A HREF="http://www.alistapart.com/articles/flashsatay" ADD_DATE="1552706824">A List Apart: Articles: Flash Satay: Embedding Flash While Supporting Standards</A>
+                <DT><A HREF="http://www.alistapart.com/articles/flashsatay/" ADD_DATE="1552706824">A List Apart: Articles: Flash Satay: Embedding Flash While Supporting Standards</A>
+                <DT><A HREF="http://www.bobbyvandersluis.com/" ADD_DATE="1552706824">bobbyvandersluis.com | personal website with articles about web design and web production</A>
+                <DT><A HREF="http://www.unfocus.com/projects/PatentMagic/" ADD_DATE="1552706824">Object Patent Magic</A>
+                <DT><A HREF="http://blog.deconcept.com/2005/03/31/proper-flash-embedding-flashobject-best-practices/" ADD_DATE="1552706824">deconcept › Proper Flash embedding: FlashObject Best Practices</A>
+                <DT><A HREF="http://www.moock.org/webdesign/flash/detection/moockfpi/" ADD_DATE="1552706825">moock&gt;&gt; web&gt;&gt; flash&gt;&gt; detection&gt;&gt; moock fpi</A>
+                <DT><A HREF="http://blog.deconcept.com/swfobject/" ADD_DATE="1552706825">deconcept › SWFObject: Javascript Flash Player detection and embed script</A>
+                <DT><A HREF="http://www.aflax.org/" ADD_DATE="1552706825">Aflax: The Ajax Library for the Adobe Flash™ Platform</A>
+                <DT><A HREF="http://www.flapjax-lang.org/demos/delicious/" ADD_DATE="1552706825">Flapjax Demo Code</A>
+                <DT><A HREF="http://drupal.org/project/swftools" ADD_DATE="1552706825">SWF Tools | drupal.org</A>
+                <DT><A HREF="http://www.powerflasher.de/sites/blog/swfobject/" ADD_DATE="1552706826">SWFObject: Javascript Flashplayer detection und Skript zum Einbetten | POWERFLASHER</A>
+                <DT><A HREF="http://mir.aculo.us/2006/02/16/flash-without-flash" ADD_DATE="1552706826">mir.aculo.us</A>
+                <DT><A HREF="http://www.swfir.com/" ADD_DATE="1552706826">swfIR: swf Image Replacement</A>
+                <DT><A HREF="http://www.alsacreations.fr/" ADD_DATE="1552706826">Alsacréations. Création de Site Internet à Strasbourg en Alsace.</A>
+                <DT><A HREF="http://blogs.mostar-style.net/charles/?itemid=32" ADD_DATE="1552706826">Alma keyboard player&#39;s Blog » NP_DewPlayer : Nucleus Plugin for easy insert of DewPlayer</A>
+                <DT><A HREF="http://www.estvideo.com/dew/index/2005/02/16/370-player-flash-mp3-leger-comme-une-plume" ADD_DATE="1552706827">Player Flash MP3 léger comme une plume - dew&#39;s blog</A>
+                <DT><A HREF="http://www.estvideo.com/dew/index/2006/05/02/707-dewplayer-1-5" ADD_DATE="1552706827">Dewplayer 1.5 - dew&#39;s blog</A>
+                <DT><A HREF="http://www.pmwiki.org/wiki/Cookbook/FlashMediaPlayer" ADD_DATE="1552706827">PmWiki | Cookbook / FlashMediaPlayer</A>
+                <DT><A HREF="http://www.asual.com/swfaddress/" ADD_DATE="1552706827">Asual | SWFAddress - Deep linking for Flash and Ajax</A>
+                <DT><A HREF="http://www.swffix.org/devblog/" ADD_DATE="1552706827">SWFFix Dev Blog</A>
+                <DT><A HREF="http://blog.daweed.info/laboratoire/laboratoire-javascript/mise-a-jour-du-script-swfintegrator" ADD_DATE="1552706827">| Mise a jour du script swfIntegrator | daweed.info</A>
+                <DT><A HREF="http://blog.codefidelity.com/" ADD_DATE="1552706827">Codefidelity</A>
+                <DT><A HREF="http://www.topfstedt.de/weblog/?page_id=208" ADD_DATE="1552706827">blogsportgruppe* » FLV-Scrubber</A>
+                <DT><A HREF="http://wpaudioplayer.com/frequently-asked-questions" ADD_DATE="1552706828">WordPress Audio Player » Frequently asked questions</A>
+                <DT><A HREF="http://flowplayer.org/" ADD_DATE="1552706828">Flowplayer - Flash Video Player for the Web</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706824">OTP</H3>
+            <DL><p>
+                <DT><A HREF="https://code.google.com/p/otpd/" ADD_DATE="1552706820">otpd - An OTP daemon - Google Project Hosting</A>
+                <DT><A HREF="https://code.google.com/p/otpauth/" ADD_DATE="1552706821">otpauth - One-Time Password Authentication (OTPauth) Poor-man&#39;s two-factor authentication solution in php based on RFC 2289 - Google Project Hosting</A>
+                <DT><A HREF="http://msdn.microsoft.com/en-us/magazine/cc507635.aspx" ADD_DATE="1552706821">Safer Authentication with a One-Time Password Solution</A>
+                <DT><A HREF="http://www.makeuseof.com/tag/free-time-password-generators-iphone-android-devices/" ADD_DATE="1552706822">5 Free One Time Password Generators For iPhone, Android &amp; Other Devices</A>
+                <DT><A HREF="http://pubs.gpaterno.com//2010/dublin_ossbarcamp_2010_otp_with_oss.pdf" ADD_DATE="1552706822">pubs.gpaterno.com//2010/dublin_ossbarcamp_2010_otp_with_oss.pdf</A>
+                <DT><A HREF="http://otpgenerator.sourceforge.net/" ADD_DATE="1552706822">SourceForge.net: OTP Generator - Project Web Hosting - Open Source Software</A>
+                <DT><A HREF="http://blog.walkerville.org/?p=246" ADD_DATE="1552706823">Google-Authenticator – using OTP | Walkerville.org</A>
+                <DT><A HREF="http://www.rcdevs.com/products/openotp/" ADD_DATE="1552706823">Two-Factor Authentication - e-Identity - PKI Solutions</A>
+                <DT><A HREF="http://motp.sourceforge.net/" ADD_DATE="1552706824">Mobile-OTP: Strong Two-Factor Authentication with Mobile Phones</A>
+                <DT><A HREF="https://code.google.com/p/mod-authn-otp/wiki/Tokens" ADD_DATE="1552706824">Tokens - mod-authn-otp - Getting tokens for use with mod_authn_otp - Apache module for one-time password authentication - Google Project Hosting</A>
+                <DT><A HREF="http://freecode.com/tags/otp" ADD_DATE="1552706824">12 projects tagged &quot;OTP&quot; – Freecode</A>
+                <DT><A HREF="https://www.javacodegeeks.com/2018/03/angular5-jwt-authentication-spring-boot-security.html" ADD_DATE="1552706824">Angular5 JWT Authentication (Spring Boot Security) | Java Code Geeks - 2018</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706824">SMS</H3>
+            <DL><p>
+                <DT><A HREF="http://www.kannel.org/" ADD_DATE="1552706821">Kannel: Open Source WAP and SMS Gateway</A>
+                <DT><A HREF="http://my.opera.com/trieu_dang/blog/ca" ADD_DATE="1552706821">Các giải pháp xây dựng hệ thống xử lý gửi - nhận tin nhắn SMS tự động - By Nguyễn Văn Triều Dâng</A>
+                <DT><A HREF="http://developers.sun.com/mobility/midp/articles/sms/" ADD_DATE="1552706821">SMS -- Short but Sweet</A>
+                <DT><A HREF="http://my.opera.com/trieu_dang/blog/show.dml/673656" ADD_DATE="1552706822">Tìm hiểu dịch vụ SMS và kỹ thuật xây dựng ứng dụng SMS - By Nguyễn Văn Triều Dâng</A>
+                <DT><A HREF="http://www.mobilein.com/sms.htm" ADD_DATE="1552706822">Short Message Service</A>
+                <DT><A HREF="http://www.developershome.com/sms/" ADD_DATE="1552706822">Short Message Service / SMS Tutorial</A>
+                <DT><A HREF="http://smslib.org/" ADD_DATE="1552706823">SMSLib</A>
+                <DT><A HREF="http://sourceforge.net/projects/javasmppclient" ADD_DATE="1552706823">SourceForge.net: SMPPClientServer</A>
+                <DT><A HREF="http://smstools.wiki.sourceforge.net/" ADD_DATE="1552706823">SourceForge.net: smstools » home</A>
+                <DT><A HREF="http://opensmpp.logica.com/CommonPart/Documentation/Documentation.htm" ADD_DATE="1552706824">Documentation</A>
+                <DT><A HREF="http://www.onjava.com/pub/a/onjava/2004/06/09/sms.html" ADD_DATE="1552706824">SMS-Powered Applications | O&#39;Reilly Media</A>
+                <DT><A HREF="http://twit88.com/home/" ADD_DATE="1552706824">Open Source @ twit88.com | Delivering innovative open source solutions</A>
+                <DT><A HREF="http://www.telestax.com/opensource/" ADD_DATE="1552706824">TeleStax – Open Source Cloud Communications Telestax Open Source projects - Mobicents</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706826">Tail log</H3>
+            <DL><p>
+                <DT><A HREF="http://tailforwin32.sourceforge.net/" ADD_DATE="1552706821">Tail for Win32 - Home Page</A>
+                <DT><A HREF="http://support.neostreams.info/audio-streams/shoutcast-streams/how-to-use-the-tail-logfile/" ADD_DATE="1552706821">How to Use the Tail Logfile – Support for nEo Stream Services</A>
+                <DT><A HREF="http://commavee.com/2007/04/13/ajax-logfile-tailer-viewer/" ADD_DATE="1552706821">Commavee » AJAX Logfile Tailer &amp; Viewer</A>
+                <DT><A HREF="http://www.xinotes.org/notes/note/155/" ADD_DATE="1552706822">Tail a log file in the web browser | Xinotes</A>
+                <DT><A HREF="http://help.papertrailapp.com/kb/configuration/configuring-centralized-logging-from-unix-servers-applications#remote_syslog" ADD_DATE="1552706822">Configuring centralized logging from Unix servers &amp; applications / Configuration / Knowledge Base - Papertrail Support</A>
+                <DT><A HREF="https://github.com/ukhas/js-logtail#readme" ADD_DATE="1552706822">ukhas/js-logtail · GitHub</A>
+                <DT><A HREF="http://code.google.com/p/php-tail/" ADD_DATE="1552706823">php-tail - Tail -f functionality implemented in PHP - Google Project Hosting</A>
+                <DT><A HREF="http://www.fudgie.org/" ADD_DATE="1552706823">glTail.rb - realtime logfile visualization</A>
+                <DT><A HREF="http://www.fourmilab.ch/webtools/logtail/" ADD_DATE="1552706823">logtail: watch multiple log files on multiple machines</A>
+                <DT><A HREF="http://www.vanhulzenonline.nl/techblog/j2tail/" ADD_DATE="1552706824">J2tail : André&#39;s techblog</A>
+                <DT><A HREF="http://geekswithblogs.net/robz/archive/2008/05/09/baretail---log-file-monitoring-tool.aspx" ADD_DATE="1552706824">BareTail - Log File Monitoring Tool</A>
+                <DT><A HREF="http://www.tuxradar.com/answers/192" ADD_DATE="1552706824">View log files in Webmin | TuxRadar Linux</A>
+                <DT><A HREF="http://www.exacttrend.com/download.html" ADD_DATE="1552706825">Downloads</A>
+                <DT><A HREF="http://www.hootech.com/WinTail/" ADD_DATE="1552706825">Tail for Windows - Windows Tail, Tail Command for Windows, WinTail, Hoo WinTail</A>
+                <DT><A HREF="https://github.com/aestasit/logviewer" ADD_DATE="1552706825">aestasit/logviewer · GitHub</A>
+                <DT><A HREF="http://code.google.com/a/eclipselabs.org/p/logviewer/downloads/list" ADD_DATE="1552706825">Downloads - logviewer - =Eclipse Log Viewer= - Google Project Hosting</A>
+                <DT><A HREF="http://sourceforge.net/projects/remotelogview/" ADD_DATE="1552706825">Remote Log Viewer | Free System Administration software downloads at SourceForge.net</A>
+                <DT><A HREF="http://easyerl.blogspot.com/2008/05/monitoring-log-files-with.html" ADD_DATE="1552706825">EazyErl !: Monitoring log files with &#39;tail&#39;</A>
+                <DT><A HREF="http://www.logfusion.ca/Screenshots/" ADD_DATE="1552706826">Screenshots | LogFusion by Binary Fortress Software</A>
+                <DT><A HREF="http://lloogg.com/" ADD_DATE="1552706826">LLOOGG - web 2.0 tail -f access.log</A>
+                <DT><A HREF="http://fetchlog.sourceforge.net/" ADD_DATE="1552706826">fetchlog - fetch new messages of a logfile</A>
+                <DT><A HREF="http://web.synametrics.com/SyntailLiveDemo.htm" ADD_DATE="1552706826"></A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706821">Cloud</H3>
+            <DL><p>
+                <DT><A HREF="http://jelastic.com/" ADD_DATE="1552706821">Jelastic — Top Java Host, Rock-Solid Java in the Cloud, Java Server Hosting, Java Cloud Computing</A>
+                <DT><A HREF="https://github.com/" ADD_DATE="1552706821" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACJElEQVQ4jY1TMWsUQRT+5r3d3Cbe7t3u3hEDdoJgIVieGo1YBixsBIsUtvkHNpaCnaJFUMEihSlEbGxFE8XCRrDWIAqJyd3t3JGcuduZeRa5DUtAk6968/i+733zhlE4hHq9foWZbwG4pkRmAECU2gDw1lr7Qmu9WuarUs2NOH7Onrdw2LQMa8xyO8tuA7BlA07TdM0juvA/cQHj3KdOp3MZgGUAaMTxssc8nxuzOsrzm90s2yDmU6TUtoh0BKhut9t3Rnl+1/O8Mz7z7GSlcnqwt/cKURS1pptNmW42JUmSpfGQKoCp0tBqkTZJkqWCH0VRiyaYFw/uZ+2zcbkDYFAy2AEgAOCcWymaE8yLBOZZALDOjQB0jrGCdevccH9zPEsYPxWU2uz1eutHqbXWP6DUbwCAyAwV0QDUANAxEhBE6uNaSICfAMBK1dI0vX6UOo7jeSaKsD/5F5FSa04EW+22dca8jMPw0r/ESRheZKKnxVlE3lFuzOPRMIeIWN3v93u7ux+IaBBFUasgBkFwlYi2/SD4yEQnSwaPSGv9xa/4T6abzYm6789Vq9WFMAw/K6W2CmKlUtmJoqhRTmNFHmRZ9vXgLyRx/J6IzlnnzotIX2utS/ywkaabTDQFANaY1+0su7G/0TG6WTYHpVaY6LvH/A3ATMngRCE2xtwrxADA5ViDweDNZBDsQamG7/vLw+HwDwDUajVfiZx1wMNOt3u/rPkLJe7aBdfH1TYAAAAASUVORK5CYII=">GitHub</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706825">Interview</H3>
+            <DL><p>
+                <DT><A HREF="http://www.techinterviews.com/" ADD_DATE="1552706821">@ Tech Interviews.com</A>
+                <DT><A HREF="http://www.allinterview.com/" ADD_DATE="1552706821">ALL Interview .com :: Collection and Sharing of Interview Questions and Answers</A>
+                <DT><A HREF="http://www.allapplabs.com/interview_questions/java_interview_questions.htm" ADD_DATE="1552706821">Java Interview Questions</A>
+                <DT><A HREF="http://www.javacertificate.net/interview_qns.htm" ADD_DATE="1552706822">Java Interview Questions</A>
+                <DT><A HREF="http://www.interview-questions-java.com/" ADD_DATE="1552706822">Java Interview Questions</A>
+                <DT><A HREF="http://javapapers.com/" ADD_DATE="1552706822">JAVA INTERVIEW QUESTIONS</A>
+                <DT><A HREF="http://www.freejavaguide.com/java-interview-questions.html" ADD_DATE="1552706823">Java Interview Questions | Java programming source code</A>
+                <DT><A HREF="http://www.seekjava.info/" ADD_DATE="1552706823">Java Interview Questions, Hibernate Interview Questions, EJB Interview Questions</A>
+                <DT><A HREF="http://javagalaxy.com/" ADD_DATE="1552706824">Java Interview Questions, Java Forums, Java Source codes, Free online Java Certification - Javagalaxy.com</A>
+                <DT><A HREF="http://www.javabeat.net/articles/java-j2ee-interview-questions.php" ADD_DATE="1552706824">Java / J2EE Interview Questions and FAQs</A>
+                <DT><A HREF="http://www.allapplabs.com/interview_questions/db_interview_questions.htm" ADD_DATE="1552706824">DB Interview Questions</A>
+                <DT><A HREF="http://www.javabeat.net/articles/110-j2ee-interview-questions-1.html" ADD_DATE="1552706824">J2EE Interview Questions - 1</A>
+                <DT><A HREF="http://www.geekinterview.com/Interview-Questions/Database" ADD_DATE="1552706824">Database Interview Questions</A>
+                <DT><A HREF="http://www.go4expert.com/forums/showthread.php?t=322" ADD_DATE="1552706825">Database interview questions for beginner</A>
+                <DT><A HREF="http://www.coolinterview.com/type.asp?iType=19" ADD_DATE="1552706825">SQL Interview Questions and Answers - SQL Interview FAQs &amp; SQL Books</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706824">ISO 8583</H3>
+            <DL><p>
+                <DT><A HREF="http://bankdemo.googlecode.com/svn/trunk/src/j8583/example/Server.java" ADD_DATE="1552706821">http://bankdemo.googlecode.com/svn/trunk/src/j8583/example/Server.java</A>
+                <DT><A HREF="http://www.codeproject.com/Articles/100084/Introduction-to-ISO-8583" ADD_DATE="1552706821">Introduction to ISO 8583 - CodeProject</A>
+                <DT><A HREF="http://en.wikipedia.org/wiki/ISO_8583#Bitmaps" ADD_DATE="1552706821">ISO 8583 - Wikipedia, the free encyclopedia</A>
+                <DT><A HREF="http://www.a2zss.com/cms/iso8583sdk.html" ADD_DATE="1552706822">ISO8583 : ISO-8583 SDK for Java and .NET : AZS Services</A>
+                <DT><A HREF="http://j8583.sourceforge.net/polyglot.html" ADD_DATE="1552706822">j8583 - Polyglot compatibility</A>
+                <DT><A HREF="http://j8583.sourceforge.net/desc8583en.html" ADD_DATE="1552706822">j8583 Framework</A>
+                <DT><A HREF="http://j8583.sourceforge.net/config.html" ADD_DATE="1552706823">j8583 Framework :: XML Configuration</A>
+                <DT><A HREF="http://jimmod.com/blog/2011/07/jimmys-blog-iso-8583-introduction-beginners-tutorial/" ADD_DATE="1552706823">Jimmy’s Blog – ISO 8583 Tutorial – Introduction for Beginners | Jimmy&#39;s Blog</A>
+                <DT><A HREF="http://www.kuriositaet.de/iso8583/introduction.html" ADD_DATE="1552706824">ISO 8583 - Introduction to the Protocol</A>
+                <DT><A HREF="http://jimmod.com/blog/2011/07/jimmys-blog-iso-8583-tutorial-build-and-parse-iso-message-using-jpos-library/" ADD_DATE="1552706824">Jimmy&#39;s Blog - ISO 8583 Tutorial - Build and Parse ISO Message using JPOS library | Jimmy&#39;s Blog</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706828">Google Map</H3>
+            <DL><p>
+                <DT><A HREF="https://developers.google.com/maps/documentation/javascript/examples/" ADD_DATE="1552706821">Code Samples - Google Maps JavaScript API v3 — Google Developers</A>
+                <DT><A HREF="https://developers.google.com/maps/documentation/javascript/tutorial" ADD_DATE="1552706821">Getting Started - Google Maps JavaScript API v3 — Google Developers</A>
+                <DT><A HREF="http://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerclusterer/docs/examples.html" ADD_DATE="1552706821">MarkerCluster for v3 Documentation: Examples</A>
+                <DT><A HREF="http://www.w3schools.com/googleAPI/google_maps_api_key.asp" ADD_DATE="1552706822">Google Maps API</A>
+                <DT><A HREF="http://www.geocodezip.com/" ADD_DATE="1552706822">Google Maps API links</A>
+                <DT><A HREF="http://enriquemorenotent.com/basic-google-maps-api-v3-tutorial/" ADD_DATE="1552706823">Basic Google Maps API v3 Tutorial | Enrique Moreno Tent</A>
+                <DT><A HREF="http://blog.fpmurphy.com/2010/10/google-maps-javascript-api-v3-examples.html" ADD_DATE="1552706823">Google Maps JavaScript API V3 Examples « Musings</A>
+                <DT><A HREF="http://snipplr.com/view/65524/" ADD_DATE="1552706823">Google Maps API V3 Javascript Basic Example - JavaScript - Snipplr Social Snippet Repository</A>
+                <DT><A HREF="http://maps.cga.harvard.edu/gmaps_instruction/exercise01.html" ADD_DATE="1552706823">CGA Google Maps API Tutorial</A>
+                <DT><A HREF="http://www.jameslove.com/google-map-api-v3-tutorial/index.html" ADD_DATE="1552706824">James Love, Vernon BC</A>
+                <DT><A HREF="https://www.creare.co.uk/local-business-map-google-maps-api" ADD_DATE="1552706824">Google Maps API v3 tutorial - how to make a simple local business map</A>
+                <DT><A HREF="http://theroadtodelphi.wordpress.com/2010/08/07/using-the-google-maps-api-v3-from-delphi-part-i-basic-functionality/" ADD_DATE="1552706824">Using the Google Maps API V3 from Delphi – Part I Basic functionality | The Road to Delphi - a Blog about programming</A>
+                <DT><A HREF="http://www.evoluted.net/thinktank/web-development/google-maps-api-v3-custom-location-pins" ADD_DATE="1552706825">Google Maps API v3 with Custom Pins | Think Tank</A>
+                <DT><A HREF="http://www.codeproject.com/Articles/291499/Google-Maps-API-V3-for-ASP-NET" ADD_DATE="1552706825">Google Maps API V3 for ASP.NET - CodeProject</A>
+                <DT><A HREF="http://marcgrabanski.com/articles/jquery-google-maps-tutorial-basics" ADD_DATE="1552706825">jQuery and Google Maps Tutorial: #1 Basics</A>
+                <DT><A HREF="http://google-maps-utility-library-v3.googlecode.com/svn/trunk/infobox/docs/examples.html" ADD_DATE="1552706825">InfoBox Documentation: Examples</A>
+                <DT><A HREF="http://dotnetdevtricks.blogspot.com/2012/10/google-map-api-v3-with-mvc4-razor.html" ADD_DATE="1552706825">Google Map API V3 with MVC4 Razor | .net tips and tricks</A>
+                <DT><A HREF="http://www.whizzy.org/2009/05/absolute-beginners-guide-to-google-maps-javascript/" ADD_DATE="1552706825">Absolute beginners guide to Google Maps Javascript — whizzy.org</A>
+                <DT><A HREF="http://blog.mridey.com/2011/05/label-overlay-example-for-google-maps.html" ADD_DATE="1552706826">Label overlay example for Google Maps API v3 - Revisited | Marc Ridey - Blog</A>
+                <DT><A HREF="http://googlemapstutorials.ptl-europe.eu/" ADD_DATE="1552706826">Google Maps explored - online map examples | tutorials</A>
+                <DT><A HREF="http://davidjwatts.com/simple-jquery-mobile-site-with-google-maps-api-v3-3/" ADD_DATE="1552706826">Simple jQuery Mobile Site with Google Maps API V3 | David J Watts</A>
+                <DT><A HREF="http://medelbou.wordpress.com/2012/02/03/creating-a-tooltip-for-google-maps-javascript-api-v3/" ADD_DATE="1552706826">Creating a Tooltip for Google Maps JavaScript API V3 | Mohamed Elbou</A>
+                <DT><A HREF="http://geospatialtraining.com/index.php?option=com_catalog&view=node&id=72%3Aintroduction-to-programming-the-google-maps-api-v3&Itemid=85" ADD_DATE="1552706826">Introduction to Programming the Google Maps API (v3)</A>
+                <DT><A HREF="http://idesignow.com/jquery/12-useful-jquery-plugins-tutorials-for-google-map.html" ADD_DATE="1552706827">12 Useful Jquery Plugins &amp; Tutorials for Google Map | iDesignow</A>
+                <DT><A HREF="http://www.emoticode.net/javascript/google-maps-api-v3-javascript-basic-example.html" ADD_DATE="1552706827">JavaScript - Google Maps API V3 Javascript Basic Example | emoticode</A>
+                <DT><A HREF="http://luanvan.co/luan-van/de-tai-he-thong-ban-do-truc-tuyen-su-dung-google-map-api-17862/" ADD_DATE="1552706827">Đề tài Hệ thống bản đồ trực tuyến sử dụng Google Map Api - Luận văn, đồ án, đề tài tốt nghiệp</A>
+                <DT><A HREF="http://gergerconsulting.blogspot.com/2011/02/google-maps-api-v3-location-search-with.html" ADD_DATE="1552706827">Code of Our Lives: Google Maps Api v3 Location Search with jQuery Autocomplete Plugin</A>
+                <DT><A HREF="http://christophercasper.com/2012/03/google-maps-api-v3-fit-map-bounds-to-all-markers/" ADD_DATE="1552706827">Google Maps API v3 – Fit map bounds to all markers | Christopher Casper</A>
+                <DT><A HREF="http://www.netmagazine.com/tutorials/getting-started-html5-geolocation" ADD_DATE="1552706827">Getting started with HTML5 geolocation | Tutorial | .net magazine</A>
+                <DT><A HREF="http://ianluckraft.co.uk/2011/04/google-maps-v3-and-geolocation/" ADD_DATE="1552706827">Google Maps V3 and Geolocation | Ian Luckraft Web Development</A>
+                <DT><A HREF="http://www.slideshare.net/riteshambastha/mapathon-2013-google-maps-javascript-api" ADD_DATE="1552706827">Mapathon 2013 - Google Maps Javascript API</A>
+                <DT><A HREF="http://shreerangpatwardhan.blogspot.com/p/code-samples.html" ADD_DATE="1552706828">Spatial Unlimited: Google Maps API Code Samples</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706826">Swift Message</H3>
+            <DL><p>
+                <DT><A HREF="http://www.paymentcomponents.com/demo/mt" ADD_DATE="1552706821">Swift Message Parser Demo</A>
+                <DT><A HREF="https://www.greshamtech.com/open-edition-swift-mt-download" ADD_DATE="1552706821">Open Edition Swift MT Download</A>
+                <DT><A HREF="https://github.com/prowide/prowide-core-examples/blob/master/src/com/prowidesoftware/swift/samples/core/ParseMT103FromFileExample.java" ADD_DATE="1552706821">prowide-core-examples/ParseMT103FromFileExample.java at master · prowide/prowide-core-examples</A>
+                <DT><A HREF="http://www.prowidesoftware.com/resources/SWIFT-parser" ADD_DATE="1552706822">Prowide Core SWIFT parser</A>
+                <DT><A HREF="http://www.paymentcomponents.com/swift-mt/" ADD_DATE="1552706822">SWIFT MT | Payment Components</A>
+                <DT><A HREF="http://api.prowidesoftware.com/core/index.html?com/prowidesoftware/swift/model/mt/mt5xx/MT535.html" ADD_DATE="1552706823">MT535 (Prowide Integrator API Reference)</A>
+                <DT><A HREF="https://www2.swift.com/uhbonline/books/public/en_uk/us5u_20160722/con_32320.htm" ADD_DATE="1552706823">Example using the MT 535 Statement of Holdings - Standards MT November 2016 - Category 5 - Securities Markets - Message Usage Guidelines</A>
+                <DT><A HREF="http://coding.pstodulka.com/2015/01/10/anatomy-of-a-swift-message/" ADD_DATE="1552706823">Anatomy of a SWIFT message</A>
+                <DT><A HREF="https://www.ibm.com/support/knowledgecenter/en/SSBTEG_4.3.0/com.ibm.wbia_adapters.doc/doc/swift/swift72.htm%23HDRI1023624" ADD_DATE="1552706823">IBM Knowledge Center</A>
+                <DT><A HREF="http://www.immagic.com/eLibrary/ARCHIVES/GENERAL/IONA_IE/I070510D.pdf" ADD_DATE="1552706824">I070510D.pdf</A>
+                <DT><A HREF="http://www.sepaforcorporates.com/swift-for-corporates/read-swift-message-structure/" ADD_DATE="1552706824">The Structure Of A SWIFT Message, Explained!</A>
+                <DT><A HREF="https://docs.oracle.com/cd/E64763_01/html/MS/MS13_SWIFT_Messages.htm" ADD_DATE="1552706824">14. Processing SWIFT Messages</A>
+                <DT><A HREF="https://en.wikipedia.org/wiki/SWIFT_message_types" ADD_DATE="1552706824">SWIFT message types - Wikipedia</A>
+                <DT><A HREF="https://vermaparas.wordpress.com/swift/" ADD_DATE="1552706825">SWIFT –</A>
+                <DT><A HREF="https://www2.swift.com/uhbonline/books/public/en_uk/ufsm_20160722/index.htm?subpage=b30.htm" ADD_DATE="1552706825">Messaging System Messages</A>
+                <DT><A HREF="http://vnexim.com.vn/forum/bai-viet/3534-SWIFT-SWIFT-la-gi-" ADD_DATE="1552706825">SWIFT, SWIFT là gi?</A>
+                <DT><A HREF="https://claforet.wordpress.com/2010/12/01/java-library-for-wire-transfer-messages-part-4/" ADD_DATE="1552706825">Java Library for Wire Transfer Messages (Part 4) | Chris&#39; Creative Musings</A>
+                <DT><A HREF="https://github.com/qoomon/banking-swift-messages-java/blob/master/src/main/java/com/qoomon/banking/swift/message/block/UserTrailerBlock.java" ADD_DATE="1552706826">banking-swift-messages-java/UserTrailerBlock.java at master · qoomon/banking-swift-messages-java</A>
+                <DT><A HREF="https://stackoverflow.com/questions/40393777/how-can-i-read-swift-message-from-file-properly" ADD_DATE="1552706826">java - How can I read Swift message from file properly? - Stack Overflow</A>
+                <DT><A HREF="http://docs.datamation.gr/MX_libraries.md#code-samples" ADD_DATE="1552706826">MX_libraries</A>
+                <DT><A HREF="http://docs.datamation.gr/MX_libraries.md" ADD_DATE="1552706826">MX_libraries</A>
+                <DT><A HREF="http://docs.datamation.gr/SEPA_Processor_5_Manual.md#sepa-processor-5-manual" ADD_DATE="1552706826">SEPA_Processor_5_Manual</A>
+                <DT><A HREF="http://docs.datamation.gr/SEPA_libraries.md" ADD_DATE="1552706826">SEPA_libraries</A>
+            </DL><p>
+        </DL><p>
+        <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706820">SSO</H3>
+        <DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706824">Oracle</H3>
+            <DL><p>
+                <DT><A HREF="https://docs.oracle.com/cd/E37115_01/dev.1112/e27134/as_api.htm#AIDEV144" ADD_DATE="1552706821">Developing Access Clients</A>
+                <DT><A HREF="http://ketanonoim.blogspot.com/2013/03/oam-11gr2-access-sdk-sample-client-code.html" ADD_DATE="1552706821">Working with OIM: OAM 11gR2 Access SDK sample client code</A>
+                <DT><A HREF="http://oracleiam.com/developing-oam-access-client-11gr2/" ADD_DATE="1552706821">Developing OAM Access Client 11GR2 - Oracle IAM</A>
+                <DT><A HREF="http://onlineappsdba.com/index.php/2012/05/04/how-to-read-session-ids-of-a-user-from-oam-11g/" ADD_DATE="1552706822">How to read session Ids of a user from OAM 11g - Oracle Trainings for Apps &amp; Fusion DBA Oracle Trainings for Apps &amp; Fusion DBA: Oracle Implementation &amp; Training Experts</A>
+                <DT><A HREF="http://onlineappsdba.com/index.php/2011/07/11/oid-11g-integration-with-oam-11115-for-identity-store/" ADD_DATE="1552706822">OID 11g Integration with OAM (11.1.1.5) for Identity Store - Oracle Trainings for Apps &amp; Fusion DBA Oracle Trainings for Apps &amp; Fusion DBA: Oracle Implementation &amp; Training Experts</A>
+                <DT><A HREF="http://onlineappsdba.com/index.php/2012/05/04/how-to-set-and-get-session-attributes-in-oam-11g/" ADD_DATE="1552706823">How to set and get session attributes in OAM 11g - Oracle Trainings for Apps &amp; Fusion DBA Oracle Trainings for Apps &amp; Fusion DBA: Oracle Implementation &amp; Training Experts</A>
+                <DT><A HREF="http://onlineappsdba.com/index.php/2010/04/25/introduction-to-oracle-access-manager-identity-and-access-system-webpass-webgate-policy-manager/" ADD_DATE="1552706823">Introduction to Oracle Access manager : Identity and Access System - WebPass , Webgate, Policy Manager - Oracle Trainings for Apps &amp; Fusion DBA Oracle Trainings for Apps &amp; Fusion DBA: Oracle Implementation &amp; Training Experts</A>
+                <DT><A HREF="http://www.oracle.com/technetwork/middleware/downloads/oid-11g-161194.html" ADD_DATE="1552706823">Oracle Identity Management 11g Downloads</A>
+                <DT><A HREF="http://docs.tpu.ru/docs/oracle/en/fmw/11.1.1.6.0/webcenter.1111/e12405/wcadm_security_sso.htm" ADD_DATE="1552706823">Configuring Single Sign-on - 11g Release 1 (11.1.1.6.0)</A>
+                <DT><A HREF="https://docs.oracle.com/cd/E23943_01/core.1111/e10043/osso_b_oam11g.htm#JISEC9156" ADD_DATE="1552706824">Configuring Single Sign-On with Oracle Access Manager 11g</A>
+                <DT><A HREF="https://docs.oracle.com/cd/E21764_01/core.1111/e10043/osso_a_intro.htm#JISEC2975" ADD_DATE="1552706824">Introduction to Single Sign-On in Oracle Fusion Middleware</A>
+                <DT><A HREF="https://docs.oracle.com/cd/E17904_01/core.1111/e10043/idstoreadm.htm#JISEC9346" ADD_DATE="1552706824">Configuring the Identity Store Service</A>
+            </DL><p>
+        </DL><p>
+        <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706820">Message Queue</H3>
+        <DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706827">RabbitMQ</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706834">Rabbit Cluster</H3>
+                <DL><p>
+                    <DT><A HREF="https://deviantony.wordpress.com/2014/10/30/rabbitmq-and-haproxy-a-timeout-issue/" ADD_DATE="1552706829">RabbitMQ and HAProxy: a timeout issue | Tony&#39;s press</A>
+                    <DT><A HREF="https://www.rdoproject.org/documentation/rabbitmq/" ADD_DATE="1552706830">RabbitMQ — RDO</A>
+                    <DT><A HREF="http://www.sebastien-han.fr/blog/2012/05/21/openstack-high-availability-rabbitmq/" ADD_DATE="1552706830">OpenStack High Availability: RabbitMQ - Sébastien Han</A>
+                    <DT><A HREF="http://www.rabbitmq.com/pacemaker.html" ADD_DATE="1552706830">RabbitMQ - High availability with Pacemaker and DRBD</A>
+                    <DT><A HREF="http://www.cloudkb.net/rabbitmq-cluster-setup-haproxy/" ADD_DATE="1552706830">Rabbitmq cluster setup with HAproxy -</A>
+                    <DT><A HREF="http://behindtheracks.com/2014/05/openstack-high-availability-keystone-and-rabbitmq/" ADD_DATE="1552706831">Behind the Racks | OpenStack High Availability – Keystone and RabbitMQ</A>
+                    <DT><A HREF="http://www.roamingzebra.co.uk/2014/09/ha-rabbitmq-for-openstack.html" ADD_DATE="1552706831">Roaming Zebra: HA RabbitMQ for OpenStack</A>
+                    <DT><A HREF="http://www.joshdevins.net/2010/04/16/rabbitmq-ha-testing-with-haproxy/" ADD_DATE="1552706831">RabbitMQ HA testing with HAProxy « Something Special</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/10547523/configure-haproxy-for-rabbitmq" ADD_DATE="1552706832">java - Configure HAProxy for rabbitmq - Stack Overflow</A>
+                    <DT><A HREF="http://insidethecpu.com/2014/11/17/load-balancing-a-rabbitmq-cluster/" ADD_DATE="1552706832">Load Balancing a RabbitMQ Cluster |</A>
+                    <DT><A HREF="http://blog.flux7.com/blogs/tutorials/how-to-creating-highly-available-message-queues-using-rabbitmq" ADD_DATE="1552706832">[How-to] Creating Highly Available Message Queues using RabbitMQ</A>
+                    <DT><A HREF="http://www.serverlab.ca/tutorials/linux/message-queue/ubuntu-14-04-rabbitmq-clustering/" ADD_DATE="1552706832">RabbitMQ Clustering on Ubuntu 14.04 - Serverlab</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/6148381/rabbitmq-persistent-message-with-topic-exchange" ADD_DATE="1552706832">amqp - RabbitMQ: persistent message with Topic exchange - Stack Overflow</A>
+                    <DT><A HREF="https://docs.puppet.com/mcollective/reference/plugins/connector_rabbitmq.html" ADD_DATE="1552706833">RabbitMQ Connector — Documentation — Puppet</A>
+                    <DT><A HREF="http://agiletesting.blogspot.com/2010/05/rabbitmq-clustering-in-ubuntu.html" ADD_DATE="1552706833">Agile Testing: RabbitMQ clustering in Ubuntu</A>
+                    <DT><A HREF="http://severalnines.com/blog/high-availability-openstack-shoestring-budget-deploying-minimal-3-node-cluster" ADD_DATE="1552706833">High-Availability Openstack on a shoestring budget: Deploying a Minimal 3-node Cluster | Severalnines</A>
+                    <DT><A HREF="https://blog.cloudpack.jp/2014/06/11/ha-proxy-sensu-rabbitmq-high-availability/" ADD_DATE="1552706833">HA Proxy を使って Sensu の RabbitMQ を HA 構成にしてみた | cloudpack技術情報サイト</A>
+                    <DT><A HREF="http://jessesnet.com/development-notes/2015/rabbitmq-cluster/" ADD_DATE="1552706833">RabbitMQ Cluster » Jesses Web Development Portfolio and Web Development Blog by Jesse Cascio</A>
+                    <DT><A HREF="http://collaboradev.com/2010/12/14/how-to-cluster-rabbit-mq/" ADD_DATE="1552706833">How To Cluster Rabbit-MQ | Jason Graves</A>
+                    <DT><A HREF="http://rabbitmq.docs.pivotal.io/35/topics/install-getstart.html" ADD_DATE="1552706834">Installing Pivotal RabbitMQ |</A>
+                    <DT><A HREF="https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux_OpenStack_Platform/5/html/Installation_and_Configuration_Guide/sect-Prerequisite_Message_Broker.html" ADD_DATE="1552706834">2.4. Prerequisite Message Broker</A>
+                    <DT><A HREF="http://onlinelab.info/2015/09/07/install-openstack-kilo-on-ubuntu-14-04-2/" ADD_DATE="1552706834">Install OpenStack Kilo On Ubuntu 14.04.2 | | Online LAB</A>
+                    <DT><A HREF="http://www.sebastien-han.fr/blog/2012/07/09/management-server/" ADD_DATE="1552706834">Management server - Sébastien Han</A>
+                    <DT><A HREF="http://code.tutsplus.com/tutorials/managing-your-rabbitmq-cluster--cms-25597" ADD_DATE="1552706834">Managing Your RabbitMQ Cluster</A>
+                    <DT><A HREF="http://www.gettingcirrius.com/2013/01/clustering-rabbitmq.html" ADD_DATE="1552706834">Getting Cirrius: Clustering RabbitMQ</A>
+                    <DT><A HREF="http://www.linuxquestions.org/linux/answers/applications_gui_multimedia/how_set_simple_rabbitmq_cluster_rhel_compatible_server" ADD_DATE="1552706834">How to set up a simple rabbitmq cluster on a RHEL compatible server - LinuxQuestions.org</A>
+                    <DT><A HREF="https://timbull.com/2010/03/09/build-a-processing-queue-with-multi-threading-30252/" ADD_DATE="1552706834">Build a processing queue with multi-threading and spread over multiple servers in less than a day hours using RabbitMQ and Celery. | Tim Bull</A>
+                    <DT><A HREF="https://sensuapp.org/docs/latest/rabbitmq" ADD_DATE="1552706834">Sensu | RabbitMQ Configuration</A>
+                    <DT><A HREF="https://code.tutsplus.com/tutorials/managing-your-rabbitmq-cluster--cms-25597" ADD_DATE="1552706834">Managing Your RabbitMQ Cluster</A>
+                </DL><p>
+                <DT><A HREF="https://sensuapp.org/docs/latest/install-rabbitmq" ADD_DATE="1552706821">Sensu | Install RabbitMQ</A>
+                <DT><A HREF="http://www.thegeekstuff.com/2013/04/install-rabbitmq-server/" ADD_DATE="1552706821">How to Install RabbitMQ Server and Erlang on Linux</A>
+                <DT><A HREF="https://github.com/Berico-Technologies/CMF-AMQP-Configuration/blob/master/docs/installing-rabbitmq-centos6.3-minimal.md" ADD_DATE="1552706822">CMF-AMQP-Configuration/installing-rabbitmq-centos6.3-minimal.md at master · Berico-Technologies/CMF-AMQP-Configuration · GitHub</A>
+                <DT><A HREF="http://positivealex.github.io/blog/posts/how-to-install-erlang-rabbitmq-on-centos/" ADD_DATE="1552706822">How to install erlang and rabbitmq on centos 6 – The Alexander Iljushkin Blog</A>
+                <DT><A HREF="http://geek-kb.com/rabbitmq-server-centos-6x/" ADD_DATE="1552706823">How to: Install &amp; Configure RabbitMQ-server on CentOS 6.x</A>
+                <DT><A HREF="https://www.cloudamqp.com/blog/2015-05-27-part3-rabbitmq-for-beginners_the-management-interface.html" ADD_DATE="1552706823">Blog | Part 3: RabbitMQ for beginners - The management interface - CloudAMQP, RabbitMQ as a Service</A>
+                <DT><A HREF="https://lostechies.com/derekgreer/2012/03/05/rabbitmq-for-windows-introduction/" ADD_DATE="1552706823">RabbitMQ for Windows: Introduction | Aspiring Craftsman</A>
+                <DT><A HREF="http://www.thegeekstuff.com/2013/10/enable-rabbitmq-management-plugin/" ADD_DATE="1552706823">How to Enable RabbitMQ Management Plugin and Create New User</A>
+                <DT><A HREF="http://stackoverflow.com/questions/23020908/how-to-access-rabbitmq-publicly" ADD_DATE="1552706824">centos - How to access RabbitMq publicly - Stack Overflow</A>
+                <DT><A HREF="http://www.linuxorz.com/2014/08/install-rabbitmq-in-centos-6/" ADD_DATE="1552706824">Install RabbitMQ in CentOS 6 | Linuxorz</A>
+                <DT><A HREF="https://www.digitalocean.com/community/tutorials/how-to-install-and-manage-rabbitmq" ADD_DATE="1552706824">How To Install and Manage RabbitMQ | DigitalOcean</A>
+                <DT><A HREF="https://micewww.pp.rl.ac.uk/projects/maus/wiki/MAUSRabbitMQ" ADD_DATE="1552706825">MAUS - MAUSRabbitMQ - MICEmine</A>
+                <DT><A HREF="http://docs.openstack.org/ha-guide/controller-ha-rabbitmq.html" ADD_DATE="1552706825">OpenStack Docs: RabbitMQ</A>
+                <DT><A HREF="http://www.brownfort.com/2014/10/install-rabbitmq-ubuntu/" ADD_DATE="1552706825">How to install and configure Rabbitmq on Ubuntu? - Brown Fort</A>
+                <DT><A HREF="http://www.genericarticles.com/mediawiki/index.php?title=Installing_RabbitMQ_%26_Erlang_in_Linux" ADD_DATE="1552706825">Installing RabbitMQ &amp; Erlang in Linux - Wiki</A>
+                <DT><A HREF="http://stackoverflow.com/questions/4545660/rabbitmq-creating-queues-and-bindings-from-a-command-line" ADD_DATE="1552706825">RabbitMQ creating queues and bindings from a command line - Stack Overflow</A>
+                <DT><A HREF="https://www.compose.io/articles/configuring-rabbitmq-exchanges-queues-and-bindings-part-1/" ADD_DATE="1552706825">Configuring RabbitMQ Exchanges, Queues and Bindings: Part 1</A>
+                <DT><A HREF="https://www.compose.io/articles/configuring-rabbitmq-exchanges-queues-and-bindings-part-2/" ADD_DATE="1552706826">Configuring RabbitMQ Exchanges, Queues and Bindings: Part 2</A>
+                <DT><A HREF="http://fosshelp.blogspot.in/2014/12/rabbitmq-management-plugin.html" ADD_DATE="1552706826">fosshelp: How to Access RabbitMQ Management Plugin rabbitmqadmin Command Line</A>
+                <DT><A HREF="https://www.rabbitmq.com/management-cli.html" ADD_DATE="1552706826">RabbitMQ - Management Command Line Tool</A>
+                <DT><A HREF="http://linux.die.net/man/1/rabbitmqctl" ADD_DATE="1552706826">rabbitmqctl(1) - Linux man page</A>
+                <DT><A HREF="http://serverfault.com/questions/235669/how-do-i-make-rabbitmq-listen-only-to-localhost" ADD_DATE="1552706826">How do I make RabbitMQ listen only to localhost? - Server Fault</A>
+                <DT><A HREF="http://www.techsfo.com/blog/2013/06/rabbitmq-breaks-when-you-rename-hostname/" ADD_DATE="1552706827">RabbitMQ breaks when you rename hostname - Tech in SF and Oakland</A>
+                <DT><A HREF="https://github.com/jhalterman/snare" ADD_DATE="1552706827">GitHub - jhalterman/snare: For snaring rabbits and such</A>
+                <DT><A HREF="https://myupbeat.wordpress.com/2014/02/07/chaging-rabbitmq-mnesia-database-location/" ADD_DATE="1552706827">Chaging RabbitMQ mnesia database location | myupbeat</A>
+                <DT><A HREF="https://duongtx90.wordpress.com/2016/02/21/rabbitmq/" ADD_DATE="1552706827">RabbitMQ | Keep learning</A>
+                <DT><A HREF="http://blog.vccloud.vn/highly-available-queues-va-clustering-cho-rabbitmq/" ADD_DATE="1552706827">Highly Available Queues và Clustering cho RabbitMQ</A>
+                <DT><A HREF="https://mariadb.com/kb/en/mariadb-enterprise/mariadb-maxscale-14/rabbit-mq-setup-and-maxscale-integration/" ADD_DATE="1552706827">Rabbit MQ setup and MaxScale Integration - MariaDB Knowledge Base</A>
+                <DT><A HREF="https://dev.to/usamaashraf/microservices--rabbitmq-on-docker-e2f" ADD_DATE="1552706827">Microservices &amp; RabbitMQ On Docker - DEV Community 👩‍💻👨‍💻</A>
+                <DT><A HREF="https://docs.docker.com/samples/library/rabbitmq/" ADD_DATE="1552706827">rabbitmq | Docker Documentation</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706821">Kafka</H3>
+            <DL><p>
+                <DT><A HREF="https://dzone.com/articles/a-begineers-approach-to-quotkafkaquot?edition=310291&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=big%20data%202017-07-20" ADD_DATE="1552706821">An Introduction to Kafka - DZone Big Data</A>
+                <DT><A HREF="http://cloudurable.com/blog/kafka-architecture/index.html" ADD_DATE="1552706821">Kafka Architecture</A>
+            </DL><p>
+        </DL><p>
+        <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706820">HTML5</H3>
+        <DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706825">Storage</H3>
+            <DL><p>
+                <DT><A HREF="http://lijinjoseji.wordpress.com/interview/" ADD_DATE="1552706820">Interview Guide « Lijin’s Localhost</A>
+                <DT><A HREF="http://articles.techrepublic.com.com/5100-22-1049531.html" ADD_DATE="1552706821">Internationalize your Struts application for multiple locales</A>
+                <DT><A HREF="http://lijinjoseji.wordpress.com/2007/09/27/spring-framework-best-programming-practices-part-3/" ADD_DATE="1552706821">Spring Framework: Best Programming Practices Part 3 « Lijin’s Localhost</A>
+                <DT><A HREF="http://paperkilledrock.com/2010/05/html5-localstorage-part-one/" ADD_DATE="1552706822">HTML5 localStorage – Part One « PaperKilledRock.com</A>
+                <DT><A HREF="http://paperkilledrock.com/2010/05/html5-localstorage-part-four/" ADD_DATE="1552706822">HTML5 localStorage – Part Four « PaperKilledRock.com</A>
+                <DT><A HREF="http://doc.qt.digia.com/4.7-snapshot/qtwebkit-guide-cache.html" ADD_DATE="1552706822">Qt 4.7: QtWebKit Guide - Client Storage</A>
+                <DT><A HREF="http://coding.smashingmagazine.com/2011/12/05/sisyphus-js-client-side-drafts-and-more/" ADD_DATE="1552706823">Auto-Save User&#39;s Input In Your Forms With HTML5 and Sisyphus.js | Smashing Coding</A>
+                <DT><A HREF="http://theburningmonk.com/2010/12/having-fun-with-html5-local-storage-and-session-storage/" ADD_DATE="1552706823">Having fun with HTML5 – Local Storage and Session Storage | theburningmonk.com</A>
+                <DT><A HREF="http://html5.litten.com/html5-web-storage-using-localstorage-and-sessionstorage-objects/" ADD_DATE="1552706824">» HTML5 Web Storage, Using localStorage and sessionStorage Objects</A>
+                <DT><A HREF="http://www.w3avenue.com/2010/05/07/html5-unleashed-tips-tricks-and-techniques/" ADD_DATE="1552706824">HTML5 Unleashed: Tips, Tricks and Techniques | W3Avenue</A>
+                <DT><A HREF="http://html5examples.info/tag/what-is-html5/#.URRo9vKjiW8" ADD_DATE="1552706824">What Is Html5 | HTML 5 Examples</A>
+                <DT><A HREF="http://mrjoelkemp.com/2012/09/html5-local-storage-keyvalue-expiry/" ADD_DATE="1552706824">HTML5 Local Storage Key/Value Expiry</A>
+                <DT><A HREF="http://www.webreference.com/authoring/languages/html/HTML5-Client-Side/index.html" ADD_DATE="1552706824">HTML 5: Client-side Storage | WebReference</A>
+                <DT><A HREF="http://harmattan-dev.nokia.com/docs/library/html/qt4/qtwebkit-guide-cache.html" ADD_DATE="1552706825">Qt 4.7: QtWebKit Guide - Client Storage</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706826">CSS</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706833">Menu</H3>
+                <DL><p>
+                    <DT><H3 ADD_DATE="1552706829" LAST_MODIFIED="1552706837">Show open navigator</H3>
+                    <DL><p>
+                        <DT><A HREF="http://www.berriart.com/sidr/#documentation" ADD_DATE="1552706836">Sidr - A jQuery plugin for creating side menus</A>
+                        <DT><A HREF="http://designbeep.com/2013/10/22/20-jquery-side-sliding-panel-plugins-show-hide-website/" ADD_DATE="1552706836">20 jQuery Side Sliding Panel Plugins (show-hide) For Your Website | Designbeep</A>
+                        <DT><A HREF="http://mmenu.frebsite.nl/tutorial/styling-lists.html" ADD_DATE="1552706836">jQuery.mmenu tutorial, style lists</A>
+                        <DT><A HREF="http://tympanus.net/Blueprints/SlidePushMenus/" ADD_DATE="1552706836">Blueprint: Slide and Push Menus</A>
+                        <DT><A HREF="http://www.sitepoint.com/10-jquery-sliding-sidebar-panel-plugins/" ADD_DATE="1552706836">10+ jQuery Sliding Sidebar Panel Plugins</A>
+                        <DT><A HREF="http://www.hongkiat.com/blog/jquery-sliding-navigation/" ADD_DATE="1552706836">Animate to Hide and Slide Content with jQuery [Tutorial]</A>
+                        <DT><A HREF="http://htmldog.com/techniques/showhide/" ADD_DATE="1552706837">Show / Hide Navigation | HTML Dog</A>
+                    </DL><p>
+                    <DT><A HREF="http://line25.com/tutorials/how-to-create-a-pure-css-dropdown-menu" ADD_DATE="1552706829">How To Create a Pure CSS Dropdown Menu</A>
+                    <DT><A HREF="http://webdesignerwall.com/tutorials/css3-dropdown-menu" ADD_DATE="1552706830">CSS3 Dropdown Menu</A>
+                    <DT><A HREF="http://www.red-team-design.com/css3-dropdown-menu" ADD_DATE="1552706830">CSS3 dropdown menu - RedTeamDesign</A>
+                    <DT><A HREF="http://cssmenumaker.com/css-drop-down-menu" ADD_DATE="1552706831">CSS Drop Down Menus | CSS Menu Maker</A>
+                    <DT><A HREF="http://designmodo.com/css3-dropdown-menu/" ADD_DATE="1552706831">How to Create a CSS3 Dropdown Menu [Tutorial] - DesignModo</A>
+                    <DT><A HREF="http://speckyboy.com/2010/03/15/15-css3-navigation-and-menu-tutorials-and-techniques/" ADD_DATE="1552706831">15 CSS3 Navigation and Menu Tutorials and Techniques - Speckyboy Design Magazine</A>
+                    <DT><A HREF="http://www.bloggertipandtrick.net/2010/11/30-pure-css-horizontal-menus-tutorials.html" ADD_DATE="1552706831">30+ Pure CSS Horizontal Menus Tutorials | Blogger Tips And Tricks|Latest Tips For Bloggers</A>
+                    <DT><A HREF="http://www.htmldrive.net/items/show/437/CSS3-only-horizontal-drop-line-tab-menu" ADD_DATE="1552706832">CSS3-only horizontal drop line tab menu | css3 menu,horizontal navigation menu,multi-level navigation menus</A>
+                    <DT><A HREF="http://css3menu.com/" ADD_DATE="1552706832">CSS3 Menu. Free CSS Menu Maker</A>
+                    <DT><A HREF="http://speckyboy.com/2009/06/08/24-css-in-some-cases-with-jquery-navigation-and-menu-tutorials/" ADD_DATE="1552706832">24 CSS (in some cases with jQuery) Navigation and Menu Tutorials - Speckyboy Design Magazine</A>
+                    <DT><A HREF="http://www.antsmagazine.com/web-development/40-free-dropdown-menus-in-html5-and-css3/" ADD_DATE="1552706832">40 Free Dropdown menus in HTML5 and CSS3 | AntsMagazine.Com</A>
+                    <DT><A HREF="http://www.handy-html.com/simple-css-dropdown-menu-updated/" ADD_DATE="1552706832">Simple CSS Drop Down Menu Updated - handyHTML</A>
+                    <DT><A HREF="http://www.menucool.com/horizontal/drop-down-menu" ADD_DATE="1552706833">CSS Drop Down Menu</A>
+                    <DT><A HREF="https://www.servage.net/blog/2009/03/20/create-a-cool-css-based-drop-down-menu/" ADD_DATE="1552706833">Create a cool CSS-based drop-down menu | Servage Magazine</A>
+                    <DT><A HREF="http://www.alessioatzeni.com/blog/css3-dropdown-menu/" ADD_DATE="1552706833">CSS3 Dropdown Menu | Blog of Alessio Atzeni | Web Design Tutorials and Front-end Development Blog by Alessio Atzeni</A>
+                    <DT><A HREF="http://www.gethifi.com/blog/nicer-navigation-with-css-transitions" ADD_DATE="1552706833">Nicer Navigation with CSS Transitions - GetHiFi</A>
+                    <DT><A HREF="http://www.script-tutorials.com/creating-css3-dropdown-menu-2/" ADD_DATE="1552706833">Creating a CSS3 Dropdown Menu #2 | HTML5 and CSS3 Tutorials at Script Tutorials</A>
+                    <DT><A HREF="http://www.bloggerbits.com/2010/09/35-excellent-css-and-jquery-based-navigation-menu-tutorials-and-techniques-collection/" ADD_DATE="1552706833">35+ Excellent CSS and jQuery-based Navigation Menu Tutorials and Techniques Collection | Blogger Bits</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706829">Color</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.colorschemer.com/online.html" ADD_DATE="1552706829">ColorSchemer - Online Color Scheme Generator</A>
+                    <DT><A HREF="http://www.2createawebsite.com/build/hex-colors.html#colorgenerator" ADD_DATE="1552706829">Hex Color Code Generator - Website Color Picker</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706832">Table</H3>
+                <DL><p>
+                    <DT><A HREF="http://net.tutsplus.com/tutorials/html-css-techniques/html-5-and-css-3-the-techniques-youll-soon-be-using/" ADD_DATE="1552706829">HTML 5 and CSS 3: The Techniques You’ll Soon Be Using | Nettuts+</A>
+                    <DT><A HREF="http://speckyboy.com/2011/04/14/css-data-table-techniques-and-resources/" ADD_DATE="1552706830">CSS Data Table Techniques and Resources - Speckyboy Design Magazine</A>
+                    <DT><A HREF="http://speckyboy.com/2010/11/08/40-essential-css-templates-resources-and-downloads/" ADD_DATE="1552706830">40 Essential CSS Templates, Resources and Downloads - Speckyboy Design Magazine</A>
+                    <DT><A HREF="http://pythoughts.com/table-style-css/" ADD_DATE="1552706830">Table Style: CSS Examples of Good Looking HTML Tables</A>
+                    <DT><A HREF="http://www.textfixer.com/resources/css-tables.php" ADD_DATE="1552706831">HTML Tables with CSS Styles</A>
+                    <DT><A HREF="http://www.timrivera.com/tests/csstables.html" ADD_DATE="1552706831">Styling tables with CSS</A>
+                    <DT><A HREF="http://coding.smashingmagazine.com/2008/08/13/top-10-css-table-designs/" ADD_DATE="1552706831">Top 10 CSS Table Designs | Smashing Coding</A>
+                    <DT><A HREF="http://tympanus.net/codrops/2010/05/03/pimp-your-tables-with-css3/" ADD_DATE="1552706831">Pimp Your Tables with CSS3 | Codrops</A>
+                    <DT><A HREF="http://designshack.net/articles/10-css-table-examples/" ADD_DATE="1552706832">10 CSS Table Examples | Design Shack</A>
+                    <DT><A HREF="http://veerle-v2.duoh.com/blog/comments/a_css_styled_table/" ADD_DATE="1552706832">A CSS styled table | Veerle&#39;s blog</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706834">Template Mobile</H3>
+                <DL><p>
+                    <DT><A HREF="http://modernizr.com/" ADD_DATE="1552706829">Modernizr: the feature detection library for HTML5/CSS3</A>
+                    <DT><A HREF="http://twitter.github.io/bootstrap/" ADD_DATE="1552706830">Bootstrap</A>
+                    <DT><A HREF="http://lungo.tapquo.com/" ADD_DATE="1552706830">Lungo - HTML5 Cross-Device Framework</A>
+                    <DT><A HREF="http://html5up.net/" ADD_DATE="1552706830">HTML5 Up! Responsive HTML5 and CSS3 Site Templates</A>
+                    <DT><A HREF="http://topcoat.io/" ADD_DATE="1552706830">Topcoat</A>
+                    <DT><A HREF="http://onsenui.io/" ADD_DATE="1552706831">Onsen UI - A Custom Elements-Based HTML5 UI Framework | Onsen UI</A>
+                    <DT><A HREF="http://ninjamock.com/account/pricing" ADD_DATE="1552706831">Pricing | NinjaMock</A>
+                    <DT><A HREF="http://chocolatechip-ui.com/" ADD_DATE="1552706831">ChocolateChip-UI - A Mobile Web Framework in HTML5, CSS &amp; Javascript</A>
+                    <DT><A HREF="http://goratchet.com/examples/" ADD_DATE="1552706832">Examples · Ratchet</A>
+                    <DT><A HREF="http://mobileangularui.com/demo/#/carousel" ADD_DATE="1552706832">Mobile Angular UI Demo</A>
+                    <DT><A HREF="http://ionicframework.com/" ADD_DATE="1552706832">Ionic: Advanced HTML5 Hybrid Mobile App Framework</A>
+                    <DT><A HREF="http://framework7.io/" ADD_DATE="1552706832">Framework7 - Full Featured Mobile HTML Framework For Building iOS &amp; Android Apps</A>
+                    <DT><A HREF="https://onsen.io/" ADD_DATE="1552706832">Onsen UI 2: Beautiful HTML5 Hybrid Mobile App Framework and Tools - Onsen UI</A>
+                    <DT><A HREF="https://github.com/talk2amareswaran/springboot" ADD_DATE="1552706833">talk2amareswaran/springboot</A>
+                    <DT><A HREF="https://github.com/mightyjava/springboot-pagination-advanced" ADD_DATE="1552706833">mightyjava/springboot-pagination-advanced</A>
+                    <DT><A HREF="https://freshdesignweb.com/free-bootstrap-admin-templates/" ADD_DATE="1552706833">40+ Best Free Bootstrap Admin Templates 2018</A>
+                    <DT><A HREF="https://blackrockdigital.github.io/startbootstrap-sb-admin/" ADD_DATE="1552706833">SB Admin - Start Bootstrap Template</A>
+                    <DT><A HREF="https://colorlib.com/wp/bootstrap-admin-templates/" ADD_DATE="1552706833">25 Best Bootstrap Admin Templates For Web Apps 2018 - Colorlib</A>
+                    <DT><A HREF="https://1stwebdesigner.com/free-bootstrap-dashboard-templates/" ADD_DATE="1552706833">10 Beautifully Designed Free Bootstrap Dashboard Admin Templates - 1stWebDesigner</A>
+                    <DT><A HREF="https://free-template.co/blog/17-must-see-bootstrap-4-admin-dashboard-template-2017/" ADD_DATE="1552706833">17 Must-See Bootstrap 4 Admin Dashboard Template 2017 - Free-Template.co</A>
+                    <DT><A HREF="http://themetrace.com/templates/starlight/app/index.html" ADD_DATE="1552706834">Starlight Responsive Bootstrap 4 Admin Template</A>
+                    <DT><A HREF="https://themeforest.net/item/codebase-bootstrap-4-admin-dashboard-template-ui-framework/20289243/?ref=thememonarch" ADD_DATE="1552706834">Codebase - Bootstrap 4 Admin Dashboard Template by pixelcave | ThemeForest</A>
+                    <DT><A HREF="http://preview.themeforest.net/item/pages-admin-dashboard-template-web-app/full_screen_preview/9694847?ref=ThemeMonarch&clickthrough_id=1298964293&redirect_back=true" ADD_DATE="1552706834">Pages - Bootstrap 4 Admin Dashboard Template Preview - ThemeForest</A>
+                    <DT><A HREF="https://github.com/gurayyarar/AdminBSBMaterialDesign" ADD_DATE="1552706834">gurayyarar/AdminBSBMaterialDesign: AdminBSB - Free admin panel that is based on Bootstrap 3.x with Material Design</A>
+                    <DT><A HREF="https://startbootstrap.com/template-overviews/sb-admin-2/" ADD_DATE="1552706834">SB Admin 2 - Free Bootstrap Admin Theme - Start Bootstrap</A>
+                    <DT><A HREF="https://github.com/puikinsh" ADD_DATE="1552706834">puikinsh (Aigars Silkalns)</A>
+                    <DT><A HREF="https://athemes.com/collections/free-bootstrap-admin-templates/#" ADD_DATE="1552706834">20 Best Free Bootstrap Admin Templates 2018 - aThemes</A>
+                    <DT><A HREF="https://speckyboy.com/free-bootstrap-admin-themes/" ADD_DATE="1552706834">20 Free Bootstrap Admin &amp; Dashboard Templates</A>
+                    <DT><A HREF="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/html/ltr/vertical-menu-template/component-modals.html" ADD_DATE="1552706834">Modal - Stack Responsive Bootstrap 4 Admin Template</A>
+                    <DT><A HREF="https://adminlte.io/themes/AdminLTE/index2.html" ADD_DATE="1552706834">AdminLTE 2 | Dashboard</A>
+                    <DT><A HREF="https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/" ADD_DATE="1552706834">20 Free Bootstrap Admin Dashboard Templates 2018 - Colorlib</A>
+                    <DT><A HREF="https://wrapbootstrap.com/themes/admin" ADD_DATE="1552706834">Admin Templates &amp; Dashboards | WrapBootstrap</A>
+                    <DT><A HREF="https://www.uxfree.com/category/themes/bootstrap/" ADD_DATE="1552706834">Bootstrap – UXFree.COM</A>
+                </DL><p>
+                <DT><A HREF="http://www.cssplay.co.uk/" ADD_DATE="1552706822">Stu Nicholls | CSSplay | Experiments with cascading style sheets | Doing it with Style</A>
+                <DT><A HREF="http://www.domedia.org/oveklykken/css-div-scroll.php" ADD_DATE="1552706822">CSS scroll area with overflow - DoMedia</A>
+                <DT><A HREF="http://programming.top54u.com/post/HTML-Div-Tag-Overflow-CSS-Style-Scrollbars.aspx" ADD_DATE="1552706823">HTML Div Tag Overflow CSS Style Scrollbars</A>
+                <DT><A HREF="http://www.dyn-web.com/code/scroll/" ADD_DATE="1552706823">Scrolling Div Content</A>
+                <DT><A HREF="http://www.quirksmode.org/css/contents.html" ADD_DATE="1552706824">CSS - Contents and compatibility</A>
+                <DT><A HREF="http://daringfireball.net/projects/" ADD_DATE="1552706824">Daring Fireball Projects</A>
+                <DT><A HREF="http://www.feedicons.com/" ADD_DATE="1552706824">Feed Icons - Home of the standard web feed icon</A>
+                <DT><A HREF="http://www.zurb.com/playground" ADD_DATE="1552706824">ZURB – Interaction Design and Design Strategy</A>
+                <DT><A HREF="http://www.hongkiat.com/blog/designing-for-mobile-devices/" ADD_DATE="1552706825">A look into: Designing for Mobile Devices</A>
+                <DT><A HREF="http://webdesignledger.com/category/resources" ADD_DATE="1552706825">Resources | Web Design Ledger</A>
+                <DT><A HREF="http://www.html5rocks.com/en/mobile/responsivedesign/" ADD_DATE="1552706825">Creating a Mobile-First Responsive Web Design - HTML5 Rocks</A>
+                <DT><A HREF="http://designbeep.com/2012/08/30/27-jquery-css3-loading-animation-and-progress-bar-pluginstutorials/" ADD_DATE="1552706825">27 jQuery &amp; CSS3 Loading Animation and Progress Bar Plugins/Tutorials | Design Inspiration</A>
+                <DT><A HREF="http://webdesignerwall.com/tutorials/word-wrap-force-text-to-wrap" ADD_DATE="1552706825">c</A>
+                <DT><A HREF="http://css3please.com/" ADD_DATE="1552706825">CSS3 Please! The Cross-Browser CSS3 Rule Generator</A>
+                <DT><A HREF="http://css3generator.com/" ADD_DATE="1552706826">CSS3 Generator</A>
+                <DT><A HREF="http://designshack.net/articles/css/715-awesomely-simple-and-free-css-layouts/" ADD_DATE="1552706826">715 Awesomely Simple and Free CSS Layouts | Design Shack</A>
+                <DT><A HREF="http://www.free-css.com/free-css-layouts/page1/css-layout-1#shout" ADD_DATE="1552706826">CSS Layout 1 | Free CSS Layouts | Free CSS</A>
+                <DT><A HREF="http://css-tricks.com/downloads/layouts-templates/" ADD_DATE="1552706826">Layouts/Templates | CSS-Tricks</A>
+                <DT><A HREF="http://www.primarycss.com/" ADD_DATE="1552706826">Primary CSS</A>
+                <DT><A HREF="http://csslayoutgenerator.com/" ADD_DATE="1552706826">CSS Layout Generator</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706821">Upload</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706833">Resumablejs</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.webappers.com/2013/10/30/resumable-js-resumable-uploads-via-html5-file-api/" ADD_DATE="1552706829">Resumable.js - Resumable Uploads via HTML5 File API | Web Resources | WebAppers</A>
+                    <DT><A HREF="http://kufli.blogspot.dk/2012/06/speedier-upload-using-nodejs-and.html" ADD_DATE="1552706830">Karthik&#39;s: Speedier upload using Nodejs and Resumable.js</A>
+                    <DT><A HREF="http://www.resumablejs.com/" ADD_DATE="1552706830">Resumable.js, JavaScript magic for simultaneous, stable and resumable uploads</A>
+                    <DT><A HREF="https://github.com/23/resumable.js/" ADD_DATE="1552706830">GitHub - 23/resumable.js: A JavaScript library for providing multiple simultaneous, stable, fault-tolerant and resumable/restartable uploads via the HTML5 File API.</A>
+                    <DT><A HREF="http://jsfiddle.net/ravindermahajan890/rbd7yx00/" ADD_DATE="1552706830">Experimenting with Resumable.js - JSFiddle</A>
+                    <DT><A HREF="http://www.startutorial.com/articles/view/resumable-file-upload-part-1" ADD_DATE="1552706831">Resumable file upload (part 1)</A>
+                    <DT><A HREF="https://www.javascripting.com/view/resumable-js" ADD_DATE="1552706831">Resumable.js - JavaScripting</A>
+                    <DT><A HREF="http://tus.io/demo.html" ADD_DATE="1552706831">Resumable File Upload Demo</A>
+                    <DT><A HREF="https://libraries.io/bower/Resumable.js/v2.2.0" ADD_DATE="1552706832">Resumable.js v2.2.0 on Bower - Libraries</A>
+                    <DT><A HREF="http://www.23video.com/api/browser-based-uploads" ADD_DATE="1552706832">API: Browser-based uploads</A>
+                    <DT><A HREF="http://www.bootcdn.cn/resumable.js/readme/" ADD_DATE="1552706832">resumable.js | Bootstrap中文网开源项目免费 CDN 服务</A>
+                    <DT><A HREF="http://www.codeproject.com/Tips/510845/ResumableJS-with-ASP-NET-MVC" ADD_DATE="1552706832">ResumableJS with ASP.NET MVC - CodeProject</A>
+                    <DT><A HREF="http://jquer.in/javascript-frameworks-for-developing-rich-applications/resumable-js/" ADD_DATE="1552706832">Resumable js | Resumable uploads for large files</A>
+                    <DT><A HREF="http://mrbool.com/flow-js-performing-uploads-in-javascript/32694" ADD_DATE="1552706833">Flow.js: Performing Uploads in Javascript</A>
+                    <DT><A HREF="http://code.tutsplus.com/tutorials/how-to-create-a-resumable-video-uploader-in-nodejs--net-25445" ADD_DATE="1552706833">How to Create a Resumable Video Uploader in Node.js - Envato Tuts+ Code Tutorial</A>
+                    <DT><A HREF="http://s4553711-blog.logdown.com/posts/231107-file-upload-using-resumablejs-with-java-struts2" ADD_DATE="1552706833">File upload using Resumable.js with Java Struts2 « s4553711&#39;s Blog</A>
+                </DL><p>
+            </DL><p>
+            <DT><A HREF="http://css.dzone.com/articles/polycrypt-javascript-library?mz=46483-html5" ADD_DATE="1552706820">PolyCrypt - A JavaScript Library Implementing The WebCrypto Polyfill | Web Builder Zone</A>
+            <DT><A HREF="http://dzone.com/mz/html5?page=2" ADD_DATE="1552706820">HTML5 Zone | DZone</A>
+        </DL><p>
+        <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706820">Python</H3>
+        <DL><p>
+            <DT><A HREF="https://dzone.com/refcardz/core-python" ADD_DATE="1552706820">Core Python - DZone - Refcardz</A>
+        </DL><p>
+        <DT><A HREF="https://downloadly.ir/software/programming/jetbrains-webstorm-1/" ADD_DATE="1553575048" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADC0lEQVQ4jUVTS2hdZRic+f5zzj159UbzKE0sglRxoQZBrBo3YjfiqqVNFYoi2ILiyiC6qBJdiSi4cKGb4gMVEndCrZCFLoRabAWtFTGltc1NTG6S5nVf5z//Py4ScPYD8+T2N88+4BfOf0DfGBNUgIAj066gKy8f+f7M0v79Lzys7I3TWfUCAByT3AwZsAvzK7+/WPXXDqm9PMCiPop2fdSF+rA16wOroX3HrcQ9cZ6t2ROdpXfq9XrfDBmgKYNEADBQZUEXkLgYhQizEC1RNMREDFZ0QoixZyXL3zzZr58m22tPiVMCKUhmUZFmzvK9w8j29IEkVJaEAJiLAggwqt3wTcf7r6Th7DOtxU8/a66MgoxmhKJAkEyrVWZDQ0z7+uCIWMTYhTQxI4IIx8KH6L3fyHuf+zoLv72q1eMGGEiCABQDLHGo9FeBkb35qMPFeGtj3qeVCkkiymIlT+mbG8OBP6z9szBuCCAliARJQEIsS7TzPb0fTZ368bF6eVC12sfNRoPKsnIEODe8tPrJd5d+uf1s7frhBA4SCUoQuOOYgosxzr31rnvv7nsXALw0uXj1zHJ9/fjPN+bumis6r5Q9Xd37OrqRQCCxS4YAERIgkgc2bpYC+Pafv9755fzVo/Ot5vOtnnwwCybXLgJoSgDsVMrdZezEDlHaGrmn+/ELsydvbi6+vlXJ9qF0yNpFKYgCEKHuBNiRHCUYABghEvnG6tbEpdrE3wO3fdhBhGs0PAAnAZF0Ls9QDbhopigJMGcSoHJ7W63lOuLGdmgBWegUwQklRFOUQl5JehK3fh+zyb+ubx5JShlBqGw04Te3EL1HllK0hEZGAiagCMZKmuYY9uHck939r30+Nv4HAZkliPI+dlbWoryPdBZBRkgBoqKEmGeVqrN/H0zyU7VHnz78xdj4ZU4fMwBIKHZVUnOl6IyAAFQSAJ49oM+ztJdDEV8dzQdPvz928BoFAiJ2H5mweuDbLdp66IodgxEGeSCr5qgN9vZffsR1n5h96NAMgQLT0w6cCP9XBvwHHHyY9bTNL0YAAAAASUVORK5CYII=">دانلود JetBrains WebStorm 2018.3.5 Windows/Linux/macOS - دانلود رایگان نرم افزار</A>
+        <DT><A HREF="https://www.0daydown.com/category/software/windows" ADD_DATE="1553575048">Windows | 下载,Download,nitroflare|rapidgator</A>
+        <DT><A HREF="https://scanlibs.com/" ADD_DATE="1552706832" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAB2ElEQVQ4jZWSMWgUQRSG/5mdbO4IdyieJlocKFFsRMVGq2ChjdhZiaKNiGhhZZkLVjZaRLASTSWWilheDGIlR0ii2KhcEJGomDu9nTe7szvzLG5vL8I1Ph4MvDff/P9jnrh6QuJ/QgFoPLijSrUg3KbKNVWqBeH2IKxKVfYZOfvHJZ0s/umSrqVvjSs3FIA0IWs+sU8BCQBC/PMmM8AiGAdzrhDrbhZ3mB2EFBAQAMTwOjOYhVRBWMmBJE7i3ibYAwJC1Padrh+7BqD3ffXj67lcQapwIkTfg7XOaKJIk9YURXsOXVxvPXzz+JRzLqweIK0p0hRpa12uYFMZx8zMhYssQxxz6/mtwpiQPJbKHNjcaP9oLxdDtl40jp+7N7Fj//LL27++rhb1XZnKLRnjiHyRK4sLT2aPml73zM3m7oNni7oxbgBQuhUg8htf2s/mL71bWpianhkClOYAUUrG93Nyeub87NJ4pc6yurN+pPe7U7SI0nwG0tYY3zf64W3z8MnL1++vAfi88mrx6d2iRdoOAEqN4WK4R3MXRm6RKRSs5cyNAZx/8PCXtx4isYPVKFcmp/ZWIUQQKBkEMlBCSCHgvffOee+8y8CswhLwXgFYX2uO9DAy/gJssiewsYYavgAAAABJRU5ErkJggg==">ScanLibs - Ebooks &amp; Elearning For Programming</A>
+        <DT><A HREF="https://smtebooks.eu/Category/programming-it?page=1" ADD_DATE="1553575048">Programming &amp; IT Books Free Download Pdf [Updated March 2019] - SmteBooks</A>
+        <DT><A HREF="http://www.allitebooks.com/" ADD_DATE="1553575048" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB4klEQVQ4jcWSy0tWYRCHn5n3nO+cJLKL3y6rRUiLLn+AXaxUkoJ2QnQjKArJlbToxodgRAQFgi3SFgYSYYvISKJFUIsgCtI2QQhlBX10gUAEj9/7TotTipi0dLYz88zMb36w2CELJS7dSQ0UAMOzdeO55oZNpSf/BQw9bzsy+mGgX8TmUx0YFYxp1hV3DR5qfNw6B1DqX2Zikg+2WbwimBnqZqeKwfnDvyT623ymt8YmM0ME1PJ+FQMV1AwhQMiJIoaYnz3hWHfRYo1RA8UQzYsgoGKICIqABMDoWD+Bz6ZY22IiAJ+HnRUS5dTLVcQuxgn5JoCoIZZDVYWuzWVCxfOxeTn14WcOmPzSVftt9OJ4VFBqqgOND9cQKTgRHIY6w5vndkMZq3jeN6wEge3hRw4YSmotUyOb8ux8WkYjoTRSw+BYTKzG29avVKZhpL5Iop7dnfcQlMqFbTmgUHfSllRF9L27TxKE6qaMDWe/g8vVJ8DIjiJOhJaOXkKa4jubZEbE/SeutT14Nd7jkogVotx8PYCzAD6gwh9NHHtPd0O6FH95z8z75/ig/cqj1T3DLz5pIebus1sklQwXPPuOX4Uowt84OM94/7Ry3YHrb8Ymsi2WViFpAUtSQt/RBW2/uPEb4VmsJX//GkwAAAAASUVORK5CYII=">All IT eBooks - Free IT eBooks Download</A>
+        <DT><A HREF="https://feedly.com/" ADD_DATE="1553575048" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABRklEQVQ4jaWTv0sCYRyHnzuEkJoiaCiCsEUPJAikLVwawhz0DzALIiiyH0tDRCC4BY0NLf0LIuFUREsmBA3SlkNXgeVmqXXn25Rd3vteQ+/2eXmf5/187+XAYxn5mDDyMeF1RvOCnbkSL0jPSjdVt8okro2/KvdKfgUnrKGxGUwhgMO7EwQ/XqdEV8FboQUWJ5JEhyP4fX3KlroKTgcSVBsmS1e7vFst1yjfjNY783Yo3YVXr7O8tOo07bbym/icYSOYIh1IcN94IFPOkZ1cBwHLpT3a9odUoDvDc7NG6fWWTDnHfniNqUGDWquO3bGVDVwj6JrO8XSWyFCY4tMlOzcHWMJDAO63T47NMj4wSt4847NjUW2YUrgSL2jd9+yV9Pv8FKJHCGD+fIU3q+mCuw1UkrmRGQBOHy+ksEsgk8hqO/O/f6YveM6KSptFDAwAAAAASUVORK5CYII=">Feedly. Read more, know more.</A>
+    </DL><p>
+</DL><p>
