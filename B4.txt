@@ -1,0 +1,694 @@
+
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706827">Struts</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706831">Struts Ajax</H3>
+                <DL><p>
+                    <DT><A HREF="http://today.java.net/pub/a/today/2005/10/27/sprinkle-ajax-magic-into-struts-webapp.html?page=3" ADD_DATE="1552706829">java.net: Sprinkle Some AJAX Magic in Your Struts Web Application</A>
+                    <DT><A HREF="http://today.java.net/lpt/a/236" ADD_DATE="1552706830">Java.net - the Source for Java(tm) Technology Collaboration</A>
+                    <DT><A HREF="http://www.omnytex.com/articles/xhrstruts/" ADD_DATE="1552706830">Ajax using XMLHttpRequest and Struts</A>
+                    <DT><A HREF="http://today.java.net/pub/q/articles?x-o=30" ADD_DATE="1552706830">All Articles</A>
+                    <DT><A HREF="http://www.it-eye.nl/weblog/2005/12/13/ajax-in-struts-implementing-dependend-select-boxes/" ADD_DATE="1552706830">IT-eye Weblog » Ajax in Struts: implementing dependent select boxes</A>
+                    <DT><A HREF="http://wiki.apache.org/struts/AjaxStruts" ADD_DATE="1552706831">AjaxStruts - Struts Wiki</A>
+                    <DT><A HREF="http://www.javafree.org/javabb/viewtopic.jbb?t=853144" ADD_DATE="1552706831">AJAX+Struts Exemplos :: Java Free.org</A>
+                    <DT><A HREF="http://struts.apache.org/struts-sandbox/struts-flow/" ADD_DATE="1552706831">Struts Flow - Apache Struts - Struts Flow</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706830">SSL</H3>
+                <DL><p>
+                    <DT><A HREF="http://nuwanc.blogspot.com/2007/07/struts2-ssl-interceptor.html" ADD_DATE="1552706829">Nuwan C&#39;s Blog: Struts2 SSL Interceptor</A>
+                    <DT><A HREF="http://nickcoblentz.blogspot.com/2008/10/ssltls-in-struts-2.html" ADD_DATE="1552706830">Nick Coblentz: SSL/TLS in Struts 2</A>
+                    <DT><A HREF="https://code.google.com/p/struts2-ssl-plugin/wiki/HowToUse" ADD_DATE="1552706830">HowToUse - struts2-ssl-plugin - struts2 plugin that enables https or http redirection based on annotations. - Google Project Hosting</A>
+                    <DT><A HREF="http://prodia.co.uk/blog/doahh/entry/struts_2_and_ssl_switching1" ADD_DATE="1552706830">Struts 2 and SSL switching (part 2)</A>
+                </DL><p>
+                <DT><A HREF="http://j2ee.masslight.com/Chapter4.html" ADD_DATE="1552706821">Chapter 4: Introduction to Struts</A>
+                <DT><A HREF="http://www.samspublishing.com/articles/article.asp?p=31197&seqNum=7&rl=1" ADD_DATE="1552706822">Struts Kick Start: Building Applications &gt; The Controller Component: HelloAction.java</A>
+                <DT><A HREF="http://struts.apache.org/1.x/struts-apps/struts-faces-example2/xref/org/apache/struts/webapp/example2/SaveSubscriptionAction.html" ADD_DATE="1552706822">SaveSubscriptionAction xref</A>
+                <DT><A HREF="http://portals.apache.org/bridges/multiproject/portals-bridges-struts/xref/org/apache/portals/bridges/struts/PortletServlet.html" ADD_DATE="1552706823">PortletServlet xref</A>
+                <DT><A HREF="http://static.raibledesigns.com/downloads/struts-resume/api/org/appfuse/webapp/action/BaseAction.java.html" ADD_DATE="1552706823">org.appfuse.webapp.action.BaseAction (Java2HTML)</A>
+                <DT><A HREF="http://www.mail-archive.com/struts-user@jakarta.apache.org/msg60467.html" ADD_DATE="1552706823">Re: [Q] BEAN SCOPE</A>
+                <DT><A HREF="http://struts.apache.org/struts-action/apidocs/index.html" ADD_DATE="1552706823">Overview (Struts Action Framework 1.3.0-dev API)</A>
+                <DT><A HREF="http://struts.apache.org/struts-action/learning.html" ADD_DATE="1552706824">Apache Struts - Struts Action Framework - Learning</A>
+                <DT><A HREF="http://websphereadvisor.com/doc/13372" ADD_DATE="1552706824">WebSphere Advisor :: Professional Jakarta Struts: Advanced Action Classes -- Application Development J2EE - Java 2 Enterprise Edition Java Programming Application Design Struts MVC (Model-View-Controller)</A>
+                <DT><A HREF="http://www.developer.com/java/web/article.php/2233591" ADD_DATE="1552706824">Succeeding With Struts: Indexed Properties and Beans as Properties</A>
+                <DT><A HREF="http://www.javavietnam.org/javavn/mvnforum/viewthread?thread=12081#56651" ADD_DATE="1552706824">JavaVietnam - Xem luồng - Hướng dẫn vẽ biểu đồ trực tiếp trên trang jsp , servlet ..</A>
+                <DT><A HREF="http://www.javavietnam.org/javavn/mvnforum/viewthread?thread=9015#41944" ADD_DATE="1552706825">JavaVietnam - Xem luồng - JHelp topics</A>
+                <DT><A HREF="http://www.javavietnam.org/javavn/mvnforum/viewthread?thread=12319" ADD_DATE="1552706825">JavaVietnam - Xem luồng - Cho hỏi tý : sao không bắt event của Web bằng Javascript mà phải dùng Strut (hay framework nào khác) ???</A>
+                <DT><A HREF="http://www.javavietnam.org/javavn/mvnforum/viewthread?thread=4825" ADD_DATE="1552706825">JavaVietnam - Xem luồng - Struts multiupload file</A>
+                <DT><A HREF="http://forum.java.sun.com/thread.jspa?threadID=739423" ADD_DATE="1552706825">Java Technology Forums - &lt;html:select multiple=&quot;true&quot; &gt; how to handel in Action Form --urgent</A>
+                <DT><A HREF="http://jguru.com/forums/view.jsp?EID=1298269" ADD_DATE="1552706825">jGuru: html:select multiple=&quot;true&quot; how to handle in Action Form --urgent</A>
+                <DT><A HREF="http://marc.theaimsgroup.com/?l=struts-user&m=98374739900611&w=2" ADD_DATE="1552706826">&#39;Re: &lt;html:select multiple=&quot;true&quot; Problems&#39; - MARC</A>
+                <DT><A HREF="http://www.junlu.com/msg/155411.html" ADD_DATE="1552706826">&lt;html:select &gt; with multiple= &quot;true &quot; - creating an appropriate Model</A>
+                <DT><A HREF="http://www.lunatech.com/archives/2006/01/09/post-submit" ADD_DATE="1552706826">Lunatech Research » Web application post-submit messages</A>
+                <DT><A HREF="http://javaboutique.internet.com/tutorials/excep_struts/index-2.html" ADD_DATE="1552706826">Java(TM) Boutique - Handling Messages, Errors and Exceptions in Struts 1.1 - Page 2</A>
+                <DT><A HREF="http://www.mail-archive.com/struts-user@jakarta.apache.org/msg97113.html" ADD_DATE="1552706826">Re: LookupDispatchAction default</A>
+                <DT><A HREF="http://www.javavietnam.org/javavn/mvnforum/viewthread?thread=16011" ADD_DATE="1552706827">JavaVietnam - Xem luồng - Vấn đề upload với org.apache.commons.fileupload</A>
+                <DT><A HREF="http://www.samspublishing.com/articles/article.asp?p=101174&rl=1" ADD_DATE="1552706827">Struts Applications and Multilanguage Support &gt; Options for Multilanguage Support</A>
+                <DT><A HREF="http://articles.techrepublic.com.com/5100-22-1049531.html" ADD_DATE="1552706827">Internationalize your Struts application for multiple locales</A>
+                <DT><A HREF="http://java.sun.com/maintenance.html" ADD_DATE="1552706827">System Maintenance</A>
+                <DT><A HREF="http://www.javaworld.com/javaworld/jw-09-2004/jw-0913-struts.html?page=3" ADD_DATE="1552706827">Struts best practices - Java World</A>
+                <DT><A HREF="http://www.roseindia.net/struts/" ADD_DATE="1552706827">Struts Tutorials - Jakarta Strut Tutorials,Struts,Struts Example,Struts Code Example,Download Struts Example</A>
+                <DT><A HREF="http://struts.sourceforge.net/saif/" ADD_DATE="1552706827">Struts Action Invocation Framework (SAIF)</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706821">JSF</H3>
+            <DL><p>
+                <DT><A HREF="http://jsftutorials.net/" ADD_DATE="1552706821">JavaServer Faces (JSF) Tutorial Net.</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706828">Struts2</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706830">Ajax</H3>
+                <DL><p>
+                    <DT><A HREF="http://struts.apache.org/2.3.1/docs/ajax.html" ADD_DATE="1552706829">AJAX</A>
+                    <DT><A HREF="http://devtalks.blogspot.com/2010/10/ajax-xml-response-and-struts2.html" ADD_DATE="1552706830">Dev talks blog: Ajax XML response and Struts2</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706832">Login</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.roseindia.net/struts/struts2/struts2-login.shtml" ADD_DATE="1552706829">Struts 2 Login,Struts 2 Session</A>
+                    <DT><A HREF="http://www.benmccann.com/dev-blog/struts-2-tutorial-interceptors/" ADD_DATE="1552706830">Struts 2 Tutorial – Interceptors</A>
+                    <DT><A HREF="http://vikingcoderz.blogspot.com/2012/02/struts2-login-interceptor.html" ADD_DATE="1552706830">Viking CoderZ: Struts2 Login Interceptor</A>
+                    <DT><A HREF="http://viralpatel.net/blogs/struts2-interceptors-tutorial-with-example/" ADD_DATE="1552706830">Struts2 Interceptor Tutorial with Example.Struts2 Interceptors</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/2999829/redirect-to-another-action-in-an-interceptor-in-struts-2" ADD_DATE="1552706830">login - Redirect to another action in an interceptor in struts 2 - Stack Overflow</A>
+                    <DT><A HREF="http://www.vitarara.org/cms/struts_2_cookbook/creating_a_login_interceptor" ADD_DATE="1552706831">Creating a Login Interceptor in Struts 2 | Vita Rara: A Life Uncommon</A>
+                    <DT><A HREF="http://www.dzone.com/tutorials/java/struts-2/struts-2-example/struts-2-interceptors-example-1.html" ADD_DATE="1552706831">Struts 2 Interceptors Example | DZone</A>
+                    <DT><A HREF="http://struts.apache.org/2.0.11.1/docs/how-do-we-configure-an-interceptor-to-be-used-with-every-action.html" ADD_DATE="1552706831">How do we configure an Interceptor to be used with every Action</A>
+                    <DT><A HREF="http://struts.apache.org/2.0.11/docs/simplelogin-with-session.html" ADD_DATE="1552706831">SimpleLogin with Session</A>
+                    <DT><A HREF="http://livewithpranay.blogspot.com/2010/07/struts-2-token-interceptor_06.html" ADD_DATE="1552706832">Live with Pranay: Struts2 : Token Interceptor</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706830">Upload</H3>
+                <DL><p>
+                    <DT><A HREF="http://markjgreene.wordpress.com/2009/01/06/uploading-one-or-many-files-with-struts-2/" ADD_DATE="1552706829">Uploading one or many files with Struts 2 « Development Etc.</A>
+                    <DT><A HREF="http://www.mkyong.com/struts2/struts-2-upload-multiple-files-example/" ADD_DATE="1552706829">Struts 2 upload multiple files example</A>
+                    <DT><A HREF="http://viralpatel.net/blogs/struts-2-file-upload-save-tutorial-with-example/" ADD_DATE="1552706830">Struts 2 File Upload and Save Tutorial Example.Struts2 File Upload. File Upload in Struts2</A>
+                    <DT><A HREF="http://www.java4s.com/struts-tutorials/struts-2-file-upload-save-example/" ADD_DATE="1552706830">Struts 2 File Upload &amp; Save Example With Explanation</A>
+                    <DT><A HREF="http://www.codejava.net/frameworks/struts/upload-multiple-files-with-struts-2#AboutExample" ADD_DATE="1552706830">Upload multiple files with Struts 2</A>
+                </DL><p>
+                <DT><A HREF="http://my.opera.com/nguyend/blog/show.dml/1404253" ADD_DATE="1552706822">Tìm hiểu về Struts 2 (P.5) - By NGUYEND</A>
+                <DT><A HREF="http://www.javajazzup.com/issue7/page43.shtml" ADD_DATE="1552706822">Struts2 Tags,Struts 2 Bean Tag - Bean Tag Example Code,Introduction to Bean Tag</A>
+                <DT><A HREF="http://www.struts2.net/tutorial.htm" ADD_DATE="1552706822">struts2.Net</A>
+                <DT><A HREF="http://struts.apache.org/2.x/docs/tag-reference.html" ADD_DATE="1552706823">Tag Reference</A>
+                <DT><A HREF="http://www.rkcole.com/articles/struts/crudTutorial/" ADD_DATE="1552706823">Struts-2 Tutorials</A>
+                <DT><A HREF="http://techienet.org/book-page/sarath/struts2-step-step-guide-programmers" ADD_DATE="1552706824">Struts2 - Step by step guide for the programmers | TechieNET.org</A>
+                <DT><A HREF="http://www.struts2.org/" ADD_DATE="1552706824">Struts2 Help &amp; Reference</A>
+                <DT><A HREF="http://www.infoq.com/articles/migrating-struts-2-part2" ADD_DATE="1552706824">InfoQ: Migrating to Struts 2 - Part II</A>
+                <DT><A HREF="http://www.tutorialspoint.com/struts_2/struts_pdf_version.htm" ADD_DATE="1552706824">Struts 2 Tutorial in PDF</A>
+                <DT><A HREF="http://javabrains.koushik.org/2012/07/struts-2-tutorial-12-action-wildcards.html" ADD_DATE="1552706824">Java Brains: Struts 2 Tutorial 12 - Action Wildcards</A>
+                <DT><A HREF="http://www.devmanuals.com/tutorials/java/struts/struts2/index.html" ADD_DATE="1552706825">Struts 2 Tutorial</A>
+                <DT><A HREF="http://www.javatpoint.com/struts-2-tutorial" ADD_DATE="1552706825">Struts 2 Tutorial - javatpoint</A>
+                <DT><A HREF="http://www.learntechnology.net/content/struts2/struts2_crud.jsp" ADD_DATE="1552706825">learntechnology.net - Struts2 CRUD Example</A>
+                <DT><A HREF="http://www.benmccann.com/dev-blog/struts-2-tutorial-getting-started/" ADD_DATE="1552706825">Struts 2 Tutorial – Getting Started</A>
+                <DT><A HREF="http://www.dzone.com/tutorials/java/struts-2/struts-2-tutorial/struts-2-tutorial.html" ADD_DATE="1552706825">Struts 2 Tutorials | DZone</A>
+                <DT><A HREF="http://www.mkyong.com/tutorials/struts-2-tutorials/" ADD_DATE="1552706826">Struts 2 Tutorial</A>
+                <DT><A HREF="http://www.roseindia.net/struts/struts2/" ADD_DATE="1552706826">Struts 2 Tutorial,Struts2 Examples,Apache Struts 2 Tutorials - Free Java Programming Tutorials</A>
+                <DT><A HREF="http://viralpatel.net/blogs/category/j2ee/struts-2/" ADD_DATE="1552706826">Struts 2 Tutorials, Tips &amp; Tricks Struts 2 Article Concepts</A>
+                <DT><A HREF="http://www.java4s.com/struts-tutorials/struts-2-hibernate-integration-example-struts-2-hibernate-integration/" ADD_DATE="1552706826">Struts 2 Hibernate Integration Example | Struts 2 + Hibernate</A>
+                <DT><A HREF="http://struts.apache.org/2.3.1/docs/core-developers-guide.html" ADD_DATE="1552706826">Core Developers Guide</A>
+                <DT><A HREF="http://struts.apache.org/2.3.1/docs/result-configuration.html" ADD_DATE="1552706826">Result Configuration</A>
+                <DT><A HREF="http://struts.apache.org/2.3.1/docs/wildcard-mappings.html" ADD_DATE="1552706827">Wildcard Mappings</A>
+                <DT><A HREF="http://www.tutorialspoint.com/struts_2/struts_interceptors.htm" ADD_DATE="1552706827">Struts 2 Interceptors</A>
+                <DT><A HREF="http://web.securityinnovation.com/appsec-weekly/blog/bid/84318/Cross-Site-Request-Forgery-CSRF-Prevention-Using-Struts-2" ADD_DATE="1552706827">Cross-Site Request Forgery (CSRF) Prevention Using Struts 2</A>
+                <DT><A HREF="http://nickcoblentz.blogspot.com/2008/11/csrf-prevention-in-struts-2.html" ADD_DATE="1552706827">Nick Coblentz: CSRF Prevention in Struts 2</A>
+                <DT><A HREF="http://docs.huihoo.com/apache/struts/apache-struts-2-document/interceptors.html" ADD_DATE="1552706827">Interceptors</A>
+                <DT><A HREF="http://www.jtmelton.com/2010/05/16/the-owasp-top-ten-and-esapi-part-6-cross-site-request-forgery-csrf/" ADD_DATE="1552706827">The OWASP Top Ten and ESAPI – Part 5 – Cross Site Request Forgery (CSRF) : John Melton&#39;s Weblog</A>
+                <DT><A HREF="http://www.programcreek.com/2011/08/struts-2-tutorials-mvc-design-pattern/" ADD_DATE="1552706827">Struts 2 MVC Design Pattern</A>
+                <DT><A HREF="http://javapostsforlearning.blogspot.com/2012/07/welcome-to-strut2.html" ADD_DATE="1552706828">Introduction to Struts 2 | Java frameworks and design patterns for beginners</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706821">DAO</H3>
+            <DL><p>
+                <DT><A HREF="http://www-128.ibm.com/developerworks/rational/library/06/0725_wansch/" ADD_DATE="1552706821">Designing a Web service using Data Access Objects to access data in a DB2 or MySQL database</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706825">JSP&amp;Taglib</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706831">Servlets</H3>
+                <DL><p>
+                    <DT><H3 ADD_DATE="1552706829" LAST_MODIFIED="1552706836">Download</H3>
+                    <DL><p>
+                        <DT><A HREF="http://www.journaldev.com/1964/servlet-upload-file-and-download-file-example" ADD_DATE="1552706836">Servlet Upload File and Download File Example | JournalDev</A>
+                        <DT><A HREF="https://kodejava.org/how-do-i-create-zip-file-in-servlet-for-download/" ADD_DATE="1552706836">How do I create zip file in Servlet for download? – Kode Java</A>
+                        <DT><A HREF="https://gkokkinos.wordpress.com/2011/11/25/zip-and-download-content-from-servlet/" ADD_DATE="1552706836">Zip and download content from servlet – GRED</A>
+                        <DT><A HREF="http://blog.ropardo.ro/2010/03/03/how-to-create-a-zip-file-with-java-and-offer-it-for-download/" ADD_DATE="1552706836">ROPARDO s.r.l. » How to create a zip file with Java and offer it for download</A>
+                    </DL><p>
+                    <DT><A HREF="http://www.iam.ubc.ca/guides/javatut99/servlets/client-state/session-tracking.html" ADD_DATE="1552706829">Session Tracking</A>
+                    <DT><A HREF="http://www.javacommerce.com/displaypage.jsp?name=servletfaq.sql&id=18248" ADD_DATE="1552706830">Servlet and JSP&#39;s FAQ</A>
+                    <DT><A HREF="http://www.stardeveloper.com/articles/display.html?article=2001112001&page=1" ADD_DATE="1552706830">Counting Active Users using JSP</A>
+                    <DT><A HREF="http://www.stardeveloper.com/articles/display.html?article=2001062001&page=1" ADD_DATE="1552706830">Managing Sessions with Java Servlets</A>
+                    <DT><A HREF="http://www.javaworld.com/jw-06-2001/jw-0622-filters.html?page=3" ADD_DATE="1552706831">Filter code with Servlet 2.3 model - Java World</A>
+                    <DT><A HREF="http://www.phptr.com/articles/article.asp?p=29817&seqNum=10&rl=1" ADD_DATE="1552706831">A Fast Introduction to Basic Servlet Programming &gt; Session Tracking</A>
+                    <DT><A HREF="http://www.apl.jhu.edu/~hall/java/Servlet-Tutorial/Servlet-Tutorial-Cookies.html" ADD_DATE="1552706831">Servlet Tutorial: Handling Cookies</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706830">Taglib</H3>
+                <DL><p>
+                    <DT><A HREF="http://displaytag.sourceforge.net/11/" ADD_DATE="1552706829">Display tag library - Overview</A>
+                    <DT><A HREF="http://www.codeproject.com/useritems/DBGrid.asp" ADD_DATE="1552706830">Data Grid for JSP - The Code Project - Java Programming</A>
+                    <DT><A HREF="http://ajaxtags.no-ip.info/" ADD_DATE="1552706830">http://ajaxtags.no-ip.info/</A>
+                    <DT><A HREF="http://java.sun.com/j2ee/tutorial/1_3-fcs/doc/JSPTags5.html" ADD_DATE="1552706830">Defining Tags</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706832">Filter</H3>
+                <DL><p>
+                    <DT><H3 ADD_DATE="1552706829" LAST_MODIFIED="1552706837">XSS</H3>
+                    <DL><p>
+                        <DT><A HREF="http://ricardozuasti.com/2012/stronger-anti-cross-site-scripting-xss-filter-for-java-web-apps/" ADD_DATE="1552706836">ricardozuasti.com - Stronger anti cross-site scripting (XSS) filter for Java web apps «</A>
+                        <DT><A HREF="http://greatwebguy.com/programming/java/simple-cross-site-scripting-xss-servlet-filter/" ADD_DATE="1552706836">Simple Cross Site Scripting (XSS) Servlet Filter « GreatWebGuy</A>
+                        <DT><A HREF="http://java.dzone.com/articles/stronger-anti-cross-site" ADD_DATE="1552706836">Stronger Anti Cross-Site Scripting (XSS) Filter for Java Web Apps | Javalobby</A>
+                        <DT><A HREF="http://www.servletsuite.com/servlets/xssflt.htm" ADD_DATE="1552706836">XSS filter</A>
+                        <DT><A HREF="https://gist.github.com/madoke/2347047" ADD_DATE="1552706836">Stronger Anti Cross-Site Scripting (XSS) Filter for Java Web Apps</A>
+                        <DT><A HREF="http://code.google.com/p/catnip-xss-filter/source/browse/trunk/src/org/webdroid/catnip/filter/BadInputFilter.java" ADD_DATE="1552706836">BadInputFilter.java - catnip-xss-filter - A filter that defeats Cross Site Scripting (XSS) exploits, for Apache Tomcat and other Java servlet containers. - Google Project Hosting</A>
+                        <DT><A HREF="http://codehustler.org/jersey-cross-site-scripting-xss-filter-for-java-web-apps/" ADD_DATE="1552706836">Jersey Cross-Site Scripting (XSS) Filter for Java Web Apps - Code Hustler</A>
+                        <DT><A HREF="https://weblogs.java.net/blog/gmurray71/archive/2006/09/preventing_cros.html" ADD_DATE="1552706837">Preventing Cross Site Scripting Attacks | Java.net</A>
+                        <DT><A HREF="http://www.onehippo.org/7_7/library/concepts/web-application/xss-cross-site-scripting-prevention-with-hst-2.html" ADD_DATE="1552706837">Enterprise Open Source Java cms - Hippo CMS - XSS (Cross Site Scripting) Prevention with HST-2</A>
+                        <DT><A HREF="http://www.rgagnon.com/javadetails/java-0627.html" ADD_DATE="1552706837">Prevent XSS exploit - Real&#39;s Java How-to</A>
+                        <DT><A HREF="http://untamedmind.wordpress.com/2011/10/19/xss-and-sql-injection-filter/" ADD_DATE="1552706837">XSS and Sql Injection Filter |</A>
+                        <DT><A HREF="http://r.va.gg/2011/11/minifying-html-in-the-servlet-container.html" ADD_DATE="1552706837">[r.va.gg] Minifying HTML in the Servlet container</A>
+                        <DT><A HREF="http://stackoverflow.com/questions/5009650/where-can-i-find-a-java-servlet-filter-that-applies-regex-to-the-output" ADD_DATE="1552706837">Where can I find a Java Servlet Filter that applies regex to the output? - Stack Overflow</A>
+                        <DT><A HREF="http://www.leveluplunch.com/java/tutorials/034-modify-html-response-using-filter/" ADD_DATE="1552706837">Modify html response using filter | Level Up Lunch</A>
+                        <DT><A HREF="http://lexis.livejournal.com/3388.html" ADD_DATE="1552706837">lexis: Text replace filter for java web app</A>
+                        <DT><A HREF="http://stackoverflow.com/questions/14736328/looking-for-an-example-for-inserting-content-into-the-response-using-a-servlet-f" ADD_DATE="1552706837">java - Looking for an example for inserting content into the response using a servlet filter - Stack Overflow</A>
+                        <DT><A HREF="http://terasolunaorg.github.io/guideline/5.0.0.RELEASE/en/Security/CSRF.html" ADD_DATE="1552706837">6.7. CSRF Countermeasures — TERASOLUNA Server Framework for Java (5.x) Development Guideline 5.0.0.RELEASE documentation</A>
+                    </DL><p>
+                    <DT><A HREF="http://jpgmr.wordpress.com/2010/07/28/tutorial-implementing-a-servlet-filter-for-jsonp-callback-with-springs-delegatingfilterproxy/" ADD_DATE="1552706830">Tutorial: Implementing a Servlet Filter for JSONP callback with Spring’s DelegatingFilterProxy | Patrick Grimard&#39;s Java Blog</A>
+                    <DT><A HREF="http://www.wetfeetblog.com/servlet-filer-to-log-request-and-response-details-and-payload/431" ADD_DATE="1552706830">Servlet Filer to Log Request and Response Details and Payload | Wet Feet - Online Marketing and Technology Blog</A>
+                    <DT><A HREF="http://javabeanz.wordpress.com/2009/02/11/how-to-write-a-simple-servlet-filter/" ADD_DATE="1552706830">How-to: Write a simple servlet filter | a cup of java</A>
+                    <DT><A HREF="http://livingtao.blogspot.com/2012/01/servlet-filter-to-set-response-headers.html" ADD_DATE="1552706830">Coding Chronicles: Servlet Filter to Set Response Headers</A>
+                    <DT><A HREF="http://www.headcrashing.eu/code/eu/headcrashing/javax/servlet/LoggingFilter.java" ADD_DATE="1552706831">www.headcrashing.eu/code/eu/headcrashing/javax/servlet/LoggingFilter.java</A>
+                    <DT><A HREF="http://blog.actuanceconsulting.com/servlet-filter-java-performance-logging/" ADD_DATE="1552706831">A simple servlet filter for Java performance logging – Actuance Consulting Blog</A>
+                    <DT><A HREF="http://sqltech.cl/doc/oas10gR31/web.1013/b28959/filters.htm" ADD_DATE="1552706831">4 Understanding and Using Servlet Filters</A>
+                    <DT><A HREF="https://angelborroy.wordpress.com/2009/03/04/dump-request-and-response-using-javaxservletfilter/" ADD_DATE="1552706831">Dump request and response using javax.servlet.Filter | Programming and So</A>
+                    <DT><A HREF="http://blogs.alfresco.com/wp/ewinlof/2013/03/11/introducing-the-new-csrf-filter-in-alfresco-share/" ADD_DATE="1552706832">Introducing the CSRFPolicy in Alfresco Share | Erik Winlöf&#39;s blog</A>
+                    <DT><A HREF="http://info.michael-simons.eu/2012/01/11/creating-a-csrf-protection-with-spring-3-1/" ADD_DATE="1552706832">Creating a CSRF protection with Spring 3.1 | info.michael-simons.eu</A>
+                </DL><p>
+                <DT><A HREF="http://www-128.ibm.com/developerworks/java/library/j-jstl0211.html" ADD_DATE="1552706822">A JSTL primer, Part 1: The expression language</A>
+                <DT><A HREF="http://www-128.ibm.com/developerworks/java/library/j-jsp05273.html" ADD_DATE="1552706822">JSP best practices: Update your JSP pages with JSTL</A>
+                <DT><A HREF="http://www.javaworld.com/javaworld/jw-07-2004/jw-0726-pagination.html" ADD_DATE="1552706823">Paging long lists - Java World</A>
+                <DT><A HREF="http://www.javavietnam.org/javavn/mvnforum/viewthread;jsessionid=8499862AFF3FF86F4173138F61C525DD?thread=16600" ADD_DATE="1552706823">JavaVietnam - Xem luồng - Xin chỉ giáo về kỹ thuật phân trang trong JSP</A>
+                <DT><A HREF="http://calendartag.sourceforge.net/tutorial.html" ADD_DATE="1552706823">CalendarTag - CalendarTag Tutorial</A>
+                <DT><A HREF="http://java.sun.com/j2ee/1.4/docs/tutorial/doc/JSTL4.html" ADD_DATE="1552706824">Core Tag Library</A>
+                <DT><A HREF="http://www.roseindia.net/jstl/jstl-overview.shtml" ADD_DATE="1552706824">Overview of JSTL Tags,JSTL Overview</A>
+                <DT><A HREF="http://www.onjava.com/pub/a/onjava/2002/08/14/jstl1.html" ADD_DATE="1552706824">ONJava.com -- JSTL 1.0: Standardizing JSP, Part 1</A>
+                <DT><A HREF="http://www.informit.com/articles/article.aspx?p=30946" ADD_DATE="1552706824">InformIT: The JSTL Expression Language &gt; Expression Language Overview</A>
+                <DT><A HREF="http://www.javaworld.com/javaworld/jw-12-2001/jw-1228-jsptemplate.html?page=5" ADD_DATE="1552706825">Web application components made easy with Composite View - Java World</A>
+                <DT><A HREF="http://www.bng-galiza.org/opencms/opencms/alkacon-documentation/documentation_taglib/" ADD_DATE="1552706825">OpenCms 7 documentation :: OpenCms JSP taglib documentation</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706826">Webservices</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706830">SOAP UI</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.nysolutionsltd.com/generating-client-java-code-for-wsdl-using-soap-ui-axis2-wsdl2java/" ADD_DATE="1552706829">Generating Client JAVA code for WSDL using SOAP UI – AXIS2 WSDL2JAVA | NY Solutions LTD</A>
+                    <DT><A HREF="http://blog.smartbear.com/sqc/creating-your-own-teststeps-in-soapui/" ADD_DATE="1552706830">Creating your own TestSteps in soapUI</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706832">Upload</H3>
+                <DL><p>
+                    <DT><A HREF="http://examples.javacodegeeks.com/enterprise-java/jws/jax-ws-attachment-with-mtom/" ADD_DATE="1552706829">JAX-WS Attachment With MTOM | Examples Java Code Geeks</A>
+                    <DT><A HREF="https://community.jboss.org/thread/103395?tstart=0" ADD_DATE="1552706830">file transfer via SOAP and RPC | Community</A>
+                    <DT><A HREF="http://www.mkyong.com/webservices/jax-ws/jax-ws-attachment-with-mtom/" ADD_DATE="1552706830">JAX-WS attachment with MTOM</A>
+                    <DT><A HREF="http://users.skynet.be/pascalbotte/rcx-ws-doc/xmlpost.htm" ADD_DATE="1552706830">Java HTTP post for XML SOAP message.</A>
+                    <DT><A HREF="http://www.codejava.net/java-ee/web-services/java-web-services-binary-data-transfer-example-base64-encoding" ADD_DATE="1552706830">Java Web Services Binary Data Transfer Example (base64 encoding)</A>
+                    <DT><A HREF="http://java.globinch.com/enterprise-java/web-services/jax-ws/jax-ws-attachment-enable-mtom-jax-ws-web-services/" ADD_DATE="1552706831">JAX-WS Attachment - Enable MTOM for JAX-WS Web services</A>
+                    <DT><A HREF="http://wso2.com/library/1675/" ADD_DATE="1552706831">Downloading a Binary File from a Web Service using Axis2 and SOAP with Attachments | WSO2 Inc</A>
+                    <DT><A HREF="http://www.techiekernel.com/2012/11/web-service-using-jax-ws-mtom.html" ADD_DATE="1552706831">Web Service using JAX-WS (MTOM) ~ TECHIE KERNEL</A>
+                    <DT><A HREF="http://docs.aws.amazon.com/AmazonS3/latest/dev/llJavaUploadFile.html" ADD_DATE="1552706831">Upload a File - Amazon Simple Storage Service</A>
+                    <DT><A HREF="http://shuklaxyz.blogspot.com/2012/07/how-to-upload-zip-file-through-soap-in.html" ADD_DATE="1552706832">Shailesh Shukla Android Life: How to Upload Zip File through SOAP in Android?</A>
+                    <DT><A HREF="http://alvinalexander.com/java/jwarehouse/axis2-1.3/modules/samples/soapwithattachments/src/sample/soapwithattachments/client/SWAClient.java.shtml" ADD_DATE="1552706832">Java example - SWAClient.java</A>
+                </DL><p>
+                <DT><A HREF="http://www.onjava.com/pub/a/onjava/2002/06/05/axis.html" ADD_DATE="1552706821">ONJava.com -- Creating Web Services with Apache Axis</A>
+                <DT><A HREF="http://www.ibm.com/developerworks/webservices/library/ws-castor/" ADD_DATE="1552706822">Create Web services using Apache Axis and Castor</A>
+                <DT><A HREF="http://www.ftponline.com/javapro/2003_02/online/WSDL_kjones_02_27_03/" ADD_DATE="1552706822">Java Pro – Configure Axis Web Services</A>
+                <DT><A HREF="http://www.pankaj-k.net/axis4tag/" ADD_DATE="1552706822">Web Services with JAX-RPC and Axis</A>
+                <DT><A HREF="http://www.developer.com/java/web/article.php/3443951" ADD_DATE="1552706823">Developing Java Web Services with AXIS</A>
+                <DT><A HREF="http://javaboutique.internet.com/tutorials/Axis/" ADD_DATE="1552706823">Java(TM) Boutique - Web Services with Axis</A>
+                <DT><A HREF="http://www.javabeat.net/articles/webservices/2007/07/programming-web-services-using-apache-axis/" ADD_DATE="1552706823">Programming Web Services using Apache Axis</A>
+                <DT><A HREF="http://www.developer.com/java/web/article.php/2237251" ADD_DATE="1552706824">Developing JAX-RPC–Based Web Services Using Axis and SOAP</A>
+                <DT><A HREF="http://www.javabeat.net/articles/2007/10/creating-webservice-using-jboss-and-eclipse/3" ADD_DATE="1552706824">Creating Webservice using JBoss and Eclipse Europa</A>
+                <DT><A HREF="http://www.lucianofiandesio.com/javatales/axant.html" ADD_DATE="1552706824">Implement a Web Service using Axis, Tomcat and Ant</A>
+                <DT><A HREF="http://www.javaworld.com/javaworld/jw-01-2002/jw-0125-axis.html" ADD_DATE="1552706825">Axis: The next generation of Apache SOAP - Java World</A>
+                <DT><A HREF="http://java.dzone.com/announcements/wiztoolsorg-restclient-21-rele" ADD_DATE="1552706825">WizTools.org RESTClient 2.1—Getting Started | Javalobby</A>
+                <DT><A HREF="http://code.google.com/p/rest-client/" ADD_DATE="1552706825">rest-client - Google Code</A>
+                <DT><A HREF="http://xfire.codehaus.org/" ADD_DATE="1552706825">Codehaus XFire - Home</A>
+                <DT><A HREF="http://www.xaware.org/" ADD_DATE="1552706825">XAware Open Source Data Integration - XAware Open Source Data Integration</A>
+                <DT><A HREF="http://www.scottnichol.com/apachesoapinstall.htm" ADD_DATE="1552706826">Apache SOAP Installation</A>
+                <DT><A HREF="http://rathinasaba.wordpress.com/category/webservice/" ADD_DATE="1552706826">webservice | My Tech Blog</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706821">Oracle</H3>
+            <DL><p>
+                <DT><A HREF="http://www.oracle.com/technology/products/ias/toplink/mwdemos/index.html" ADD_DATE="1552706821">Oracle TopLink Online Demonstrations</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706827">RESTful Services</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706831">Tutorial</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.vogella.com/articles/REST/article.html" ADD_DATE="1552706829">REST with Java (JAX-RS) using Jersey - Tutorial</A>
+                    <DT><A HREF="http://javapostsforlearning.blogspot.com/2013/04/restful-web-service-tutorial.html" ADD_DATE="1552706829">RESTful web service tutorial | Java tutorial for beginners</A>
+                    <DT><A HREF="http://www.mkyong.com/tutorials/jax-rs-tutorials/" ADD_DATE="1552706830">JAX-RS Tutorial</A>
+                    <DT><A HREF="http://howtodoinjava.com/restful-web-service/" ADD_DATE="1552706830">RESTful Web services Tutorials | How to do in JAVA</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/webservices/library/wa-jaxrs/" ADD_DATE="1552706831">Create RESTful Web services with Java technology</A>
+                    <DT><A HREF="http://www.pretechsol.com/p/webservices.html#.UnDF_dIjzkU" ADD_DATE="1552706831">WebServices - Pretech Blog</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706833">Jersey</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.benchresources.net/web-services/jersey-2-tutorials/" ADD_DATE="1552706829">Jersey 2.x - BenchResources.Net</A>
+                    <DT><A HREF="http://www.codingpedia.org/ama/restful-web-services-example-in-java-with-jersey-spring-and-mybatis/" ADD_DATE="1552706830">RESTful Web Services Example in Java with Jersey, Spring and MyBatis | Codingpedia.org</A>
+                    <DT><A HREF="https://jersey.java.net/documentation/latest/user-guide.html" ADD_DATE="1552706830">Jersey 2.23 User Guide</A>
+                    <DT><A HREF="http://www.vogella.com/tutorials/REST/article.html" ADD_DATE="1552706830">REST with Java (JAX-RS) using Jersey - Tutorial</A>
+                    <DT><A HREF="https://afsinka.wordpress.com/2015/12/27/restful-web-service-example-with-jersey-2-and-tomcat-8/" ADD_DATE="1552706830">RESTFul Web Service Example with Jersey 2 and Tomcat 8 | afsinka</A>
+                    <DT><A HREF="http://www.dineshonjava.com/2013/06/restful-web-services-with-jersey-jax-rs.html#.V1aXteZ9600" ADD_DATE="1552706831">RESTful Web Services with Jersey JAX-RS on Tomcat 7 | DOJ Software Consultant | Dinesh on Java</A>
+                    <DT><A HREF="https://docs.oracle.com/cd/E19776-01/820-4867/6nga7f5n6/index.html" ADD_DATE="1552706831">Chapter 3 Creating a RESTful Resource Class (RESTful Web Services Developer&#39;s Guide)</A>
+                    <DT><A HREF="http://blog.dejavu.sk/2014/02/11/inject-custom-java-types-via-jax-rs-parameter-annotations/" ADD_DATE="1552706831">JSON in Query Params or How to Inject Custom Java Types via JAX-RS Parameter Annotations | tl;dr</A>
+                    <DT><A HREF="http://www.nakov.com/blog/2009/07/15/jax-rs-path-pathparam-and-optional-parameters/" ADD_DATE="1552706832">JAX-RS, @Path, @PathParam and Optional Parameters | Svetlin Nakov&#39;s Blog</A>
+                    <DT><A HREF="https://docs.oracle.com/cd/E19226-01/820-7627/6nisfjmk8/index.html" ADD_DATE="1552706832">Chapter 13 Building RESTful Web Services with JAX-RS and Jersey (The Java EE 6 Tutorial, Volume I)</A>
+                    <DT><A HREF="https://examples.javacodegeeks.com/enterprise-java/rest/jersey/jax-rs-queryparam-example/" ADD_DATE="1552706832">JAX-RS @QueryParam Example | Examples Java Code Geeks - 2016</A>
+                    <DT><A HREF="http://www.techferry.com/articles/RESTful-web-services-JAX-RS-annotations.html" ADD_DATE="1552706832">RESTful Web Service - JAX-RS Annotations</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/14075422/post-request-with-multiple-parameters-json-and-string-on-jackson-jersey-java" ADD_DATE="1552706832">post request with multiple parameters JSON and String on Jackson/Jersey JAVA - Stack Overflow</A>
+                    <DT><A HREF="https://avaldes.com/upload-and-download-multiple-binary-files-using-mongodb/" ADD_DATE="1552706833">Upload and Download Multiple Binary Files using MongoDB</A>
+                    <DT><A HREF="http://www.mkyong.com/webservices/jax-rs/file-upload-example-in-jersey/" ADD_DATE="1552706833">File upload example in Jersey</A>
+                    <DT><A HREF="http://aruld.info/handling-multiparts-in-restful-applications-using-jersey/" ADD_DATE="1552706833">Handling multiparts in Restful applications using Jersey | Blogging at the speed of thought</A>
+                </DL><p>
+                <DT><A HREF="http://www.ddj.com/web-development/199902676?pgno=3" ADD_DATE="1552706821">Dr. Dobb&#39;s | SOA, Web Services, and RESTful Systems | June 8, 2007</A>
+                <DT><A HREF="http://objectif-naiade.blogspot.com/2007/11/java-rest-framework-jersey.html" ADD_DATE="1552706822">Objectif Naiade: A java REST framework : Jersey</A>
+                <DT><A HREF="http://alterlabs.com/technologies/java/developing-restful-web-services-in-java/" ADD_DATE="1552706822">ALTERthought Blogs » Developing RESTful Web Services in Java</A>
+                <DT><A HREF="https://cetia4.dev.java.net/" ADD_DATE="1552706823">cetia4: Home</A>
+                <DT><A HREF="http://www.javaworld.com/javaworld/jw-10-2007/jw-10-resteasy.html?page=7" ADD_DATE="1552706823">REST easy with the JavaBeans Activation Framework - Java World</A>
+                <DT><A HREF="https://jersey.dev.java.net/" ADD_DATE="1552706823">jersey: RESTful Web services made easy in Java</A>
+                <DT><A HREF="http://java.sun.com/developer/technicalArticles/WebServices/restful/" ADD_DATE="1552706823">RESTful Web Services</A>
+                <DT><A HREF="http://webservices.xml.com/pub/a/ws/2002/02/06/rest.html" ADD_DATE="1552706824">webservices.xml.com: Second Generation Web Services</A>
+                <DT><A HREF="https://restfulbeans.dev.java.net/" ADD_DATE="1552706824">restfulbeans: RestfulBeans project</A>
+                <DT><A HREF="http://developerlife.com/tutorials/?p=60" ADD_DATE="1552706824">developerlife - Tutorials » Lightweight Remote Object Access - RESTful Java</A>
+                <DT><A HREF="http://www.onjava.com/pub/a/onjava/2005/04/27/restweb.html?page=2" ADD_DATE="1552706824">ONJava.com -- The REST of the Web</A>
+                <DT><A HREF="http://www.xml.com/pub/a/2004/12/01/restful-web.html" ADD_DATE="1552706825">XML.com: How to Create a REST Protocol</A>
+                <DT><A HREF="http://code.google.com/apis/base/samples/java/java-sample-api-query1.html" ADD_DATE="1552706825">Java Raw Protocol - QueryExample1 - Google Base Data API - Google Code</A>
+                <DT><A HREF="http://java.dzone.com/news/spring-framework-support-rest-" ADD_DATE="1552706825">Spring Framework Support in REST 0.7 | Javalobby</A>
+                <DT><A HREF="http://xins.sourceforge.net/" ADD_DATE="1552706825">XINS - Open Source Web Services Framework</A>
+                <DT><A HREF="http://blog.noelios.com/2008/07/24/community-restlet-tutorials/" ADD_DATE="1552706825">Community Restlet tutorials « Noelios Technologies</A>
+                <DT><A HREF="http://jersey.java.net/nonav/documentation/latest/user-guide.html" ADD_DATE="1552706826">Jersey 1.15 User Guide</A>
+                <DT><A HREF="http://www.mkyong.com/webservices/jax-rs/restful-java-client-with-jersey-client/" ADD_DATE="1552706826">RESTful Java client with Jersey client</A>
+                <DT><A HREF="http://coenraets.org/blog/2011/11/building-restful-services-with-java-using-jax-rs-and-jersey-sample-application/" ADD_DATE="1552706826">Building RESTful Services with Java Using JAX-RS and Jersey — Sample Application | Christophe Coenraets</A>
+                <DT><A HREF="http://www.techzoo.org/how-to/restful-java-web-service-with-xml-response.html" ADD_DATE="1552706826">RESTful java web service with XML Response | TechZoo - Technology Blog</A>
+                <DT><A HREF="http://vichargrave.com/restful-web-service-development-with-netbeans-and-tomcat-tutorial/" ADD_DATE="1552706826">RESTful Java Web Services with NetBeans, Jersey and Tomcat | VicHargrave.com</A>
+                <DT><A HREF="http://poi.apache.org/spreadsheet/quick-guide.html#FileInputStream" ADD_DATE="1552706827">Busy Developers&#39; Guide to HSSF and XSSF Features</A>
+                <DT><A HREF="http://code.joejag.com/2011/creating-a-simple-java-restful-service-using-jersey-and-maven/" ADD_DATE="1552706827">Creating a simple Java RESTful service using Jersey and Maven « JoeJag :: Tech</A>
+                <DT><A HREF="http://wwwendt.de/tech/dynatree/doc/samples.html" ADD_DATE="1552706827">Dynatree - Example Browser</A>
+                <DT><A HREF="http://www.codingpedia.org/ama/tutorial-rest-api-design-and-implementation-in-java-with-jersey-and-spring/" ADD_DATE="1552706827">Tutorial - REST API design and implementation with Jersey and Spring | Codingpedia.org</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706822">Security</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706832">OWASP</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.owasp.org/index.php/Category:OWASP_Java_Project" ADD_DATE="1552706829">Category:OWASP Java Project - OWASP</A>
+                    <DT><A HREF="http://www.owasp.org/index.php/Preventing_SQL_Injection_in_Java" ADD_DATE="1552706829">Preventing SQL Injection in Java - OWASP</A>
+                    <DT><A HREF="http://today.java.net/pub/a/today/2005/09/20/handling-web-app-input.html" ADD_DATE="1552706830">java.net: Handling Java Web Application Input, Part 2</A>
+                    <DT><A HREF="http://www.owasp.org/index.php/OWASP_Java_Table_of_Contents" ADD_DATE="1552706830">OWASP Java Table of Contents - OWASP</A>
+                    <DT><A HREF="http://www.owasp.org/index.php/How_to_add_validation_logic_to_HttpServletRequest" ADD_DATE="1552706830">How to add validation logic to HttpServletRequest - OWASP</A>
+                    <DT><A HREF="http://www.owasp.org/index.php/How_to_perform_HTML_entity_encoding_in_Java" ADD_DATE="1552706831">How to perform HTML entity encoding in Java - OWASP</A>
+                    <DT><A HREF="http://www.owasp.org/index.php/Data_Validation" ADD_DATE="1552706831">Data Validation - OWASP</A>
+                    <DT><A HREF="http://www.cgisecurity.com/lib/URLEmbeddedAttacks.html" ADD_DATE="1552706831">URL Encoded Attacks</A>
+                    <DT><A HREF="http://www.owasp.org/index.php/Preventing_LDAP_Injection_in_Java" ADD_DATE="1552706832">Preventing LDAP Injection in Java - OWASP</A>
+                    <DT><A HREF="http://www.owasp.org/index.php/Password_length_%26_complexity" ADD_DATE="1552706832">Password length &amp; complexity - OWASP</A>
+                    <DT><A HREF="https://www.owasp.org/index.php/Category:OWASP_CSRFGuard_Project" ADD_DATE="1552706832">Category:OWASP CSRFGuard Project - OWASP</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706833">Spring Security</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.javablog.fr/javaspring3-spring-security-authentication-provider-override-authentication-token.html" ADD_DATE="1552706829">Java/Spring3: Spring Security, authentication provider, override authentication token | JavaBlog.fr / Java.lu</A>
+                    <DT><A HREF="http://www.springaddon.com/?p=651" ADD_DATE="1552706829">SpringAddon » Spring Security Tutorial (Part-II)</A>
+                    <DT><A HREF="http://kushanxp.blogspot.com/" ADD_DATE="1552706830">KUSHAN&#39;S TECH BLOG</A>
+                    <DT><A HREF="http://www.denksoft.com/articles/acl-spring-security-tutorial/" ADD_DATE="1552706830">Denksoft » Spring Security tutorial</A>
+                    <DT><A HREF="http://www.springbyexample.org/examples/simple-spring-security-webapp.html" ADD_DATE="1552706830">Simple Spring Security Webapp</A>
+                    <DT><A HREF="http://javakart.blogspot.com/2012/12/spring-security-tutorial-form-login-example.html" ADD_DATE="1552706831">Java Kart: Spring Security - Tutorial With Example</A>
+                    <DT><A HREF="http://www.mkyong.com/tutorials/spring-security-tutorials/" ADD_DATE="1552706831">Spring Security Tutorial</A>
+                    <DT><A HREF="http://blog.solidcraft.eu/2011/03/spring-security-by-example-set-up-and.html" ADD_DATE="1552706831">Solid Craft: Spring Security by example: set up and form authentication</A>
+                    <DT><A HREF="http://www.raistudies.com/spring-security-tutorial/show-user-information-jsp-spring-security-taglibs/" ADD_DATE="1552706832">spring security user information jsp taglibs,spring security taglib example,spring security tags example,spring security tags,spring,spring security,spring security tutorial | Rai Studies</A>
+                    <DT><A HREF="http://krams915.blogspot.com/p/tutorials.html" ADD_DATE="1552706832">krams::: Tutorials</A>
+                    <DT><A HREF="http://www.javacodegeeks.com/2012/07/spring-security-part-1-simple-login.html" ADD_DATE="1552706832">Spring Security Part 1 – Simple Login application with database | Java Code Geeks</A>
+                    <DT><A HREF="http://www.dineshonjava.com/2013/02/spring-security-hello-world-example.html#.UYxi7qIjw9M" ADD_DATE="1552706832">Spring Security Hello World Example | DAV JavaServices Ltd. | Dinesh on Java</A>
+                    <DT><A HREF="http://blog.teamextension.com/quick-spring-security-3-tutorial-720" ADD_DATE="1552706832">Quick Spring Security 3 Tutorial | Java Blog | blog.teamextension.com</A>
+                    <DT><A HREF="http://java.dzone.com/articles/java-web-application-security-0" ADD_DATE="1552706833">Java Web Application Security - Part II: Spring Security Login Demo | Javalobby</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706830">Shiro</H3>
+                <DL><p>
+                    <DT><A HREF="http://shiro.apache.org/10-minute-tutorial.html" ADD_DATE="1552706829">10 Minute Tutorial | Apache Shiro</A>
+                    <DT><A HREF="http://shiro.apache.org/articles.html" ADD_DATE="1552706830">Articles | Apache Shiro</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706830">URL</H3>
+                <DL><p>
+                    <DT><A HREF="https://today.java.net/pub/a/today/2008/05/20/securing-your-applications-request-parameters.html" ADD_DATE="1552706829">Securing Your Web Application Requests | Java.net</A>
+                    <DT><A HREF="http://www.coderanch.com/t/589364/open-source/encryption-url" ADD_DATE="1552706830">encryption of url (Open Source Projects forum at JavaRanch)</A>
+                    <DT><A HREF="http://indiantigers.blogspot.com/2009/09/encrypt-url.html" ADD_DATE="1552706830">Gravis Delator: Encrypt URL</A>
+                    <DT><A HREF="http://forum.springsource.org/archive/index.php/t-29632.html" ADD_DATE="1552706830">URL Encryption in Spring? [Archive] - Spring Community Forums</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706831">CSRFToken</H3>
+                <DL><p>
+                    <DT><A HREF="https://code.google.com/p/owasp-esapi-java/issues/attachmentText?id=162&aid=-5286625267044767010&name=AntiCSRFTokenTag.java&token=0e65e44b16b64f008027287483d86351" ADD_DATE="1552706829">AntiCSRFTokenTag.java (1.8 KB) - owasp-esapi-java - OWASP Enterprise Security API (Java Edition) - Google Project Hosting</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/23082498/csrf-token-generation-issue" ADD_DATE="1552706830">java - CSRF token generation issue - Stack Overflow</A>
+                    <DT><A HREF="http://grepcode.com/file/repo1.maven.org/maven2/org.apache.tomcat/tomcat-catalina/7.0.0/org/apache/catalina/filters/CsrfPreventionFilter.java" ADD_DATE="1552706830">GC: CsrfPreventionFilter - org.apache.catalina.filters.CsrfPreventionFilter (.java) - GrepCode Class Source</A>
+                    <DT><A HREF="https://code.google.com/p/csrf-filter/source/browse/trunk/simple-csrf-filter/src/main/java/com/google/code/csrf/StatelessCookieFilter.java" ADD_DATE="1552706830">StatelessCookieFilter.java - csrf-filter - Filter for handling csrf token - Google Project Hosting</A>
+                    <DT><A HREF="http://java.dzone.com/articles/preventing-csrf-java-web-apps" ADD_DATE="1552706831">Preventing CSRF in Java Web Apps | Javalobby</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/5326949/jsp-validate-user-is-coming-from-previous-page" ADD_DATE="1552706831">java - JSP validate user is coming from previous page - Stack Overflow</A>
+                    <DT><A HREF="https://www.owasp.org/index.php/CSRFGuard_3_Token_Injection" ADD_DATE="1552706831">CSRFGuard 3 Token Injection - OWASP</A>
+                </DL><p>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706823">JMS</H3>
+            <DL><p>
+                <DT><A HREF="http://www.ibm.com/developerworks/java/tutorials/j-jms/j-jms-updated.html" ADD_DATE="1552706821">Introducing the Java Message Service</A>
+                <DT><A HREF="http://theopentutorials.com/tutorials/java-ee/ejb3/mdb/java-message-service-jms-api/" ADD_DATE="1552706821">Java Message Service (JMS) API » the Open Tutorials</A>
+                <DT><A HREF="http://www.coderpanda.com/jms-tutorial/" ADD_DATE="1552706821">JMS Tutorial - Discussing all concepts of JMS with examples</A>
+                <DT><A HREF="http://docs.oracle.com/javaee/6/tutorial/doc/bncdr.html" ADD_DATE="1552706822">Overview of the JMS API - The Java EE 6 Tutorial</A>
+                <DT><A HREF="http://www.torsten-horn.de/techdocs/jee-jms.htm" ADD_DATE="1552706822">JMS (Java Message Service)</A>
+                <DT><A HREF="http://www.sw-engineering-candies.com/snippets/java/hello-world-java-message-service-with-open-mq" ADD_DATE="1552706822">Hello World Java Message Service (JMS) with Open MQ - Software Engineering Candies</A>
+                <DT><A HREF="http://www.j2eebrain.com/jms-tutorial" ADD_DATE="1552706823">JMS Tutorial | Java J2EEBrain</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706826">Pattern</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706833">Singleton</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.javenue.info/post/40" ADD_DATE="1552706829">Singleton Design Pattern in Java</A>
+                    <DT><A HREF="https://en.wikipedia.org/wiki/Singleton_pattern#The_solution_of_Bill_Pugh" ADD_DATE="1552706829">Singleton pattern - Wikipedia, the free encyclopedia</A>
+                    <DT><A HREF="http://www.tutorialspoint.com/java/java_using_singleton.htm" ADD_DATE="1552706830">Java - How to use Singleton Class ?</A>
+                    <DT><A HREF="http://javatechig.com/design-patterns/singleton-design-pattern-in-java" ADD_DATE="1552706830">Singleton Design Pattern In Java | Java Techig</A>
+                    <DT><A HREF="http://howtodoinjava.com/core-java/io/java-loadreadwrite-properties-file-examples/" ADD_DATE="1552706830">Java Load/Read/Write Properties file examples – HowToDoInJava</A>
+                    <DT><A HREF="http://www.codeproject.com/Articles/189489/Java-Properties-Example-using-Singleton-Pattern" ADD_DATE="1552706831">Java Properties Example using Singleton Pattern - CodeProject</A>
+                    <DT><A HREF="http://crunchify.com/thread-safe-and-a-fast-singleton-implementation-in-java/" ADD_DATE="1552706831">http://crunchify.com/thread-safe-and-a-fast-singleton-implementation-in-java/ is not available</A>
+                    <DT><A HREF="https://www.javacodegeeks.com/2013/02/singleton-design-pattern-an-introspection-and-best-practices.html" ADD_DATE="1552706831">Singleton Design Pattern - An introspection and best practices</A>
+                    <DT><A HREF="http://viralpatel.net/blogs/dynamic-property-loader-using-java-dynamic-proxy-pattern/" ADD_DATE="1552706832">Dynamic Property Loader using Java Dynamic Proxy pattern</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/1050991/singleton-with-arguments-in-java" ADD_DATE="1552706832">oop - Singleton with Arguments in Java - Stack Overflow</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/18517291/how-to-avoid-reading-property-file-multiple-times" ADD_DATE="1552706832">java - How to avoid reading property file multiple times - Stack Overflow</A>
+                    <DT><A HREF="http://www.oodesign.com/singleton-pattern.html" ADD_DATE="1552706832">Singleton Pattern | Object Oriented Design</A>
+                    <DT><A HREF="http://howtodoinjava.com/2012/10/22/singleton-design-pattern-in-java/" ADD_DATE="1552706832">Singleton design pattern in java | How To Do In Java</A>
+                    <DT><A HREF="http://java.dzone.com/articles/singleton-design-pattern-%E2%80%93" ADD_DATE="1552706833">Singleton Design Pattern – An Introspection w/ Best Practices | Javalobby</A>
+                    <DT><A HREF="http://www.journaldev.com/1377/java-singleton-design-pattern-best-practices-with-examples" ADD_DATE="1552706833">Java Singleton Design Pattern Best Practices with Examples</A>
+                    <DT><A HREF="https://viblo.asia/p/hoc-singleton-pattern-trong-5-phut-4P856goOKY3" ADD_DATE="1552706833">Học Singleton Pattern trong 5 phút. - Viblo</A>
+                </DL><p>
+                <DT><A HREF="http://blog.crazybob.org/2007/01/lazy-loading-singletons.html" ADD_DATE="1552706821">crazybob.org: Lazy Loading Singletons</A>
+                <DT><A HREF="http://www.allapplabs.com/java_design_patterns/factory_pattern.htm" ADD_DATE="1552706821">JAVA DESIGN PATTERNS, Creational Patterns - Factory Pattern</A>
+                <DT><A HREF="http://www.programcreek.com/2011/08/struts-2-tutorials-mvc-design-pattern/" ADD_DATE="1552706822">Struts 2 MVC Design Pattern</A>
+                <DT><A HREF="http://javapostsforlearning.blogspot.com/2012/07/welcome-to-strut2.html" ADD_DATE="1552706822">Introduction to Struts 2 | Java frameworks and design patterns for beginners</A>
+                <DT><A HREF="http://www.hanoian.com/designpatterns/chap1fso.htm#sec1-1" ADD_DATE="1552706822">Introduction</A>
+                <DT><A HREF="http://www.javabeat.net/advanced/design-pattern/" ADD_DATE="1552706823">Java / J2EE Design Patterns</A>
+                <DT><A HREF="http://www.javabeat.net/tips/design/2007/08/factory-pattern/" ADD_DATE="1552706823">Factory pattern - Design Patterns in Java/J2EE</A>
+                <DT><A HREF="http://www.exciton.cs.rice.edu/JavaResources/DesignPatterns/adapter.htm" ADD_DATE="1552706823">http://www.exciton.cs.rice.edu/JavaResources/DesignPatterns/adapter.htm</A>
+                <DT><A HREF="http://blog.cumps.be/design-patterns-abstract-factory-pattern/" ADD_DATE="1552706824">David Cumps » Design Patterns - Abstract Factory Pattern</A>
+                <DT><A HREF="http://www.dofactory.com/Patterns/Patterns.aspx" ADD_DATE="1552706824">Design Patterns in C# and VB.NET - Gang of Four (GOF)</A>
+                <DT><A HREF="https://www.clear.rice.edu/comp212/05-spring/lectures/36/" ADD_DATE="1552706824">Design Patterns for Parsing</A>
+                <DT><A HREF="http://patterns.instantinterfaces.nl/current/Refactoring-and-Design-Patterns-PAT-PARS.html" ADD_DATE="1552706824">Parser - Refactoring and Design Patterns - Peter Kaptein</A>
+                <DT><A HREF="https://www.tutorialspoint.com/design_pattern/interpreter_pattern.htm" ADD_DATE="1552706825">Design Patterns Interpreter Pattern</A>
+                <DT><A HREF="https://www.codeproject.com/Articles/307452/common-use-of-Template-Design-pattern-Design-pat" ADD_DATE="1552706825">Six common uses of the Template Design Pattern: Design Pattern series - CodeProject</A>
+                <DT><A HREF="https://softwareengineering.stackexchange.com/questions/187464/generic-file-parser-design-in-java-using-the-strategy-pattern" ADD_DATE="1552706825">Generic file parser design in Java using the Strategy pattern - Software Engineering Stack Exchange</A>
+                <DT><A HREF="https://www.javacodegeeks.com/2012/09/chain-of-responsibility-design-pattern.html" ADD_DATE="1552706825">Chain Of Responsibility Design Pattern Example | Java Code Geeks - 2017</A>
+                <DT><A HREF="http://www.javabrahman.com/design-patterns/strategy-design-pattern-in-java/" ADD_DATE="1552706825">Strategy Design Pattern in Java</A>
+                <DT><A HREF="https://dzone.com/articles/design-patterns-strategy" ADD_DATE="1552706826">Strategy Pattern Tutorial with Java Examples - DZone Java</A>
+                <DT><A HREF="http://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial" ADD_DATE="1552706826">Strategy Design Pattern in Java - Example Tutorial - JournalDev</A>
+                <DT><A HREF="http://www.avajava.com/tutorials/lessons/strategy-pattern.html" ADD_DATE="1552706826">Strategy Pattern - Web Tutorials - avajava.com</A>
+                <DT><A HREF="https://viblo.asia/p/design-pattern-trong-java-mo-hinh-uml-va-code-vi-du-RQqKLgP457z" ADD_DATE="1552706826">Design pattern trong Java, mô hình UML và code ví dụ - Viblo</A>
+                <DT><A HREF="https://viblo.asia/p/swift-nhung-loi-ich-cua-mvvm-model-view-viewmodel-GrLZDAyglk0" ADD_DATE="1552706826">Swift: Những lợi ích của MVVM (Model - View - ViewModel) - Viblo</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706827">JWT</H3>
+            <DL><p>
+                <DT><A HREF="https://medium.com/@nydiarra/secure-a-spring-boot-rest-api-with-json-web-token-reference-to-angular-integration-e57a25806c50" ADD_DATE="1552706821">Secure a Spring Boot REST API With JSON Web Token + Reference to Angular Integration</A>
+                <DT><A HREF="https://viblo.asia/p/tai-sao-phai-su-dung-json-web-token-jwt-de-bao-mat-api-maGK787AZj2" ADD_DATE="1552706821">Tại sao phải sử dụng JSON Web Token (JWT) để bảo mật API - Viblo</A>
+                <DT><A HREF="https://viblo.asia/p/json-web-token-jwt-la-gi-3Q75wWOG5Wb" ADD_DATE="1552706821">JSON Web Token (JWT) là gì ? - Viblo</A>
+                <DT><A HREF="https://www.linkedin.com/pulse/json-web-token-jwt-spring-security-real-world-example-boris-trivic/" ADD_DATE="1552706822">(24) JSON Web Token (JWT) in Spring Security -  a real-world example | LinkedIn</A>
+                <DT><A HREF="https://sdqali.in/blog/2016/07/05/jwt-authentication-with-spring-web---part-3/" ADD_DATE="1552706822">JWT authentication with Spring Web - Part 3 - {code that works} by Sadique Ali</A>
+                <DT><A HREF="https://github.com/szerhusenBC/jwt-spring-security-demo/tree/master/src/main/java/org/zerhusen/security/controller" ADD_DATE="1552706822">jwt-spring-security-demo/src/main/java/org/zerhusen/security/controller at master · szerhusenBC/jwt-spring-security-demo</A>
+                <DT><A HREF="https://github.com/nydiarra/springboot-jwt" ADD_DATE="1552706823">nydiarra/springboot-jwt: Example Springboot Application for Securing a REST API with JSON Web Token (JWT). For an example Integration with Angular (version 2+) go to https://github.com/ipassynk/angular-springboot-jwt</A>
+                <DT><A HREF="https://www.toptal.com/java/rest-security-with-jwt-spring-security-and-java" ADD_DATE="1552706823">REST Security with JWT, Spring Security and Java | Toptal</A>
+                <DT><A HREF="https://auth0.com/blog/implementing-jwt-authentication-on-spring-boot/" ADD_DATE="1552706823">Implementing JWT Authentication on Spring Boot APIs</A>
+                <DT><A HREF="https://auth0.com/blog/securing-spring-boot-with-jwts/" ADD_DATE="1552706824">Securing Spring Boot with JWTs</A>
+                <DT><A HREF="http://www.svlada.com/jwt-token-authentication-with-spring-boot/" ADD_DATE="1552706824">JSON Web Token Authentication Tutorial: Example using Spring Boot</A>
+                <DT><A HREF="https://hellokoding.com/hello-single-sign-on-sso-with-json-web-token-jwt-spring-boot/" ADD_DATE="1552706824">Single Sign On (SSO), Scalable Authentication Example with JSON Web Token (JWT) and Spring Boot</A>
+                <DT><A HREF="http://www.tinmegali.com/en/oauth2-using-spring/" ADD_DATE="1552706825">Stateless Authentication with Spring Oauth2 and JWT Token</A>
+                <DT><A HREF="https://chariotsolutions.com/blog/post/angular-2-spring-boot-jwt-cors_part2/" ADD_DATE="1552706825">Integrating Angular 2 with Spring Boot, JWT, and CORS, Part 2 – Chariot Solutions</A>
+                <DT><A HREF="https://stormpath.com/blog/token-auth-for-java" ADD_DATE="1552706825">Token Authentication for Java Applications</A>
+                <DT><A HREF="http://sgdev-blog.blogspot.com/2016/04/spring-oauth2-with-jwt-sample.html" ADD_DATE="1552706825">Developers Corner: Spring Oauth2 with JWT Sample</A>
+                <DT><A HREF="http://blog.monkey.codes/how-to-use-jwt-and-oauth-with-spring-boot/" ADD_DATE="1552706825">How to use JWT and OAuth with Spring Boot</A>
+                <DT><A HREF="https://viblo.asia/p/securing-spring-boot-with-jwt-bJzKm14rK9N" ADD_DATE="1552706826">Securing Spring Boot with JWT - Viblo</A>
+                <DT><A HREF="http://www.devglan.com/spring-security/spring-boot-jwt-auth" ADD_DATE="1552706826">Spring Boot Jwt Authentication - DevGlan</A>
+                <DT><A HREF="https://holon-platform.com/blog/api-development-securing-apis-using-jwt/" ADD_DATE="1552706826">Securing APIs and microservices using JWT - The Holon Platform</A>
+                <DT><A HREF="http://yookeun.github.io/java/2017/07/23/spring-jwt/" ADD_DATE="1552706826">Spring security JWT 연동</A>
+                <DT><A HREF="https://blog.jdriven.com/2015/01/stateless-spring-security-part-3-jwt-social-authentication/" ADD_DATE="1552706826">Stateless Spring Security Part 3: JWT + Social Authentication</A>
+                <DT><A HREF="https://golb.hplar.ch/p/JWT-Authentication-with-Ionic-2-and-Spring-Boot" ADD_DATE="1552706826">JWT Authentication with Ionic 3 and Spring Boot</A>
+                <DT><A HREF="https://asn.ninja/posts/jwt-auth-with-spring" ADD_DATE="1552706826">ASN | JWT Authentication with Spring Boot</A>
+                <DT><A HREF="http://massimilianosciacco.com/spring-security-jwt-authentication" ADD_DATE="1552706827">Spring Security JWT Authentication | Massimiliano Sciacco</A>
+                <DT><A HREF="http://sivatechlab.com/secure-rest-api-using-spring-security-oauth2-jwt/" ADD_DATE="1552706827">How to Secure REST API using Spring Security OAuth2 and JWT</A>
+                <DT><A HREF="https://developer.okta.com/blog/2017/08/08/secure-spring-microservices" ADD_DATE="1552706827">Secure a Spring Microservices Architecture with Spring Security, JWTs, Juiser, and Okta | Okta Developer</A>
+                <DT><A HREF="https://code.tutsplus.com/tutorials/wp-rest-api-setting-up-and-using-basic-authentication--cms-24762" ADD_DATE="1552706827">WP REST API: Setting Up and Using Basic Authentication</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706828">MyBatis</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706834">MyBatis Paging</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.hifreud.com/2015/03/06/mybatis-7-Pagination/" ADD_DATE="1552706829">mybatis-系列教程(七)-逻辑分页与物理分页（Pagination） - Freud&#39;s Blog</A>
+                    <DT><A HREF="https://github.com/fitzyyf/mybatis-pagination/tree/master/src/test/java/org/mybatis/pagination" ADD_DATE="1552706830">mybatis-pagination/src/test/java/org/mybatis/pagination at master · fitzyyf/mybatis-pagination</A>
+                    <DT><A HREF="https://github.com/loafer/mybatis-paging/tree/master/src/main/java/com/github/loafer/mybatis/pagination" ADD_DATE="1552706830">mybatis-paging/src/main/java/com/github/loafer/mybatis/pagination at master · loafer/mybatis-paging</A>
+                    <DT><A HREF="http://www.saturnringstation.com/2017/01/13/mybatis-default-rowbounds-logical-pagination-vs-pagehelper-plugin-physical-pagination-with-comparison-and-both-implementations/" ADD_DATE="1552706830">MyBatis default RowBounds logical pagination vs PageHelper plugin physical pagination with comparison and both implementations. | SATURN  RING  STATION</A>
+                    <DT><A HREF="http://www.henryxi.com/mybatis-pagination-example" ADD_DATE="1552706831">MyBatis pagination example</A>
+                    <DT><A HREF="https://www.programering.com/a/MTN3YzNwATI.html" ADD_DATE="1552706831">Step by step, learn Mybatis- to achieve paging effect of simple logic (5)</A>
+                    <DT><A HREF="https://www.programering.com/q/MDMxETMwATY.html" ADD_DATE="1552706831">Mybatis paging (Rookie advice)_Java_Programering</A>
+                    <DT><A HREF="http://antop.tistory.com/m/182" ADD_DATE="1552706831">Mybatis Interceptor + RowBounds 를 이용한 페이징 처리</A>
+                    <DT><A HREF="https://www.yiibai.com/mybatis/mybatis_pagination.html" ADD_DATE="1552706832">MyBatis分页 - MyBatis教程™</A>
+                    <DT><A HREF="https://m.blog.naver.com/muchine98/140183620612" ADD_DATE="1552706832">MyBatis JDBC Cursor Paging vs. Pagination Query : 네이버 블로그</A>
+                    <DT><A HREF="https://github.com/miemiedev/mybatis-paginator" ADD_DATE="1552706832">miemiedev/mybatis-paginator: A Mybatis plugin, implementation of database paging and sorting.</A>
+                    <DT><A HREF="https://github.com/pagehelper/Mybatis-PageHelper/tree/master/src/main/java/com/github/pagehelper" ADD_DATE="1552706832">Mybatis-PageHelper/src/main/java/com/github/pagehelper at master · pagehelper/Mybatis-PageHelper</A>
+                    <DT><A HREF="https://blog.csdn.net/jkxqj/article/details/52100698" ADD_DATE="1552706832">Mybatis分页实践：PageHelper 和 pagination.js - CSDN博客</A>
+                    <DT><A HREF="http://www.codexiu.cn/oracle/blog/31178/" ADD_DATE="1552706832">Mybatis分页实现-codexiu.cn</A>
+                    <DT><A HREF="https://github.com/pagehelper/Mybatis-PageHelper/blob/master/wikis/en/HowToUse.md" ADD_DATE="1552706833">Mybatis-PageHelper/HowToUse.md at master · pagehelper/Mybatis-PageHelper</A>
+                    <DT><A HREF="https://github.com/pagehelper/Mybatis-PageHelper/blob/master/README_zh.md" ADD_DATE="1552706833">Mybatis-PageHelper/README_zh.md at master · pagehelper/Mybatis-PageHelper</A>
+                    <DT><A HREF="https://github.com/pagehelper" ADD_DATE="1552706833">pagehelper (Liuzh)</A>
+                    <DT><A HREF="https://pagehelper.github.io/" ADD_DATE="1552706833">MyBatis 分页插件 PageHelper</A>
+                    <DT><A HREF="https://www.cnblogs.com/digdeep/p/4608933.html" ADD_DATE="1552706833">Mybatis 数据库物理分页插件 PageHelper - digdeep - 博客园</A>
+                    <DT><A HREF="http://blog.hanqunfeng.com/2016/12/20/spring-boot-study-mybatis/" ADD_DATE="1552706834">Spring Boot学习笔记05--Mybatis+通用Mapper+分页插件 | hanqunfeng&#39;s blog</A>
+                    <DT><A HREF="https://segmentfault.com/a/1190000013073029" ADD_DATE="1552706834">如何使用Mybatis第三方插件--PageHelper实现分页操作 - 涛涛技术客栈 - SegmentFault 思否</A>
+                    <DT><A HREF="http://www.ccblog.cn/92.htm" ADD_DATE="1552706834">Mybatis插件原理和PageHelper结合实战分页插件（七）,ccblog.cn</A>
+                    <DT><A HREF="https://github.com/abel533/Mybatis-Spring/blob/mybatis-oracle/src/main/webapp/WEB-INF/jsp/index.jsp" ADD_DATE="1552706834">Mybatis-Spring/index.jsp at mybatis-oracle · abel533/Mybatis-Spring</A>
+                    <DT><A HREF="http://elim.iteye.com/blog/1851081" ADD_DATE="1552706834">Mybatis拦截器介绍及分页插件 - Elim的博客,CSDN博客��址blog.csdn.net/elim168 - ITeye博客</A>
+                </DL><p>
+                <DT><A HREF="https://github.com/quux00/mybatis-koans/blob/master/KOANS.md" ADD_DATE="1552706821">mybatis-koans/KOANS.md at master · quux00/mybatis-koans</A>
+                <DT><A HREF="https://gitee.com/baomidou" ADD_DATE="1552706821">baomidou - Gitee</A>
+                <DT><A HREF="https://gitee.com/thinkgem/jeesite/tree/master" ADD_DATE="1552706822">ThinkGem/JeeSite: Java EE（J2EE）快速开发框架，基于经典技术组合（Spring MVC、Apache Shiro、MyBatis、Bootstrap UI），包括核心模块如：组织机构、角色用户、权限授权、数据权限、内容管理、工作流等。</A>
+                <DT><A HREF="https://gitee.com/thinkgem/jeesite/blob/master/pom.xml" ADD_DATE="1552706822">pom.xml · ThinkGem/JeeSite - Gitee</A>
+                <DT><A HREF="https://gitee.com/mingSoft/MCMS/tree/master/src/main/java/com/mingsoft/cms/biz" ADD_DATE="1552706823">铭飞/MCMS: 完整开源！Java快速开发平台！基于Spring、SpringMVC、Mybatis架构，MStore提供更多好用的插件与模板（文章、商城、微信、论坛、会员、评论、支付、积分、工作流、任务调度等，同时提供</A>
+                <DT><A HREF="http://viettuts.vn/mybatis/mybatis-example-mybatis-spring" ADD_DATE="1552706823">MyBatis Example - MyBatis + Spring - VietTuts</A>
+                <DT><A HREF="http://hmkcode.com/spring-mybatis-xml/" ADD_DATE="1552706823">Spring + myBatis (XML) | HMKCode</A>
+                <DT><A HREF="https://juejin.im/entry/58d13128128fe1006ca3f913" ADD_DATE="1552706823">Spring+SpringMVC+MyBatis 整合 - 后端 - 掘金</A>
+                <DT><A HREF="http://www.cnblogs.com/sunada2005/p/4948486.html" ADD_DATE="1552706824">mybatis+spring配置 - myLittleGarden - 博客园</A>
+                <DT><A HREF="https://blog.camunda.com/post/2017/12/custom-queries/" ADD_DATE="1552706824">Custom Queries | Camunda Team Blog</A>
+                <DT><A HREF="http://www.mybatis.org/mybatis-3/configuration.html" ADD_DATE="1552706824">mybatis – MyBatis 3 | Configuration</A>
+                <DT><A HREF="https://stackoverflow.com/questions/42251978/mybatis-db-vendor-doesnt-work" ADD_DATE="1552706825">spring - MyBatis DB_VENDOR doesn&#39;t work - Stack Overflow</A>
+                <DT><A HREF="https://stackoverflow.com/questions/29139092/mybatis-multi-datasource-configuration-issue" ADD_DATE="1552706825">java - MyBatis multi-datasource configuration issue - Stack Overflow</A>
+                <DT><A HREF="http://www.mybatis.org/spring/factorybean.html" ADD_DATE="1552706825">mybatis-spring – MyBatis-Spring | SqlSessionFactoryBean</A>
+                <DT><A HREF="https://stackoverflow.com/questions/8392741/mybatis-defining-a-global-parameter" ADD_DATE="1552706825">java - MyBatis - defining a global parameter - Stack Overflow</A>
+                <DT><A HREF="https://www.javacodegeeks.com/2012/02/mybatis-3-spring-integration-tutorial.html" ADD_DATE="1552706825">MyBatis 3 - Spring integration tutorial | Java Code Geeks - 2018</A>
+                <DT><A HREF="http://powertech.iteye.com/blog/2312452" ADD_DATE="1552706826">spring mvc mybatis will not be managed by Spring - - ITeye博客</A>
+                <DT><A HREF="https://teratail.com/questions/75203" ADD_DATE="1552706826">Spring - myBatis-springを使用してもSpringのトランザクション管理が行われない(75203)｜teratail</A>
+                <DT><A HREF="https://blog.csdn.net/qq_20974635/article/details/78301724" ADD_DATE="1552706826">Spring + mybatis JDBC Connection *** will not be managed by Spring error - CSDN Blog</A>
+                <DT><A HREF="http://ddakker.tistory.com/321" ADD_DATE="1552706826">Spring MyBatis Transaction - was not registered for synchronization because synchronization is not active, will not be managed by Spring :: ddakker님의 블로그</A>
+                <DT><A HREF="https://my.oschina.net/u/2402990/blog/490483" ADD_DATE="1552706826">SpringMVC+Mybatis声明式事务分析 - BlackPotato</A>
+                <DT><A HREF="https://blog.csdn.net/u012373815/article/details/47069223" ADD_DATE="1552706826">Mybatis&#39; cache mechanism (level 1 cache secondary cache and refresh cache) and mybatis integration ehcache - CSDN blog</A>
+                <DT><A HREF="http://frommyworkshop.blogspot.com/2016/02/pitfalls-of-mybatis-caches-with-apache.html" ADD_DATE="1552706826">My workspace: Pitfalls of the MyBatis Caches with Apache Ignite</A>
+                <DT><A HREF="https://www.adictosaltrabajo.com/tutoriales/cache-mybatis/" ADD_DATE="1552706827">Caché MyBatis | adictosaltrabajo</A>
+                <DT><A HREF="https://www.jianshu.com/p/ac3ef835cc13" ADD_DATE="1552706827">Spring Boot + Mybatis + Redis二级缓存实例 - 简书</A>
+                <DT><A HREF="https://github.com/yuhaiqun010/spring-batch-example/blob/master/src/main/resources/complex/writers/job/job-complex-writer.xml" ADD_DATE="1552706827">spring-batch-example/job-complex-writer.xml at master · yuhaiqun010/spring-batch-example</A>
+                <DT><A HREF="https://www.jianshu.com/p/1c92a41df9ba" ADD_DATE="1552706827">Mybatis-常见SQL语句示例 - 简书</A>
+                <DT><A HREF="https://qiita.com/kazuki43zoo/items/11a04538a3ada6d5de4d" ADD_DATE="1552706827">How to use Cursor added in MyBatis 3.4</A>
+                <DT><A HREF="http://dongchuan.github.io/mybatis/2016/04/17/MyBatis-Advanced.html" ADD_DATE="1552706827">MyBatis association collection and discriminator</A>
+                <DT><A HREF="http://www.mybatis.org/mybatis-3/sqlmap-xml.html" ADD_DATE="1552706828">mybatis – MyBatis 3 | Mapper XML Files</A>
+                <DT><A HREF="http://iyiguo.net/blog/2013/08/22/mybatis-auto-increment-primary-key/" ADD_DATE="1552706828">iyiguo.net/blog/2013/08/22/mybatis-auto-increment-primary-key/</A>
+                <DT><A HREF="https://www.lesstif.com/pages/viewpage.action?pageId=17105757" ADD_DATE="1552706828">MyBatis 에서 insert 시 자동 생성키 사용하기</A>
+                <DT><A HREF="https://edwin.baculsoft.com/2010/12/beginning-mybatis-3-part-3-how-to-get-tables-generated-ids/" ADD_DATE="1552706828">Beginning MyBatis 3 Part 3 : How to Get Table&#39;s Generated Ids | edwin&#39;s blog</A>
+                <DT><A HREF="https://cofcool.github.io/tech/2017/11/06/Mybatis-insert-get-id" ADD_DATE="1552706828">Mybatis 插入数据时返回自增主键</A>
+                <DT><A HREF="https://qiita.com/tamorieeeen/items/9bdb7997a2a2e4f8b4cb" ADD_DATE="1552706828">MyBatisでauto_incrementされたPRIMAY KEYのidを取得する方法</A>
+                <DT><A HREF="https://code-examples.net/en/q/b5c735" ADD_DATE="1552706828">Return HashMap in mybatis and use it as ModelAttribute in spring MVC | CODE Examples [English]</A>
+                <DT><A HREF="https://deviltechie.wordpress.com/2012/09/27/query-for-hash-map-using-ibatis-mybatis/" ADD_DATE="1552706828">Query for Hash Map using iBatis (MyBatis) | Deviltechie&#39;s Blog</A>
+                <DT><A HREF="https://qiita.com/tnemotox/items/f2877f6c84ed7e7ba8e0" ADD_DATE="1552706828">MyBatisを利用してキーを識別子、値をEntityとするMapを取得する</A>
+                <DT><A HREF="https://stackoverflow.com/questions/36400538/mybatis-resultmap-is-hashmapstring-object" ADD_DATE="1552706828">Mybatis ResultMap is HashMap&lt;String,Object&gt; - Stack Overflow</A>
+                <DT><A HREF="https://segmentfault.com/a/1190000004278833" ADD_DATE="1552706828">mybatis的mapper返回map结果集 - code-craft - SegmentFault 思否</A>
+                <DT><A HREF="https://blog.csdn.net/ClementAD/article/details/50589459" ADD_DATE="1552706828">MyBatis使用@MapKey注解接收多个查询记录到Map中，以便方便地用get()方法获取字段的值 - Clement-Xu的专栏 - CSDN博客</A>
+                <DT><A HREF="http://qaru.site/questions/306260/return-hashmap-in-mybatis-and-use-it-as-modelattribute-in-spring-mvc" ADD_DATE="1552706828">java - Верните HashMap в mybatis и используйте его как ModelAttribute в spring MVC - Qaru</A>
+                <DT><A HREF="https://acolleoni.wordpress.com/2011/10/31/using-multi-column-keys-in-mybatis-sql-maps/" ADD_DATE="1552706828">HOWTO: using multi column keys in MyBatis Sql maps – Andrea Colleoni</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706823">Frameworks</H3>
+            <DL><p>
+                <DT><A HREF="http://www.seasar.org/#persistence.java" ADD_DATE="1552706820">The Seasar Project</A>
+                <DT><A HREF="https://github.com/seasarorg?language=java" ADD_DATE="1552706821">The Seasar Project</A>
+                <DT><A HREF="https://github.com/codelibs?language=java&page=2" ADD_DATE="1552706821">CodeLibs Project</A>
+                <DT><A HREF="https://github.com/terasolunaorg/terasoluna-tourreservation-mybatis3" ADD_DATE="1552706822">terasolunaorg/terasoluna-tourreservation-mybatis3: Sample Application (MyBatis3 version)</A>
+                <DT><A HREF="https://github.com/terasolunaorg" ADD_DATE="1552706822">TERASOLUNA Server Framework for Java (5.x)</A>
+                <DT><A HREF="http://terasolunaorg.github.io/guideline/" ADD_DATE="1552706822">terasoluna.org</A>
+                <DT><A HREF="https://www.intra-mart.jp/download/product/iap/iap_release_note/texts/license/index.html#common-im-notice-ios" ADD_DATE="1552706823">7. サードパーティ ライセンス一覧 — intra-mart Accel Platform 2018 Summer(Tiffany) リリースノート   初版 2018-08-01</A>
+                <DT><A HREF="https://www.intra-mart.jp/document/library/iap/public/development/tgfw_programming_guide/index.html" ADD_DATE="1552706823">目次 — TERASOLUNA Server Framework for Java (5.x) プログラミングガイド   第14版 2018-08-01   intra-mart Accel Platform</A>
+                <DT><A HREF="https://www.intra-mart.jp/document/library/iap/public/development/tgfw_programming_guide/texts/reference/index.html" ADD_DATE="1552706823">参考（ TERASOLUNA Server Framework for Java (5.x) for Accel Platform アーキテクチャ ） — TERASOLUNA Server Framework for Java (5.x) プログラミングガイド   第14版 2018-08-01   intra-mart Accel Platform</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706825">Java Validator</H3>
+            <DL><p>
+                <DT><A HREF="https://www.baeldung.com/javax-validation" ADD_DATE="1552706821">Java Bean Validation Basics | Baeldung</A>
+                <DT><A HREF="https://www.logicbig.com/tutorials/java-ee-tutorial/bean-validation/validation-messages.html" ADD_DATE="1552706821">JavaBean Validation - Validation messages</A>
+                <DT><A HREF="http://docs.jboss.org/hibernate/stable/validator/reference/en-US/html_single/#_requesting_groups" ADD_DATE="1552706821">Hibernate Validator 6.0.13.Final - JSR 380 Reference Implementation: Reference Guide</A>
+                <DT><A HREF="http://in.relation.to/2018/01/04/adding-new-constraint-to-engine/" ADD_DATE="1552706822">How to add a new constraint to Hibernate Validator in a few simple steps - In Relation To</A>
+                <DT><A HREF="http://websystique.com/springmvc/spring-4-mvc-form-validation-with-hibernate-jsr-validator-resource-handling-using-annotations/" ADD_DATE="1552706822">Spring 4 MVC Form Validation and Resource Handling (Annotations) - WebSystique</A>
+                <DT><A HREF="https://docs.jboss.org/hibernate/validator/4.1/reference/en-US/html/validator-usingvalidator.html#validator-usingvalidator-validate" ADD_DATE="1552706822">Chapter 2. Validation step by step</A>
+                <DT><A HREF="https://dzone.com/articles/bean-validation-made-simple" ADD_DATE="1552706823">Bean Validation Made Simple With JSR 303 - DZone Java</A>
+                <DT><A HREF="https://www.baeldung.com/javax-validation-method-constraints" ADD_DATE="1552706823">Method Constraints with Bean Validation 2.0 | Baeldung</A>
+                <DT><A HREF="http://docs.jboss.org/hibernate/validator/5.2/reference/en-US/html/ch04.html#section-interpolation-with-message-expressions" ADD_DATE="1552706823">Chapter 4. Interpolating constraint error messages</A>
+                <DT><A HREF="http://in.relation.to/2008/04/10/bean-validation-sneak-peek-part-iii-groups-and-partial-validation/" ADD_DATE="1552706824">Bean Validation Sneak Peek part III: groups and partial validation - In Relation To</A>
+                <DT><A HREF="https://javaee.github.io/tutorial/bean-validation002.html" ADD_DATE="1552706824">Using Bean Validation Constraints</A>
+                <DT><A HREF="https://stackoverflow.com/questions/829435/apache-commons-predicatedlist-with-no-illegalargumentexception" ADD_DATE="1552706824">java - Apache commons PredicatedList with no IllegalArgumentException - Stack Overflow</A>
+                <DT><A HREF="https://g00glen00b.be/validating-the-input-of-your-rest-api-with-spring/" ADD_DATE="1552706825">Validating the input of your REST API with Spring</A>
+                <DT><A HREF="http://terasolunaorg.github.io/guideline/5.3.1.RELEASE/en/ArchitectureInDetail/WebApplicationDetail/Pagination.html" ADD_DATE="1552706825">span</A>
+                <DT><A HREF="https://docs.jboss.org/hibernate/validator/5.1/reference/en-US/html/chapter-message-interpolation.html#section-interpolation-with-message-expressions" ADD_DATE="1552706825">Chapter 4. Interpolating constraint error messages</A>
+            </DL><p>
+        </DL><p>
+        <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706820">Database</H3>
+        <DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706821">NoSQL</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706833">MongoDB</H3>
+                <DL><p>
+                    <DT><H3 ADD_DATE="1552706829" LAST_MODIFIED="1552706836">IDE</H3>
+                    <DL><p>
+                        <DT><A HREF="http://www.mongovue.com/downloads/" ADD_DATE="1552706836">MongoVUE | Downloads</A>
+                        <DT><A HREF="http://www.robomongo.org/" ADD_DATE="1552706836">Robomongo — shell-centric MongoDB management tool</A>
+                        <DT><A HREF="https://mms.mongodb.com/" ADD_DATE="1552706836">Free Monitoring and Premium Backup for Your MongoDB Deployment | MMS: MongoDB Management Service</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706830" LAST_MODIFIED="1552706837">Install</H3>
+                    <DL><p>
+                        <DT><A HREF="http://www.tuanleaded.com/blog/2011/10/installing-mongodb/" ADD_DATE="1552706836">Installing MongoDB | tuanleaded</A>
+                        <DT><A HREF="http://code4lifevn.blogspot.com/2013/03/mongodb-nosql-la-gi.html" ADD_DATE="1552706836">MongoDB, NoSQL là gì? | Code4LifeVn&#39;s Blog</A>
+                        <DT><A HREF="http://www.code4life.vn/2013/06/cai-dat-mongodb-nosql-trong-ubuntu.html" ADD_DATE="1552706836">Cài đặt MongoDB, NoSQL trong Ubuntu như nào? | Code4LifeVn&#39;s Blog</A>
+                        <DT><A HREF="http://itstudent.net/vi/tin-t%E1%BB%A9c/chuy%C3%AAn-m%E1%BB%A5c/c%C6%A1-s%E1%BB%9F-d%E1%BB%AF-li%E1%BB%87u/nosql-gi%E1%BB%9Bi-thi%E1%BB%87u-v%C3%A0-h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-c%C3%A0i-%C4%91%E1%BA%B7t-mongodb-tr%C3%AAn-windows.html" ADD_DATE="1552706836">NoSQL - Giới thiệu và hướng dẫn cài đặt MongoDB trên Windows - MẠNG SINH VIÊN CNTT VIỆT NAM - ITSTUDENT.net ®</A>
+                        <DT><A HREF="http://dinhdva.blogspot.com/2012/03/gioi-thieu-va-cach-cai-at-mongodb.html" ADD_DATE="1552706836">it passion: Giới thiệu và cách cài đặt MongoDB</A>
+                        <DT><A HREF="http://ducquang.net/post/39374968042/huong-dan-cai-dat-mongodb-codeigniter-tren-windows" ADD_DATE="1552706836">I&#39;m Fan De Guang - Hướng dẫn cài đặt MongoDB với CodeIgniter trên Windows</A>
+                        <DT><A HREF="http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/" ADD_DATE="1552706837">Install MongoDB on Windows — MongoDB Manual 2.6.4</A>
+                        <DT><A HREF="http://xuandinhgl.wordpress.com/2014/04/25/cai-dat-mongodb-tren-windows-8-8-1/" ADD_DATE="1552706837">Cài đặt MongoDB trên Windows 8, 8.1 | Xuan Dinh&#39;s Blog</A>
+                        <DT><A HREF="http://docs.mongodb.org/manual/reference/configuration-options/" ADD_DATE="1552706837">Configuration File Options — MongoDB Manual 2.6.4</A>
+                        <DT><A HREF="http://krishcon.com/blogs/20130602/Installing-MongoDB-Windows-7" ADD_DATE="1552706837">Installing MongoDB on Windows 7 | KrishCon</A>
+                        <DT><A HREF="http://www.preemptive.com/images/stories/workbench_documentation/installation_mongodb.html" ADD_DATE="1552706837">PreEmptive Analytics Workbench User Guide</A>
+                        <DT><A HREF="http://krishcon.com/blogs/20130602/Installing-MongoDB-Linux" ADD_DATE="1552706837">Installing MongoDB on Linux | KrishCon</A>
+                        <DT><A HREF="http://docs.mongodb.org/ecosystem/tutorial/getting-started-with-java-driver/#getting-started-with-java-driver" ADD_DATE="1552706837">Getting Started with Java Driver</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706830" LAST_MODIFIED="1552706837">Tutorial</H3>
+                    <DL><p>
+                        <DT><A HREF="http://www.mkyong.com/tutorials/java-mongodb-tutorials/" ADD_DATE="1552706836">Java MongoDB Tutorial</A>
+                        <DT><A HREF="http://www.tutorialspoint.com/mongodb/mongodb_overview.htm" ADD_DATE="1552706836">MongoDB Overview</A>
+                        <DT><A HREF="http://docs.mongodb.org/manual/tutorial/" ADD_DATE="1552706836">MongoDB Tutorials — MongoDB Manual 2.6.4</A>
+                        <DT><A HREF="http://www.hacksparrow.com/the-mongodb-tutorial.html" ADD_DATE="1552706836">The MongoDB Tutorial</A>
+                        <DT><A HREF="http://code.tutsplus.com/articles/mapping-relational-databases-and-sql-to-mongodb--net-35650" ADD_DATE="1552706836">Mapping Relational Databases and SQL to MongoDB - Tuts+ Code Article</A>
+                        <DT><A HREF="http://code.tutsplus.com/tutorials/getting-started-with-mongodb-part-2--net-23636" ADD_DATE="1552706836">Getting Started with MongoDB - Part 2 - Tuts+ Code Tutorial</A>
+                        <DT><A HREF="http://www.journaldev.com/3963/mongodb-java-crud-example-tutorial" ADD_DATE="1552706837">MongoDB Java CRUD Example Tutorial</A>
+                        <DT><A HREF="http://hmkcode.com/mongodb-java-querying/" ADD_DATE="1552706837">MongoDB + Java (Querying) | HMKCode</A>
+                        <DT><A HREF="https://www.youtube.com/results?search_query=worklight+tutorial&page=2" ADD_DATE="1552706837">worklight tutorial - YouTube</A>
+                    </DL><p>
+                    <DT><A HREF="https://mongolab.com/welcome/" ADD_DATE="1552706830">MongoLab: MongoDB-as-a-Service</A>
+                    <DT><A HREF="http://www.drdobbs.com/database/getting-started-with-mongodb/240151028" ADD_DATE="1552706831">Getting Started with MongoDB | Dr Dobb&#39;s</A>
+                    <DT><A HREF="http://diendan.congdongcviet.com/threads/t203627::co-phai-mongodb-luon-chay-nhanh-hon-mysql.cpp" ADD_DATE="1552706831">Có phải MongoDB luôn chạy nhanh hơn MySQL?</A>
+                    <DT><A HREF="http://itvnn.net/showthread.php?42811-So-s%C3%A1nh-hi%E1%BB%87u-su%E1%BA%A5t-ho%E1%BA%A1t-%C4%91%E1%BB%99ng-c%E1%BB%A7a-MongoDB-v%C3%A0-SQL-Server-2008" ADD_DATE="1552706831">So sánh hiệu suất hoạt động của MongoDB và SQL Server 2008</A>
+                    <DT><A HREF="http://blog.michaelckennedy.net/2013/04/22/a-roundup-of-mongodb-management-tools-nosql-database/" ADD_DATE="1552706831">A Roundup of MongoDB Management Tools | Michael Kennedy on Technology</A>
+                    <DT><A HREF="http://code.tutsplus.com/tutorials/getting-started-with-mongodb-part-1--net-22879" ADD_DATE="1552706832">Getting Started with MongoDB - Part 1 - Tuts+ Code Tutorial</A>
+                    <DT><A HREF="http://www.edureka.co/blog/introduction-to-nosql-database/?utm_source=youtube&utm_medium=referral&utm_campaign=beginners-tutorial" ADD_DATE="1552706832">Introduction to NoSQL Database</A>
+                    <DT><A HREF="http://www.nguyenanhdung.info/2014/01/mongodb-chiem-nhieu-ram.html" ADD_DATE="1552706832">MongoDB chiếm nhiều RAM ? - Nguyễn Anh Dũng</A>
+                    <DT><A HREF="http://tmquang6805.blogspot.com/2013/09/mongodb-something-to-note.html" ADD_DATE="1552706832">MongoDB - Something to note : Lang thang độc hành nhân</A>
+                    <DT><A HREF="http://www.quantrimang.com.vn/tim-hieu-ve-tinh-nang-security-va-authentication-trong-mongodb-85517" ADD_DATE="1552706832">Tìm hiểu về tính năng Security và Authentication trong MongoDB | Quản Trị Mạng - QuanTriMang.com</A>
+                    <DT><A HREF="http://www.quantrimang.com.vn/tim-hieu-ve-java-driver-trong-mongodb-85473" ADD_DATE="1552706833">Tìm hiểu về Java Driver trong MongoDB | Quản Trị Mạng - QuanTriMang.com</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706831">Elasticsearch</H3>
+                <DL><p>
+                    <DT><H3 ADD_DATE="1552706829" LAST_MODIFIED="1552706837">Synchronized data</H3>
+                    <DL><p>
+                        <DT><A HREF="https://debezium.io/blog/2018/01/17/streaming-to-elasticsearch/" ADD_DATE="1552706836">Streaming Data Changes from Your Database to Elasticsearch · Debezium</A>
+                        <DT><A HREF="https://code.likeagirl.io/5-different-ways-to-synchronize-data-from-mongodb-to-elasticsearch-d8456b83d44f" ADD_DATE="1552706836">5 Different ways to synchronize data from MongoDB to ElasticSearch</A>
+                        <DT><A HREF="https://viblo.asia/p/sync-data-from-mongodb-to-elasticsearch-with-transporter-aWj53kgY56m" ADD_DATE="1552706836">Sync Data from MongoDB to Elasticsearch with Transporter - Viblo</A>
+                        <DT><A HREF="https://medium.appbase.io/abc-import-import-your-mongodb-sql-json-csv-data-into-elasticsearch-a202cafafc0d" ADD_DATE="1552706836">abc import: Import Your MongoDB, SQL, JSON, CSV Data Into Elasticsearch</A>
+                        <DT><A HREF="https://github.com/takemoa/sqldb2es" ADD_DATE="1552706836">takemoa/sqldb2es: Automatically sync data from SQL databases into ElasticSearch repositories</A>
+                        <DT><A HREF="https://aboullaite.me/sync-data-from-mongodb-to-elasticsearch-using-transporter/" ADD_DATE="1552706836">Sync data from MongoDb to ElasticSearch using Transporter</A>
+                        <DT><A HREF="http://david.pilato.fr/blog/2015/05/09/advanced-search-for-your-legacy-application/" ADD_DATE="1552706836">Advanced Search for Your Legacy Application - -Xmx128gb -Xms128gb</A>
+                        <DT><A HREF="https://medium.com/@siddontang/how-to-sync-your-mysql-data-to-elasticsearch-ddae009243c1" ADD_DATE="1552706837">How to sync your MySQL data to Elasticsearch – siddontang – Medium</A>
+                        <DT><A HREF="https://data.blog/2017/07/11/real-time-elasticsearch-indexing-on-wordpress-com/" ADD_DATE="1552706837">Real-Time Elasticsearch Indexing on WordPress.com – Data for Breakfast</A>
+                    </DL><p>
+                    <DT><A HREF="https://coderngaongo.wordpress.com/2017/10/26/p1-elasticsearch-than-cong-la-cai-veo-gi/" ADD_DATE="1552706830">[P1] Elasticsearch thần công là cái vẹo gì ??? | Coder Ngáo Ngơ</A>
+                    <DT><A HREF="https://techblog.vn/elasticsearch-full-text-seach" ADD_DATE="1552706830">Tech Blog</A>
+                    <DT><A HREF="https://jerryphan.wordpress.com/2016/03/14/gioi-thieu-elasticsearch-va-cai-dat-can-ban/" ADD_DATE="1552706830">Giới thiệu ElasticSearch và cài đặt căn bản – Jerry Phan</A>
+                    <DT><A HREF="https://viblo.asia/p/tim-hieu-ve-elasticsearch-MdZkAQMKkox" ADD_DATE="1552706831">Tìm hiểu về Elasticsearch - Viblo</A>
+                    <DT><A HREF="https://viblo.asia/p/elasticsearch-cac-khai-niem-co-ban-phan-1-m68Z0O2jKkG" ADD_DATE="1552706831">[Elasticsearch] - Các khái niệm cơ bản - Phần 1 - Viblo</A>
+                    <DT><A HREF="https://tuanvd.com/elasticsearch-la-gi-gioi-thieu-ve-elasticsearch/" ADD_DATE="1552706831">Elasticsearch là gì? Giới thiệu về Elasticsearch - Big Data</A>
+                    <DT><A HREF="https://techblog.vn/quan-ly-log-voi-logstash-elasticsearch-kibana" ADD_DATE="1552706831">Tech Blog</A>
+                </DL><p>
+                <DT><A HREF="http://www.kchodorow.com/blog/" ADD_DATE="1552706821">Snail in a Turtleneck</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706829">DB2</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706834">XML</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/dm-0603saracco2/" ADD_DATE="1552706829">Query DB2 XML Data with SQL</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/dm-0610kokkat/" ADD_DATE="1552706830">Using DB2 XML and Java</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/dm-0603saracco/" ADD_DATE="1552706830">Get off to a fast start with DB2 Viper</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/dm-0609bendel/" ADD_DATE="1552706830">Intelligent Miner articles and tutorials: Mine DB2 XML columns with DB2 Data Warehouse Edition data mining</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/dm-0708singh2/" ADD_DATE="1552706830">Program with XML for DB2, Part 3: Program with XML in the client</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/dm-0708nicola/" ADD_DATE="1552706831">XMLTABLE by example, Part 1: Retrieving XML data in relational format</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/dm-0606nicola/" ADD_DATE="1552706831">pureXML in DB2 9: Which way to query your XML data?</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/dm-0707singh/" ADD_DATE="1552706831">Programming with XML for DB2, Part 1: Understand the XML data model</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/dm-0708singh/" ADD_DATE="1552706831">Program with XML for DB2, Part 2: Leverage database support for XML in your application architecture</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/dm-0709nicola/" ADD_DATE="1552706832">XMLTABLE by example, Part 2: Common scenarios for using XMLTABLE with DB2</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/dm-0606schiefer/" ADD_DATE="1552706832">DB2 9 XML performance characteristics</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/dm-0710nicola/" ADD_DATE="1552706832">Update XML in DB2 9.5</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/dm-0604pradhan/" ADD_DATE="1552706832">From DAD to annotated XML schema decomposition</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/dm-0709singh/" ADD_DATE="1552706833">Programming with XML for DB2, Part 4: Integrate data from different data sources in your Web-based DB2 application</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/0209lima/0209lima.html" ADD_DATE="1552706833">Working with XML Schema and Data Types in DB2</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/dm-0610nicola/" ADD_DATE="1552706833">15 best practices for pureXML performance in DB2</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/dm-0611saracco/" ADD_DATE="1552706833">Query XML data that contains namespaces</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/dm-0701oliva/" ADD_DATE="1552706833">Use XML in DB2 SQL stored procedures</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/xml/library/x-sqlxml/" ADD_DATE="1552706833">Using the SQLXML data type</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/xml/library/x-xdmchp1.html" ADD_DATE="1552706834">XML Data Management: Information modeling with XML</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/dm-0711sardana/" ADD_DATE="1552706834">Overview of new DB2 Version 9.5 pureXML enhancements</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/dm-0605saracco/" ADD_DATE="1552706834">Develop Java applications for DB2 XML data</A>
+                    <DT><A HREF="http://os2ports.com/docs/DB2/db2n0/db2n0.htm" ADD_DATE="1552706834">Command Reference</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/dm-0804lamb/" ADD_DATE="1552706834">Write high performance, Java data access applications, Part 1: Introducing pureQuery annotated method style</A>
+                    <DT><A HREF="http://www.devx.com/getHelpOn/Article/11004/1954" ADD_DATE="1552706834">Learn to Use XML with DB2</A>
+                    <DT><A HREF="http://publib.boulder.ibm.com/infocenter/dzichelp/v2r2/index.jsp?topic=/com.ibm.db29.doc.java/com.ibm.db2.luw.apdv.java.doc/doc/c0021817.htm" ADD_DATE="1552706834">IBM Information Management Software for z/OS Solutions Information Center</A>
+                    <DT><A HREF="http://publib.boulder.ibm.com/infocenter/dzichelp/v2r2/index.jsp?topic=/com.ibm.db29.doc.java/com.ibm.db2.luw.apdv.java.doc/doc/r0021839.htm" ADD_DATE="1552706834">IBM Information Management Software for z/OS Solutions Information Center</A>
+                </DL><p>
+                <DT><A HREF="http://publib.boulder.ibm.com/infocenter/db2luw/v8/index.jsp?topic=/com.ibm.db2.udb.doc/conn/c0005607.htm" ADD_DATE="1552706821">DB2 Universal Database</A>
+                <DT><A HREF="http://www.devx.com/dbzone/Article/28713/0/page/2" ADD_DATE="1552706821">Dates in DB2 and Oracle: Same Data Type, Different Behavior</A>
+                <DT><A HREF="http://www-128.ibm.com/developerworks/db2/library/techarticle/0211yip/0211yip3.html" ADD_DATE="1552706822">DB2 Basics: Fun with Dates and Times</A>
+                <DT><A HREF="http://www.dbazine.com/db2/db2-mfarticles/mullins-qa" ADD_DATE="1552706822">DBAzine.com: Q&amp;As on Dates and DB2</A>
+                <DT><A HREF="http://www-128.ibm.com/developerworks/db2/library/techarticle/dm-0402kitchlu/" ADD_DATE="1552706822">Java application deployment considerations</A>
+                <DT><A HREF="http://www-306.ibm.com/software/data/db2/ad/v8/java.html" ADD_DATE="1552706823">Java application development, DB2 UDB for Linux, UNIX and Windows Version 8</A>
+                <DT><A HREF="http://livedocs.adobe.com/coldfusion/5.0/Advanced_ColdFusion_Administration/datasources_ADV_MJS5.htm" ADD_DATE="1552706823">Connecting to DB2 Databases</A>
+                <DT><A HREF="http://www.dbazine.com/db2/db2-mfarticles/mullins-lobs" ADD_DATE="1552706823">DBAzine.com: Large Objects and DB2</A>
+                <DT><A HREF="http://www.cse.psu.edu/~djlee/db2/sql.html" ADD_DATE="1552706824">DB2 DBMS</A>
+                <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/dm-0503melnyk/" ADD_DATE="1552706824">DB2 Basics: Getting to know the DB2 UDB command line processor</A>
+                <DT><A HREF="http://www-128.ibm.com/developerworks/db2/library/techarticle/dm-0407zhang/" ADD_DATE="1552706824">How to implement a DB2 UDB primary key with a surrogate key</A>
+                <DT><A HREF="http://publib.boulder.ibm.com/infocenter/dzichelp/v2r2/index.jsp?topic=/com.ibm.db2.doc.inst/bjnnmstr101.htm" ADD_DATE="1552706825">IBM Information Management Software for z/OS Solutions Information Center</A>
+                <DT><A HREF="http://publib.boulder.ibm.com/infocenter/db2luw/v8/index.jsp?topic=/com.ibm.db2.udb.doc/admin/r0005080.htm" ADD_DATE="1552706825">DB2 Universal Database</A>
+                <DT><A HREF="http://www.ispirer.com/doc/sqlways38/Output/SQLWays-1-063.html" ADD_DATE="1552706825">Concatenating Strings</A>
+                <DT><A HREF="http://asktom.oracle.com/pls/ask/f?p=4950:8:::::F4950_P8_DISPLAYID:2196162600402" ADD_DATE="1552706825">AskTom &quot;String Concatenation&quot;</A>
+                <DT><A HREF="http://publib.boulder.ibm.com/infocenter/iadthelp/index.jsp?topic=/com.ibm.etools.iseries.langref2.doc/rbafzmst158.htm" ADD_DATE="1552706825">Help</A>
+                <DT><A HREF="http://www.lazydba.com/db2/2__4055.html" ADD_DATE="1552706825">Thousands of Oracle &amp; DB2 &amp; SQL people answering each others questions</A>
+                <DT><A HREF="https://knowledgecommunity.raleigh.ibm.com/KnowledgeWeb/protect/command.wss/homeSearch" ADD_DATE="1552706826">KnowledgeWeb: Search results</A>
+                <DT><A HREF="http://www.informatik.uni-bonn.de/~tb/Lehre/ws01/vRDBMS/db2s0/frm3toc.htm" ADD_DATE="1552706826">SQL Reference</A>
+                <DT><A HREF="http://download.oracle.com/docs/cd/E05554_01/books/SrvrInstWIN/SrvrInstCOM_SampleDBCreateScript2.html" ADD_DATE="1552706826">Bookshelf v7.5: DB2 UDB Sample Script</A>
+                <DT><A HREF="http://users.sdsc.edu/~jrowley/db2/howto.html" ADD_DATE="1552706826">DB2 Basics</A>
+                <DT><A HREF="http://publib.boulder.ibm.com/infocenter/db2luw/v8/index.jsp?topic=/com.ibm.db2.udb.doc/admin/r0000890.htm" ADD_DATE="1552706826">DB2 Universal Database</A>
+                <DT><A HREF="http://publib.boulder.ibm.com/infocenter/dzichelp/v2r2/index.jsp?topic=/com.ibm.db2.doc.sqlref/ratbs.htm" ADD_DATE="1552706827">IBM Information Management Software for z/OS Solutions Information Center</A>
+                <DT><A HREF="http://www.thescripts.com/forum/thread184991.html" ADD_DATE="1552706827">SQL0289 when Alter table space - IBM DB2</A>
+                <DT><A HREF="http://www.webservertalk.com/archive220-2004-11-485267.html" ADD_DATE="1552706827">IBM DB2 - page size error SQL0286N</A>
+                <DT><A HREF="http://book.itzero.com/read/others/0505/Prentice.Hall.PTR.Understanding.DB2.Learning.Visually.with.Examples.Jan.2005.eBook-LiB_html/0131859161/ch08lev1sec6.html" ADD_DATE="1552706827">Section 8.6. Case Study</A>
+                <DT><A HREF="http://www.vitavoom.com/postgresql-docs/sql-altertable.html" ADD_DATE="1552706827">ALTER TABLE</A>
+                <DT><A HREF="http://publib.boulder.ibm.com/infocenter/db2luw/v9/index.jsp?topic=/com.ibm.db2.udb.apdv.sample.doc/doc/admin_scripts/s-largerid-db2.htm" ADD_DATE="1552706827">DB2 Database for Linux, UNIX, and Windows</A>
+                <DT><A HREF="http://www.cs.toronto.edu/db/courses/db2/db2.tut2" ADD_DATE="1552706827">http://www.cs.toronto.edu/db/courses/db2/db2.tut2</A>
+                <DT><A HREF="http://www.michael-thomas.com/tech/db2/db2_survival_guide.htm" ADD_DATE="1552706827">DB2 Survival Guide</A>
+                <DT><A HREF="http://www.lazydba.com/db2/2__1009.html" ADD_DATE="1552706828">Thousands of Oracle &amp; DB2 &amp; SQL people answering each others questions</A>
+                <DT><A HREF="http://book.itzero.com/read/others/0505/Prentice.Hall.PTR.Understanding.DB2.Learning.Visually.with.Examples.Jan.2005.eBook-LiB_html/0131859161/ch08lev1sec5.html" ADD_DATE="1552706828">Section 8.5. Buffer Pools</A>
+                <DT><A HREF="http://www.dbazine.com/db2/db2-mfarticles/mullins-tablespaces" ADD_DATE="1552706828">DBAzine.com: An Introduction to DB2 Table Spaces</A>
+                <DT><A HREF="http://www.thescripts.com/forum/thread183648.html" ADD_DATE="1552706828">maximum size of a database/tablespace - IBM DB2</A>
+                <DT><A HREF="http://publib.boulder.ibm.com/infocenter/db2luw/v8/index.jsp?topic=/com.ibm.db2.udb.doc/admin/t0005303.htm" ADD_DATE="1552706828">DB2 Universal Database</A>
+                <DT><A HREF="http://sqlzoo.net/howto/source/u.cgi/tip925964/db2" ADD_DATE="1552706828">SQLZOO, DROP TABLE problems: Foreign key references.</A>
+                <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/dm-0401melnyk/index.html" ADD_DATE="1552706828">DB2 Basics: Constraints</A>
+                <DT><A HREF="http://wiki.ittoolbox.com/index.php/User-Defined_string_Functions_SQL_Procedural_Language_DB2" ADD_DATE="1552706828">User-Defined string Functions SQL Procedural Language DB2 - ITtoolboxWiki</A>
+                <DT><A HREF="http://en.wikipedia.org/wiki/User-defined_function" ADD_DATE="1552706828">User-defined function - Wikipedia, the free encyclopedia</A>
+                <DT><A HREF="http://www.informit.com/articles/article.aspx?p=170336" ADD_DATE="1552706828">InformIT: Hooking Up with IBM DB2 Universal Database Version 8 Using Java &gt; Something to Hook Up to</A>
+                <DT><A HREF="http://publib.boulder.ibm.com/infocenter/db2luw/v8/index.jsp?topic=/com.ibm.db2.udb.doc/core/r0008303.htm" ADD_DATE="1552706828">DB2 Universal Database</A>
+                <DT><A HREF="http://publib.boulder.ibm.com/infocenter/db2luw/v8/index.jsp?topic=/com.ibm.db2.udb.doc/core/r0008304.htm" ADD_DATE="1552706828">DB2 Universal Database</A>
+                <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/0211melnyk/0211melnyk.html" ADD_DATE="1552706828">DB2 Basics: Cloning DB2 Databases Using Redirected Restore</A>
+                <DT><A HREF="http://publib.boulder.ibm.com/infocenter/iseries/v5r4/index.jsp?topic=/sqlp/rbafysqlpidentity.htm" ADD_DATE="1552706828">http://publib.boulder.ibm.com/infocenter/iseries/v5r4/index.jsp?topic=/sqlp/rbafysqlpidentity.htm</A>
+                <DT><A HREF="http://publib.boulder.ibm.com/infocenter/db2luw/v8/index.jsp?topic=/com.ibm.db2.udb.doc/admin/c0004632.htm" ADD_DATE="1552706828">DB2 Universal Database</A>
+                <DT><A HREF="http://publib.boulder.ibm.com/infocenter/db2luw/v8/index.jsp?topic=/com.ibm.db2.udb.doc/admin/c0004629.htm" ADD_DATE="1552706828">DB2 Universal Database</A>
+                <DT><A HREF="http://www.cse.yorku.ca/~jarek/db2/import.html" ADD_DATE="1552706828">DB2: IMPORTing and EXPORTing</A>
+                <DT><A HREF="http://decipherinfosys.wordpress.com/2007/06/15/ignoringpreserving-identity-column-value-during-import-in-db2-luw/" ADD_DATE="1552706828">Ignoring/Preserving Identity Column value during Import in DB2 LUW « Systems Engineering and RDBMS</A>
+                <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/dm-0407munteanu/index.html" ADD_DATE="1552706828">Convert a Universal Time Coordinated timestamp in DB2 Universal Database</A>
+                <DT><A HREF="http://mysite.verizon.net/Graeme_Birchall/id1.html" ADD_DATE="1552706829">DB2 SQL Cookbook</A>
+                <DT><A HREF="http://publib.boulder.ibm.com/infocenter/db2luw/v9/index.jsp?topic=/com.ibm.db2.udb.admin.doc/doc/r0011046.htm" ADD_DATE="1552706829">DB2 Database for Linux, UNIX, and Windows</A>
+                <DT><A HREF="http://groups.google.com/group/comp.databases.ibm-db2/browse_thread/thread/c928c60001078f4c?pli=1" ADD_DATE="1552706829">Java + DB2, import table data - comp.databases.ibm-db2 | Google Groups</A>
+                <DT><A HREF="http://publib.boulder.ibm.com/infocenter/db2luw/v8/index.jsp?topic=/com.ibm.db2.udb.doc/core/r0sttmsg.htm" ADD_DATE="1552706829">DB2 Universal Database</A>
+                <DT><A HREF="http://publib.boulder.ibm.com/infocenter/dzichelp/v2r2/index.jsp?topic=/com.ibm.db29.doc.java/com.ibm.db2.luw.apdv.java.doc/doc/rjvjdata.htm" ADD_DATE="1552706829">IBM Information Management Software for z/OS Solutions Information Center</A>
+            </DL><p>
