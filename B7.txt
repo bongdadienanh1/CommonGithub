@@ -1,0 +1,713 @@
+
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706827">Auto refresh</H3>
+            <DL><p>
+                <DT><A HREF="http://www.webgeekly.com/tutorials/how-to-dynamically-update-your-content-every-few-seconds/" ADD_DATE="1552706821">How To Dynamically Update Your Content Every Few Seconds | webgeekly.com</A>
+                <DT><A HREF="http://blog.codebusters.pl/en/entry/refresh-content-automatically-after-some-period-time-jquery" ADD_DATE="1552706821">Refresh content automatically after some period time - jQuery</A>
+                <DT><A HREF="http://www.hacktweaks.com/2010/10/automatic-updating-jquery-content-slider-for-blogger.html" ADD_DATE="1552706821">Automatic updating jQuery Content Slider for Blogger | HackTweaks</A>
+                <DT><A HREF="http://www.w3cgallery.com/w3c-blog/php-mysql-ajax-hacks-trick/index.html" ADD_DATE="1552706822">W3c-blog Php-mysql-ajax-hacks-trick Index w3c gallery,css scripts,php scripts,Iphone Gallery, ajax scripts,CMS Drupal,CMS Joomla,CMS WordPress,Web 2.0</A>
+                <DT><A HREF="http://matthewaprice.com/simple-jquery-ajax-auto-refreshing-div/" ADD_DATE="1552706822">Simple Jquery Ajax Auto Refreshing DIV | Matthew A Price</A>
+                <DT><A HREF="http://www.jquery4u.com/tutorials/auto-refresh-div-content-jquery-ajax/" ADD_DATE="1552706823">Auto Refresh Div Content Using jQuery and AJAX | jQuery4u</A>
+                <DT><A HREF="http://www.brightcherry.co.uk/scribbles/jquery-auto-refresh-div-every-x-seconds/" ADD_DATE="1552706823">JQuery- Auto Refresh Div Every X Seconds</A>
+                <DT><A HREF="http://codingx.blogspot.com/2010/04/update-content.html" ADD_DATE="1552706823">Update content automatically with jQuery (AJAX) | CodingX</A>
+                <DT><A HREF="http://www.9lessons.info/2009/07/auto-load-refresh-every-10-seconds-with.html" ADD_DATE="1552706823">Auto Load and Refresh Div every 10 Seconds with jQuery.</A>
+                <DT><A HREF="http://www.jqueryrain.com/2012/07/best-jquery-rss-feed-reader-tutorial-plugin-examples/" ADD_DATE="1552706824">20+ Best jQuery Rss feed reader tutorial &amp; plugin with examples</A>
+                <DT><A HREF="http://manos.malihu.gr/jquery-custom-content-scroller/" ADD_DATE="1552706824">jQuery custom content scroller – malihu | web design</A>
+                <DT><A HREF="http://tutjunction.com/php-tutorials-xamppwamp-mysql-opensource-download-code-script-login-projects-free-social-shopping-cart-template-system/auto-update-using-ajax-and-php/" ADD_DATE="1552706824">Auto Update Using Ajax and Php | TutJunction</A>
+                <DT><A HREF="http://www.sitekiwis.com/2010/10/automatically-update-using-jquery/" ADD_DATE="1552706825">Automatically Update Using jQuery | SiteKiwis</A>
+                <DT><A HREF="http://tech.pro/tutorial/666/javascript-tutorial-using-setinterval-and-settimeout" ADD_DATE="1552706825">Javascript Tutorial - Using setInterval and setTimeout - Tech.Pro</A>
+                <DT><A HREF="http://www.elated.com/articles/javascript-timers-with-settimeout-and-setinterval/" ADD_DATE="1552706825">JavaScript Timers with setTimeout and setInterval</A>
+                <DT><A HREF="http://www.pagecolumn.com/javascript/setinterval.htm" ADD_DATE="1552706825">setInterval in javascript</A>
+                <DT><A HREF="http://rmurphey.com/blog/2013/02/04/refactoring-setInterval-polling/" ADD_DATE="1552706825">Refactoring setInterval-based polling - Adventures in JavaScript Development</A>
+                <DT><A HREF="http://javascript.info/tutorial/settimeout-setinterval" ADD_DATE="1552706826">Understanding timers: setTimeout and setInterval | JavaScript Tutorial</A>
+                <DT><A HREF="http://wallofscribbles.com/2011/setinterval-the-sneaky-basterd-child-of-javascript/" ADD_DATE="1552706826">setInterval(): the sneaky basterd child of JavaScript - WallOfScribbles</A>
+                <DT><A HREF="http://www.itnewb.com/tutorial/Guide-to-JavaScript-Timers-with-setTimeout-and-setInterval" ADD_DATE="1552706826">Guide to JavaScript Timers with setTimeout() and setInterval()</A>
+                <DT><A HREF="http://www.vonloesch.de/node/32" ADD_DATE="1552706826">Javascript setInterval and objects | vonloesch.de</A>
+                <DT><A HREF="http://www.bennadel.com/blog/2120-Exploring-Race-Conditions-In-Javascript-With-SetInterval-SetTimeout-And-AJAX.htm" ADD_DATE="1552706826">Exploring Race Conditions In Javascript With SetInterval(), SetTimeout(), And AJAX</A>
+                <DT><A HREF="http://www.onsip.com/blog/2012/06/29/avoiding-javascript-settimeout-and-setinterval-problems" ADD_DATE="1552706826">Avoiding JavaScript setTimeout and setInterval Problems | OnSIP</A>
+                <DT><A HREF="http://ejohn.org/blog/how-javascript-timers-work/" ADD_DATE="1552706827">John Resig - How JavaScript Timers Work</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706822">MVC</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706833">Backbone</H3>
+                <DL><p>
+                    <DT><A HREF="http://addyosmani.com/blog/building-mobile-javascript-webapps-with-backbone-js-jquery-part-i/" ADD_DATE="1552706829">Building Mobile JavaScript WebApps With Backbone.js &amp; jQuery: Part I</A>
+                    <DT><A HREF="http://backbonetraining.net/resources" ADD_DATE="1552706829">Backbone.js Training - A Multi-Day, Hands-On, Training Class</A>
+                    <DT><A HREF="http://backbonetutorials.com/" ADD_DATE="1552706830">Backbone.js Tutorials</A>
+                    <DT><A HREF="http://arturadib.com/hello-backbonejs/" ADD_DATE="1552706830">Hello Backbone.js Tutorial</A>
+                    <DT><A HREF="http://dailyjs.com/2012/11/29/backbone-tutorial-1/" ADD_DATE="1552706830">DailyJS: Backbone.js Tutorial: Build Environment</A>
+                    <DT><A HREF="http://net.tutsplus.com/tutorials/javascript-ajax/get-connected-to-the-backbone-new-course/" ADD_DATE="1552706831">Backbone Video Tutorials | Nettuts+</A>
+                    <DT><A HREF="http://www.joezimjs.com/javascript/introduction-to-backbone-js-part-1-models-video-tutorial/" ADD_DATE="1552706831">Introduction to Backbone.js Part 1: Models - Video Tutorial | Joe Zim&#39;s JavaScript Blog</A>
+                    <DT><A HREF="http://adrianmejia.com/blog/2012/09/11/backbone-dot-js-for-absolute-beginners-getting-started/" ADD_DATE="1552706831">Backbone.js for Absolute Beginners - Getting started (Part 1: Intro) - Adrian Mejia&#39;s [code]Blog</A>
+                    <DT><A HREF="http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-1-getting-started/" ADD_DATE="1552706832">Backbone.js Wine Cellar Tutorial — Part 1: Getting Started | Christophe Coenraets</A>
+                    <DT><A HREF="http://antoviaque.org/docs/tutorials/backbone-relational-tutorial/" ADD_DATE="1552706832">Backbone-relational Tutorial - Nested Models With Backbone.js</A>
+                    <DT><A HREF="http://davidsulc.com/blog/2012/04/15/a-simple-backbone-marionette-tutorial/" ADD_DATE="1552706832">A simple Backbone.Marionette tutorial | Bridging the geek-suit divide</A>
+                    <DT><A HREF="http://movableapp.com/2012/06/backbonejs-by-examples/" ADD_DATE="1552706832">Learning Backbone - Backbone examples tutorials | MovableApp.com</A>
+                    <DT><A HREF="http://resthub.org/tutorial/backbone.html" ADD_DATE="1552706832">RESThub Backbone tutorial — RESThub, your Spring + Backbone.js stack</A>
+                    <DT><A HREF="http://bardevblog.wordpress.com/2012/01/16/understanding-backbone-js-simple-example/" ADD_DATE="1552706833">Understanding Backbone.js – Simple Example | BarDev</A>
+                    <DT><A HREF="http://clintberry.com/2012/backbone-js-apps-authentication-tutorial/" ADD_DATE="1552706833">Backbone.js apps with Authentication Tutorial | Clint Berry</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706833">Angularjs</H3>
+                <DL><p>
+                    <DT><A HREF="http://angularjs.org/" ADD_DATE="1552706829">AngularJS — Superheroic JavaScript MVW Framework</A>
+                    <DT><A HREF="http://thiswildorchid.com/custom-angularjs-animations-with-jquery-how-to" ADD_DATE="1552706830">Custom AngularJS Animations with jQuery - How To - This Wild Orchid</A>
+                    <DT><A HREF="http://www.nebithi.com/2013/04/28/knockoutjs-vs-angularjs/" ADD_DATE="1552706830">KnockoutJS vs AngularJS | Next Big Thing</A>
+                    <DT><A HREF="http://www.befundoo.com/university/tutorials/angularjs-directives-tutorial/" ADD_DATE="1552706830">AngularJS Directives Tutorial - Fundoo Solutions : Fundoo Solutions</A>
+                    <DT><A HREF="http://www.angularjstutorial.com/" ADD_DATE="1552706830">AngularJS Tutorial | Basics, tips and tricks for the premier MVC Javascript framework — an Angular tutorial. Managed by Monir Mamoun.</A>
+                    <DT><A HREF="http://www.egghead.io/" ADD_DATE="1552706831">www.egghead.io</A>
+                    <DT><A HREF="https://github.com/jmcunningham/AngularJS-Learning" ADD_DATE="1552706831">jmcunningham/AngularJS-Learning · GitHub</A>
+                    <DT><A HREF="http://code-like-a-poem.blogspot.com/2013/05/angularjs-tutorial-3-creating-simple.html" ADD_DATE="1552706831">Code Like a Poem!: AngularJs Tutorial 3 - Creating a Simple Angular Application using Coffescript</A>
+                    <DT><A HREF="http://www.revillwebdesign.com/angularjs-tutorial/" ADD_DATE="1552706831">AngularJS Tutorial - AngularJS in 30 minutes</A>
+                    <DT><A HREF="http://devgirl.org/2013/03/21/fun-with-angularjs/" ADD_DATE="1552706832">Fun with AngularJS! : Devgirl&#39;s Weblog</A>
+                    <DT><A HREF="http://coenraets.org/blog/2012/02/sample-application-with-angular-js/" ADD_DATE="1552706832">Sample Application with Angular.js | Christophe Coenraets</A>
+                    <DT><A HREF="http://tech.pro/tutorial/1336/phonegap-and-angularjs-the-start" ADD_DATE="1552706832">PhoneGap and AngularJs, The Start - Tech.Pro</A>
+                    <DT><A HREF="http://onehungrymind.com/ng-animate-first-look-with-angularjs-wizard/" ADD_DATE="1552706832">ng-animate First Look with AngularJS Wizard | One Hungry MindOne Hungry Mind</A>
+                    <DT><A HREF="http://blog.ijasoneverett.com/2013/03/a-restful-client-with-angular-js/" ADD_DATE="1552706833">A RESTful Client with Angular.js | Dev Notes</A>
+                    <DT><A HREF="http://learnangularjs.blogspot.com/" ADD_DATE="1552706833">Learn AngularJS Step by Step</A>
+                </DL><p>
+                <DT><A HREF="http://codebrief.com/2012/01/the-top-10-javascript-mvc-frameworks-reviewed/" ADD_DATE="1552706821">The Top 10 Javascript MVC Frameworks Reviewed - CodeBrief</A>
+                <DT><A HREF="http://blog.getopensource.info/2011/12/javascript-templates-list-of-popular.html" ADD_DATE="1552706822">JavaScript Templates - List of Popular and Emerging JavaScript Template Engines | getOpenSource.info Blog</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706824">Event</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706831">onload</H3>
+                <DL><p>
+                    <DT><A HREF="https://www.webkit.org/blog/516/webkit-page-cache-ii-the-unload-event/" ADD_DATE="1552706829">Surfin&#39; Safari - Blog Archive » WebKit Page Cache II – The unload Event</A>
+                    <DT><A HREF="https://developer.mozilla.org/en-US/docs/Using_Firefox_1.5_caching#New_browser_events" ADD_DATE="1552706829">Using Firefox 1.5 caching | MDN</A>
+                    <DT><A HREF="https://developer.mozilla.org/en-US/docs/DOM/window.onunload" ADD_DATE="1552706830">window.onunload - Document Object Model (DOM) | MDN</A>
+                    <DT><A HREF="http://www.way2tutorial.com/jquery/reference/jquery_unload_event.php" ADD_DATE="1552706830">jQuery unload() Event</A>
+                    <DT><A HREF="http://lesson8.blogspot.in/2012/03/jquery-load-event.html" ADD_DATE="1552706831">jquery load Event</A>
+                    <DT><A HREF="http://www.learnjavascript.co.uk/jq/reference/events/unload.html" ADD_DATE="1552706831">Learn jQuery - Reference - the .unload() event method and its usage.</A>
+                </DL><p>
+                <DT><A HREF="http://www.w3schools.com/jquery/event_stoppropagation.asp" ADD_DATE="1552706821">jQuery event.stopPropagation() Method</A>
+                <DT><A HREF="http://api.jquery.com/event.stopPropagation/" ADD_DATE="1552706821">event.stopPropagation() | jQuery API Documentation</A>
+                <DT><A HREF="http://www.tutorialspoint.com/jquery/event-stoppropagation.htm" ADD_DATE="1552706822">jQuery - stopPropagation() Method</A>
+                <DT><A HREF="http://api.jquery.com/event.preventDefault/" ADD_DATE="1552706822">event.preventDefault() | jQuery API Documentation</A>
+                <DT><A HREF="http://css-tricks.com/return-false-and-prevent-default/" ADD_DATE="1552706822">The difference between &#39;return false;&#39; and &#39;e.preventDefault();&#39; | CSS-Tricks</A>
+                <DT><A HREF="http://www.w3schools.com/jquery/event_preventdefault.asp" ADD_DATE="1552706823">jQuery event.preventDefault() Method</A>
+                <DT><A HREF="http://jsfiddle.net/lespacedunmatin/DMcYQ/22/" ADD_DATE="1552706823">différence entre return false et e.preventDefault() - jsFiddle</A>
+                <DT><A HREF="http://www.jquery4u.com/function-demos/preventdefault/" ADD_DATE="1552706824">jQuery Preventdefault Function Example | jQuery4u</A>
+                <DT><A HREF="http://bolsterweb.com/2011/01/javascript-e-preventdefault-is-not-return-false/" ADD_DATE="1552706824">JavaScript - e.preventDefault() is NOT return false | Jonathon Bolster</A>
+                <DT><A HREF="http://tech.pro/tutorial/979/jquery-snippet-the-epreventdefault-function" ADD_DATE="1552706824">jQuery Snippet - The e.preventDefault() Function - Tech.Pro</A>
+                <DT><A HREF="http://www.jensbits.com/2012/03/05/stoppropagation-and-preventdefault-jquery-methods/" ADD_DATE="1552706824">stopPropagation and preventDefault jQuery Methods | jensbits</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706824">Security SSL</H3>
+            <DL><p>
+                <DT><A HREF="http://s2.diffuse.it/blog/category/javascript" ADD_DATE="1552706820">Just my stuff</A>
+                <DT><A HREF="https://docs.djangoproject.com/en/dev/ref/contrib/csrf/" ADD_DATE="1552706821">Cross Site Request Forgery protection | Django documentation | Django</A>
+                <DT><A HREF="http://www.codeproject.com/Articles/265305/Secure-Ajax-Authentication-without-SSL" ADD_DATE="1552706821">Secure AJAX Authentication without SSL - CodeProject</A>
+                <DT><A HREF="http://gauth.apps.gbraad.nl/" ADD_DATE="1552706822">GAuth Authenticator</A>
+                <DT><A HREF="http://www.asp.net/web-api/overview/security/preventing-cross-site-request-forgery-(csrf)-attacks" ADD_DATE="1552706822">Preventing Cross-Site Request Forgery (CSRF) Attacks : The Official Microsoft ASP.NET Site</A>
+                <DT><A HREF="http://www.acunetix.com/websitesecurity/authentication/" ADD_DATE="1552706822">How Can You Prevent an Authentication Hacking Attack</A>
+                <DT><A HREF="http://erlend.oftedal.no/blog/?blogid=118" ADD_DATE="1552706823">Automatically adding CSRF tokens to ajax calls when using jQuery</A>
+                <DT><A HREF="http://www.phpbuilder.com/columns/Login-Ajax-SSL/Octavia_Anghel090810.php3" ADD_DATE="1552706823">PHPBuilder - Write an Ajax-driven Login Application in PHP Using SSL/TLS</A>
+                <DT><A HREF="http://assl.sullof.com/assl/" ADD_DATE="1552706824">aSSL - Ajax Secure Service Layer</A>
+                <DT><A HREF="http://cs.k6b.me/archive/2007/01/14/ajax-login-secure-without-ssl.aspx" ADD_DATE="1552706824">[AJAX Login] Secure Without SSL - Blog Archive</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706822">Back button</H3>
+            <DL><p>
+                <DT><A HREF="http://viralpatel.net/blogs/disable-back-button-browser-javascript/" ADD_DATE="1552706821">Disable Back Button in Browser using JavaScript. Back Button Disable</A>
+                <DT><A HREF="http://www.roseindia.net/answers/viewqa/JavaScriptQuestions/14022-how-to-disable--browser-back-button.html" ADD_DATE="1552706821">how to disable browser back button</A>
+                <DT><A HREF="http://www.htmlgoodies.com/tutorials/buttons/article.php/3478911/Disabling-the-Back-Button.htm" ADD_DATE="1552706821">Disabling the Back Button</A>
+                <DT><A HREF="http://www.boutell.com/newfaq/creating/backbutton.html" ADD_DATE="1552706822">WWW FAQs: How do I disable the back button on a web page?</A>
+                <DT><A HREF="http://www.codeproject.com/Tips/549347/Browser-Back-Button-Issue-After-Logout" ADD_DATE="1552706822">Browser Back Button Issue After Logout - CodeProject</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706822">Detect Browser</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706832">Apache</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.webreference.com/programming/Mod_Rewrite03/index.html" ADD_DATE="1552706829">Mod Rewrite Part 3 - Redirecting Browser Dependent Content with Apache and Mod Rewrite | WebReference</A>
+                    <DT><A HREF="http://www.mugo.ca/Blog/Mobile-browser-detection-and-redirection-in-eZ-Publish" ADD_DATE="1552706830">Mobile browser detection and redirection in eZ Publish | Mugo Web | eZ Publish specialists in North America</A>
+                    <DT><A HREF="http://blog.justin.kelly.org.au/apache-mobile-device-detection/" ADD_DATE="1552706830">Detect mobile browsers with Apache - Justin Kelly</A>
+                    <DT><A HREF="http://hardanswers.net/redirect-to-mobile-site-with-htaccess" ADD_DATE="1552706830">Redirect To A Mobile Site Using Mod_rewrite - Hard Answers</A>
+                    <DT><A HREF="http://support.usablenet.com/wiki/index.php/Apache_Mobile_redirect" ADD_DATE="1552706830">Apache Mobile redirect - UsableNet Support</A>
+                    <DT><A HREF="http://ohryan.ca/2011/01/21/modern-mobile-redirect-using-htaccess/" ADD_DATE="1552706831">Modern Mobile Redirect Using .htaccess | ohryan.ca</A>
+                    <DT><A HREF="http://snipplr.com/view/44741/" ADD_DATE="1552706831">.htaccess Mobile Device Redirect - Apache - Snipplr Social Snippet Repository</A>
+                    <DT><A HREF="http://weavervsworld.com/docs/other/passprotect.html" ADD_DATE="1552706831">Password Protection with .htaccess and .htpasswd</A>
+                    <DT><A HREF="https://help.ubuntu.com/community/EnablingUseOfApacheHtaccessFiles" ADD_DATE="1552706832">EnablingUseOfApacheHtaccessFiles - Community Ubuntu Documentation</A>
+                    <DT><A HREF="http://net.tutsplus.com/tutorials/other/the-ultimate-guide-to-htaccess-files/" ADD_DATE="1552706832">The Ultimate Guide to .htaccess Files | Nettuts+</A>
+                    <DT><A HREF="https://www.digitalocean.com/community/articles/how-to-use-the-htaccess-file" ADD_DATE="1552706832">How to Use the .htaccess File | DigitalOcean</A>
+                    <DT><A HREF="http://www.wikihow.com/Configure-Your-Website-Using-Htaccess-in-Linux-with-Apache" ADD_DATE="1552706832">How to Configure Your Website Using Htaccess in Linux with Apache</A>
+                </DL><p>
+                <DT><A HREF="https://github.com/sebarmeli/JS-Redirection-Mobile-Site" ADD_DATE="1552706821">sebarmeli/JS-Redirection-Mobile-Site · GitHub</A>
+                <DT><A HREF="http://mobilewebrockstar.com/detect-mobile-browser/" ADD_DATE="1552706821">Detect Mobile Browsers in 3 Easy Steps</A>
+                <DT><A HREF="http://detectmobilebrowsers.com/about" ADD_DATE="1552706822">About Detect Mobile Browser</A>
+                <DT><A HREF="http://www.inmotionhosting.com/support/website/how-to/mobile-redirect" ADD_DATE="1552706822">How to redirect your website to its mobile version | InMotion Hosting</A>
+                <DT><A HREF="http://stackoverflow.com/questions/9511526/auto-mobile-site-redirect" ADD_DATE="1552706822">javascript - Auto Mobile Site Redirect - Stack Overflow</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706822">JS MIN</H3>
+            <DL><p>
+                <DT><A HREF="http://jscompress.com/" ADD_DATE="1552706821">Minify Javascript Online / Online JavaScript Packer</A>
+                <DT><A HREF="http://www.crockford.com/javascript/jsmin.html" ADD_DATE="1552706821">JSMIN, The JavaScript Minifier</A>
+                <DT><A HREF="http://www.jsmini.com/" ADD_DATE="1552706821">JsMini.com - Minify Your Javascript/jQuery Code Online</A>
+                <DT><A HREF="http://refresh-sf.com/yui/#output" ADD_DATE="1552706822">Online YUI Compressor</A>
+                <DT><A HREF="http://closure-compiler.appspot.com/home" ADD_DATE="1552706822">Closure Compiler Service</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706822">Listbox Options</H3>
+            <DL><p>
+                <DT><A HREF="http://lovewithbug.com/technology/jquery/move-list-box-items-from-left-to-right-using-jquery/" ADD_DATE="1552706821">Move listbox items from left to right using JQuery, Move multiple selectbox, listbox, list box items from left to right or right to left using Javascript or JQuery | Dharmendra Patri, Love With Bug</A>
+                <DT><A HREF="http://www.designchemical.com/blog/index.php/jquery/change-order-multiple-select-lists-using-jquery/" ADD_DATE="1552706821">Change Order of Multiple Select Lists Using jQuery « Design Chemical – jQuery, Wordpress, Tutorials &amp; Plugins</A>
+                <DT><A HREF="http://aspsnippets.com/demos/601/" ADD_DATE="1552706821">Free ASP.Net Code Snippets, Tutorials, Articles, Technical Stuff, Tips, Solutions and much more. | ASP.Net, C#.Net, VB.Net, AJAX,JQuery, JavaScript, GridView,SQL Server, RDLC, SSRS, Crystal Reports, XML, JSON, FaceBook, Twitter, Google Maps examples</A>
+                <DT><A HREF="http://viralpatel.net/blogs/listbox-select-all-move-left-right-up-down-javascript/" ADD_DATE="1552706822">Listbox options select all,listbox move left-right javascript, move up-down JavaScript</A>
+                <DT><A HREF="http://akibjorklund.com/code/multiselectable" ADD_DATE="1552706822">Multiselectable jQuery plugin - Aki Björklund</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706822">Disable password</H3>
+            <DL><p>
+                <DT><A HREF="http://neathack.info/questions/disable-browser-save-password-functionality" ADD_DATE="1552706821">[SOLVED] Disable browser &#39;Save Password&#39; functionality | NeatHack</A>
+                <DT><A HREF="http://stackoverflow.com/questions/32369/disable-browser-save-password-functionality" ADD_DATE="1552706821">security - Disable browser &#39;Save Password&#39; functionality - Stack Overflow</A>
+                <DT><A HREF="http://solvedstack.com/questions/input-type-password-don-t-let-browser-remember-the-password" ADD_DATE="1552706821">[SOLVED] Input type=password, don&#39;t let browser remember the password | SolvedStack</A>
+                <DT><A HREF="http://www.tech.theplayhub.com/disable_browser_save_password_functionality-2/" ADD_DATE="1552706822">Disable browser &#39;Save Password&#39; functionality - TecHub</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706824">Format Number</H3>
+            <DL><p>
+                <DT><A HREF="http://www.mredkj.com/javascript/numberFormat.html" ADD_DATE="1552706821">Formatting numbers in JavaScript - mredkj.com</A>
+                <DT><A HREF="http://numeraljs.com/" ADD_DATE="1552706821">Numeral.js</A>
+                <DT><A HREF="https://blog.tompawlak.org/number-currency-formatting-javascript" ADD_DATE="1552706821">Tom&#39;s Blog | Number Formatting Using string.replace in JavaScript</A>
+                <DT><A HREF="http://xahlee.info/js/javascript_format_number.html" ADD_DATE="1552706822">JavaScript: Format Number</A>
+                <DT><A HREF="https://github.com/MikeMcl/decimal.js/" ADD_DATE="1552706822">GitHub - MikeMcl/decimal.js: An arbitrary-precision Decimal type for JavaScript</A>
+                <DT><A HREF="http://www.hongkiat.com/blog/jquery-accounting-js/" ADD_DATE="1552706823">Formatting Numbers with Accounting.js - Hongkiat</A>
+                <DT><A HREF="http://www.hashemian.com/tools/thousand-separator.htm" ADD_DATE="1552706823">JavaScript Thousand Separator, Decimal Separator, Decimal Number Formatter</A>
+                <DT><A HREF="http://www.trans4mind.com/personal_development/JavaScript2/money.htm" ADD_DATE="1552706823">JavaScript: Formatting numbers</A>
+                <DT><A HREF="http://www.bennadel.com/blog/1013-javascript-number-tofixed-method.htm" ADD_DATE="1552706823">Javascript Number.toFixed() Method</A>
+                <DT><A HREF="https://www.customd.com/articles/14/jquery-number-format-redux" ADD_DATE="1552706824">jQuery Number Format: Redux | Custom D - Web design &amp; development without compromise, Christchurch &amp; Sydney</A>
+                <DT><A HREF="http://stackoverflow.com/questions/18480658/decimal-validation-in-the-textfield-using-javascript-or-jquery" ADD_DATE="1552706824">Decimal validation in the textfield using javascript or jquery - Stack Overflow</A>
+                <DT><A HREF="http://stackoverflow.com/questions/2304052/check-if-a-number-has-a-decimal-place-is-a-whole-number" ADD_DATE="1552706824">javascript - Check if a number has a decimal place/is a whole number - Stack Overflow</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706822">Cache Browser</H3>
+            <DL><p>
+                <DT><A HREF="http://www.codeproject.com/Questions/528638/howplustoplusdeletepluscssplusjavascriptplusfilepl" ADD_DATE="1552706821">how to delete css javascript file from browser cache from codebehind. - CodeProject</A>
+                <DT><A HREF="http://stackoverflow.com/questions/8155064/how-to-programmatically-empty-browser-cache" ADD_DATE="1552706821">javascript - How to programmatically empty browser cache? - Stack Overflow</A>
+                <DT><A HREF="http://stackoverflow.com/questions/1011605/clear-the-cache-in-javascript" ADD_DATE="1552706821">caching - Clear the cache in JavaScript - Stack Overflow</A>
+                <DT><A HREF="http://stackoverflow.com/questions/5721704/window-location-reload-with-clear-cache" ADD_DATE="1552706822">javascript - window.location.reload with clear cache - Stack Overflow</A>
+                <DT><A HREF="https://hungred.com/how-to/tutorial-stop-caching-jquery-javascript/" ADD_DATE="1552706822">Tutorial: How to stop caching with jQuery and javascript - Hungred Dot Com</A>
+                <DT><A HREF="http://wpexplorer-themes.com/total/docs/clear-browser-cache/" ADD_DATE="1552706822">How To Clear Your Browser Cache - Total WordPress Theme</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706823">DownloadFile</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706834">Angular</H3>
+                <DL><p>
+                    <DT><A HREF="https://techdev.de/an-angularjs-directive-to-download-pdf-files/" ADD_DATE="1552706829">An AngularJS directive to download PDF files - techdev Solutions GmbH</A>
+                    <DT><A HREF="http://blog.neilni.com/2016/04/23/download-file-in-angular-js/" ADD_DATE="1552706830">How to download files in Angular.js</A>
+                    <DT><A HREF="http://realeyes.com/blog/2016/10/simple-solutions-for-file-download-with-html-and-angular-js/" ADD_DATE="1552706830">Simple solutions for file download with HTML and Angular.js - RealEyes</A>
+                    <DT><A HREF="http://techblog.outbrain.com/2014/07/the-power-of-promises-for-file-downloading/" ADD_DATE="1552706830">The power of promises for file downloading | Outbrain Techblog</A>
+                    <DT><A HREF="http://alferov.github.io/angular-file-saver/" ADD_DATE="1552706831">Angular File Saver - an AngularJS service that provides cross-browser compatibility of the HTML5 saveAs()</A>
+                    <DT><A HREF="http://devcenter.kinvey.com/angular/guides/files" ADD_DATE="1552706831">AngularJS Files Guide | Kinvey</A>
+                    <DT><A HREF="https://damienbod.com/2016/04/02/angular2-secure-file-download-without-using-an-access-token-in-url-or-cookies/" ADD_DATE="1552706831">Angular secure file download without using an access token in URL or cookies | Software Engineering</A>
+                    <DT><A HREF="https://blog.knoldus.com/2016/05/11/download-server-responded-data-directly-into-a-file-using-angularjs/" ADD_DATE="1552706831">Download server responded data directly into a file using AngularJs | Knoldus</A>
+                    <DT><A HREF="http://www.angulartutorial.net/2016/05/how-to-download-file-from-backend-to-ui.html" ADD_DATE="1552706831">Make It Easy: How to download file from backend to UI</A>
+                    <DT><A HREF="http://blogs.microsoft.co.il/choroshin/2015/09/19/angular-ui-grid-programmatically-trigger-download-of-csvpdf-file/" ADD_DATE="1552706832">Angular – ui-grid – Programmatically Trigger Download of CSV/PDF File | Alex Choroshin</A>
+                    <DT><A HREF="http://ganeshtiwaridotcomdotnp.blogspot.com/2017/01/angularjs-download-file-from-server.html" ADD_DATE="1552706832">GT&#39;s Blog: AngularJS Download File From Server - Best way with Java Spring Backend</A>
+                    <DT><A HREF="https://www.nuxeo.com/blog/give-stuff-authenticated-file-download-in-javascript/" ADD_DATE="1552706832">Give me my stuff! Authenticated File Download in JavaScript | Nuxeo</A>
+                    <DT><A HREF="http://notjoshmiller.com/server-side-pdf-generation-and-angular-resource/" ADD_DATE="1552706832">Server-side PDF generation and Angular $resource</A>
+                    <DT><A HREF="http://www.encodedna.com/angularjs/tutorial/angularjs-file-upload-using-http-post-formdata-webapi.htm" ADD_DATE="1552706833">AngularJS File Upload using $http post and FormData</A>
+                    <DT><A HREF="https://shazwazza.com/post/uploading-files-and-json-data-in-the-same-request-with-angular-js/" ADD_DATE="1552706833">Uploading files and JSON data in the same request with Angular JS - Shazwazza</A>
+                    <DT><A HREF="http://blog.bguiz.com/2014/07/03/file-download-with-http-request-header/" ADD_DATE="1552706833">File Download with HTTP Request Header - Brendan Graetz</A>
+                    <DT><A HREF="https://www.bersling.com/2016/05/20/download-file-from-controller-in-angular/" ADD_DATE="1552706833">Download File From Controller in Angular – Bersling&#39;s Blog</A>
+                    <DT><A HREF="http://www.c-sharpcorner.com/UploadFile/1d3119/file-upload-and-download-using-html5-file-uploader-control-a851/" ADD_DATE="1552706833">Upload and download files using HTML5 File Uploader Control and AngularJS</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/17177303/spring-download-response-as-a-file" ADD_DATE="1552706833">angularjs - Spring - download response as a file - Stack Overflow</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/22447952/angularjs-http-post-convert-binary-to-excel-file-and-download" ADD_DATE="1552706834">json - AngularJS $http-post - convert binary to excel file and download - Stack Overflow</A>
+                    <DT><A HREF="http://jaliyaudagedara.blogspot.com/2016/05/angularjs-download-files-by-sending.html" ADD_DATE="1552706834">Jaliya&#39;s Blog: AngularJS : Download Files by Sending a HTTP Request to Web API</A>
+                    <DT><A HREF="http://blog.davidjs.com/2015/07/download-files-via-post-request-in-angularjs/" ADD_DATE="1552706834">Download files via POST request in AngularJs</A>
+                    <DT><A HREF="http://corpus.hubwiz.com/2/angularjs/14215049.html" ADD_DATE="1552706834">how to download file using AngularJS and calling MVC API?</A>
+                    <DT><A HREF="https://ramirezmery.wordpress.com/2016/04/17/angularjs-download-file-with-http-and-web-api/" ADD_DATE="1552706834">AngularJS: Download file with $http and Web API | The SharePoint Block</A>
+                    <DT><A HREF="https://templth.wordpress.com/2014/11/21/handle-downloads-with-angular/" ADD_DATE="1552706834">Handle downloads with Angular | Sandbox for the Web stack</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/14215049/how-to-download-file-using-angularjs-and-calling-mvc-api" ADD_DATE="1552706834">how to download file using AngularJS and calling MVC API? - Stack Overflow</A>
+                </DL><p>
+                <DT><A HREF="http://stackoverflow.com/questions/20830309/download-file-using-an-ajax-request" ADD_DATE="1552706821">javascript - download file using an ajax request - Stack Overflow</A>
+                <DT><A HREF="http://stackoverflow.com/questions/16086162/handle-file-download-from-ajax-post" ADD_DATE="1552706821">javascript - Handle file download from ajax post - Stack Overflow</A>
+                <DT><A HREF="http://geekswithblogs.net/rgupta/archive/2014/06/23/downloading-file-using-ajax-and-jquery-after-submitting-form-data.aspx" ADD_DATE="1552706822">Downloading file using ajax and jquery after submitting form data using ajax HTTP POST in MVC</A>
+                <DT><A HREF="http://stackoverflow.com/questions/4545311/download-a-file-by-jquery-ajax/7660817#7660817" ADD_DATE="1552706822">javascript - Download a file by jQuery.Ajax - Stack Overflow</A>
+                <DT><A HREF="http://stackoverflow.com/questions/4545311/download-a-file-by-jquery-ajax" ADD_DATE="1552706822">javascript - Download a file by jQuery.Ajax - Stack Overflow</A>
+                <DT><A HREF="http://gasparesganga.com/labs/jquery-ajax-downloader/" ADD_DATE="1552706823">jQuery AjaxDownloader - Gaspare Sganga</A>
+                <DT><A HREF="http://johnculviner.com/jquery-file-download-plugin-for-ajax-like-feature-rich-file-downloads/" ADD_DATE="1552706823">jQuery File Download Plugin for Ajax like, feature rich file downloads | johnculviner.com</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706823">Igniteui</H3>
+            <DL><p>
+                <DT><A HREF="http://www.infragistics.com/products/jquery/samples" ADD_DATE="1552706821">IgniteUI Controls - Samples of IgniteUI Controls - IgniteUI Featured Controls</A>
+                <DT><A HREF="http://help.infragistics.com/Help/Doc/jQuery/2012.2/CLR4.0/html/Creating%20an%20Alternating%20Rows%20Template%20(igTemplating).html" ADD_DATE="1552706821">Creating an Alternating Rows Template (igTemplating)</A>
+                <DT><A HREF="https://www.igniteui.com/help/iggrid-multirowlayout" ADD_DATE="1552706821">Grid Multi Row Layout - Ignite UI™ Help</A>
+                <DT><A HREF="https://www.igniteui.com/help/documentengine-grids" ADD_DATE="1552706822">Grids - Ignite UI™ Help</A>
+                <DT><A HREF="https://www.igniteui.com/templating-engine/conditional-templates" ADD_DATE="1552706822">Conditional Templates Sample - Conditional Templates with Templating Engine Control - Ignite UI™</A>
+                <DT><A HREF="https://www.infragistics.com/support" ADD_DATE="1552706823">Infragistics Learn and Support Resources</A>
+                <DT><A HREF="https://www.infragistics.com/support/ignite-ui-help" ADD_DATE="1552706823">JavaScript and HTML5 Help, Support and Resources - Infragistics</A>
+                <DT><A HREF="http://www.igniteui.com/help/api/2014.2/" ADD_DATE="1552706823">Ignite UI™ API Documentation</A>
+                <DT><A HREF="https://www.infragistics.com/community/forums/499.aspx" ADD_DATE="1552706823">igGrid - Controls Discussion Groups - Ignite UI - jQuery Controls</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706827">JExcel</H3>
+            <DL><p>
+                <DT><A HREF="https://tableexport.v3.travismclarke.com/" ADD_DATE="1552706820">TableExport.js</A>
+                <DT><A HREF="http://codetheory.in/parse-read-excel-files-xls-xlsx-javascript/" ADD_DATE="1552706821">Parse and Read Excel Files (xls/xlsx) With JavaScript – Code Theory</A>
+                <DT><A HREF="https://github.com/catamphetamine/read-excel-file" ADD_DATE="1552706821">catamphetamine/read-excel-file: Read *.xlsx files in a browser or Node.js. Parse to JSON with a strict schema.</A>
+                <DT><A HREF="https://github.com/paulhodel/jexcel" ADD_DATE="1552706822">paulhodel/jexcel: jExcel | the javascript spreadsheet is a very light jquery plugin to add a excel compatible spreadsheet in your application or web based software. Create smarter apps including data tables, grid and spreasheets with this awesome jquery spreadsheet plugin. For live examples, please visit:</A>
+                <DT><A HREF="https://github.com/JamieHouston/export-xls/tree/master/demo" ADD_DATE="1552706822">export-xls/demo at master · JamieHouston/export-xls</A>
+                <DT><A HREF="https://stackoverflow.com/questions/22317951/export-html-table-data-to-excel-using-javascript-jquery-is-not-working-properl" ADD_DATE="1552706823">Export html table data to Excel using JavaScript / JQuery is not working properly in chrome browse - Stack Overflow</A>
+                <DT><A HREF="https://pdfmake.github.io/docs/getting-started/client-side/methods/" ADD_DATE="1552706823">pdfmake</A>
+                <DT><A HREF="http://www.guriddo.net/documentation/guriddo/javascript/user-guide/exporting/" ADD_DATE="1552706823">Exporting - Guriddo jqGrid JS</A>
+                <DT><A HREF="http://guriddo.net/" ADD_DATE="1552706823">Guriddo</A>
+                <DT><A HREF="https://github.com/tonytomov/jqGrid" ADD_DATE="1552706824">tonytomov/jqGrid: jQuery grid plugin</A>
+                <DT><A HREF="https://github.com/egeriis/zipcelx" ADD_DATE="1552706824">egeriis/zipcelx: Turns JSON data into `.xlsx` files.</A>
+                <DT><A HREF="https://medium.com/@Nopziiemoo/create-excel-files-using-javascript-without-all-the-fuss-2c4aa5377813" ADD_DATE="1552706824">Create Excel files using JavaScript without all the fuss</A>
+                <DT><A HREF="https://github.com/jmaister/excellentexport" ADD_DATE="1552706825">jmaister/excellentexport: Javascript export to Excel</A>
+                <DT><A HREF="https://github.com/stephenliberty/excel-builder.js/blob/master/demo/demo.html" ADD_DATE="1552706825">excel-builder.js/demo.html at master · stephenliberty/excel-builder.js</A>
+                <DT><A HREF="https://redstapler.co/sheetjs-tutorial-create-xlsx/" ADD_DATE="1552706825">SheetJS Tutorial - Create xlsx with Javascript | Red Stapler</A>
+                <DT><A HREF="https://www.codeproject.com/Articles/1197349/Excel-Files-in-JavaScript-the-Simple-Way" ADD_DATE="1552706825">Excel Files in JavaScript, the Simple Way - CodeProject</A>
+                <DT><A HREF="https://aymkdn.github.io/ExcelPlus/" ADD_DATE="1552706825">ExcelPlus :: JavaScript API/Interface to deal with Excel</A>
+                <DT><A HREF="https://hackernoon.com/process-large-data-from-excel-file-with-a-breeze-3db39e189c82" ADD_DATE="1552706825">Process Large Data from Excel File with a Breeze – Hacker Noon</A>
+                <DT><A HREF="http://mundrisoft.com/tech-bytes/protractor-add-data-in-excel-sheet-using-exceljs-in-node/" ADD_DATE="1552706826">Protractor: Add data in excel sheet using exceljs in node</A>
+                <DT><A HREF="http://andriybuday.com/2016/02/working-with-excel-files-using-epplus-and-xlsx-js.html" ADD_DATE="1552706826">Working with Excel files using EPPlus and XLSX.JS - Andriy Buday</A>
+                <DT><A HREF="https://www.freakyjolly.com/create-and-download-xsl-excel-from-json-response-data-in-webpage/" ADD_DATE="1552706826">Create and Download XLS Excel From JSON Response Data in Webpage Using Javascript | Freaky Jolly</A>
+                <DT><A HREF="https://www.diycode.cc/projects/SheetJS/js-xlsx" ADD_DATE="1552706826">js-xlsx：XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spreadsheet) / ODS parser and writer</A>
+                <DT><A HREF="http://www.javascriptoo.com/js-xlsx" ADD_DATE="1552706826">js-xlsx | JavascriptOO</A>
+                <DT><A HREF="https://stackoverflow.com/questions/30859901/parse-xlsx-with-node-and-create-json" ADD_DATE="1552706827">javascript - Parse XLSX with Node and create json - Stack Overflow</A>
+                <DT><A HREF="https://techoverflow.net/2018/05/28/how-to-set-cell-value-to-string-using-js-xlsx/" ADD_DATE="1552706827">How to set cell value to string using js-xlsx – TechOverflow</A>
+            </DL><p>
+            <DT><A HREF="https://techtalk.vn/can-ban-ve-doi-tuong-trong-javascript.html" ADD_DATE="1552706820">Căn bản về đối tượng trong JavaScript | Tech Talk</A>
+        </DL><p>
+        <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706820">Mobile</H3>
+        <DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706822">Web Mobile</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706835">Phonegap</H3>
+                <DL><p>
+                    <DT><H3 ADD_DATE="1552706829" LAST_MODIFIED="1552706836">Plugin</H3>
+                    <DL><p>
+                        <DT><A HREF="https://github.com/purplecabbage/phonegap-plugins" ADD_DATE="1552706836">purplecabbage/phonegap-plugins · GitHub</A>
+                        <DT><A HREF="https://github.com/chbrody/Cordova-SQLitePlugin/" ADD_DATE="1552706836">chbrody/Cordova-SQLitePlugin · GitHub</A>
+                        <DT><A HREF="https://github.com/davejohnson/phonegap-plugin-facebook-connect/" ADD_DATE="1552706836">davejohnson/phonegap-plugin-facebook-connect · GitHub</A>
+                        <DT><A HREF="https://github.com/dhavaln/phonegap-cardio" ADD_DATE="1552706836">dhavaln/phonegap-cardio · GitHub</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706830" LAST_MODIFIED="1552706837">Login</H3>
+                    <DL><p>
+                        <DT><A HREF="http://sim4all.com/blogging/?p=266" ADD_DATE="1552706836">Cross-Platform Mobile Development with WP7, PhoneGap and .NET 4.0 WCF REST – Part 3 | Temp Folder – Mostly .NET</A>
+                        <DT><A HREF="https://wiki.jasig.org/display/UPC/uMobile+PhoneGap+Exploration" ADD_DATE="1552706836">uMobile PhoneGap Exploration - uPortal - Jasig Wiki</A>
+                        <DT><A HREF="http://www.drewdahlman.com/meusLabs/?p=88" ADD_DATE="1552706836">phonegapFacebookApp » Labs</A>
+                        <DT><A HREF="http://www.raymondcamden.com/index.cfm/2011/11/10/Example-of-serverbased-login-with-PhoneGap" ADD_DATE="1552706836">Example of server-based login with PhoneGap</A>
+                        <DT><A HREF="http://tylerfrankenstein.com/code/android-app-with-drupal-7-services-phonegap-and-jquery-mobile" ADD_DATE="1552706836">Drupal &amp; PhoneGap - Mobile Application with Drupal 7 Services, PhoneGap &amp; JQuery Mobile for Android - Example | Tyler Frankenstein</A>
+                        <DT><A HREF="https://bitbucket.org/rohitghatol/apress-phonegap/src/62c45e339662/android/PhoneGap-Facebook-Connect/assets/www/index.html" ADD_DATE="1552706836">rohitghatol / apress-phonegap / source / android / PhoneGap-Facebook-Connect / assets / www / index.html — Bitbucket</A>
+                        <DT><A HREF="http://forums.modx.com/thread/76994/revo-phonegap" ADD_DATE="1552706836">Revo &amp; Phonegap | MODX Community Forums</A>
+                        <DT><A HREF="http://paperkilledrock.com/2010/05/html5-localstorage-part-one/" ADD_DATE="1552706837">HTML5 localStorage – Part One « PaperKilledRock.com</A>
+                        <DT><A HREF="http://paperkilledrock.com/2010/05/html5-localstorage-part-four/" ADD_DATE="1552706837">HTML5 localStorage – Part Four « PaperKilledRock.com</A>
+                        <DT><A HREF="http://stackoverflow.com/questions/5320502/logout-from-facebook-in-android-phonegap" ADD_DATE="1552706837">logOut from Facebook in Android Phonegap - Stack Overflow</A>
+                        <DT><A HREF="http://stackoverflow.com/questions/4601174/phone-gap-sessionstorage" ADD_DATE="1552706837">iphone - Phone GAP SessionStorage - Stack Overflow</A>
+                        <DT><A HREF="http://stackoverflow.com/questions/15109209/phonegap-submit-form-and-image" ADD_DATE="1552706837">jquery - Phonegap submit form and image - Stack Overflow</A>
+                        <DT><A HREF="http://stackoverflow.com/questions/11132245/phonegap-jquery-mobile-android-app-form-submission" ADD_DATE="1552706837">ajax - Phonegap + Jquery Mobile Android App Form Submission - Stack Overflow</A>
+                        <DT><A HREF="http://code.adamsfriends.com/2012/08/17/using-jquery-phonegapcordova-to-submit-form-without-changing-page/" ADD_DATE="1552706837">Using jQuery + Phonegap/Cordova to submit form without changing page | Love Life, Live Code, Music Is The Best!</A>
+                        <DT><A HREF="http://javascriptiqueryable.codeplex.com/wikipage?title=Create%20a%20PhoneGap%20application%20using%20html5/javascript" ADD_DATE="1552706837">Javascript to IQueryable (by Dynamic Expressions and Queries in LINQ) - Documentation</A>
+                        <DT><A HREF="http://forums.laravel.io/viewtopic.php?id=4765" ADD_DATE="1552706837">Login with AJAX - including PhoneGap apps (Page 1) / Code Samples / Laravel Forums</A>
+                        <DT><A HREF="http://oodlestechnologies.com/blogs/Twitter-integration-on-PhoneGap-using-ChildBrowser-and-OAuth-for-iOS-and-Android-Platforms" ADD_DATE="1552706837">Twitter integration on PhoneGap using ChildBrowser and OAuth for iOS and Android Platforms Oodles Technologies | Hadoop , Grails, Kaltura, Video Streaming experts</A>
+                        <DT><A HREF="http://pjsdev.blogspot.com/2013/03/phonegap-build-facebook-connect-part-2.html" ADD_DATE="1552706837">PJ&#39;s Development: PhoneGap Build - Facebook Connect (Part 2)</A>
+                        <DT><A HREF="http://merbist.com/2012/04/04/building-and-implementing-a-single-sign-on-solution/" ADD_DATE="1552706837">Building and implementing a Single Sign-On solution | Matt Aimonetti</A>
+                        <DT><A HREF="http://blogs.endjin.com/2013/01/a-step-by-step-guide-to-building-a-twilio-voice-app-with-web-api/" ADD_DATE="1552706837">A step by step guide to building a Twilio voice app with Web API | endjin blog</A>
+                        <DT><A HREF="http://www.codeproject.com/Articles/210993/Session-Fixation-vulnerability-in-ASP-NET" ADD_DATE="1552706837">Session Fixation Vulnerability in ASP.NET - CodeProject</A>
+                        <DT><A HREF="http://jjmpsj.blogspot.com/2008/07/generating-authtoken-for-switchuser.html" ADD_DATE="1552706837">Jim&#39;s PeopleSoft Journal: Generating an AuthToken for SwitchUser</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706830" LAST_MODIFIED="1552706837">Project</H3>
+                    <DL><p>
+                        <DT><A HREF="https://github.com/arfiandwi/haloaci" ADD_DATE="1552706836">arfiandwi/haloaci · GitHub</A>
+                        <DT><A HREF="http://coenraets.org/blog/2013/03/sociogram-mobile-a-starter-kit-application-for-phonegap-and-facebook-integration/" ADD_DATE="1552706836">Sociogram Mobile: A Starter-Kit Application for PhoneGap and Facebook Integration | Christophe Coenraets</A>
+                        <DT><A HREF="https://github.com/ccoenraets/sociogram-mobile" ADD_DATE="1552706836">ccoenraets/sociogram-mobile · GitHub</A>
+                        <DT><A HREF="https://github.com/ccoenraets" ADD_DATE="1552706836">ccoenraets (Christophe Coenraets)</A>
+                        <DT><A HREF="https://github.com/triceam" ADD_DATE="1552706836">triceam (Andrew Trice)</A>
+                        <DT><A HREF="https://github.com/purplecabbage?tab=repositories" ADD_DATE="1552706836">purplecabbage (Jesse MacFadyen)</A>
+                        <DT><A HREF="https://github.com/Pronovix" ADD_DATE="1552706837">Pronovix (Pronovix)</A>
+                        <DT><A HREF="https://github.com/libbybaldwin" ADD_DATE="1552706837">libbybaldwin (Libby Baldwin)</A>
+                        <DT><A HREF="https://github.com/cfjedimaster" ADD_DATE="1552706837">cfjedimaster (Raymond Camden)</A>
+                        <DT><A HREF="https://github.com/developerforce/Force.com-JavaScript-REST-Toolkit" ADD_DATE="1552706837">developerforce/Force.com-JavaScript-REST-Toolkit · GitHub</A>
+                        <DT><A HREF="https://github.com/pwalczyszyn" ADD_DATE="1552706837">pwalczyszyn (Piotr Walczyszyn)</A>
+                        <DT><A HREF="https://github.com/lockersoft" ADD_DATE="1552706837">lockersoft (Dave Jones)</A>
+                        <DT><A HREF="https://github.com/CosX/Geofisher" ADD_DATE="1552706837">CosX/Geofisher · GitHub</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706830" LAST_MODIFIED="1552706836">Login token</H3>
+                    <DL><p>
+                        <DT><A HREF="http://www.campaignmonitor.com/api/getting-started/" ADD_DATE="1552706836">Getting Started | Campaign Monitor</A>
+                        <DT><A HREF="https://github.com/Livefyre/livefyre-docs/wiki/Livefyre-authentication-token" ADD_DATE="1552706836">Livefyre authentication token · Livefyre/livefyre-docs Wiki</A>
+                        <DT><A HREF="http://librdf.org/flickcurl/api/flickcurl-auth-authenticate.html" ADD_DATE="1552706836">Getting Authentication Token from Client Key and Client Secret</A>
+                        <DT><A HREF="http://www.getharvest.com/api/authentication-oauth2" ADD_DATE="1552706836">OAuth 2.0 Authentication - Harvest API</A>
+                        <DT><A HREF="http://passportjs.org/guide/oauth/" ADD_DATE="1552706836">Passport | OAuth</A>
+                        <DT><A HREF="http://dev.bitly.com/authentication.html" ADD_DATE="1552706836">bitly API Documentation</A>
+                        <DT><A HREF="http://www.flickr.com/services/api/auth.spec.html" ADD_DATE="1552706836">Flickr Services</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706831" LAST_MODIFIED="1552706837">Location</H3>
+                    <DL><p>
+                        <DT><A HREF="http://mayukhsaha.wordpress.com/2013/05/08/geolocation-with-phonegap-android-and-eclipse/" ADD_DATE="1552706836">Geolocation with PhoneGap, Android and Eclipse | Mayukh Saha</A>
+                        <DT><A HREF="http://vsnomad.com/2013/03/18/dtw-google-maps/" ADD_DATE="1552706836">Using Google Maps with PhoneGap or Cordova | Nomad | Cross-platform mobile development for Visual Studio</A>
+                        <DT><A HREF="http://tomschott.com/articles/phonegap-google-maps-example" ADD_DATE="1552706836">PhoneGap Google Maps Example « Code Snippets « Tom Schott</A>
+                        <DT><A HREF="http://www.htmlcenter.com/blog/developing-phonegap-mobile-project-final-part/" ADD_DATE="1552706836">Developing PhoneGap mobile project. Final part</A>
+                        <DT><A HREF="http://mobile.tutsplus.com/tutorials/phonegap/build-an-exercise-tracking-app-geolocation-tracking/" ADD_DATE="1552706836">Build an Exercise Tracking App: Geolocation &amp; Tracking</A>
+                        <DT><A HREF="http://jessefreeman.com/articles/room112-phonegap-exploration/" ADD_DATE="1552706836">Room112 – PhoneGap Exploration - Jesse Freeman - Microsoft Technology Evangelist Focusing On Windows 8 Game Development</A>
+                        <DT><A HREF="http://wpcertification.blogspot.com/2012/05/google-map-in-phonegapcordova.html" ADD_DATE="1552706836">WebSphere Notes: Google Map in PhoneGap/Cordova application</A>
+                        <DT><A HREF="http://creatingandroidwebapps.wordpress.com/tutorials/lesson-2-adding-the-map-functionalities/" ADD_DATE="1552706837">Lesson 3: Adding the map features | Create an Android web app</A>
+                        <DT><A HREF="http://tausiq.wordpress.com/2012/10/15/phonegap-displaying-google-maps-with-markers/" ADD_DATE="1552706837">PhoneGap: Displaying Google Maps with Markers | Solved Programming Problems</A>
+                        <DT><A HREF="http://polyetilen.lt/en/android-geolocation-application-demo-using-phonegap-jquery-mobile-and-google-maps" ADD_DATE="1552706837">Android geolocation application demo using PhoneGap, jQuery Mobile and Google Maps | POLYETILEN</A>
+                        <DT><A HREF="http://css.dzone.com/articles/introducing-walkable-%E2%80%93-new" ADD_DATE="1552706837">Introducing &quot;Walkable&quot; – A New Sample App for PhoneGap | Web Builder Zone</A>
+                    </DL><p>
+                    <DT><A HREF="http://www.cartoonsmart.com/phonegap_tutorials.php5" ADD_DATE="1552706831">High Defintion Video Tutorials for PhoneGap and Dreamweaver CS5.5 or CS6 Development</A>
+                    <DT><A HREF="http://www.youtube.com/results?search_query=phonegap+ios+tutorial&oq=phone+gap+i&gs_l=youtube.3.1.0i10l10.535526.540541.0.542605.13.12.1.0.0.0.186.1524.1j11.12.0...0.0...1ac.1.w_nyWnrvqEU" ADD_DATE="1552706831">phonegap ios tutorial - YouTube</A>
+                    <DT><A HREF="http://coenraets.org/blog/" ADD_DATE="1552706831">Christophe Coenraets | The Web Platform and Mobile Application Development</A>
+                    <DT><A HREF="http://mobile.tutsplus.com/tutorials/phonegap/phonegap-from-scratch/" ADD_DATE="1552706832">PhoneGap From Scratch: Introduction</A>
+                    <DT><A HREF="http://www.mobiledevelopersolutions.com/home/start/included-demo-apps" ADD_DATE="1552706832">Demos - Mobile Developer Solutions</A>
+                    <DT><A HREF="http://corlan.org/2012/03/07/using-phonegap-build-and-debug/#more-3492" ADD_DATE="1552706832">Using PhoneGap Build and Debug | Mihai Corlan</A>
+                    <DT><A HREF="http://devgirl.org/2012/07/16/phonegapcordova-templatetutorial-for-sharing-code-between-platforms/" ADD_DATE="1552706832">PhoneGap/Cordova Template/Tutorial for Sharing Code Between Platforms | Devgirls Weblog</A>
+                    <DT><A HREF="http://www.adobe.com/devnet/html5/articles/getting-started-with-phonegap-in-eclipse-for-android.html" ADD_DATE="1552706832">Getting started with PhoneGap in Eclipse for Android | Adobe Developer Connection</A>
+                    <DT><A HREF="http://www.developerscode.com/2012/06/facebook-android-app-tutorial-using.html" ADD_DATE="1552706832">Facebook Android App tutorial using Html5 and Jquery Mobile | Developers Code</A>
+                    <DT><A HREF="http://iphonedevlog.wordpress.com/phonegapcordova-crib-sheet/" ADD_DATE="1552706833">PhoneGap Helpful Links, updated 11/28/2012 « iPhone Dev Log</A>
+                    <DT><A HREF="http://coenraets.org/blog/2011/11/jquery-mobile-getting-started-application/" ADD_DATE="1552706833">jQuery Mobile &quot;Getting Started&quot; Application | Christophe Coenraets</A>
+                    <DT><A HREF="http://samcroft.co.uk/2012/posting-data-from-a-phonegap-app-to-a-server-using-jquery/" ADD_DATE="1552706833">Posting data from a PhoneGap app to a server using jQuery</A>
+                    <DT><A HREF="http://www.adobe.com/devnet/tagsearch.tsb.tag-ADC%2BKeywords_c_phonegap.tse.html" ADD_DATE="1552706833">Tag Search | Adobe Developer Connection</A>
+                    <DT><A HREF="http://www.adobe.com/devnet/html5/articles/native-like-ux-phonegap-app-ui.html" ADD_DATE="1552706833">Creating native-like user experiences in PhoneGap with App-UI | Adobe Developer Connection</A>
+                    <DT><A HREF="https://github.com/phonegap/phonegap/wiki" ADD_DATE="1552706833">Home · phonegap/phonegap Wiki</A>
+                    <DT><A HREF="https://build.phonegap.com/docs/config-xml" ADD_DATE="1552706834">Adobe PhoneGap Build</A>
+                    <DT><A HREF="http://thesociablegeek.com/category/phone-gap-tutorial/" ADD_DATE="1552706834">Phone Gap Tutorial | TheSociableGeek.com</A>
+                    <DT><A HREF="http://devgirl.org/2012/10/19/tutorial-apple-push-notifications-with-phonegap-part-1/" ADD_DATE="1552706834">Tutorial: Apple Push Notifications with PhoneGap – Part 1 | Devgirls Weblog</A>
+                    <DT><A HREF="http://www.netmagazine.com/tutorials/getting-started-phonegap#null" ADD_DATE="1552706834">Getting started with PhoneGap | Tutorial | .net magazine</A>
+                    <DT><A HREF="http://www.applicationcraft.com/developers/documentation/ac-mobile-build-phonegap/apps-developed-with-application-craft/enabling-device-features/" ADD_DATE="1552706834">PhoneGap Options - App development for Mobile and Desktop with Application Craft</A>
+                    <DT><A HREF="http://coenraets.org/blog/?s=backbone&paged=2" ADD_DATE="1552706834">Christophe Coenraets | Search Results</A>
+                    <DT><A HREF="http://www.raymondcamden.com/" ADD_DATE="1552706834">Raymond Camden&#39;s Blog</A>
+                    <DT><A HREF="http://devgirl.org/" ADD_DATE="1552706834">Devgirl&#39;s Weblog | Trials and tribulations of software development...</A>
+                    <DT><A HREF="http://simonmacdonald.blogspot.com/" ADD_DATE="1552706834">Simon Mac Donald</A>
+                    <DT><A HREF="http://www.tricedesigns.com/" ADD_DATE="1552706834">ANDREW TRICE | Explorations and Evangelism in Technology</A>
+                    <DT><A HREF="http://tv.adobe.com/show/adc-presents-phonegap/" ADD_DATE="1552706834">ADC Presents: PhoneGap | Adobe TV</A>
+                    <DT><A HREF="http://coenraets.org/blog/phonegap-tutorial/" ADD_DATE="1552706834">Tutorial: Developing a PhoneGap Application | Christophe Coenraets</A>
+                    <DT><A HREF="http://mail.database.com/page/Building_PhoneGap_Mobile_Applications_Powered_by_Database.com" ADD_DATE="1552706834">Building PhoneGap Mobile Applications Powered by Database.com - developer.force.com</A>
+                    <DT><A HREF="http://kmithi.blogspot.com/2012/02/callling-web-services-in.html" ADD_DATE="1552706835">Coding for Bugs: Callling Web services in PhoneGap</A>
+                    <DT><A HREF="http://www.htmlcenter.com/blog/developing-phonegap-mobile-project-part-2/" ADD_DATE="1552706835">Developing PhoneGap mobile project. Part 2</A>
+                    <DT><A HREF="http://blog.monnet-usa.com/?p=420" ADD_DATE="1552706835">The &quot;Tech. Arch.&quot;</A>
+                    <DT><H3 ADD_DATE="1552706835" LAST_MODIFIED="1552706836">New version</H3>
+                    <DL><p>
+                        <DT><A HREF="http://teusink.blogspot.com/2013/07/guide-phonegap-3-android-windows.html" ADD_DATE="1552706836">Teusink.org: A guide to PhoneGap 3.0.0 development for Android on Windows.</A>
+                        <DT><A HREF="http://mobile.dzone.com/articles/phonegap-30-released" ADD_DATE="1552706836">Phonegap 3.0 Released | Mobile Zone</A>
+                        <DT><A HREF="http://fovea.cc/blog/index.php/3-steps-tutorial-for-phonegap-in-app-purchase-on-ios/" ADD_DATE="1552706836">3 Steps Tutorial for PhoneGap In-App Purchase on iOS | Fovea</A>
+                        <DT><A HREF="https://npmjs.org/package/phonegap" ADD_DATE="1552706836">phonegap</A>
+                        <DT><A HREF="http://neophob.com/2013/08/phonegap-3-for-dummies-part-1-setup-and-a-first-example/" ADD_DATE="1552706836">PhoneGap 3 for Dummies, Part 1: Setup and a first example</A>
+                        <DT><A HREF="http://blog.chariotsolutions.com/2013/07/phonegap-30.html" ADD_DATE="1552706836">Chariot Solutions: PhoneGap 3.0</A>
+                        <DT><A HREF="http://joelchu.com/phonegap-cordova-3-quirk-and-fixes/" ADD_DATE="1552706836">PhoneGap / Cordova 3 quirk and fixes JOEL CHU | JOEL CHU - The guy who build stuff</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706835" LAST_MODIFIED="1552706836">Intellij Idea</H3>
+                    <DL><p>
+                        <DT><A HREF="http://therockncoder.blogspot.com/2012/07/android-intellij-idea-and-phonegap.html" ADD_DATE="1552706836">The Rock n Coder: Android, Intellij IDEA and PhoneGap: Getting Started</A>
+                        <DT><A HREF="http://saintcoder.wordpress.com/2013/05/16/create-a-phonegap-android-application-development-project-on-intellij-idea-12/" ADD_DATE="1552706836">Creating a Phonegap-Android Application Development Project on Intellij IDEA 12 | Path of the saint coder...</A>
+                        <DT><A HREF="http://nick.perfectedz.com/2012/10/02/how-to-use-phonegap-with-intellijidea/" ADD_DATE="1552706836">Nick Tsitlakidis » How to use PhoneGap with IntellijIDEA</A>
+                        <DT><A HREF="http://richdotnet.blogspot.com/2012/07/create-your-first-phonegap-project-with.html" ADD_DATE="1552706836">Rich.net: Create Your First Android PhoneGap App With IntelliJIDEA</A>
+                    </DL><p>
+                    <DT><A HREF="http://docs.phonegap.com/en/2.0.0/guide_getting-started_android_index.md.html#Getting%20Started%20with%20Android" ADD_DATE="1552706835">PhoneGap API Documentation</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706835">jQuery Mobile</H3>
+                <DL><p>
+                    <DT><H3 ADD_DATE="1552706829" LAST_MODIFIED="1552706838">Design</H3>
+                    <DL><p>
+                        <DT><A HREF="http://www.ibm.com/developerworks/opensource/library/mo-jquery-mobile-themes/index.html?ca=drs-" ADD_DATE="1552706836">Create custom jQuery mobile themes</A>
+                        <DT><A HREF="http://miamicoder.com/2011/creating-a-website-using-jquery-mobile-part1/" ADD_DATE="1552706836">Creating a Website Using JQuery Mobile, Part 1</A>
+                        <DT><A HREF="http://www.adobe.com/devnet/dreamweaver/articles/dw-template-jqmobile.html" ADD_DATE="1552706836">Dreamweaver templates: Customizable starter design for jQuery Mobile | Adobe Developer Connection</A>
+                        <DT><A HREF="http://www.netmagazine.com/tutorials/create-custom-theme-jquery-mobile" ADD_DATE="1552706836">Create a custom theme in jQuery Mobile | Tutorial | .net magazine</A>
+                        <DT><A HREF="http://www.hongkiat.com/blog/build-websites-apps-jquery-mobile-custom-themes/" ADD_DATE="1552706836">Mobile App Design/Dev: Custom Themes with jQuery Mobile</A>
+                        <DT><A HREF="http://webdesign.tutsplus.com/tutorials/fireworks-tutorials/building-a-jquery-mobile-theme-with-adobe-fireworks/" ADD_DATE="1552706836">Building a jQuery Mobile Theme With Adobe Fireworks | Webdesigntuts+</A>
+                        <DT><A HREF="http://blog.codiqa.com/2012/08/creating-a-twitter-app-theme-with-jquery-mobile-themeroller-codiqa/" ADD_DATE="1552706836">Creating a Twitter App Theme with jQuery Mobile ThemeRoller + Codiqa | Codiqa</A>
+                        <DT><A HREF="http://www.htmlgoodies.com/html5/mobile/jquery-mobile-in-adobe-dreamweaver-cs6.html#fbid=7hKMStMCWpe" ADD_DATE="1552706837">jQuery Mobile in Adobe Dreamweaver CS6</A>
+                        <DT><A HREF="http://speckyboy.com/2012/08/06/creating-a-mobile-wordpress-theme-with-the-jquery-mobile-library/" ADD_DATE="1552706837">Creating a Mobile WordPress Theme with the jQuery Mobile Library - Speckyboy Design Magazine</A>
+                        <DT><A HREF="http://www.scottlogic.co.uk/blog/colin/2012/04/introducing-the-jquery-mobile-metro-theme/" ADD_DATE="1552706837">Introducing the jQuery Mobile Metro Theme | Colin Eberhardt&#39;s Technology Adventures</A>
+                        <DT><A HREF="http://www.catswhocode.com/blog/how-to-create-a-mobile-wordpress-theme-with-jquery-mobile" ADD_DATE="1552706837">How to create a mobile WordPress theme with jQuery Mobile | CatsWhoCode.com</A>
+                        <DT><A HREF="http://thenextweb.com/dd/2011/05/31/13-helpful-mobile-web-design-tools-resources/" ADD_DATE="1552706837">13 Helpful Mobile Web Design Tools &amp; Resources - The Next Web</A>
+                        <DT><A HREF="http://jeromeetienne.github.com/jquery-mobile-960/" ADD_DATE="1552706837">960 Grid on jQuery-Mobile - merge 960.gs flexibility with jquery-mobile ease</A>
+                        <DT><A HREF="http://www.noupe.com/tutorial/jquery-mobile-tutorial-creating-a-restaurant-picker-web-app.html" ADD_DATE="1552706837">jQuery Mobile Tutorial: Creating a Restaurant Picker Web App</A>
+                        <DT><A HREF="http://www.hongkiat.com/blog/build-websites-apps-jquery-mobile/" ADD_DATE="1552706837">Mobile App Design/Dev: Beginner’s Guide to jQuery Mobile</A>
+                        <DT><A HREF="http://www.freshdesignweb.com/mobile-website-templates.html" ADD_DATE="1552706837">30+Mobile Website Templates Interface</A>
+                        <DT><A HREF="http://wegraphics.net/blog/tutorials/mobile-web-mastery-25-tips-on-designing-for-mobile-devices/" ADD_DATE="1552706837">Mobile Web Mastery: 25 Tips on Designing for Mobile Devices</A>
+                        <DT><A HREF="http://www.hongkiat.com/blog/design-mobile-app-sites/" ADD_DATE="1552706837">Design Killer Mobile App Websites: Tips And Examples</A>
+                        <DT><A HREF="http://www.2expertsdesign.com/graphics/20-stunning-mobile-web-site-templates" ADD_DATE="1552706837">20 Stunning Mobile Web Site Templates | Web Design Blog, Web Designer Resources</A>
+                        <DT><A HREF="http://foundation.zurb.com/docs/f2/gems.php" ADD_DATE="1552706837">Foundation: Rails Gem</A>
+                        <DT><A HREF="http://semantic.gs/" ADD_DATE="1552706837">The Semantic Grid System</A>
+                        <DT><A HREF="http://itabbar.com/" ADD_DATE="1552706837">iTabbar – Mobile tabbar Web app development</A>
+                        <DT><A HREF="http://megateacher.com/30-best-jquery-mobile-tutorials/" ADD_DATE="1552706838">30 Best jQuery Mobile Tutorials - MegaTeacher | Let&#39;s start learning</A>
+                        <DT><A HREF="http://cheeaun.com/blog/2012/03/how-i-built-hacker-news-mobile-web-app" ADD_DATE="1552706838">How I built the Hacker News mobile web app – Lim Chee Aun</A>
+                        <DT><A HREF="http://www.mobile-patterns.com/" ADD_DATE="1552706838">Mobile Patterns - Recently Added</A>
+                        <DT><A HREF="http://www.mobileawesomeness.com/" ADD_DATE="1552706838">Mobile Web Design | Best Mobile Websites | Mobile Website Gallery</A>
+                        <DT><A HREF="http://pttrns.com/" ADD_DATE="1552706838">iOS Mobile Patterns Library</A>
+                        <DT><A HREF="http://designwoop.com/2012/06/10-detailed-iphone-application-design-tutorials/" ADD_DATE="1552706838">10 Detailed iPhone Application Design Tutorials | DesignWoop</A>
+                        <DT><A HREF="http://www.teehanlax.com/blog/iphone-gui-psd-v4/" ADD_DATE="1552706838">iPhone GUI PSD Version 4 | Teehan+Lax</A>
+                        <DT><A HREF="http://www.tripwiremagazine.com/2012/10/mobile-apps-inspiration-design-patterns.html" ADD_DATE="1552706838">20 Mobile Apps Inspiration and Design Patterns</A>
+                        <DT><A HREF="http://bashooka.com/photoshop/18-detailed-photoshop-ui-design-tutorials/" ADD_DATE="1552706838">18 Detailed Photoshop UI Design Tutorials | Graphic &amp; Web Design Inspiration + Resources</A>
+                        <DT><A HREF="http://creativecan.com/2012/08/ios-user-interface-design/" ADD_DATE="1552706838">35+ Great iOS User Interface Design Inspirations and Tutorials</A>
+                        <DT><A HREF="http://www.noupe.com/design/40-fresh-and-free-web-ui-design-kits-and-mobile-kits-73255.html" ADD_DATE="1552706838">40+ Fresh and Free Web UI and Mobile Kits for Developers and Designers - noupe</A>
+                        <DT><A HREF="http://www.slideshare.net/theresaneil/navigation-patterns-for-mobile-apps" ADD_DATE="1552706838">Navigation Patterns for iOS, Android and More</A>
+                        <DT><A HREF="http://www.adobe.com/devnet/dreamweaver/articles/dw-template-jquery-mobile.html" ADD_DATE="1552706838">Advanced design template for jQuery Mobile | Adobe Developer Connection</A>
+                        <DT><A HREF="http://www.jquery1.com/2012/08/top-20-jquery-mobile-tutorials-in-2012.html" ADD_DATE="1552706838">Top 20 jQuery Mobile Tutorials in 2012</A>
+                        <DT><A HREF="http://utdesign13.com/30-best-jquery-mobile-tutorials/" ADD_DATE="1552706838">30 Best jQuery Mobile Tutorials</A>
+                        <DT><A HREF="http://andymatthews.net/read/2011/02/18/Adding-iPhone-style-swipe-to-delete-button-to-a-listview-component-in-jQuery-Mobile" ADD_DATE="1552706838">Adding iPhone style swipe to delete button to a listview component in jQuery Mobile - andy matthews</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706830" LAST_MODIFIED="1552706837">Menu</H3>
+                    <DL><p>
+                        <DT><A HREF="http://www.spiced2.com/5-mobile-menu-plugins-jquery/" ADD_DATE="1552706836">5 mobile menu plugins for jquery - spiced2.com</A>
+                        <DT><A HREF="http://blog.aldomatic.com/facebook-style-slide-out-menu-in-jquery-mobile/" ADD_DATE="1552706836">Facebook Style Slide Out Menu in jQuery Mobile | A Blog for Aldo Lugo a Sr. Front-end Developer &amp; Designer from Dallas, Texas</A>
+                        <DT><A HREF="https://github.com/tegansnyder/JQuery-Mobile-Slide-Menu" ADD_DATE="1552706836">tegansnyder/JQuery-Mobile-Slide-Menu · GitHub</A>
+                        <DT><A HREF="http://jquerymobile.com/test/docs/pages/popup/popup-panels.html" ADD_DATE="1552706836">Popup panels</A>
+                        <DT><A HREF="http://www.hongkiat.com/blog/building-mobile-app-navigation-with-jquery/" ADD_DATE="1552706836">Mobile App Design/Dev: Building Navigation with jQuery</A>
+                        <DT><A HREF="http://www.htmldrive.net/items/show/1142/jQuery-Mobile-Restaurant-Picker-effect" ADD_DATE="1552706836">jQuery Mobile Restaurant Picker effect | slider menu</A>
+                        <DT><A HREF="http://speckyboy.com/2012/08/29/10-responsive-navigation-solutions-and-tutorials/" ADD_DATE="1552706836">10 Responsive Navigation Solutions and Tutorials - Speckyboy Design Magazine</A>
+                        <DT><A HREF="http://azadcreative.com/2012/07/responsive-mobile-first-navigation-menu/" ADD_DATE="1552706837">Building a Responsive, Mobile-First Navigation Menu - Saddam Azad - User Interface Designer &amp; Front-end Engineer.</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706830" LAST_MODIFIED="1552706837">Dynamic Programming</H3>
+                    <DL><p>
+                        <DT><A HREF="http://programmaticponderings.wordpress.com/2012/10/18/restful-mobile-consume-java-ee-restful-web-services-using-jquery-mobile/" ADD_DATE="1552706836">RESTful Mobile: Consuming Java EE RESTful Web Services Using jQuery Mobile « ProgrammaticPonderings</A>
+                        <DT><A HREF="http://devgrow.com/jquery-mobile-php-mvc-framework/" ADD_DATE="1552706836">jQuery Mobile PHP MVC Framework | DevGrow</A>
+                        <DT><A HREF="http://www.jgeppert.com/2011/02/preview-for-struts2-jquery-mobile-showcase/" ADD_DATE="1552706836">Preview for Struts2 jQuery Mobile Showcase | Java, Programming, Struts2, jQuery, Linux and more</A>
+                        <DT><A HREF="http://tutorialzine.com/2011/08/jquery-mobile-mvc-website-part-2/" ADD_DATE="1552706836">Building a Website with PHP, MySQL and jQuery Mobile, Part 2 | Tutorialzine</A>
+                        <DT><A HREF="http://www.jqmphp.com/" ADD_DATE="1552706836">jqmPhp | HTML Code Generator for jQuery Mobile Framework | jqmPhp</A>
+                        <DT><A HREF="http://www.giantflyingsaucer.com/blog/?p=1856" ADD_DATE="1552706836">Create a blog with JQuery Mobile and PHP | Giant Flying Saucer</A>
+                        <DT><A HREF="http://eisabainyo.net/weblog/2011/06/29/creating-a-contact-form-in-jquery-mobile-and-php/" ADD_DATE="1552706836">Creating a Contact Form in jQuery Mobile and PHP - Web Development Blog</A>
+                        <DT><A HREF="http://tympanus.net/codrops/2011/01/07/collective-jquery-mobile-php-mvc-framework/" ADD_DATE="1552706837">Collective: jQuery Mobile PHP MVC Framework | Codrops</A>
+                        <DT><A HREF="https://github.com/mdolon/jQuery-Mobile-PHP-MVC" ADD_DATE="1552706837">mdolon/jQuery-Mobile-PHP-MVC · GitHub</A>
+                        <DT><A HREF="http://www.peachpit.com/articles/article.aspx?p=1932483&seqNum=2" ADD_DATE="1552706837">Changing Pages | Working with Exposed Methods in jQuery Mobile | Peachpit</A>
+                        <DT><A HREF="http://tutorialzine.com/2011/08/jquery-mobile-product-website/" ADD_DATE="1552706837">Building a Website with PHP, MySQL and jQuery Mobile, Part 1 | Tutorialzine</A>
+                        <DT><A HREF="http://www.drcoen.com/2011/05/jquery-mobile-and-dynamic-data/" ADD_DATE="1552706837">Web Dev Web Log » jQuery Mobile and Dynamic Data</A>
+                        <DT><A HREF="http://www.webspeaks.in/2012/04/dynamic-page-update-in-jquery-mobile.html" ADD_DATE="1552706837">Web Speaks: Dynamic page update in jQuery Mobile using JSON</A>
+                        <DT><A HREF="http://ctoinsights.wordpress.com/2012/01/03/jquery-mobile-tutorial-part-iii-managing-data/" ADD_DATE="1552706837">jQuery Mobile Tutorial Part III – Managing Data « CTO Insights</A>
+                        <DT><A HREF="https://github.com/jquery/jquery-mobile/blob/master/docs/forms/forms-sample-response.php" ADD_DATE="1552706837">jquery-mobile/docs/forms/forms-sample-response.php at master · jquery/jquery-mobile · GitHub</A>
+                        <DT><A HREF="http://www.imixs.org/roller/imixsworkflow/entry/jquery_mobile_json_and_imixs" ADD_DATE="1552706837">The Imixs Workflow Blog : JQuery Mobile - JSON and Imixs Workflow</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706830" LAST_MODIFIED="1552706837">Template</H3>
+                    <DL><p>
+                        <DT><A HREF="http://www.mobjectify.com/edit/" ADD_DATE="1552706836">mobjectify - Mockups and more for the mobile web</A>
+                        <DT><A HREF="http://m.novarelibrary.com/#page3" ADD_DATE="1552706836">Novare Library Services</A>
+                        <DT><A HREF="http://novarelibrary.com/FLAmobile/#meetings" ADD_DATE="1552706836">FLA 2012 Mobile</A>
+                        <DT><A HREF="http://andymoore.info/m-commerce-php/?page=index" ADD_DATE="1552706836">M-Commerce PHP</A>
+                        <DT><A HREF="http://store.elated.com/products/jquery-mobile-book/task-tango/" ADD_DATE="1552706836">Task Tango</A>
+                        <DT><A HREF="http://www.inpixelitrust.fr/demos/restaurant_picker/" ADD_DATE="1552706836">Restaurant Picker</A>
+                        <DT><A HREF="http://www.mrova.com/free-mobile-template-mobi/" ADD_DATE="1552706836">Free Mobile Template Built on jQuery Mobile - mRova Solutions</A>
+                        <DT><A HREF="http://www.tripwiremagazine.com/2012/12/mobile-website-templates.html" ADD_DATE="1552706837">35 Popular Mobile Website Templates</A>
+                        <DT><A HREF="http://vessea.com/Default.aspx" ADD_DATE="1552706837">Home Page</A>
+                        <DT><A HREF="http://designingwebinterfaces.com/jquery-mobile-graffle-stencil" ADD_DATE="1552706837">jQuery Mobile Graffle Stencil</A>
+                        <DT><A HREF="http://m.jqmbuilder.com/" ADD_DATE="1552706837">jQuery Mobile Builder Demo | Mobile</A>
+                        <DT><A HREF="http://devgrow.com/examples/jquerymobile/" ADD_DATE="1552706837">jQuery M0obile Demo</A>
+                        <DT><A HREF="http://m.topsy.com/#trending" ADD_DATE="1552706837">Topsy Mobile</A>
+                        <DT><A HREF="https://mobile.united.com/Account/LogOn?GUID=819dfa59-917b-469f-8edc-8f2ffa2de661" ADD_DATE="1552706837">Account Login</A>
+                        <DT><A HREF="http://www.stokkers.mobi/valuables/multiview/show/index.html#mainInit" ADD_DATE="1552706837">Setup</A>
+                        <DT><A HREF="http://html5.grooveshark.com/" ADD_DATE="1552706837">Grooveshark - Grooveshark Mobile</A>
+                        <DT><A HREF="http://beantowndesign.com/themes/mobilize/demos/2/portfolio.html" ADD_DATE="1552706837">Mobilize</A>
+                        <DT><A HREF="http://taitems.tumblr.com/post/7240874402/ios-inspired-jquery-mobile-theme-jquery-mobile" ADD_DATE="1552706837">Nothing Insightful • iOS Inspired jQuery Mobile Theme jQuery Mobile...</A>
+                        <DT><A HREF="http://appcropolis.com/blog/advanced-customization-jquery-mobile-buttons/" ADD_DATE="1552706837">Advanced Customization of the jQuery Mobile Buttons | Appcropolis</A>
+                        <DT><A HREF="http://andymatthews.net/code/jquery-mobile-boilerplate/index.html" ADD_DATE="1552706837">jQuery Mobile Boilerplate</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706831" LAST_MODIFIED="1552706836">Form</H3>
+                    <DL><p>
+                        <DT><A HREF="http://shadym.blogspot.com/2011/03/client-side-form-validation-using.html" ADD_DATE="1552706836">shady&#39;s: Client-side Form Validation using jQuery Mobile</A>
+                        <DT><A HREF="http://stackoverflow.com/questions/1218409/jquery-validation-with-submit-handler" ADD_DATE="1552706836">jQuery validation with submit handler - Stack Overflow</A>
+                        <DT><A HREF="http://digsitevalue.net/k/jquery-mobile-form" ADD_DATE="1552706836">Jquery mobile form</A>
+                        <DT><A HREF="http://leepowers.net/jquery-mobile-form-validator" ADD_DATE="1552706836">jQuery Mobile form validator | Lee Powers</A>
+                        <DT><A HREF="http://mobile.tutsplus.com/tutorials/mobile-web-apps/jquery-mobile-forms/" ADD_DATE="1552706836">jQuery Mobile Framework – A Forms Tutorial</A>
+                        <DT><A HREF="http://msdn.microsoft.com/en-us/magazine/jj835794.aspx" ADD_DATE="1552706836">Script Junkie | Authentication with jQuery Mobile</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706831" LAST_MODIFIED="1552706837">Scrolling</H3>
+                    <DL><p>
+                        <DT><A HREF="http://cubiq.org/iscroll-4" ADD_DATE="1552706836">iScroll 4</A>
+                        <DT><A HREF="http://areaaperta.com/nicescroll/demo.html" ADD_DATE="1552706836">jQuery NiceScroll plugin - scrolling for desktop, mobile and touch devices</A>
+                        <DT><A HREF="http://www.jquery4u.com/plugins/jquery-scrollbar-mobile-devices/" ADD_DATE="1552706836">5 jQuery Scrollbar for Mobile Devices | jQuery4u</A>
+                        <DT><A HREF="http://www.jquery4u.com/mobile/10-jquery-mobile-plugins/" ADD_DATE="1552706836">10 Awesome jQuery Mobile Plugins | jQuery4u</A>
+                        <DT><A HREF="http://outof.me/native-scrolling-in-jquery-mobilephonegap-applications/" ADD_DATE="1552706836">Native scrolling in jQuery Mobile/PhoneGap applications | outof.me</A>
+                        <DT><A HREF="http://www.fieg.nl/infinite-ajax-scroll-a-jquery-plugin" ADD_DATE="1552706836">Infinite Ajax Scroll, a jQuery plugin — FIEG</A>
+                        <DT><A HREF="http://www.jquery4u.com/tutorials/jquery-infinite-scrolling-demos/" ADD_DATE="1552706837">5 jQuery Infinite Scrolling Demos | jQuery4u</A>
+                    </DL><p>
+                    <DT><A HREF="http://www.youtube.com/watch?v=ABS_jjNDX7Y&playnext=1&list=PLAB5CHFEAF6YJGAZGCGYHLODGZZE7ZHEP" ADD_DATE="1552706831">Using PhoneGap Build Panel in Dreamweaver CS6 to Build Native Apps for Android and iOS Devices - YouTube</A>
+                    <DT><A HREF="http://www.youtube.com/watch?v=29wiTVbk8yk" ADD_DATE="1552706831">Learn how to build HTML5 jquery Mobile apps for ipad iphone android devices with Dreamweaver CS6 - YouTube</A>
+                    <DT><A HREF="http://www.youtube.com/watch?v=fmytaHlxaOM" ADD_DATE="1552706831">Create a Mobile Website with jQuery Mobile - YouTube</A>
+                    <DT><A HREF="http://minhnhut.info/20-bai-tutorial-rat-hay-ve-jquery-mobile-trong-nam-2012/" ADD_DATE="1552706832">20 bài Tutorial rất hay về jQuery Mobile trong năm 2012</A>
+                    <DT><A HREF="http://www.underworldmagazines.com/11-cool-jquery-mobile-tutorials/" ADD_DATE="1552706832">11 Cool JQuery Mobile Tutorials | UnderWorld Magazines</A>
+                    <DT><A HREF="http://www.jqmgallery.com/jquery-mobile-tutorials/" ADD_DATE="1552706832">jQuery Mobile Tutorials</A>
+                    <DT><A HREF="http://spyrestudios.com/beginners-tutorial-coding-web-apps-with-jquery-mobile/" ADD_DATE="1552706832">Beginner’s Tutorial Coding Web Apps with jQuery Mobile | SpyreStudios</A>
+                    <DT><A HREF="http://miamicoder.com/2011/interesting-jquery-mobile-tutorials/" ADD_DATE="1552706833">Interesting jQuery Mobile Tutorials</A>
+                    <DT><A HREF="http://www.codeforest.net/jquery-mobile-tutorial-basics" ADD_DATE="1552706833">jQuery Mobile Tutorial: Basics - CodeForest</A>
+                    <DT><A HREF="http://www.netmagazine.com/tutorials/create-mobile-website-jquery-mobile" ADD_DATE="1552706833">Create a mobile website with jQuery Mobile | Tutorial | .net magazine</A>
+                    <DT><A HREF="http://the-jquerymobile-tutorial.org/" ADD_DATE="1552706833">The jQuery Mobile tutorial - Homepage</A>
+                    <DT><A HREF="http://www.devproconnections.com/article/mobile-development/jquery-mobile-website-142369" ADD_DATE="1552706833">jQuery Mobile Tutorial: How to Convert an Existing Website to a Mobile Website</A>
+                    <DT><A HREF="http://www.9lessons.info/2011/12/jquery-mobile-framework-tutorial.html" ADD_DATE="1552706833">jQuery Mobile Framework Tutorial.</A>
+                    <DT><A HREF="http://designmodo.com/jquery-mobile-development/" ADD_DATE="1552706834">18 jQuery Mobile Development Tips and Tutorials - DesignModo</A>
+                    <DT><A HREF="http://blogfreakz.com/mobile-development/jquery-mobile-tutorials/" ADD_DATE="1552706834">5 Excellent jQuery Mobile Tutorials | Blogfreakz - Web Design and Web Development resources</A>
+                    <DT><A HREF="http://ecommercedeveloper.com/articles/3373-33-jquery-mobile-tutorials/" ADD_DATE="1552706834">33 jQuery Mobile Tutorials | Ecommerce Developer</A>
+                    <DT><A HREF="http://tutorialzine.com/2012/04/5-lightweight-jquery-alternatives/" ADD_DATE="1552706834">5 Lightweight jQuery Alternatives for Mobile Development | Tutorialzine</A>
+                    <DT><A HREF="http://iviewsource.com/coding/5-minute-guide-to-a-mobile-app-with-jquery-mobile/" ADD_DATE="1552706834">A super simple beginner&#39;s guide to the jQuery Mobile framework | View Source</A>
+                    <DT><A HREF="http://miamicoder.com/jquery-mobile-tutorials/" ADD_DATE="1552706834">jQuery Mobile tutorials and resources from MiamiCoder.com</A>
+                    <DT><A HREF="http://dhirajkumarsingh.wordpress.com/2012/03/25/jquery-mobile-beginner-tutorial/" ADD_DATE="1552706834">jQuery Mobile framework – Beginner Tutorial « HTML, HTML5, CSS, CSS3, JQuery, Flash, Photoshop, mobile, iphone &amp; ipad web application</A>
+                    <DT><A HREF="http://therockncoder.blogspot.com/2012/07/jquery-mobile-phonegap-and-camera.html" ADD_DATE="1552706834">The Rock n Coder: jQuery Mobile, PhoneGap, and the Camera Device</A>
+                    <DT><A HREF="http://www.onlywebpro.com/category/tutorials/javascript/" ADD_DATE="1552706834">JavaScript | onlyWebPro</A>
+                    <DT><A HREF="http://weblogs.java.net/blog/lifemichael/archive/2011/02/16/jquery-mobile-framework" ADD_DATE="1552706834">The jQuery Mobile Framework | Java.net</A>
+                    <DT><A HREF="http://eisabainyo.net/weblog/2011/01/31/top-10-jquery-mobile-code-snippets-that-you-need-to-know/" ADD_DATE="1552706834">Top 10 jQuery Mobile Code Snippets that you need to know - Web Development Blog</A>
+                    <DT><A HREF="http://www.youtube.com/results?search_query=dreamweaver+cs6+jquery+mobile+tutorial&oq=jquery+mobile+tutorial&gs_l=youtube.3.5.0l5j0i5l2.1059217.1063530.0.1070408.17.17.0.0.0.1.162.1570.12j5.17.0...0.0...1ac.1.Avz3kEXjB1g" ADD_DATE="1552706834">dreamweaver cs6 jquery mobile tutorial - YouTube</A>
+                    <DT><A HREF="http://www.youtube.com/results?search_query=jquery+mobile+tutorial+android&oq=jquery+mobile+tutorial&gs_l=youtube.3.3.0l5j0i5l2.297672.297672.0.305066.1.1.0.0.0.0.719.719.6-1.1.0...0.0...1ac.1.tP3Sn5LzK2Y" ADD_DATE="1552706834">jquery mobile tutorial android - YouTube</A>
+                    <DT><A HREF="http://dev.jtsage.com/jQM-SimpleDialog/demos/string.html" ADD_DATE="1552706834">jQueryMobile - SimpleDialog Demos</A>
+                    <DT><A HREF="http://pinehead.tv/category/jquery-mobile/" ADD_DATE="1552706835">jQuery Mobile | Pinehead.TV</A>
+                    <DT><A HREF="http://pinehead.tv/jquery-mobile/jquery-mobile-development-guide/" ADD_DATE="1552706835">jQuery Mobile Development Guide | Pinehead.TV</A>
+                    <DT><A HREF="http://roughlybrilliant.com/jquery_mobile_best_practices" ADD_DATE="1552706835">jQuery Mobile Best Practices - a one year retrospective | Roughly Brilliant Digital Studios</A>
+                    <DT><A HREF="http://net.tutsplus.com/tutorials/javascript-ajax/how-to-build-an-rss-reader-with-jquery-mobile-2/" ADD_DATE="1552706835">How to Build an RSS Reader with jQuery Mobile | Nettuts+</A>
+                    <DT><A HREF="http://www.inwebson.com/jquery/jquery-mobile/" ADD_DATE="1552706835">10 Steps to Getting Started with jQuery Mobile</A>
+                    <DT><A HREF="http://www.codeproject.com/Articles/455627/MVC4-Mobile-Friendly-Web-Applications" ADD_DATE="1552706835">MVC4 Mobile Friendly Web Applications - CodeProject</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/library/mo-jquery-mobile-api/" ADD_DATE="1552706835">Use the jQuery Mobile API for fine-grained custom control</A>
+                    <DT><A HREF="https://joekuan.wordpress.com/2012/12/05/jquery-mobile-the-concept-of-linking-mobile-pages-2/" ADD_DATE="1552706835">jQuery Mobile: The Concept of Linking Mobile Pages (2) | Joe Kuan Defunct Code</A>
+                    <DT><A HREF="http://www.jquery4u.com/page-layout/12-jquery-mobile-layout-plugins-examples/" ADD_DATE="1552706835">12+ jQuery Mobile Layout Plugins and Examples | jQuery4u</A>
+                    <DT><A HREF="http://buildmobile.com/build-a-currency-converter-with-jquery-mobile-and-cordova-part-3/?utm_medium=email&utm_campaign=BuildMobile+February+15th+2013&utm_content=BuildMobile+February+15th+2013+Version+A+CID_8ac00f423196faf033fe8b60740f759c&utm_source=Newsletter&utm_term=Build%20an%20App%20with%20jQuery%20and%20Cordova%20Part%203" ADD_DATE="1552706835">BuildMobile | Build a Currency Converter with jQuery Mobile and Cordova: JavaScript and User SettingsBuildMobile</A>
+                    <DT><A HREF="http://www.designfloat.com/blog/2012/12/21/free-jquery-mobile-tutorials/" ADD_DATE="1552706835">Free jQuery Mobile Tutorials. Complicated Things Explained in Simple Words | DesignFloat Blog</A>
+                    <DT><A HREF="http://utdesign13.com/8-useful-jquery-mobile-tutorials/" ADD_DATE="1552706835">8 Useful jQuery Mobile Tutorials</A>
+                    <DT><A HREF="http://freelancedesignerindelhi.wordpress.com/2012/02/14/50-jquery-mobile-development-tips/" ADD_DATE="1552706835">50 jQuery Mobile Development Tips « Freelance website designer in delhi</A>
+                    <DT><A HREF="http://www.jackbellis.com/jqm/jqm_CommandReference.html" ADD_DATE="1552706835">Jquery Mobile Command Reference</A>
+                    <DT><A HREF="http://www.jquery4u.com/mobile/50-jquery-mobile-development/" ADD_DATE="1552706835">50 jQuery Mobile Development Tips | jQuery4u</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706830">Architecture </H3>
+                <DL><p>
+                    <DT><A HREF="http://www.theshulers.com/whitepapers/mobile_architecture/index.html" ADD_DATE="1552706829">Mobile Application Architecture Whitepaper</A>
+                    <DT><A HREF="https://wmpblogs.com/Lists/Posts/Post.aspx?List=654eb724%2D68db%2D415f%2D95f6%2Deb86e975aca1&ID=139&Web=051a9dee%2De97e%2D4716%2Dadad%2Dc3c4b2f62761" ADD_DATE="1552706830">Mobile Client Architecture - Native vs. Hybrid vs. Web apps - WMP Blog</A>
+                    <DT><A HREF="http://www.uxbooth.com/articles/designing-for-mobile-part-1-information-architecture/" ADD_DATE="1552706830">Designing for Mobile, Part 1: Information Architecture - UX Booth | UX Booth</A>
+                    <DT><A HREF="http://www.google.com.vn/imgres?imgurl=http://mymobileweb.morfeo-project.org/wp-content/uploads/2009/11/architecture-new-mymw_2.png&imgrefurl=http://mymobileweb.morfeo-project.org/mymobileweb/high-level-architecture&h=776&w=775&sz=120&tbnid=56oMHil1ovBhMM:&tbnh=90&tbnw=90&zoom=1&usg=__n_YUNcvHUXhKr0YDeIfLu-1l-qU=&docid=zW_qehWW2QfqhM&hl=vi&sa=X&ei=3X8IUaL6PM-UiAfF5IGACw&ved=0CCoQ9QEwAA&dur=995" ADD_DATE="1552706830">Kết quả tìm kiếm Google cho http://mymobileweb.morfeo-project.org/wp-content/uploads/2009/11/architecture-new-mymw_2.png</A>
+                    <DT><A HREF="http://www.codeproject.com/Articles/326574/An-Introduction-to-Mutual-SSL-Authentication" ADD_DATE="1552706830">An Introduction to Mutual SSL Authentication - CodeProject</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706835">Sencha touch</H3>
+                <DL><p>
+                    <DT><H3 ADD_DATE="1552706829" LAST_MODIFIED="1552706836">Class</H3>
+                    <DL><p>
+                        <DT><A HREF="http://edspencer.net/2012/01/28/the-class-system-in-sencha-touch-2-what-you-need-to-know/" ADD_DATE="1552706836">The Class System in Sencha Touch 2 – What you need to know | Ed Spencer</A>
+                        <DT><A HREF="http://www.sitepoint.com/first-steps-in-sencha-touch/" ADD_DATE="1552706836">First Steps in Sencha Touch</A>
+                        <DT><A HREF="http://www.enovision.net/event-listeners-in-sencha-touch-2/" ADD_DATE="1552706836">Event listeners in Sencha Touch 2, the Ext JS - by Johan van de Merwe</A>
+                        <DT><A HREF="http://robertdougan.com/posts/taking-advantage-of-componentview-in-sencha-touch-2" ADD_DATE="1552706836">Robert Dougan - Taking Advantage of ComponentView in Sencha Touch 2</A>
+                        <DT><A HREF="http://www.sencha.com/learn/sencha-class-system" ADD_DATE="1552706836">The Sencha Class System | Learn | Sencha</A>
+                        <DT><A HREF="http://www.bleext.com/blog/creating-classes/" ADD_DATE="1552706836">★ ★ ★ Creating Classes in ExtJS 4 | Bleext</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706830" LAST_MODIFIED="1552706837">Sencha touch cmd</H3>
+                    <DL><p>
+                        <DT><A HREF="http://docs-origin.sencha.com/cmd/3.1.2/#!/guide/command_app_ext41" ADD_DATE="1552706836">Using Sencha Cmd with Ext JS 4.1 - Cmd 3.1.2 - Sencha Docs</A>
+                        <DT><A HREF="http://ramonski.de/blog/2012/12/03/sencha-command/" ADD_DATE="1552706836">Introducing Sencha Cmd - Ramonskis Blog</A>
+                        <DT><A HREF="http://blogs.walkingtree.in/2013/04/09/create-build-sencha-extjs-project-using-sencha-cmd-3/" ADD_DATE="1552706836">Create &amp; build Sencha ExtJS project using Sencha Cmd | Walking Tree</A>
+                        <DT><A HREF="http://www.akawebdesign.com/2012/06/01/sencha-sdk-tools-and-sencha-command/" ADD_DATE="1552706836">Sencha SDK Tools and Sencha Command | aKa Web Design</A>
+                        <DT><A HREF="http://www.geneticdigital.co.uk/2013/01/how-to-install-use-and-build-sencha-touch-2-1-apps-on-windows/" ADD_DATE="1552706836">How to install, use and build Sencha Touch 2.1 apps on Windows » Genetic Digital</A>
+                        <DT><A HREF="http://blogs.walkingtree.in/2013/04/09/create-build-package-sencha-touch-project-using-sencha-cmd/" ADD_DATE="1552706836">Create, Build &amp; Package Sencha Touch project using Sencha Cmd | Walking Tree</A>
+                        <DT><A HREF="http://bgmemo.com/tutorial-sencha-touch-and-phonegap/" ADD_DATE="1552706836">Sencha-touch and PhoneGap (Cordova) tutorial BGMEMOBGMEMO | BGMEMO</A>
+                        <DT><A HREF="http://ventusmoso.com/phonegap/sencha-touch-2/setup-sencha-touch-2-1-with-sencha-cmd-for-phonegap-2/" ADD_DATE="1552706837">Setup Sencha Touch 2.1 with Sencha Cmd for PhoneGap 2 PhoneGap Demo</A>
+                        <DT><A HREF="http://robertdougan.com/posts/packaging-sencha-touch-2-with-phonegap-cordova" ADD_DATE="1552706837">Robert Dougan - Packaging Sencha Touch 2 with PhoneGap (Cordova)</A>
+                        <DT><A HREF="http://docs.sencha.com/cmd/3.1.2/#!/guide/command_compiler_meta" ADD_DATE="1552706837">Generating Metadata - Cmd 3.1.2 - Sencha Docs</A>
+                        <DT><A HREF="https://github.com/bricemason/sencha-cordova-builder" ADD_DATE="1552706837">bricemason/sencha-cordova-builder · GitHub</A>
+                        <DT><A HREF="http://modeve.wordpress.com/2012/11/18/android-development-preparation-for-phonegap-sencha-eclipse/" ADD_DATE="1552706837">Android Development: Preparation for Phonegap + Sencha + Eclipse | Bryan&#39;s Mobile Development</A>
+                        <DT><A HREF="http://www.sencha.com/learn/sencha-touch-quick-start" ADD_DATE="1552706837">Sencha Touch Quick Start | Learn | Sencha</A>
+                        <DT><A HREF="http://attuneinfo.wordpress.com/tag/sencha-touch-tutorial/" ADD_DATE="1552706837">sencha touch tutorial | Attune Infocom</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706830" LAST_MODIFIED="1552706836">Plugin</H3>
+                    <DL><p>
+                        <DT><A HREF="http://innofied.com/simplest-slide-navigation-with-sencha-touch-2-2/" ADD_DATE="1552706836">Slide navigation with Sencha Touch - Innofied</A>
+                        <DT><A HREF="https://market.sencha.com/extensions/collapsible-slide-navigation-menu" ADD_DATE="1552706836">Collapsible Slide Navigation Menu Sencha Component: Plugins, List — Sencha Market</A>
+                        <DT><A HREF="https://github.com/wnielson/sencha-SlideNavigation" ADD_DATE="1552706836">wnielson/sencha-SlideNavigation</A>
+                        <DT><A HREF="http://senchatouchdev.com/wordpress/2013/02/25/facebook-style-navigation-for-sencha-touch-2-1-1/" ADD_DATE="1552706836">Facebook Style Navigation for Sencha Touch 2.1.1 | Sencha Touch Dev</A>
+                        <DT><A HREF="http://sureshdotariya.blogspot.com/2013/05/navigation-view-in-sencha-touch-2.html" ADD_DATE="1552706836">Suresh.Ariya: Navigation View in Sencha Touch 2 Explained - Part2</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706830" LAST_MODIFIED="1552706836">Sencha login</H3>
+                    <DL><p>
+                        <DT><A HREF="http://www.mysamplecode.com/2013/06/sencha-touch-auto-login-example.html" ADD_DATE="1552706836">Sencha Touch auto login example</A>
+                        <DT><A HREF="http://www.tuicool.com/articles/YJFb2m" ADD_DATE="1552706836">How To Define User Roles in a Sencha Touch Application - 推酷</A>
+                        <DT><A HREF="http://miamicoder.com/2012/adding-a-login-screen-to-a-sencha-touch-application/" ADD_DATE="1552706836">Adding a Login Screen to a Sencha Touch Application, Part 1</A>
+                        <DT><A HREF="http://www.mysamplecode.com/2012/12/ios-native-app-using-sencha-touch-and.html" ADD_DATE="1552706836">iOS Native App using Sencha Touch and PhoneGap</A>
+                        <DT><A HREF="http://www.enovision.net/form-validation-in-sencha-touch/" ADD_DATE="1552706836">Form validation in Sencha Touch - Enovision GmbH, business in a browser</A>
+                        <DT><A HREF="http://blog.chariotsolutions.com/2012/02/sencha-touch-2-navigationview-templates.html" ADD_DATE="1552706836">Chariot Solutions: Sencha Touch 2 - NavigationView, Templates and Forms</A>
+                    </DL><p>
+                    <DT><A HREF="http://ventusmoso.com/phonegap/sencha-touch-2/build-an-android-app-with-phonegap-2-and-sencha-touch-2-in-eclipse/" ADD_DATE="1552706831">Build an Android App with PhoneGap 2 and Sencha Touch 2 in Eclipse PhoneGap Demo</A>
+                    <DT><A HREF="http://www.sencha.com/learn/touch/" ADD_DATE="1552706831">Learn Sencha Touch | Learn | Sencha</A>
+                    <DT><A HREF="http://www.sencha.com/blog/category/tutorials" ADD_DATE="1552706831">Sencha</A>
+                    <DT><A HREF="http://miamicoder.com/sencha-touch-tutorials/" ADD_DATE="1552706831">Sencha Touch Tutorials</A>
+                    <DT><A HREF="http://www.netmagazine.com/tutorials/build-ipad-app-sencha-touch" ADD_DATE="1552706832">Build an iPad app with Sencha Touch | Tutorial | .net magazine</A>
+                    <DT><A HREF="http://mobile.tutsplus.com/tutorials/mobile-web-apps/getting-started-with-sencha-touch-2/" ADD_DATE="1552706832">Getting Started with Sencha Touch 2</A>
+                    <DT><A HREF="http://www.stephensaw.me/creating-mobile-apps-with-sencha-touch-2-part-1/" ADD_DATE="1552706832">Creating Mobile Apps with Sencha Touch 2 - Part 1 | I Saw Something</A>
+                    <DT><A HREF="http://senchaexamples.com/" ADD_DATE="1552706832">Sencha Examples | Just a bunch of Ext JS and Sencha Touch examples</A>
+                    <DT><A HREF="http://vimeo.com/album/1573372" ADD_DATE="1552706832">Learn Sencha Touch w/ Drew Neil on Vimeo</A>
+                    <DT><A HREF="http://imwill.com/sencha-touch-tutorials/" ADD_DATE="1552706833">Sencha Touch Tutorials and References | imwill.com</A>
+                    <DT><A HREF="http://danmarner.com/2013/05/28/Sencha-Touch-2-and-PhoneGap-integration.html" ADD_DATE="1552706833">Sencha Touch 2 and PhoneGap integration</A>
+                    <DT><A HREF="http://www.loiane.com/2013/06/integrando-sencha-touch-com-phonegap-hello-world/" ADD_DATE="1552706833">Integrando Sencha Touch com PhoneGap: Hello World : Loiane Groner</A>
+                    <DT><A HREF="http://itprojectpool.blogspot.com/2012/05/getting-sencha-touch-2-and-phonegap.html" ADD_DATE="1552706833">We&#39;ve had our eye on you for sometime...: Getting Sencha Touch 2 and PhoneGap Cordova to work in XCode</A>
+                    <DT><A HREF="http://umairashraf.me/2012/04/integrating-sencha-touch-2-0-application-with-phonegapcordova/" ADD_DATE="1552706833">Integrating Sencha Touch 2.0 application with PhoneGap/Cordova « Umair&#39;s Blog</A>
+                    <DT><A HREF="http://www.mobile.safilsunny.com/building-ios-app-sencha-touch-2-phonegap-cordova/" ADD_DATE="1552706833">Building An iOS App With Sencha Touch 2 And Phonegap (Cordova) | How To - IPHONE | Safil Sunny</A>
+                    <DT><A HREF="http://cclerville.blogspot.com/2013/01/demoapp-sencha-touch-21-phonegap-22.html" ADD_DATE="1552706834">CClerville&#39;s TechBlog: DemoApp Sencha Touch 2.1 + PhoneGap 2.2.0 + Android</A>
+                    <DT><A HREF="http://docs.sencha.com/touch/2.2.0/#!/guide/getting_started" ADD_DATE="1552706834">Getting Started with Sencha Touch - Touch 2.2.0 - Sencha Docs</A>
+                    <DT><A HREF="http://architects.dzone.com/articles/creating-custom-theme-sencha" ADD_DATE="1552706834">Creating a Custom Theme for a Sencha Touch Application | Architects Zone</A>
+                    <DT><A HREF="http://www.jamie-cross.net/?portfolio=sencha-touch-tutorial-building-a-newsletter-app-part-1" ADD_DATE="1552706834">Sencha Touch Tutorial – Building a Newsletter App (part 1) @ Mostly Creative</A>
+                    <DT><A HREF="http://lalexgraham.wordpress.com/2012/12/09/packaging-a-sencha-touch-app-for-ios-using-windows-7-2/" ADD_DATE="1552706834">Packaging a Sencha Touch App for iOS using Windows 7. | Alex Graham</A>
+                    <DT><A HREF="http://www2.revolunet.com/static/phonegap-sencha-demo/slides/index.html#24" ADD_DATE="1552706834">Phonegap+Sencha demo @revolunet</A>
+                    <DT><A HREF="http://thanksmister.com/2012/07/06/handle-android-hardware-back-button-using-phonegap-and-sencha-touch-2/" ADD_DATE="1552706834">Handle Android hardware back button using PhoneGap and Sencha Touch 2 | Thanks, Mister!</A>
+                    <DT><A HREF="http://www.sencha.com/learn/a-sencha-touch-mvc-application-with-phonegap/" ADD_DATE="1552706834">A Sencha Touch MVC application with PhoneGap | Learn | Sencha</A>
+                    <DT><A HREF="http://code.medula.cl/article_Picture-capture-and-uploader-app-with-ST2.html" ADD_DATE="1552706834">Picture capture and uploader app with ST2 – Code Médula – Blog de código</A>
+                    <DT><A HREF="http://tutorials-fourtytwo.blogspot.com/2012/07/tutorial-integrate-sencha-touch-with.html" ADD_DATE="1552706834">fourtytwo: Tutorial - Integrate Sencha Touch with PhoneGap for Android</A>
+                    <DT><A HREF="http://miamicoder.com/2012/how-to-create-a-sencha-touch-2-app-part-1/" ADD_DATE="1552706834">How to Create a Sencha Touch 2 App, Part 1</A>
+                    <DT><A HREF="http://andidog.de/blog/2012/06/packaging-a-sencha-touch-2-application-with-phonegap-for-android/" ADD_DATE="1552706834">Packaging a Sencha Touch 2 application with PhoneGap for Android – Andreas Sommer ‒ I&#39;m a software engineer – Blog</A>
+                    <DT><A HREF="http://login2win.blogspot.com/2013/01/using-sencha-and-cordova-phonegap-on.html" ADD_DATE="1552706834">Programming Tutorials: Using Sencha and Cordova (Phonegap) on Android</A>
+                    <DT><A HREF="http://www.maanavan.com/tag/sencha-touch-tutorial/page/2/" ADD_DATE="1552706834">sencha touch tutorial Archives - Page 2 of 2 - PhoneGap, ExtJS 4, Tizen OS, Android, Sencha Touch 2 | Mobile Web Development Tutorials</A>
+                    <DT><A HREF="http://www.robertkehoe.com/2012/11/sencha-touch-2-localstorage-example/" ADD_DATE="1552706835">Sencha Touch 2 LocalStorage example | RobertKehoe.com</A>
+                    <DT><A HREF="https://bitbucket.org/nilsdehl/sencha-touch-2-shoppinglist-example/src/6477ca5482402420a27aea08ac0d50e6bf8fad28/sdk/src/device/camera/Sencha.js?at=master" ADD_DATE="1552706835">nilsdehl / Sencha Touch 2 - Shoppinglist Example / source / sdk / src / device / camera / Sencha.js — Bitbucket</A>
+                    <DT><A HREF="http://lalexgraham.wordpress.com/2012/09/12/sencha-touch-2-example-of-syncing-localstorage-store-with-remote-jsonp-proxy-store/" ADD_DATE="1552706835">Sencha Touch 2 example of syncing localStorage store with remote JSONP proxy store | Alex Graham</A>
+                    <DT><A HREF="http://druckit.wordpress.com/tag/sencha-touch/" ADD_DATE="1552706835">Sencha Touch | Druck-I.T.</A>
+                    <DT><A HREF="http://sureshdotariya.blogspot.com/search/label/sencha%20touch" ADD_DATE="1552706835">Suresh.Ariya: sencha touch</A>
+                    <DT><A HREF="http://www.netmagazine.com/tutorials/styling-user-interface-sencha-touch-application" ADD_DATE="1552706835">Styling the user interface of a Sencha Touch application | Tutorial | .net magazine</A>
+                    <DT><A HREF="http://data-that.blogspot.com/2011/01/local-storage-proxy-with-sencha-touch.html" ADD_DATE="1552706835">DATA-That Blog: Local storage proxy with Sencha Touch</A>
+                    <DT><A HREF="http://modeve.wordpress.com/category/sencha/" ADD_DATE="1552706835">Sencha | Bryan&#39;s Mobile Development</A>
+                    <DT><A HREF="http://edspencer.net/2013/07/19/sencha-con-2013-ext-js-performance-tips/" ADD_DATE="1552706835">Sencha Con 2013: Ext JS Performance tips | Ed Spencer</A>
+                    <DT><A HREF="http://blog.naver.com/PostView.nhn?blogId=khch2489&logNo=30121959341&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView" ADD_DATE="1552706835">[스크랩] A Sencha Touch MVC application with PhoneGap : 네이버 블로그</A>
+                    <DT><A HREF="http://blog.naver.com/PostView.nhn?blogId=khch2489&logNo=30121960496" ADD_DATE="1552706835">[스크랩] sencha touch in action ebook free download pdfdocxlsrtfppt : 네이버 블로그</A>
+                    <DT><A HREF="http://www.senchatouchbits.com/" ADD_DATE="1552706835">Sencha Touch Bits</A>
+                    <DT><A HREF="https://github.com/pdehaan/learningpathways/blob/master/touch2.md" ADD_DATE="1552706835">learningpathways/touch2.md at master · pdehaan/learningpathways</A>
+                    <DT><A HREF="http://ibuildings.com/blog/2013/07/getting-started-sencha-touch-2" ADD_DATE="1552706835">Getting started with Sencha Touch 2 | ibuildings</A>
+                    <DT><A HREF="http://jwebsocket.org/documentation/reference-guide/Sencha-Integration" ADD_DATE="1552706835">Sencha Integration | jWebSocket</A>
+                    <DT><A HREF="http://wiki.developerforce.com/page/Developing_Mobile_Applications_With_Force.com_And_Sencha_Touch_Part_3" ADD_DATE="1552706835">Developing Mobile Applications With Force.com And Sencha Touch Part 3 - developer.force.com</A>
+                    <DT><A HREF="https://github.com/mescalito" ADD_DATE="1552706835">mescalito</A>
+                    <DT><A HREF="https://bitbucket.org/rohitghatol/sencha-touch2-getting-started/src/fa68c0391ae9?at=default" ADD_DATE="1552706835">rohitghatol / sencha-touch2-getting-started / source / — Bitbucket</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706829">Online IDE</H3>
+                <DL><p>
+                    <DT><A HREF="https://ide.monaca.mobi/project/53d225c67e21930e70f2bd5a" ADD_DATE="1552706829">Hello World App - Monaca</A>
+                    <DT><A HREF="http://www.mastercode.vn/blog/web-development/15-meo-giup-ban-su-dung-chrome-devtools-hieu-qua-va-nhanh-chong.25" ADD_DATE="1552706829">15 mẹo giúp bạn sử dụng Chrome DevTools hiệu quả và nhanh chóng</A>
+                </DL><p>
+                <DT><A HREF="http://sixrevisions.com/mobile/cross-platform-mobile-apps/" ADD_DATE="1552706822">10 Solutions for Creating Cross-Platform Mobile Apps</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706827">Android</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706832">Location</H3>
+                <DL><p>
+                    <DT><A HREF="http://sunil-android.blogspot.com/2013/01/get-location-of-cell-id-from.html" ADD_DATE="1552706829">Android Learning Tutorial: Get location of Cell ID, from opencellid.org using HttpGet().</A>
+                    <DT><A HREF="http://android-er.blogspot.com/2012/12/a-simple-example-using-google-maps.html" ADD_DATE="1552706829">Android-er: A simple example using Google Maps Android API v2</A>
+                    <DT><A HREF="http://saigeethamn.blogspot.com/2009/10/location-manager-android-developer.html" ADD_DATE="1552706830">Sai Geetha&#39;s Blog - Android: Location Manager | Android Developer Tutorial (Part 15)</A>
+                    <DT><A HREF="http://mobile.dzone.com/news/location-manager-android" ADD_DATE="1552706830">Location Manager - Android Developer Tutorial | Mobile Zone</A>
+                    <DT><A HREF="http://hejp.co.uk/android/android-gps-example/" ADD_DATE="1552706830">HEJP&#39;s Blog » Blog Archive » Android GPS Example</A>
+                    <DT><A HREF="http://www.edumobile.org/android/android-sdk-tutorial/location-manager/" ADD_DATE="1552706831">Location Manager in Android Programming | Android Tutorial | Android SDK Development &amp; Programming</A>
+                    <DT><A HREF="http://www.skyhookwireless.com/location-technology/Android_Integration_Manual.php" ADD_DATE="1552706831">Skyhook: Examples &gt; Integrating the Skyhook Location SDK on Android</A>
+                    <DT><A HREF="http://niravranpara.blogspot.com/2013/04/android-get-current-gps-location.html" ADD_DATE="1552706831">Android Tutorial : Android get current GPS location</A>
+                    <DT><A HREF="http://www.androidhive.info/2012/07/android-gps-location-manager-tutorial/" ADD_DATE="1552706831">Android GPS, Location Manager Tutorial</A>
+                    <DT><A HREF="http://marakana.com/s/post/311/tutorial_android_location_service_example" ADD_DATE="1552706832">Tutorial: Android Location Service Example - Marakana</A>
+                    <DT><A HREF="http://techblogon.com/android-examples-with-source-code-download/" ADD_DATE="1552706832">Android Examples With Source Code | Techblogon</A>
+                    <DT><A HREF="http://android.vn/threads/huong-dan-su-dung-google-maps-api-v2.24225/" ADD_DATE="1552706832">Map - Hướng dẫn sử dụng GOOGLE MAPS API V2 | Diễn đàn Android - Cộng đồng Android Việt Nam</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706832">Learn</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.youtube.com/playlist?list=PL2F07DBCDCC01493A" ADD_DATE="1552706829">Android Application Development Tutorials - YouTube</A>
+                    <DT><A HREF="http://www.creativebloq.com/app-design/how-build-app-tutorials-12121473" ADD_DATE="1552706829">Discover how to build an app with these easy-to-follow tutorials | App design | Creative Bloq</A>
+                    <DT><A HREF="http://teamtreehouse.com/library/build-a-simple-android-app" ADD_DATE="1552706830">Build a Simple Android App Project</A>
+                    <DT><A HREF="http://www.ideatoappster.com/10-best-online-resources-learn-android-development/" ADD_DATE="1552706830">The 10 Best Online Resources to Learn Android Development</A>
+                    <DT><A HREF="http://whyandroid.com/android/tutorial.html" ADD_DATE="1552706831">Android Tutorial</A>
+                    <DT><A HREF="http://www.diygenius.com/how-to-learn-android-app-development-online/" ADD_DATE="1552706831">How To Learn Android App Development Online - DIY Genius</A>
+                    <DT><A HREF="http://mashable.com/2010/11/07/how-to-mobile-app-development/" ADD_DATE="1552706831">HOW TO: Start Developing for iOS, Android or Windows Phone 7</A>
+                    <DT><A HREF="http://www.youtube.com/user/javarianos?feature=watch" ADD_DATE="1552706831">Código Alonso - YouTube</A>
+                    <DT><A HREF="http://www.youtube.com/watch?v=803l29AqMOs" ADD_DATE="1552706831">Tutorial 01 Android: Preparando tu equipo con Android Studio (IntelliJ IDEA) - YouTube</A>
+                    <DT><A HREF="http://www.dmoz.org/Computers/Software/Operating_Systems/Android/Developer_Resources/" ADD_DATE="1552706832">DMOZ - Computers: Software: Operating Systems: Android: Developer Resources</A>
+                </DL><p>
+                <DT><A HREF="http://androidandme.com/2009/10/news/how-to-install-android-sdk-and-play-with-android-2-0-in-the-emulator/" ADD_DATE="1552706821">How to install Android SDK and play with Android 2.0 in the emulator – Android and Me</A>
+                <DT><A HREF="http://whyandroid.com/android/216-how-to-install-the-android-sdk-on-windows-xp.html" ADD_DATE="1552706822">How to Install the Android SDK on Windows XP</A>
+                <DT><A HREF="http://www.simulationzoo.com/read.php?88" ADD_DATE="1552706822">Google Android (SDK) Trong Eclipse - Simulation Zoo - Share one, Learn more ...</A>
+                <DT><A HREF="http://lockevn.wordpress.com/2009/08/13/mobile-l%E1%BA%ADp-trinh-hello-world-v%E1%BB%9Bi-eclipse-3-5-va-android-sdk/" ADD_DATE="1552706822">mobile: Lập trình Hello world với Eclipse 3.5 và Android SDK « LockeVN’s PRESS on the wild wild web…</A>
+                <DT><A HREF="http://android.amolgupta.in/" ADD_DATE="1552706823">Android Blog</A>
+                <DT><A HREF="http://www.vogella.com/android.html" ADD_DATE="1552706823">Android Development</A>
+                <DT><A HREF="http://www.openintents.org/en/libraries" ADD_DATE="1552706823">Android Libraries | OpenIntents</A>
+                <DT><A HREF="http://www.androiduipatterns.com/2012/01/hands-on-open-source-android-ui.html" ADD_DATE="1552706824">Android UI Patterns: Hands on Open Source Android UI Libraries</A>
+                <DT><A HREF="http://sudarmuthu.com/blog/10-open-source-android-apps-which-every-android-developer-must-look-into" ADD_DATE="1552706824">10 Open Source Android Apps which every Android developer must look into - Night Dreaming (by Sudar)</A>
+                <DT><A HREF="http://mobile.tutsplus.com/tutorials/android/android-layout/" ADD_DATE="1552706824">Android User Interface Design: Layout Basics</A>
+                <DT><A HREF="http://www.techotopia.com/index.php/Designing_an_Android_User_Interface_using_the_Graphical_Layout_Tool" ADD_DATE="1552706824">Designing an Android User Interface using the Graphical Layout Tool - Techotopia</A>
+                <DT><A HREF="http://www.aopensource.com/" ADD_DATE="1552706825">AOpenSource.com Android Open Source</A>
+                <DT><A HREF="http://www.learn-android.com/2010/01/05/android-layout-tutorial/" ADD_DATE="1552706825">Learn Android : Android Layout Tutorial</A>
+                <DT><A HREF="http://blog.templatemonster.com/2010/05/04/free-android-applications-web-designers-developers/" ADD_DATE="1552706825">10 Free Android Applications for Web Designers and Developers | Template Monster Blog</A>
+                <DT><A HREF="http://androiduiux.com/2012/08/15/android-icsjb-photoshop-gui-design-kit-free-download/" ADD_DATE="1552706825">Android ICS/JB Photoshop GUI Design Kit [Free Download] | Android User Interface | User Experience</A>
+                <DT><A HREF="http://mobile.tutsplus.com/tutorials/android/android-ui-fundamentals-challenge-linearlayout/" ADD_DATE="1552706825">Android UI Fundamentals Challenge: LinearLayout</A>
+                <DT><A HREF="http://www.youtube.com/watch?v=lESZqCflB0o" ADD_DATE="1552706826">Video Tutorial: Android Application Development - Android UI - YouTube</A>
+                <DT><A HREF="http://chrisrisner.com/31-Days-of-Android--Day-18%E2%80%93The-Webview" ADD_DATE="1552706826">31 Days of Android: Day 18–The Webview</A>
+                <DT><A HREF="http://buildmobile.com/category/android/" ADD_DATE="1552706826">BuildMobile |BuildMobile</A>
+                <DT><A HREF="http://adilsoomro.blogspot.com/2011/06/iphone-like-tabs-in-android.html" ADD_DATE="1552706826">Android Development: iPhone like Tabs in Android.</A>
+                <DT><A HREF="http://www.kpbird.com/2011/05/androidbottom-tabbar-control.html" ADD_DATE="1552706826">Android:Bottom Tabbar Control</A>
+                <DT><A HREF="http://www.coderzheaven.com/2011/05/09/android-tabbars-example/" ADD_DATE="1552706827">ANDROID Tabbars Example…….. | CoderzHeaven</A>
+                <DT><A HREF="http://whyandroid.com/android/tutorial.html" ADD_DATE="1552706827">Android Tutorial</A>
+                <DT><A HREF="http://www.survivingwithandroid.com/2013/05/android-http-downlod-upload-multipart.html" ADD_DATE="1552706827">Android HTTP Client: GET, POST, Download, Upload, Multipart Request</A>
+            </DL><p>
