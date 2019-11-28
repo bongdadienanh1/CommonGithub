@@ -1,0 +1,777 @@
+
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706828">Oracle</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706831">Paging</H3>
+                <DL><p>
+                    <DT><A HREF="http://viralpatel.net/blogs/oracle-pagination-using-rownum-limiting-result-set/" ADD_DATE="1552706829">Pagination in Oracle using ROWNUM and Limiting Result Set</A>
+                    <DT><A HREF="http://www.anattatechnologies.com/q/2012/01/oracle-limit-results-and-pagination/" ADD_DATE="1552706830">oracle, limit results and pagination | Anatta Technologies</A>
+                    <DT><A HREF="http://www.thefaberfamily.org/search-smith/2012/02/oracle-10g-pagination/" ADD_DATE="1552706830">» Oracle 10g Pagination – Search Smith</A>
+                    <DT><A HREF="http://www.javaranch.com/journal/2008/08/pagination-using-JDBC-and-JSP.html" ADD_DATE="1552706830">Pagination using JDBC and JSP</A>
+                    <DT><A HREF="http://www.inf.unideb.hu/~gabora/pagination/results.html" ADD_DATE="1552706830">TECHNIQUES FOR PAGINATION IN SQL / Solutions - execution plans - block reads</A>
+                    <DT><A HREF="https://explainextended.com/2009/05/06/oracle-row_number-vs-rownum/" ADD_DATE="1552706831">Oracle ROW_NUMBER vs ROWNUM at EXPLAIN EXTENDED</A>
+                    <DT><A HREF="http://use-the-index-luke.com/sql/partial-results/fetch-next-page" ADD_DATE="1552706831">OFFSET is bad for skipping previous rows</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706832">Time Date</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.orafaq.com/faq/how_does_one_add_a_day_hour_minute_second_to_a_date_value" ADD_DATE="1552706829">How does one add a day/hour/minute/second to a date value? | Oracle FAQ</A>
+                    <DT><A HREF="http://www.akadia.com/services/ora_date_time.html" ADD_DATE="1552706830">Date / Time Arithmetic with Oracle</A>
+                    <DT><A HREF="http://asktom.oracle.com/pls/apex/f?p=100:11:0::::P11_QUESTION_ID:1447204403384" ADD_DATE="1552706830">Ask Tom &quot;Adding Time part in Date Field&quot;</A>
+                    <DT><A HREF="http://www.dba-oracle.com/t_date_arithmetic.htm" ADD_DATE="1552706830">Oracle date arithmetic tips</A>
+                    <DT><A HREF="http://www.baskent.edu.tr/~tkaracay/etudio/ders/dbase/sql/pdfSQL/DateFunctions.pdf" ADD_DATE="1552706830">Microsoft Word - DateFunctions.doc</A>
+                    <DT><A HREF="http://www.vertabelo.com/blog/technical-articles/the-most-useful-date-and-time-functions-in-oracle-database" ADD_DATE="1552706831">The Most Useful Date and Time Functions in Oracle Database</A>
+                    <DT><A HREF="http://oraclecoder.com/tutorials/how-to-calculate-difference-between-dates-in-oracle-sql--157" ADD_DATE="1552706831">How To Calculate Difference Between Dates in Oracle SQL - OracleCoder</A>
+                    <DT><A HREF="http://programmerslounge.blogspot.com/2011/07/how-to-get-first-day-and-last-day-of.html" ADD_DATE="1552706831">Programmers Lounge: How to get first day and last date of week, month, quarter, year in Oracle</A>
+                    <DT><A HREF="http://www.sqltactics.com/how-to-find-the-last-day-of-the-month-in-sql-mysql-postgresql-and-teradata/" ADD_DATE="1552706832">How to Find the Last Day of the Month in SQL - SQL Tactics</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706834">Partition</H3>
+                <DL><p>
+                    <DT><A HREF="http://oracle-base.com/articles/misc/partitioning-an-existing-table.php" ADD_DATE="1552706829">ORACLE-BASE - Partitioning an Existing Table using DBMS_REDEFINITION</A>
+                    <DT><A HREF="http://www.toadworld.com/platforms/oracle/w/wiki/4475.alter-table-partition-examples-pc82.aspx" ADD_DATE="1552706830">ALTER TABLE - Partition Examples (PC82) - Oracle - Oracle - Toad World</A>
+                    <DT><A HREF="http://saubbane.blogspot.com/2011/09/partitioning-existing-non-partitioned.html" ADD_DATE="1552706830">Saubhik&#39;s Blog: Partitioning an existing non partitioned table with data, index and constraints - PART I</A>
+                    <DT><A HREF="https://docs.oracle.com/cd/E17952_01/refman-5.5-en/alter-table-partition-operations.html" ADD_DATE="1552706830">13.1.7.1 ALTER TABLE Partition Operations</A>
+                    <DT><A HREF="http://ss64.com/ora/table_a_part.html" ADD_DATE="1552706831">Alter Table Partitioning | Oracle | SS64.com</A>
+                    <DT><A HREF="http://docs.oracle.com/cd/B19306_01/server.102/b14220/partconc.htm" ADD_DATE="1552706831">Partitioned Tables and Indexes</A>
+                    <DT><A HREF="http://docs.oracle.com/cd/E11882_01/server.112/e25523/part_admin001.htm" ADD_DATE="1552706831">Creating Partitions</A>
+                    <DT><A HREF="http://oracle-base.com/articles/8i/partitioned-tables-and-indexes.php" ADD_DATE="1552706831">ORACLE-BASE - Oracle Partitioned Tables And Indexes</A>
+                    <DT><A HREF="http://www.dba-oracle.com/t_interval_partitioning.htm" ADD_DATE="1552706832">Oracle interval partitioning tips</A>
+                    <DT><A HREF="http://www.dba-oracle.com/t_partitioning_tables.htm" ADD_DATE="1552706832">Partitioning table Tips</A>
+                    <DT><A HREF="http://www.orafaq.com/wiki/Range_partitioning" ADD_DATE="1552706832">Range partitioning - Oracle FAQ</A>
+                    <DT><A HREF="http://sateeshv-dbainfo.blogspot.com/2014/08/how-to-partition-existing-table-using.html" ADD_DATE="1552706832">Oracle DBA Information at one place: How To Partition Existing Table Using DBMS_REDEFINITION</A>
+                    <DT><A HREF="http://allthingsoracle.com/introduction-to-table-partitioning/" ADD_DATE="1552706832">Introduction to Table Partitioning – All Things Oracle</A>
+                    <DT><A HREF="https://kipalog.com/posts/Phan-vung-bang-trong-Oracle-Database" ADD_DATE="1552706832">Phân vùng bảng trong Oracle Database</A>
+                    <DT><A HREF="https://www.enterprisedb.com/docs/en/9.4/oracompat/Database_Compatibility_for_Oracle_Developers_Guide.1.314.html" ADD_DATE="1552706833">13.3.1 CREATE TABLE…PARTITION BY | EnterpriseDB</A>
+                    <DT><A HREF="https://oracle-base.com/articles/8i/partitioned-tables-and-indexes#Indexes" ADD_DATE="1552706833">ORACLE-BASE - Partitioned Tables And Indexes</A>
+                    <DT><A HREF="https://www.oracle-dba-online.com/sql/oracle_table_partition.htm" ADD_DATE="1552706833">How to Create Partition Tables in Oracle</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/13070723/how-would-i-create-a-table-in-oracle-11g-r2-from-a-select-as-and-partition-the-t" ADD_DATE="1552706833">sql - How would I create a table in Oracle 11g R2 from a SELECT AS and partition the table by range-list? - Stack Overflow</A>
+                    <DT><A HREF="http://psoug.org/reference/partitions.html" ADD_DATE="1552706833">Oracle Partition Tables SubPartition Partition Range List Hash</A>
+                    <DT><A HREF="https://web.stanford.edu/dept/itss/docs/oracle/10gR2/server.102/b14231/partiti.htm" ADD_DATE="1552706834">Managing Partitioned Tables and Indexes</A>
+                    <DT><A HREF="https://www.akadia.com/services/ora_exchange_partition.html" ADD_DATE="1552706834">How to load Data very fast using Partition Exchange</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706830">Index</H3>
+                <DL><p>
+                    <DT><A HREF="http://use-the-index-luke.com/sql/sorting-grouping/indexed-group-by" ADD_DATE="1552706829">Indexed Group By | SQL Performance Explained</A>
+                    <DT><A HREF="http://use-the-index-luke.com/sql/clustering/index-only-scan-covering-index" ADD_DATE="1552706830">Index-Only Scan: Answering queries from covering indexes | SQL Performance Explained</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706831">Tree</H3>
+                <DL><p>
+                    <DT><A HREF="https://oracle-base.com/articles/misc/hierarchical-queries" ADD_DATE="1552706829">ORACLE-BASE - Hierarchical Queries in Oracle</A>
+                    <DT><A HREF="http://psoug.org/reference/connectby.html" ADD_DATE="1552706829">Oracle Connect By</A>
+                    <DT><A HREF="http://www.adp-gmbh.ch/ora/sql/connect_by.html" ADD_DATE="1552706830">START WITH and CONNECT BY in Oracle SQL</A>
+                    <DT><A HREF="http://ss64.com/ora/connectby.html" ADD_DATE="1552706830">Select - Connect By Prior | Oracle | SS64.com</A>
+                    <DT><A HREF="https://docs.oracle.com/cd/B19306_01/server.102/b14200/queries003.htm" ADD_DATE="1552706831">Hierarchical Queries</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706823" LAST_MODIFIED="1552706831">PL SQL Developer</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.thatjeffsmith.com/archive/2012/02/sql-developer-trick-double-click-to-go-full-screen/" ADD_DATE="1552706829">» SQL Developer Trick: Double-Click to Go Full Screen</A>
+                    <DT><A HREF="http://jerrywens.blog.com/2011/01/26/plsql-developer8-oracle11g-windows-x86_64/" ADD_DATE="1552706829">PLSQL Developer 8 connect to Oracle 11g under Windows x86_64 | Jerry&#39;s Sky</A>
+                    <DT><A HREF="https://allroundautomations.com/bodyplsqldev110x64.html" ADD_DATE="1552706830">PL/SQL Developer 11.0 64 bit</A>
+                    <DT><A HREF="http://forums.allroundautomations.com/ubb/ubbthreads.php?ubb=showflat&Number=46902" ADD_DATE="1552706830">PL/SQL Developer 64 bit ? - Allround Automations forums</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/13985769/pl-sql-developer-with-oracle-32-bit-64-bit-client" ADD_DATE="1552706830">plsqldeveloper - PL/SQL developer with oracle 32-bit/64-bit client - Stack Overflow</A>
+                    <DT><A HREF="http://www.williamrobertson.net/documents/plsqldeveloper-setup-2.html" ADD_DATE="1552706831">Setting up PL/SQL Developer, part 2</A>
+                    <DT><A HREF="http://www.williamrobertson.net/documents/plsqldeveloper-setup-1.html" ADD_DATE="1552706831">Setting up PL/SQL Developer, part 1</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706823" LAST_MODIFIED="1552706830">Oracle Split</H3>
+                <DL><p>
+                    <DT><A HREF="https://www.besserdich.com/oracle/plsql/plsql-function-split-string-into-array-function/" ADD_DATE="1552706829">PL/SQL Function To Split String Into Array › PL/SQL</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/3819375/convert-comma-separated-string-to-array-in-pl-sql" ADD_DATE="1552706830">oracle - Convert comma separated string to array in PL/SQL - Stack Overflow</A>
+                    <DT><A HREF="http://tonyandrews.blogspot.com/2004/10/parsing-delimited-fields-in-character.html" ADD_DATE="1552706830">Tony Andrews on Oracle and Databases: Parsing delimited fields in a character string</A>
+                    <DT><A HREF="http://www.oratechinfo.co.uk/delimited_lists_to_collections.html" ADD_DATE="1552706830">Converting delimited lists to collections</A>
+                    <DT><A HREF="https://lalitkumarb.wordpress.com/2014/12/02/split-comma-delimited-string-into-rows-in-oracle/" ADD_DATE="1552706830">Split single comma delimited string into rows in Oracle | Lalit Kumar B</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706823" LAST_MODIFIED="1552706830">PLSQL</H3>
+                <DL><p>
+                    <DT><A HREF="https://en.wikibooks.org/wiki/Oracle_Database/SQL_Cheatsheet" ADD_DATE="1552706829">Oracle Database/SQL Cheatsheet - Wikibooks, open books for an open world</A>
+                    <DT><A HREF="https://www.db.bme.hu/files/Manuals/Oracle/Oracle11gR2/appdev.112/e17125/adfns_packages.htm" ADD_DATE="1552706830">Coding PL/SQL Subprograms and Packages</A>
+                    <DT><A HREF="http://www.dataprix.com/recopilacion_scripts_consultas_utiles_oracle_sql" ADD_DATE="1552706830">Recopilación scripts y consultas útiles de Oracle | carlos</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706824" LAST_MODIFIED="1552706832">Oracle Cache</H3>
+                <DL><p>
+                    <DT><A HREF="http://plsqlmuse.blogspot.com/2011/11/plsql-function-result-cache.html" ADD_DATE="1552706829">The PL/SQL Muse: PL/SQL Function Result Cache</A>
+                    <DT><A HREF="http://www.databasejournal.com/features/oracle/the-oracle-plsql-results-cache.html" ADD_DATE="1552706829">The Oracle PL/SQL Results Cache — DatabaseJournal.com</A>
+                    <DT><A HREF="http://czmmiao.iteye.com/blog/1965215" ADD_DATE="1552706830">Oracle 11g PL/SQL Function Result Cache(原创) - CzmMiao的博客生活 - ITeye技术网站</A>
+                    <DT><A HREF="http://www.oracle-developer.net/display.php?id=504" ADD_DATE="1552706830">pl/sql function result cache in 11g</A>
+                    <DT><A HREF="http://www.toadworld.com/platforms/oracle/w/wiki/5595.introduction-to-the-plsql-function-cache" ADD_DATE="1552706830">Introduction to the PL/SQL Function Cache - Oracle Wiki - Oracle - Toad World</A>
+                    <DT><A HREF="http://www.exforsys.com/tutorials/oracle-11g/oracle-11g-result-cache.html" ADD_DATE="1552706831">Oracle 11g Result Cache | IT Training and Consulting – Exforsys</A>
+                    <DT><A HREF="http://allthingsoracle.com/oracle-database-12-1-0-2c-automatic-big-table-cache/" ADD_DATE="1552706831">Oracle Database 12.1.0.2c: Automatic Big Table Cache – All Things Oracle</A>
+                    <DT><A HREF="https://oracle-base.com/articles/11g/cross-session-plsql-function-result-cache-11gr1" ADD_DATE="1552706831">ORACLE-BASE - Cross-Session PL/SQL Function Result Cache in Oracle Database 11g Release 1</A>
+                    <DT><A HREF="http://www.dba-oracle.com/plsql/t_plsql_lookup_tables.htm" ADD_DATE="1552706832">Using Arrays for Lookup Tables - caching lookup data in PL/SQL tables</A>
+                    <DT><A HREF="http://www.oracle-developer.net/display.php?id=503" ADD_DATE="1552706832">query result cache in oracle 11g</A>
+                    <DT><A HREF="http://allthingsoracle.com/caching-part-2/" ADD_DATE="1552706832">Caching Part 2 – All Things Oracle</A>
+                    <DT><A HREF="https://mikesmithers.wordpress.com/2016/06/23/oracle-pinning-table-data-in-the-buffer-cache/" ADD_DATE="1552706832">Oracle – Pinning table data in the Buffer Cache | The Anti-Kyte</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706824" LAST_MODIFIED="1552706832">Bulk</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.oracle.com/technetwork/issue-archive/2008/08-mar/o28plsql-095155.html" ADD_DATE="1552706829">PL/SQL Practices: On BULK COLLECT</A>
+                    <DT><A HREF="http://www.akadia.com/services/ora_bulk_insert.html" ADD_DATE="1552706830">Bulk Inserts with Oracle</A>
+                    <DT><A HREF="https://oracle-base.com/articles/9i/bulk-binds-and-record-processing-9i" ADD_DATE="1552706830">ORACLE-BASE - Oracle Bulk Binds (BULK COLLECT &amp; FORALL)and Record Processing</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/21085897/how-do-i-use-bulk-collect-and-insert-in-pl-sql" ADD_DATE="1552706830">plsql - How do I use bulk collect and insert in Pl/SQl - Stack Overflow</A>
+                    <DT><A HREF="http://www.morganslibrary.org/reference/plsql/array_processing.html" ADD_DATE="1552706830">Oracle Array Processing with Bulk Collection &amp; FORALL</A>
+                    <DT><A HREF="https://venzi.wordpress.com/2007/09/27/bulk-collect-forall-vs-cursor-for-loop/" ADD_DATE="1552706831">BULK COLLECT &amp; FORALL vs. CURSOR &amp; FOR-LOOP | Venzi&#39;s Tech-Blog</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/2672764/query-performance-difference-pl-sql-forall-insert-and-plain-sql-insert" ADD_DATE="1552706831">oracle - Query performance difference pl/sql forall insert and plain SQL insert - Stack Overflow</A>
+                    <DT><A HREF="http://dba-blog.blogspot.com/2005/08/using-of-bulk-collect-and-forall-for.html" ADD_DATE="1552706831">Using of BULK COLLECT and FORALL for better performance - Radoslav Rusinov&#39;s Oracle Blog</A>
+                    <DT><A HREF="http://www.orafaq.com/node/2450" ADD_DATE="1552706831">8 Bulk Update Methods Compared | Oracle FAQ</A>
+                    <DT><A HREF="https://www.toadworld.com/platforms/oracle/b/weblog/archive/2011/07/13/quicktips-using-bulk-collect-with-queries" ADD_DATE="1552706832">QuickTips: Using BULK COLLECT with Queries - Oracle Blog - Oracle - Toad World</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706824" LAST_MODIFIED="1552706830">ODI</H3>
+                <DL><p>
+                    <DT><A HREF="https://docs.oracle.com/cd/E51479_01/index.htm" ADD_DATE="1552706829">Oracle Business Intelligence Applications 11g Release 1 (11.1.1.8) Documentation Library</A>
+                    <DT><A HREF="http://allaboutobiee.blogspot.com/2014/08/obia-111181-documentation-and-product.html" ADD_DATE="1552706829">OBIA 11.1.1.8.1 Documentation and Product Guide</A>
+                    <DT><A HREF="https://docs.oracle.com/cd/E14571_01/integrate.1111/e12643/intro.htm#ODIDG118" ADD_DATE="1552706830">Introduction to Oracle Data Integrator</A>
+                    <DT><A HREF="https://www.rittmanmead.com/blog/2016/10/odi12c-gettingstarted-what-is-odi/" ADD_DATE="1552706830">Oracle Data Integrator 12c: Getting Started - What is ODI?</A>
+                </DL><p>
+                <DT><A HREF="http://www.oracle.com/technology/software/products/jdev/index.html" ADD_DATE="1552706824">Oracle JDeveloper Software</A>
+                <DT><A HREF="http://www.oracle.com/technology/products/jdev/index.html" ADD_DATE="1552706824">Oracle JDeveloper - Official Home Page</A>
+                <DT><A HREF="http://www.oracle.com/technology/software/products/jdev/htdocs/soft1013.html" ADD_DATE="1552706825">Oracle JDeveloper 10.1.3 Download</A>
+                <DT><A HREF="https://community.oracle.com/message/2434631" ADD_DATE="1552706825">How to see SQL TEXT for inactive sessions. | Oracle Community</A>
+                <DT><A HREF="http://viralpatel.net/blogs/useful-oracle-queries/" ADD_DATE="1552706825">45 Useful Oracle Queries for Oracle Developers</A>
+                <DT><A HREF="http://psoug.org/reference/date_func.html" ADD_DATE="1552706825">Oracle/PLSQL Date Functions</A>
+                <DT><A HREF="http://blogs.interfacett.com/multiple-joins-work-just-like-single-joins" ADD_DATE="1552706825">Multiple Joins Work just like Single Joins in SQL Server</A>
+                <DT><A HREF="http://xxf-home.net/?p=139" ADD_DATE="1552706826">ORA-01075: you are currently logged on | Xuefeng&#39;s blog</A>
+                <DT><A HREF="http://www.thegeekstuff.com/2009/01/oracle-database-startup-and-shutdown-procedure/" ADD_DATE="1552706826">Oracle Database Startup and Shutdown Procedure</A>
+                <DT><A HREF="http://mbc-dba.blogspot.com/2014/08/ora-04031-unable-to-allocate-3896-bytes.html" ADD_DATE="1552706826">Chowdari&#39;s Oracle DBA Blog: ORA-04031 unable to allocate 3896 bytes of shared memory in ASM Instance</A>
+                <DT><A HREF="http://appsdba4u.blogspot.com/2008/03/how-to-purge-recyclebin-in-oracle-10g.html" ADD_DATE="1552706826">One Stop for Oracle Apps DBA Stuff: How to Purge the RECYCLEBIN in Oracle 10g</A>
+                <DT><A HREF="http://ss64.com/ora/purge.html" ADD_DATE="1552706826">Purge RecycleBin | Oracle | SS64.com</A>
+                <DT><A HREF="http://www.orafaq.com/wiki/Recycle_bin" ADD_DATE="1552706826">Recycle bin - Oracle FAQ</A>
+                <DT><A HREF="http://www.dba-oracle.com/t_oracle_purge_recycle_bin.htm" ADD_DATE="1552706827">Oracle Purge Recycle Bin</A>
+                <DT><A HREF="http://www.xifenfei.com/2012/04/ora-01075-you-are-currently-logged-on.html" ADD_DATE="1552706827">ORA-01075: you are currently logged on – 提供7*24专业Oracle数据恢复、性能优化、迁移升级、故障诊断等服务@Phone:13429648788 - 惜分飞</A>
+                <DT><A HREF="http://blog.itpub.net/519536/viewspace-669393" ADD_DATE="1552706827">【问题处理】偶遇ORA- 01075: you are currently logged on错误-secooler-ITPUB博客</A>
+                <DT><A HREF="http://satishvchandran.blogspot.com/2014/03/ora-01075-you-are-currently-logged-on.html" ADD_DATE="1552706827">Oracle DB and MW Blog: &quot;ORA-01075: you are currently logged on&quot; with ORA-4031</A>
+                <DT><A HREF="https://prevexp.wordpress.com/2014/12/09/how-to-resolve-ora-09925/" ADD_DATE="1552706827">HOW TO RESOLVE ORA-09925 ? | My Previous Experience</A>
+                <DT><A HREF="https://exploreoracle.wordpress.com/2009/01/06/connect-to-database-fails-with-ora-09817-ora-01075/" ADD_DATE="1552706827">Connect to database fails with ORA-09817, ORA-01075 « Exploring Oracle</A>
+                <DT><A HREF="http://at-j.co.jp/blog/?p=2676" ADD_DATE="1552706827">初期化パラメータ うかつに変えるべからず | 我が社を有名にするブログ</A>
+                <DT><A HREF="http://how.vndemy.com/databases/238-mot-ky-nang-lam-viec-voi-oracle/" ADD_DATE="1552706828">Một số kỹ năng làm việc với Oracle - Vndemy How</A>
+                <DT><A HREF="https://daoquanghuynh.wordpress.com/2010/01/22/lock-d%E1%BB%AF-li%E1%BB%87u-trong-oracle/" ADD_DATE="1552706828">Lock dữ liệu trong Oracle | Đào Quang Huynh</A>
+                <DT><A HREF="https://use-the-index-luke.com/?fbclid=IwAR00OHqoqBMAXFNzNPUqtDmjfWhSHCOgBzNp5uLqoRTmA7vguLkcAXw558g" ADD_DATE="1552706828">SQL Indexing and Tuning e-Book for developers: Use The Index, Luke covers Oracle, MySQL, PostgreSQL, SQL Server, ...</A>
+                <DT><A HREF="https://github.com/jhipster/jhipster-sample-app/blob/master/src/main/java/io/github/jhipster/sample/config/WebConfigurer.java" ADD_DATE="1552706828">jhipster-sample-app/WebConfigurer.java at master · jhipster/jhipster-sample-app</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706826">MySQL</H3>
+            <DL><p>
+                <DT><A HREF="http://dev.mysql.com/doc/refman/4.1/en/information-functions.html" ADD_DATE="1552706821">MySQL AB :: MySQL 3.23, 4.0, 4.1 Reference Manual :: 12.10.3 Information Functions</A>
+                <DT><A HREF="http://dev.mysql.com/doc/maxdb/en/6d/117c29d14811d2a97400a0c9449261/content.htm" ADD_DATE="1552706821">CREATE SEQUENCE Statement (create_sequence_statement) (SAP Library - Basic Information)</A>
+                <DT><A HREF="http://dev.mysql.com/downloads/connector/j/5.0.html" ADD_DATE="1552706821">MySQL AB :: Download Connector/J 5.0</A>
+                <DT><A HREF="https://confluence.atlassian.com/jirakb/configuring-database-connection-results-in-error-host-xxxxxxx-is-not-allowed-to-connect-to-this-mysql-server-358908249.html" ADD_DATE="1552706822">Configuring database connection results in Error: Host &#39;xxxxxxx&#39; is not allowed to connect to this MySQL server - Atlassian Documentation</A>
+                <DT><A HREF="http://www.thegeekstuff.com/2010/08/allow-mysql-client-connection" ADD_DATE="1552706822">How to Allow MySQL Client to Connect to Remote MySQL server</A>
+                <DT><A HREF="https://www.infrasightlabs.com/mysql-error-host-is-not-allowed-to-connect-to-this-mysql-server" ADD_DATE="1552706822">Host is not allowed to connect to this MySQL server - InfraSight Labs</A>
+                <DT><A HREF="https://www.percona.com/blog/2017/04/06/dealing-mysql-error-code-1215-cannot-add-foreign-key-constraint/" ADD_DATE="1552706823">Dealing with MySQL Error Code 1215: &quot;Cannot add foreign key constraint&quot; - Percona Database Performance Blog</A>
+                <DT><A HREF="https://explainextended.com/2009/03/17/hierarchical-queries-in-mysql/" ADD_DATE="1552706823">Hierarchical queries in MySQL at EXPLAIN EXTENDED</A>
+                <DT><A HREF="https://stackoverflow.com/questions/7631048/connect-by-prior-equivalent-for-mysql" ADD_DATE="1552706823">sql - Connect By Prior Equivalent for MySQL - Stack Overflow</A>
+                <DT><A HREF="https://cdn2.hubspot.net/hubfs/2106877/White%20Papers/SQL_Hierarchical_Queries_twp.pdf?__hssc=103227359.1.1539183054303&__hstc=103227359.4e5edae30191e2bb83277dfb566a69e8.1539183054302.1539183054302.1539183054302.1&__hsfp=2112571622&hsCtaTracking=6009be55-2ed0-46c6-8755-7302bff5787a%7Cd202b0cd-e76d-4253-8720-e8c8580e76d1" ADD_DATE="1552706824">SQL_Hierarchical_Queries_twp.pdf</A>
+                <DT><A HREF="https://www.linkedin.com/pulse/step-by-step-guide-creating-sql-hierarchical-queries-bibhas-mitra/" ADD_DATE="1552706824">(7) Step-by-Step Guide to Creating SQL Hierarchical Queries | LinkedIn</A>
+                <DT><A HREF="https://mysqlserverteam.com/mysql-8-0-labs-recursive-common-table-expressions-in-mysql-ctes-part-three-hierarchies/" ADD_DATE="1552706824">MySQL 8.0 Labs: [Recursive] Common Table Expressions in MySQL (CTEs), Part Three – hierarchies | MySQL Server Blog</A>
+                <DT><A HREF="https://www.lakshminp.com/building-nested-hierarchy-json-relational-db" ADD_DATE="1552706825">Building a nested hierarchy of JSON in a relational DB | Lakshmi Narasimhan</A>
+                <DT><A HREF="https://stackoverflow.com/questions/25678509/postgres-recursive-query-with-row-to-json" ADD_DATE="1552706825">sql - Postgres recursive query with row_to_json - Stack Overflow</A>
+                <DT><A HREF="https://bender.io/2013/09/22/returning-hierarchical-data-in-a-single-sql-query/" ADD_DATE="1552706825">Returning Hierarchical Data in a Single SQL Query | The Gradual Steep | Andrew Bender</A>
+                <DT><A HREF="https://mysqlserverteam.com/mysql-8-0-1-recursive-common-table-expressions-in-mysql-ctes-part-four-depth-first-or-breadth-first-traversal-transitive-closure-cycle-avoidance/" ADD_DATE="1552706825">MySQL 8.0.1: [Recursive] Common Table Expressions in MySQL (CTEs), Part Four – depth-first or breadth-first traversal, transitive closure, cycle avoidance | MySQL Server Blog</A>
+                <DT><A HREF="http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/" ADD_DATE="1552706825">Managing Hierarchical Data in MySQL — Mike Hillyer&#39;s Personal Webspace</A>
+                <DT><A HREF="https://stackoverflow.com/questions/20215744/how-to-create-a-mysql-hierarchical-recursive-query" ADD_DATE="1552706825">sql - How to create a MySQL hierarchical recursive query - Stack Overflow</A>
+                <DT><A HREF="http://www.mysqltutorial.org/mysql-adjacency-list-tree/" ADD_DATE="1552706826">Managing Hierarchical Data in MySQL Using the Adjacency List Model</A>
+                <DT><A HREF="https://tapoueh.org/blog/2018/01/exporting-a-hierarchy-in-json-with-recursive-queries/" ADD_DATE="1552706826">Exporting a Hierarchy in JSON: with recursive queries</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706823">Database Design</H3>
+            <DL><p>
+                <DT><A HREF="http://www.sqlteam.com/article/database-design-and-modeling-fundamentals" ADD_DATE="1552706820">Database Design and Modeling Fundamentals - SQLTeam.com</A>
+                <DT><A HREF="http://www.dbforums.com/showthread.php?t=1617206" ADD_DATE="1552706821">Identifying versus non-identifying relationships - dBforums</A>
+                <DT><A HREF="http://www.mssqltips.com/tip.asp?tip=1151" ADD_DATE="1552706821">Identify all of your foreign keys in a SQL Server database</A>
+                <DT><A HREF="http://www.dmreview.com/cgi-bin/texis/scripts/dmreview-search/search.html?query=Identifying+&Search=Search" ADD_DATE="1552706822">Search Results</A>
+                <DT><A HREF="http://publib.boulder.ibm.com/infocenter/wchelp/v5r6m1/index.jsp?topic=/com.ibm.commerce.data.doc/refs/rdmlegend.htm" ADD_DATE="1552706822">Help - WebSphere Commerce version 5.6.1.4</A>
+                <DT><A HREF="http://www.teradata.com/t/page/132175/index.html" ADD_DATE="1552706823">Teradata Magazine | The logical data modeling &quot;rule book&quot;</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706821">SQL Server</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706831">Paging</H3>
+                <DL><p>
+                    <DT><A HREF="http://blog.sqlauthority.com/2013/04/14/sql-server-tricks-for-row-offset-and-paging-in-various-versions-of-sql-server/" ADD_DATE="1552706829">SQL SERVER – Tricks for Row Offset and Paging in Various Versions of SQL Server | Journey to SQL Authority with Pinal Dave</A>
+                    <DT><A HREF="http://www.mssqltips.com/sqlservertip/2696/comparing-performance-for-different-sql-server-paging-methods/" ADD_DATE="1552706829">Comparing performance for different SQL Server paging methods</A>
+                    <DT><A HREF="http://blog.sqlauthority.com/2010/12/16/sql-server-server-side-paging-in-sql-server-2011-performance-comparison/" ADD_DATE="1552706830">SQL SERVER – Server Side Paging in SQL Server Denali Performance Comparison | Journey to SQL Authority with Pinal Dave</A>
+                    <DT><A HREF="http://www.sqlusa.com/bestpractices/sequencesubset/" ADD_DATE="1552706830">SQL Sequence Number for Groups - ROW_NUMBER - SQLUSA</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/2244322/how-to-do-pagination-in-sql-server-2008" ADD_DATE="1552706831">how to do pagination in sql server 2008 - Stack Overflow</A>
+                    <DT><A HREF="http://www.codeproject.com/Articles/6936/Paging-of-Large-Resultsets-in-ASP-NET" ADD_DATE="1552706831">Paging of Large Resultsets in ASP.NET - CodeProject</A>
+                </DL><p>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706824">GUI WEB</H3>
+            <DL><p>
+                <DT><A HREF="http://sqlceexplorer.codeplex.com/" ADD_DATE="1552706821">sqlceexplorer - Home</A>
+                <DT><A HREF="http://doc.nuodb.com/display/doc/NuoDB+SQL+Explorer" ADD_DATE="1552706821">NuoDB SQL Explorer - nuodb online doc - Confluence</A>
+                <DT><A HREF="http://www.adminer.org/" ADD_DATE="1552706821">Adminer - Database management in a single PHP file</A>
+                <DT><A HREF="http://phpminiadmin.sourceforge.net/" ADD_DATE="1552706822">phpminiadmin - extremely lightweight alternative to heavy phpMyAdmin</A>
+                <DT><A HREF="http://www.chive-project.com/Screenshots" ADD_DATE="1552706822">Screenshots - Chive</A>
+                <DT><A HREF="http://blog.eye48.com/post/19733001874/web-based-mysql-administration-tools-in-php" ADD_DATE="1552706823">Web based MySQL administration tools in PHP — 48techblog</A>
+                <DT><A HREF="http://java-source.net/open-source/sql-clients" ADD_DATE="1552706823">Open Source SQL Clients in Java</A>
+                <DT><A HREF="http://www.jdbstudio.net/screenshots.html" ADD_DATE="1552706823">JDBStudio - Java SQL Database Browser For Admins</A>
+                <DT><A HREF="http://home.cogeco.ca/~ve3ll/jatutord.htm" ADD_DATE="1552706823">Java Tutorial 13 - Designing Swing GUIs</A>
+                <DT><A HREF="http://codegeekz.com/10-database-management-tools-for-developers/" ADD_DATE="1552706824">10 Database Management Tools for Developers | Code Geekz</A>
+                <DT><A HREF="http://www.gfi.com/blog/top-10-free-database-tools-for-sys-admins/" ADD_DATE="1552706824">Top 10 free database tools for sys admins</A>
+            </DL><p>
+        </DL><p>
+        <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706820">JavaScript</H3>
+        <DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706822">Bootstrap</H3>
+            <DL><p>
+                <DT><A HREF="http://www.w3resource.com/twitter-bootstrap/modals-tutorial.php" ADD_DATE="1552706821">Twitter Bootstrap Modals Tutorial</A>
+                <DT><A HREF="http://twitter.github.com/bootstrap/javascript.html#modals" ADD_DATE="1552706821">Javascript · Bootstrap</A>
+                <DT><A HREF="http://devgirl.org/2012/08/06/styling-your-app-with-twitter-bootstrap/" ADD_DATE="1552706821">Styling your App with Twitter Bootstrap | Devgirls Weblog</A>
+                <DT><A HREF="http://iviewsource.com/codingtutorials/getting-started-with-bootstrap/" ADD_DATE="1552706822">Getting Started and customizing Bootstrap for Responsive Design [with video] | View Source</A>
+                <DT><A HREF="http://alistapart.com/article/building-twitter-bootstrap" ADD_DATE="1552706822">Building Twitter Bootstrap · An A List Apart Article</A>
+                <DT><A HREF="http://vandelaydesign.com/blog/tools/13-resources-to-design-for-bootstrap/" ADD_DATE="1552706822">13 Resources to Design for Bootstrap | Vandelay Design Blog</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706829">Ajax</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706834">Collection Example Ajax</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.miniajax.com/" ADD_DATE="1552706829">MiniAjax.com / A showroom of nice looking simple downloadable DHTML and AJAX scripts</A>
+                    <DT><A HREF="http://www.ajaxdaddy.com/" ADD_DATE="1552706830">AjaxDaddy - Ajax Examples in Action</A>
+                    <DT><A HREF="http://www.thinkvitamin.com/features/ajax/go-forth-and-api" ADD_DATE="1552706830">Vitamin Features » Go forth and API</A>
+                    <DT><A HREF="http://jquery.com/plugins/" ADD_DATE="1552706830">Plugins | jQuery Plugins</A>
+                    <DT><A HREF="http://www.dhtmlgoodies.com/" ADD_DATE="1552706831">A library of DHTML and Ajax scripts - DHTMLgoodies.com</A>
+                    <DT><A HREF="http://www.dynamicdrive.com/" ADD_DATE="1552706831">Dynamic Drive DHTML(dynamic html) &amp; JavaScript code library</A>
+                    <DT><A HREF="http://www.ajaxcompilation.com/" ADD_DATE="1552706831">Ajax Compilation - because you ajax it</A>
+                    <DT><A HREF="http://www.ajaxlessons.com/" ADD_DATE="1552706831">Ajax Lessons</A>
+                    <DT><A HREF="http://www.ajaxbestiary.com/" ADD_DATE="1552706831">Ajax Bestiary » AJAX Development, News, Techniques &amp; More</A>
+                    <DT><A HREF="http://ajaxblog.com/" ADD_DATE="1552706832">Ajax Blog Ajax Tutorial Examples</A>
+                    <DT><A HREF="http://www.alistapart.com/" ADD_DATE="1552706832">A List Apart: A List Apart</A>
+                    <DT><A HREF="http://www.maxkiesler.com/index.php/weblog/comments/60_more_helpful_ajax_tutorials/" ADD_DATE="1552706832">60 More AJAX Tutorials by Max Kiesler</A>
+                    <DT><A HREF="http://www.gotapi.com/jquery" ADD_DATE="1552706832">gotAPI/jQuery - Instant search in jQuery and other developer documentation</A>
+                    <DT><A HREF="http://www.ajaxrain.com/" ADD_DATE="1552706833">1001 + Ajax/Javascript/Dhtml examples and demos to download</A>
+                    <DT><A HREF="http://www.noupe.com/" ADD_DATE="1552706833">Noupe</A>
+                    <DT><A HREF="http://hiddenpixels.com/designer-and-developer-resources/lightbox/" ADD_DATE="1552706833">Hidden Pixels - Lightbox and Clones</A>
+                    <DT><A HREF="http://scripteka.com/" ADD_DATE="1552706833">Scripteka :: Prototype extensions library</A>
+                    <DT><A HREF="http://www.smashingmagazine.com/2008/10/16/50-excellent-ajax-tutorials/" ADD_DATE="1552706833">50 Excellent AJAX Tutorials | Tutorials | Smashing Magazine</A>
+                    <DT><A HREF="http://www.noupe.com/javascript/most-wanted-ajax-techniques-50-ajax-examples-and-tutorials.html" ADD_DATE="1552706833">Most Wanted Ajax Techniques: 50+ Examples and Tutorials | Noupe</A>
+                    <DT><A HREF="http://www.tripwiremagazine.com/Tools/Developer-Toolbox/javascript-ajax-jquery-mega-toolbox.html" ADD_DATE="1552706833">120+ Javascript, Ajax, jQuery Mega Toolbox | tripwire magazine</A>
+                    <DT><A HREF="http://www.webresourcesdepot.com/category/goodies/file-folder/" ADD_DATE="1552706834">File &amp; Folder</A>
+                    <DT><A HREF="http://www.webappers.com/category/design/forms/page/3/" ADD_DATE="1552706834">Forms - Page 3 | Web Resources | WebAppers</A>
+                    <DT><A HREF="http://www.ajaxline.com/javascript/jquery" ADD_DATE="1552706834">jQuery | AjaxLine</A>
+                    <DT><A HREF="http://www.tripwiremagazine.com/tutorials/tools/95-exceptionally-useful-jquery-plugins-tutorials-and-cheat-sheets.html" ADD_DATE="1552706834">95+ Exceptionally Useful jQuery Plugins, Tutorials and Cheat Sheets | tripwire magazine</A>
+                    <DT><A HREF="http://www.1stwebdesigner.com/wordpress/35-stylish-and-modern-wordpress-plugins-using-jquery-ui/" ADD_DATE="1552706834">35 Stylish And Modern Wordpress Plugins Using jQuery UI | Graphic and Web Design Blog -Resources And Tutorials</A>
+                    <DT><A HREF="http://www.queness.com/" ADD_DATE="1552706834">Queness - Design Inspirations, jQuery Tutorials and Web Development Community</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706836">Prototype</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.sergiopereira.com/articles/prototype.js.html" ADD_DATE="1552706829">Using prototype.js v1.5.0</A>
+                    <DT><A HREF="http://api.rubyonrails.com/classes/ActionView/Helpers/JavaScriptHelper.html" ADD_DATE="1552706829">Module: ActionView::Helpers::JavaScriptHelper</A>
+                    <DT><A HREF="http://www.bennolan.com/behaviour/" ADD_DATE="1552706830">Behaviour : Using CSS selectors to apply Javascript behaviours</A>
+                    <DT><A HREF="http://prototype.conio.net/" ADD_DATE="1552706830">Prototype JavaScript Framework: Class-style OO, Ajax, and more</A>
+                    <DT><A HREF="http://www.sergiopereira.com/articles/advjs.html" ADD_DATE="1552706831">Quick guide to somewhat advanced JavaScript</A>
+                    <DT><A HREF="http://wiki.script.aculo.us/scriptaculous/show/Prototype" ADD_DATE="1552706831">Prototype in scriptaculous wiki</A>
+                    <DT><A HREF="http://wiki.script.aculo.us/scriptaculous/" ADD_DATE="1552706831">scriptaculous wiki</A>
+                    <DT><A HREF="http://wiki.script.aculo.us/scriptaculous/tags/Prototype" ADD_DATE="1552706831">Tag: Prototypein scriptaculous wiki</A>
+                    <DT><A HREF="http://particletree.com/features/quick-guide-to-prototype/" ADD_DATE="1552706832">Particletree » Quick Guide to Prototype</A>
+                    <DT><A HREF="http://prototypejs.org/" ADD_DATE="1552706832">Prototype Javascript Library easing the development of dynamic web applications</A>
+                    <DT><A HREF="http://prototypejs.org/learn/introduction-to-ajax" ADD_DATE="1552706832">Prototype Javascript Framework</A>
+                    <DT><A HREF="http://prototypejs.org/learn/extensions" ADD_DATE="1552706832">Prototype Javascript Framework</A>
+                    <DT><A HREF="http://prototypejs.org/api/utility#method-$w" ADD_DATE="1552706832">Prototype Javascript Framework</A>
+                    <DT><A HREF="http://del.icio.us/subzero/prototype" ADD_DATE="1552706833">subzero&#39;s bookmarks tagged with &quot;prototype&quot; on del.icio.us</A>
+                    <DT><A HREF="http://prototype-window.xilinus.com/" ADD_DATE="1552706833">Prototype Window Class : Introduction</A>
+                    <DT><A HREF="http://www.bartelme.at/journal/archive/prototype_reference_widget/" ADD_DATE="1552706833">Bartelme Design | Prototype Reference Widget</A>
+                    <DT><A HREF="http://beta.bigmedium.com/projects/prototype-pdf/" ADD_DATE="1552706833">Prototype 1.5 PDF: The Complete Documentation (Global Moxie)</A>
+                    <DT><A HREF="http://capxous.com/" ADD_DATE="1552706833">CAPXOUS AutoComplete, AJAX Suggestion Component, JavaScript AutoComplete Library, With PHP, Java, ColdFusion or .NET</A>
+                    <DT><A HREF="http://www.sergiopereira.com/articles/prototype.js.html" ADD_DATE="1552706833">Using prototype.js v1.4.0</A>
+                    <DT><A HREF="http://www.sitepoint.com/article/painless-javascript-prototype/" ADD_DATE="1552706834">Painless JavaScript Using Prototype [JavaScript &amp; AJAX Tutorials]</A>
+                    <DT><A HREF="http://wiki.script.aculo.us/scriptaculous/tags/stub" ADD_DATE="1552706834">Tag: stubin scriptaculous wiki</A>
+                    <DT><A HREF="http://wiki.script.aculo.us/scriptaculous/show/Build+your+own+Diaporama+whit+cool+scriptaculoius+effects" ADD_DATE="1552706834">Build your own Diaporama whit cool scriptaculoius effects in scriptaculous wiki</A>
+                    <DT><A HREF="http://blogs.ebusiness-apps.com/jordan/pages/Prototype%20Library%20Info.htm" ADD_DATE="1552706834">http://blogs.ebusiness-apps.com/jordan/pages/Prototype%20Library%20Info.htm</A>
+                    <DT><A HREF="http://24ways.org/2005/easy-ajax-with-prototype" ADD_DATE="1552706834">24 ways: Easy Ajax with Prototype</A>
+                    <DT><A HREF="http://blog.ilikeu2.nl/2005/09/10/livegrid-now-comes-with-xslt/" ADD_DATE="1552706834">Logicalley » Blog Archive » ProtoType LiveGrid now comes with XSLT</A>
+                    <DT><A HREF="http://tetlaw.id.au/view/javascript/really-easy-field-validation" ADD_DATE="1552706834">Really easy field validation * Dexagogo</A>
+                    <DT><A HREF="http://www.danwebb.net/2006/9/3/low-pro-unobtrusive-scripting-for-prototype" ADD_DATE="1552706834">danwebb.net - Low Pro: Unobtrusive Scripting For Prototype</A>
+                    <DT><A HREF="http://incorrecturl/" ADD_DATE="1552706834">Devjax</A>
+                    <DT><A HREF="http://unspace.ca/discover/attributes/" ADD_DATE="1552706834">Unspace - Attributes &gt; Classes: Custom DOM Attributes for Fun and Profit</A>
+                    <DT><A HREF="http://livepipe.net/projects/control_tabs/" ADD_DATE="1552706834">Control.Tabs : Projects : LivePipe™</A>
+                    <DT><A HREF="http://cwilliams.textdriven.com/articles/2006/09/19/prototype-based-tag-autocompletion#" ADD_DATE="1552706834">Prototype based Tag Autocompletion</A>
+                    <DT><A HREF="http://tobielangel.com/2007/3/11/a-fistful-of-dollars" ADD_DATE="1552706834">Tobie Langel - A Fistful of $$</A>
+                    <DT><A HREF="http://dev.zeraweb.com/cruiser-js" ADD_DATE="1552706834">ZeraWeb Development Site</A>
+                    <DT><A HREF="http://dev.zeraweb.com/behaviors" ADD_DATE="1552706835">ZeraWeb Development Site</A>
+                    <DT><A HREF="http://www.gregphoto.net/sortable/index.php" ADD_DATE="1552706835">Scriptaculous Lists with PHP</A>
+                    <DT><A HREF="http://livepipe.net/projects/event_behavior/" ADD_DATE="1552706835">Event.Behavior : Natural Language Event Programming for Prototype</A>
+                    <DT><A HREF="http://projects.danwebb.net/wiki/LowPro" ADD_DATE="1552706835">LowPro - danwebb.net Code Dump - Trac</A>
+                    <DT><A HREF="http://www.slash7.com/articles/2005/8/13/ajaxariffic-autocomplete-with-scriptaculous" ADD_DATE="1552706835">Slash7 with Amy Hoy - Ajaxariffic Autocomplete with Scriptaculous</A>
+                    <DT><A HREF="http://www.formar.se/prototype/doku.php?id=ajax:start" ADD_DATE="1552706835">ajax:start [Prototype Wiki]</A>
+                    <DT><A HREF="http://encytemedia.com/blog/articles/2005/12/07/prototype-meets-ruby-a-look-at-enumerable-array-and-hash" ADD_DATE="1552706835">Encytemedia— Prototype Meets Ruby: A Look at Enumerable, Array and Hash</A>
+                    <DT><A HREF="http://josephscott.org/code/js/eip/example.html" ADD_DATE="1552706835">AJAX Edit In Place (EIP) With Prototype</A>
+                    <DT><A HREF="http://www.defusion.org.uk/code/javascript-image-cropper-ui-using-prototype-scriptaculous/" ADD_DATE="1552706835">DEfusion.org.uk » JavaScript Image Cropper UI, using Prototype &amp; script.aculo.us</A>
+                    <DT><A HREF="http://www.aldenta.com/examples/script.aculo.us/index.html" ADD_DATE="1552706835">script.aculo.us Slider Demos and Example Code</A>
+                    <DT><A HREF="http://tobielangel.com/" ADD_DATE="1552706835">Tobie Langel - Home</A>
+                    <DT><A HREF="http://groups.google.com/group/prototype-core/browse_thread/thread/40e5815f5bc5fba9" ADD_DATE="1552706835">ProtoPacked v2.13 (Compressed Prototype+Scriptaculous = 32.5kb) - Prototype: Core | Google Groups</A>
+                    <DT><A HREF="http://aka-fotos.de/protoload/" ADD_DATE="1552706835">Protoload makes it easy to show the User what is going on.</A>
+                    <DT><A HREF="http://www.lalit.org/lab/jsoncookies/" ADD_DATE="1552706835">lalit dot lab -- JSON Cookies with Prototype.</A>
+                    <DT><A HREF="http://___.constantology.com/observe_method/" ADD_DATE="1552706835">___ | Event.observeMethod</A>
+                    <DT><A HREF="http://zend.lojcomm.com.br/fValidator/" ADD_DATE="1552706835">fValidator - An open source (free) unobtrusive javascript tool for easy handling form validation</A>
+                    <DT><A HREF="http://www.bram.us/projects/js_bramus/lazierload/" ADD_DATE="1552706835">Bram.us » lazierLoad - Javascript Image Lazy Loader for Prototype</A>
+                    <DT><A HREF="http://www.sitepoint.com/print/painless-javascript-prototype" ADD_DATE="1552706835">Painless JavaScript Using Prototype</A>
+                    <DT><A HREF="http://mislav.caboo.se/js/upgrading-to-prototype-1-6-real-world-examples/" ADD_DATE="1552706835">Upgrading to Prototype 1.6: real world examples</A>
+                    <DT><A HREF="http://pastie.caboo.se/109069" ADD_DATE="1552706835">#109069 - Pastie</A>
+                    <DT><A HREF="http://www.nickstakenburg.com/projects/prototip/" ADD_DATE="1552706835">Prototip - Tooltips for prototype</A>
+                    <DT><A HREF="http://tooltip.crtx.org/" ADD_DATE="1552706835">Tooltip.js - About</A>
+                    <DT><A HREF="http://thinkweb2.com/projects/prototype/?p=3" ADD_DATE="1552706835">perfection kills » Blog Archive » How well do you know prototype (part II)</A>
+                    <DT><A HREF="http://scal.fieldguidetoprogrammers.com/" ADD_DATE="1552706835">Scal v0.2 Documentation | Scal</A>
+                    <DT><A HREF="http://www.danwebb.net/2007/12/12/low-pro-0-5-now-compatible-with-prototype-1-6" ADD_DATE="1552706835">danwebb.net - Low Pro 0.5: Now Compatible With Prototype 1.6</A>
+                    <DT><A HREF="http://groups.google.com/group/prototype-core" ADD_DATE="1552706835">Prototype: Core | Google Groups</A>
+                    <DT><A HREF="http://www.nickstakenburg.com/projects/lightview/" ADD_DATE="1552706835">Lightview</A>
+                    <DT><A HREF="http://www.nickstakenburg.com/projects/starbox/" ADD_DATE="1552706835">Starbox - Rating stars for prototype</A>
+                    <DT><A HREF="http://www.prototype-ui.com/" ADD_DATE="1552706835">Prototype UI</A>
+                    <DT><A HREF="http://ajaxian.com/archives/auto-scrolling-page-navigation-with" ADD_DATE="1552706835">Ajaxian » Auto scrolling page navigation with $$</A>
+                    <DT><A HREF="http://ajaxorized.com/introducing-the-sliding-date-picker/" ADD_DATE="1552706835">Ajaxorized » Introducing: The sliding date-picker</A>
+                    <DT><A HREF="http://www.tetlaw.id.au/view/blog/fabtabulous-simple-tabs-using-prototype/" ADD_DATE="1552706835">Fabtabulous! Simple tabs using Prototype * Dexagogo</A>
+                    <DT><A HREF="http://mjijackson.com/shadowbox/#demos" ADD_DATE="1552706835">Shadowbox.js Media Viewer</A>
+                    <DT><A HREF="http://thinkweb2.com/projects/prototype/" ADD_DATE="1552706835">perfection kills</A>
+                    <DT><A HREF="http://mediumexposure.com/" ADD_DATE="1552706835">mx_&#39;s blog | Medium eXposure</A>
+                    <DT><A HREF="http://www.eternal.co.za/scripts/blender/index.html" ADD_DATE="1552706835">Widget.Blender - An image blending script</A>
+                    <DT><A HREF="http://www.ajaxbestiary.com/category/prototype/" ADD_DATE="1552706835">prototype » category » Ajax Bestiary</A>
+                    <DT><A HREF="http://blog.loajax.com/download" ADD_DATE="1552706835">LOAJAX » Download</A>
+                    <DT><A HREF="http://www.m3nt0r.de/blog/scriptaculous-offline-docs/" ADD_DATE="1552706835">Script.aculo.us - Offline Docs — [m] webdev:blog</A>
+                    <DT><A HREF="http://www.livevalidation.com/examples" ADD_DATE="1552706835">LiveValidation - Examples</A>
+                    <DT><A HREF="http://www.ryanjlowe.com/?p=9#" ADD_DATE="1552706835">Ryan J Lowe’s Dev Blog » Blog Archive » LITBox</A>
+                    <DT><A HREF="http://positionabsolute.net/blog/2007/04/ajax-cache.php" ADD_DATE="1552706835">Cache that Ajax : Ajax.Application.Cache : Position Absolute</A>
+                    <DT><A HREF="http://www.stickmanlabs.com/accordion/" ADD_DATE="1552706835">Accordion v2.0 Demo</A>
+                    <DT><A HREF="http://stickmanlabs.com/2007/01/22/crossfader-v01-documentation/" ADD_DATE="1552706835">Crossfader v0.1 Documentation</A>
+                    <DT><A HREF="http://www.ndoherty.com/blog/" ADD_DATE="1552706835">Niall Doherty » Blog</A>
+                    <DT><A HREF="http://mislav.caboo.se/" ADD_DATE="1552706835">No strings attached</A>
+                    <DT><A HREF="http://mislav.caboo.se/js/upgrading-to-prototype-1-6-real-world-examples/" ADD_DATE="1552706835">Upgrade to Prototype 1.6: real world examples</A>
+                    <DT><A HREF="http://www.garyharan.com/index.php/2007/11/26/how-to-unobtrusively-scroll-a-div-with-prototype-scriptaculous/" ADD_DATE="1552706835">Gary Haran.com » How To Unobtrusively Scroll A Div With Prototype &amp; Scriptaculous</A>
+                    <DT><A HREF="http://alternateidea.com/tags/prototype" ADD_DATE="1552706835">AlternateIdea: A self-proclaimed design ninja</A>
+                    <DT><A HREF="http://prototypejs.org/2008/2/12/deprecation-js-easing-the-1-5-1-6-transition" ADD_DATE="1552706835">Prototype JavaScript framework: Deprecation.js: easing the 1.5 → 1.6 transition</A>
+                    <DT><A HREF="http://www.coryhudson.com/" ADD_DATE="1552706835">CoryHudson.com</A>
+                    <DT><A HREF="http://solutoire.com/histman/" ADD_DATE="1552706835">Solutoire.com › HistMan</A>
+                    <DT><A HREF="http://snipersystems.co.nz/community/polarclock/tutorial.html" ADD_DATE="1552706836">http://snipersystems.co.nz/community/polarclock/tutorial.html</A>
+                    <DT><A HREF="http://blog.deensoft.com/2008/03/10/protoflow-first-preview-release/" ADD_DATE="1552706836">ProtoFlow first preview release… :: Deensoft</A>
+                    <DT><A HREF="http://www.protolific.net/" ADD_DATE="1552706836">Protolific</A>
+                    <DT><A HREF="http://blog.solnic.eu/2007/11/11/jquery-vs-prototype-part-i" ADD_DATE="1552706836">s0lnic on blog</A>
+                    <DT><A HREF="http://www.magichatdevelopment.com/content/blog/article.php?id=4" ADD_DATE="1552706836">Using Prototype to Load Javascript Files - Magic Hat Development</A>
+                    <DT><A HREF="http://www.drlongghost.com/validanguage.php" ADD_DATE="1552706836">Dr Long Ghost - Validanguage</A>
+                    <DT><A HREF="http://jonathan.tron.name/2006/07/21/working-on-forms-with-prototype" ADD_DATE="1552706836">Working on Forms with Prototype : Jonathan.inspect</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706835">Dojo</H3>
+                <DL><p>
+                    <DT><H3 ADD_DATE="1552706829" LAST_MODIFIED="1552706829">Tutorial</H3>
+                    <DL><p>
+                    </DL><p>
+                    <DT><A HREF="http://mastodon.dojotoolkit.org/~david/formBind/" ADD_DATE="1552706830">Dojo Automagic Form Binding</A>
+                    <DT><A HREF="http://blog.dojotoolkit.org/2006/01/19/degradable-ajax-forms-with-dojo" ADD_DATE="1552706830">dojo.foo » Degradable AJAX forms with Dojo</A>
+                    <DT><A HREF="http://trac.dojotoolkit.org/browser/branches" ADD_DATE="1552706830">/branches - dojo - Trac</A>
+                    <DT><A HREF="http://www.google.com.vn/search?hl=vi&q=dojo.io.FormBind+&btnG=T%C3%ACm+ki%E1%BA%BFm&meta=" ADD_DATE="1552706830">dojo.io.FormBind - Tìm với Google</A>
+                    <DT><A HREF="http://www.google.com.vn/search?hl=vi&q=doc+xml+dojo&btnG=T%C3%ACm+v%E1%BB%9Bi+Google&meta=" ADD_DATE="1552706831">doc xml dojo - Tìm với Google</A>
+                    <DT><A HREF="http://dojo.jot.com/WikiHome/Tutorials/HelloWorld" ADD_DATE="1552706831">HelloWorld - JotSpot Wiki (dojo)</A>
+                    <DT><A HREF="http://www.dev411.com/blog/2006/06/03/dojo-using-dojo-io-bind" ADD_DATE="1552706831">Dojo - Using dojo.io.bind - Dev411 Blog</A>
+                    <DT><A HREF="http://www.atrus.org/writings/technical/dojo_demo/" ADD_DATE="1552706832">Passing Data with Dojo</A>
+                    <DT><A HREF="http://archive.dojotoolkit.org/nightly/tests/io/test_ScriptSrcIO.html" ADD_DATE="1552706832">ScriptSrcIO Page</A>
+                    <DT><A HREF="http://archive.dojotoolkit.org/nightly/tests/io/test_BrowserIO.method.html" ADD_DATE="1552706832">Test dojo.io.bind()</A>
+                    <DT><A HREF="http://www.openajax.it/dojo-toolkit/manuale/io.html" ADD_DATE="1552706832">io.html — Open AJAX</A>
+                    <DT><A HREF="http://www.openajax.it/dojo-toolkit/introduzione-a-dojo-io-bind" ADD_DATE="1552706832">Introduzione a dojo.io.bind() — Open AJAX</A>
+                    <DT><A HREF="https://blueprints.dev.java.net/ajax-faq.html" ADD_DATE="1552706833">blueprints: AJAX FAQ for the Java Developer</A>
+                    <DT><A HREF="http://manual.dojotoolkit.org/WikiHome/DojoDotBook/Book58" ADD_DATE="1552706833">Defining And Extending Widgets with Multiple Renderers</A>
+                    <DT><A HREF="http://manual.dojotoolkit.org/WikiHome/DojoDotBook/Book30" ADD_DATE="1552706833">scriptScope</A>
+                    <DT><A HREF="http://dojo.jot.com/WidgetExamples" ADD_DATE="1552706833">WidgetExamples - JotSpot Wiki (dojo)</A>
+                    <DT><A HREF="http://manual.dojotoolkit.org/WikiHome/DojoDotBook/Book29" ADD_DATE="1552706833">Advanced ContentPane Usage</A>
+                    <DT><A HREF="http://dojotoolkit.org/api/#dojo.addDojoNamespaceMapping:Method" ADD_DATE="1552706833">Dojo API Reference</A>
+                    <DT><A HREF="http://developer.yahoo.com/yui/examples/dom/hasclass.html" ADD_DATE="1552706833">DOM Example: hasClass</A>
+                    <DT><A HREF="http://dojo.jot.com/EventExamples" ADD_DATE="1552706834">EventExamples - JotSpot Wiki (dojo)</A>
+                    <DT><A HREF="http://manual.dojotoolkit.org/WikiHome/DojoDotBook" ADD_DATE="1552706834">DojoDotBook - JotSpot Wiki (dojomanual)</A>
+                    <DT><A HREF="http://dojotoolkit.org/docs/" ADD_DATE="1552706834">The Dojo Toolkit: Documentation and Articles</A>
+                    <DT><A HREF="http://ajaxian.com/by/topic/dojo/" ADD_DATE="1552706834">Ajaxian » Dojo</A>
+                    <DT><A HREF="http://manual.dojotoolkit.org/index.html" ADD_DATE="1552706834">index.html - JotSpot Wiki (dojomanual)</A>
+                    <DT><A HREF="http://dojotoolkit.org/book/dojo-book-0-9/part-2-dijit-0" ADD_DATE="1552706834">Part 2: Dijit | The Dojo Toolkit</A>
+                    <DT><A HREF="http://dojotoolkit.org/book/dojo-porting-guide-0-4-x-0-9" ADD_DATE="1552706834">Dojo Porting Guide: 0.4.x to 0.9 | The Dojo Toolkit</A>
+                    <DT><A HREF="http://dojotoolkit.org/2008/01/06/dojo-moj-oe" ADD_DATE="1552706834">The dojo.moj.oe | The Dojo Toolkit</A>
+                    <DT><A HREF="http://tobias.klpstn.com/2008/02/15/dojo-rating-engine-with-dojogfx/" ADD_DATE="1552706834">KLPSTN » Dojo rating engine with dojo.gfx</A>
+                    <DT><A HREF="http://dojocampus.org/explorer/" ADD_DATE="1552706834">Dojo Campus - Feature Explorer</A>
+                    <DT><A HREF="http://alex.dojotoolkit.org/?p=663" ADD_DATE="1552706834">Continuing Intermittent Incoherency » Dojo 1.1: Some Awesome For You App</A>
+                    <DT><A HREF="http://www.sitepen.com/blog/" ADD_DATE="1552706834">Blog - SitePen, Inc.</A>
+                    <DT><A HREF="http://dojotoolkit.org/tags/custom-widget" ADD_DATE="1552706834">Custom Widget | The Dojo Toolkit</A>
+                    <DT><A HREF="https://dojotoolkit.org/documentation/#getting-started" ADD_DATE="1552706835">Dojo Tutorials - Dojo Toolkit</A>
+                    <DT><A HREF="http://davidwalsh.name/dojo-tutorials" ADD_DATE="1552706835">Dojo Tutorials</A>
+                    <DT><A HREF="http://tutorials4u.net/dojo-tutorial/dojo_tutorial_index.html" ADD_DATE="1552706835">Dojo, Ajax Dojo Tutorials, Online Dojo Tutorial, Dojo Examples</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706832">Yahoo</H3>
+                <DL><p>
+                    <DT><A HREF="http://developer.yahoo.com/yui/event/" ADD_DATE="1552706829">Yahoo! UI Library: Event</A>
+                    <DT><A HREF="http://developer.yahoo.com/javascript/#docs" ADD_DATE="1552706829">JavaScript Developer Center - Yahoo! Developer Network</A>
+                    <DT><A HREF="http://developer.yahoo.com/yui/examples/dragdrop/list.html?mode=dist" ADD_DATE="1552706830">Yahoo! UI Library - Drag and Drop</A>
+                    <DT><A HREF="http://developer.yahoo.com/yui/" ADD_DATE="1552706830">Yahoo! UI Library (YUI)</A>
+                    <DT><A HREF="http://developer.yahoo.com/yui/grids/" ADD_DATE="1552706830">Yahoo! UI Library: Grids CSS</A>
+                    <DT><A HREF="http://developer.yahoo.com/yui/examples/connection/get.html" ADD_DATE="1552706831">http://developer.yahoo.com/yui/examples/connection/get.html</A>
+                    <DT><A HREF="http://dedchain.dustindiaz.com/" ADD_DATE="1552706831">DED|Chain™ JavaScript Library</A>
+                    <DT><A HREF="http://extjs.com/" ADD_DATE="1552706831">Ext JS - JavaScript Library</A>
+                    <DT><A HREF="http://developer.yahoo.com/yslow/" ADD_DATE="1552706832">YSlow for Firebug</A>
+                    <DT><A HREF="http://developer.yahoo.com/yui/grids/builder/" ADD_DATE="1552706832">YUI: CSS Grid Builder</A>
+                    <DT><A HREF="http://www.julienlecomte.net/blog/" ADD_DATE="1552706832">Julien Lecomte’s Blog</A>
+                    <DT><A HREF="http://icant.co.uk/sandbox/stepbystep/" ADD_DATE="1552706832">Step by Step - Show and explain visitors what your page has for them</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706829">Rico</H3>
+                <DL><p>
+                    <DT><A HREF="http://openrico.org/" ADD_DATE="1552706829">Rico</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706823" LAST_MODIFIED="1552706836">jQuery</H3>
+                <DL><p>
+                    <DT><H3 ADD_DATE="1552706829" LAST_MODIFIED="1552706838">Ajax</H3>
+                    <DL><p>
+                        <DT><H3 ADD_DATE="1552706836" LAST_MODIFIED="1552706838">Data form</H3>
+                        <DL><p>
+                            <DT><A HREF="http://kyleschaeffer.com/development/the-perfect-jquery-ajax-request/" ADD_DATE="1552706838">The Perfect jQuery AJAX Request | Kyle Schaeffer</A>
+                            <DT><A HREF="http://stackoverflow.com/questions/1061884/asp-net-jquery-ajax-data-param-problem" ADD_DATE="1552706838">ASP.NET: jQuery AJAX &#39;data&#39; param problem - Stack Overflow</A>
+                            <DT><A HREF="http://stackoverflow.com/questions/6085649/ajax-multiple-data" ADD_DATE="1552706838">jquery - AJAX - multiple data - Stack Overflow</A>
+                            <DT><A HREF="http://www.mindfiresolutions.com/Using-jQuery-AJAX-Calls-to-send-parameters-securely-1235.php" ADD_DATE="1552706838">Using jQuery AJAX Calls to send parameters securely</A>
+                            <DT><A HREF="http://api.jquery.com/jQuery.post/" ADD_DATE="1552706838">jQuery.post() | jQuery API Documentation</A>
+                            <DT><A HREF="http://www.codeproject.com/Articles/529983/Sending-js-Array-object-in-jQuery-AJAX-post" ADD_DATE="1552706838">Sending js Array object in jQuery AJAX post - CodeProject</A>
+                        </DL><p>
+                        <DT><A HREF="http://www.jquery4u.com/function-demos/ajax/" ADD_DATE="1552706836">jQuery Ajax Function Example | jQuery4u</A>
+                        <DT><A HREF="http://net.tutsplus.com/tutorials/javascript-ajax/5-ways-to-make-ajax-calls-with-jquery/" ADD_DATE="1552706836">5 Ways to Make Ajax Calls with jQuery | Nettuts+</A>
+                        <DT><A HREF="http://viralpatel.net/blogs/jquery-ajax-tutorial-example-ajax-jquery-development/" ADD_DATE="1552706836">jQuery AJAX Tutorial, Example: Simplify Ajax development with jQuery</A>
+                        <DT><A HREF="http://www.bennadel.com/resources/presentations/jquery/demo21/index.htm" ADD_DATE="1552706836">$.ajax() jQuery AJAX Demo</A>
+                        <DT><A HREF="http://www.php4every1.com/tutorials/jquery-ajax-tutorial/" ADD_DATE="1552706836">jQuery AJAX tutorial | PHP for everyone</A>
+                        <DT><A HREF="http://www.tutorialspoint.com/jquery/jquery-ajax.htm" ADD_DATE="1552706836">jQuery - AJAX</A>
+                        <DT><A HREF="http://trevordavis.net/blog/ajax-forms-with-jquery" ADD_DATE="1552706837">Ajax Forms with jQuery | Trevor Davis | Front-End Developer @ Viget</A>
+                        <DT><A HREF="http://tutorialzine.com/2009/09/simple-ajax-website-jquery/" ADD_DATE="1552706837">A simple AJAX website with jQuery | Tutorialzine</A>
+                        <DT><A HREF="http://webdesignerwall.com/tutorials/jquery-tutorials-for-designers" ADD_DATE="1552706837">jQuery Tutorials for Designers</A>
+                        <DT><A HREF="http://developers-blog.org/blog/default/2012/01/19/jQuery-Ajax" ADD_DATE="1552706837">jQuery Ajax Tutorial and Examples</A>
+                        <DT><A HREF="http://www.codeproject.com/Articles/382390/An-Example-to-Use-jQuery-Global-AJAX-Event-Handler" ADD_DATE="1552706837">An Example to Use jQuery Global AJAX Event Handlers - CodeProject</A>
+                        <DT><A HREF="http://openenergymonitor.org/emon/node/107" ADD_DATE="1552706837">Using JQuery AJAX and php to fetch data from a mysql database | OpenEnergyMonitor</A>
+                        <DT><A HREF="http://www.jensbits.com/2009/10/04/jquery-ajax-and-jquery-post-form-submit-examples-with-php/" ADD_DATE="1552706837">jQuery.ajax and jQuery.post Form Submit Examples with PHP | jensbits</A>
+                        <DT><A HREF="http://www.jqueryphp.com/jquery-ajax-example-demo/2010/02/" ADD_DATE="1552706837">jQuery and PHP examples » jQuery Ajax example demo</A>
+                        <DT><A HREF="http://www.mightywebdeveloper.com/coding/bootstrap-2-tabs-jquery-load-content/" ADD_DATE="1552706837">Bootstrap 2.0 Tabs JQuery Ajax Example « Mighty Webdeveloper</A>
+                        <DT><A HREF="http://jquerybyexample.blogspot.com/2012/04/read-and-process-xml-using-jquery-ajax.html" ADD_DATE="1552706837">Read and Process XML using jQuery Ajax | jQuery By Example</A>
+                        <DT><A HREF="http://www.jquery-tutorial.net/ajax/aborting-an-ajax-request/" ADD_DATE="1552706837">Aborting an AJAX request - The complete jQuery tutorial</A>
+                        <DT><A HREF="http://tutorials.jenkov.com/jquery/ajax.html" ADD_DATE="1552706837">JQuery &amp; AJAX</A>
+                        <DT><A HREF="http://marakana.com/bookshelf/jquery_tutorial/ajax.html" ADD_DATE="1552706837">Jquery Tutorial : Ajax - Marakana</A>
+                        <DT><A HREF="http://www.ajaxshake.com/" ADD_DATE="1552706837">jQuery Examples, Ajax, Mootools Examples, Prototype Examples - Free Javascript html Code | AjaxShake.com | Page-1</A>
+                        <DT><A HREF="http://www.jquery4u.com/snippets/jquery-strip-html-tags-div/#.UGPFhq7mfGg" ADD_DATE="1552706838">jQuery Strip All HTML Tags From a Div | jQuery4u</A>
+                        <DT><A HREF="http://api.jquery.com/jQuery.ajax/" ADD_DATE="1552706838">jQuery.ajax() – jQuery API</A>
+                        <DT><A HREF="http://www.phpeveryday.com/articles/jQuery-AJAX-and-XML-P970.html" ADD_DATE="1552706838">jQuery: AJAX and XML Step By Step Tutorial - PHPEveryDay</A>
+                        <DT><A HREF="http://enterprisejquery.com/2010/09/creating-an-ajax-component-handling-errors-and-loading-notifications-with-publish-and-subscribe/" ADD_DATE="1552706838">Creating an Ajax Component:Handling Errors and Loading Notifications with Publish and Subscribe | Enterprise jQuery</A>
+                        <DT><A HREF="http://www.bennadel.com/blog/1392-Handling-AJAX-Errors-With-jQuery.htm" ADD_DATE="1552706838">Handling AJAX Errors With jQuery</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706830" LAST_MODIFIED="1552706838">Modal</H3>
+                    <DL><p>
+                        <DT><H3 ADD_DATE="1552706836" LAST_MODIFIED="1552706838">Modal Form</H3>
+                        <DL><p>
+                            <DT><A HREF="http://justinribeiro.com/chronicle/2009/10/02/jquery-ui-modal-form-with-validation-and-form-plugin-integration/" ADD_DATE="1552706838">Justin Ribeiro - jQuery UI modal form with Validation and Form plugin integration</A>
+                            <DT><A HREF="http://jenniferperrin.com/blog/jquery-tutorial-popup-modal-contact-form/" ADD_DATE="1552706838">jQuery Tutorial: Popup Modal Contact Form | Jennifer Perrin</A>
+                            <DT><A HREF="http://www.jensbits.com/2009/08/10/modal-confirmation-dialog-on-form-submit-javascript-jquery-ui-and-thickbox-varieties/" ADD_DATE="1552706838">Modal Confirmation Dialog on Form Submit: Javascript, jQuery UI, and Thickbox Varieties | jensbits</A>
+                            <DT><A HREF="http://net.tutsplus.com/tutorials/javascript-ajax/progressively-enhance-a-form-link-to-modal-form/" ADD_DATE="1552706838">Progressively Enhance a Form to a Modal Form | Nettuts+</A>
+                            <DT><A HREF="http://evolpin.wordpress.com/2011/02/15/first-attempt-with-jquery-ui/" ADD_DATE="1552706838">First attempt with jQuery UI | I Came, I Learned, I Blogged</A>
+                            <DT><A HREF="http://bloggemdano.blogspot.com/2011/07/jquery-ui-examples-in-coffeescript.html" ADD_DATE="1552706838">Random Ravings of a Red Headed Code Monkey: jQuery UI Examples in CoffeeScript</A>
+                            <DT><A HREF="http://imperavi.com/redactor/examples/uidialog/" ADD_DATE="1552706838">jQuery UI Dialog Example</A>
+                            <DT><A HREF="http://www.robertmullaney.com/2011/08/26/submit-ajax-form-jquery-ui-dialog-enter-key/" ADD_DATE="1552706838">Submit ajax form in jQuery-UI Dialog with Enter Key | Robert Mullaney&#39;s Blog</A>
+                            <DT><A HREF="http://8raystech.com/2011/06/28/how-to-dynamic-content-in-a-jquery-ui-dialog-by-loading-a-url-via-ajax" ADD_DATE="1552706838">8Rays Tech | Blog | How to load dynamic content in a jQuery UI dialog via AJAX</A>
+                            <DT><A HREF="http://www.experts-exchange.com/Programming/Languages/Scripting/JavaScript/Jquery/A_2099-jQuery-AJAX-Enabled-Forms-in-Modal-Dialog.html" ADD_DATE="1552706838">jQuery AJAX-Enabled Forms in Modal Dialog: jquery, ui, dialog</A>
+                            <DT><A HREF="http://www.aspmemo.net/2012/07/how-to-show-modal-dialog-box-with.html" ADD_DATE="1552706838">Free ASP.NET Source Code &amp; Tutorial: How to show Modal Dialog Box with JQueryUI API in Asp.net Web Form</A>
+                            <DT><A HREF="http://webmisterradixlecti.blogspot.com/2013/04/aspnet-postback-in-jquery-ui-modal.html" ADD_DATE="1552706838">Carl Bartlett | Lost in the Stack Trace: ASP.NET Postback in jQuery UI Modal Dialog</A>
+                            <DT><A HREF="http://deseloper.org/read/2008/04/a-simple-modal/" ADD_DATE="1552706838">Simple Modal Window Example built on jQuery | Tom Lauck&#39;s Deseloper.org</A>
+                            <DT><A HREF="http://www.iwantmymvc.com/dialog-form-with-jqueryui-and-mvc-3" ADD_DATE="1552706838">Build a dialog form using jQuery UI in MVC 3 - I Want My MVC</A>
+                            <DT><A HREF="http://jqalert.com/" ADD_DATE="1552706838">jqAlert - javascript alerts for use with jQuery UI</A>
+                            <DT><A HREF="http://stackoverflow.com/questions/8079674/jquery-ui-alert-dialog-as-a-replacement-for-alert" ADD_DATE="1552706838">jQuery UI Alert Dialog as a replacement for alert() - Stack Overflow</A>
+                            <DT><A HREF="http://www.codeproject.com/Articles/511853/More-jQuery-UI-Alerts-Dialog-Using-ThemeRollers" ADD_DATE="1552706838">More jQuery UI Alerts Dialog Using ThemeRollers - CodeProject</A>
+                            <DT><A HREF="http://www.codeproject.com/Articles/295236/jQuery-UI-Alerts-Dialog-using-ThemeRollers" ADD_DATE="1552706838">jQuery UI Alerts Dialog using ThemeRollers - CodeProject</A>
+                            <DT><A HREF="http://coding.abel.nu/2012/01/jquery-ui-replacement-for-alert/" ADD_DATE="1552706838">jQuery UI Replacement for alert() | Passion for Coding</A>
+                            <DT><A HREF="http://dochoffiday.com/Professional/jalert-a-jquery-ui-alert-confirm-replacement" ADD_DATE="1552706838">jAlert - a jQuery UI Alert / Confirm Replacement</A>
+                            <DT><A HREF="http://andrewensley.com/2012/07/override-alert-with-jquery-ui-dialog/" ADD_DATE="1552706838">Override alert() With jQuery UI Dialog - AndrewEnsley.com</A>
+                            <DT><A HREF="http://kylefox.ca/jquery-modal/examples/index.html" ADD_DATE="1552706838">jQuery Modal</A>
+                        </DL><p>
+                        <DT><A HREF="http://trentrichardson.com/Impromptu/index.php" ADD_DATE="1552706836">jQuery Impromptu</A>
+                        <DT><A HREF="http://malsup.com/jquery/block/#demos" ADD_DATE="1552706836">jQuery BlockUI Plugin (v2)</A>
+                        <DT><A HREF="http://www.ericmmartin.com/projects/simplemodal/#options" ADD_DATE="1552706836">SimpleModal / Eric Martin / ericmmartin.com</A>
+                        <DT><A HREF="http://www.bitrepository.com/exit-modal-box.html" ADD_DATE="1552706836">Exit Modal Box | Powered by jQuery</A>
+                        <DT><A HREF="http://www.jacklmoore.com/colorbox" ADD_DATE="1552706836">ColorBox</A>
+                        <DT><A HREF="http://www.shadowbox-js.com/index.html" ADD_DATE="1552706836">Shadowbox.js</A>
+                        <DT><A HREF="http://leandrovieira.com/projects/jquery/lightbox/" ADD_DATE="1552706837">jQuery lightBox plugin</A>
+                        <DT><A HREF="http://nyromodal.nyrodev.com/#" ADD_DATE="1552706837">nyroModal v2 :: jQuery Plugin</A>
+                        <DT><A HREF="http://fancybox.net/" ADD_DATE="1552706837">Fancybox - Fancy jQuery lightbox alternative</A>
+                        <DT><A HREF="http://www.designyourway.net/blog/resources/55-jquery-form-plugins-to-download-and-use/" ADD_DATE="1552706837">55 jQuery Form Plugins To Download And Use</A>
+                        <DT><A HREF="http://tutorialzine.com/2009/10/cool-login-system-php-jquery/" ADD_DATE="1552706837">Making A Cool Login System With PHP, MySQL &amp; jQuery | Tutorialzine</A>
+                        <DT><A HREF="http://www.jquery4u.com/windows/14-jquery-modal-dialog-boxes/#.UGvhJa7mfGg" ADD_DATE="1552706837">14 jQuery Modal Dialog Boxes | jQuery4u</A>
+                        <DT><A HREF="http://www.webappers.com/2011/07/08/a-simple-lightweight-modal-windows-jquery-plugin/" ADD_DATE="1552706837">A Simple Lightweight Modal Windows jQuery Plugin | Web Resources | WebAppers</A>
+                        <DT><A HREF="http://speckyboy.com/2011/03/16/30-fantastic-new-jquery-plugins/" ADD_DATE="1552706837">30 Fantastic New jQuery Plugins - Speckyboy Design Magazine</A>
+                        <DT><A HREF="http://www.freshdesignweb.com/35-useful-jquery-javascript-popup-window-dialog-box.html" ADD_DATE="1552706837">35 Useful jQuery/JavaScript Popup Window Dialog Box</A>
+                        <DT><A HREF="http://www.jquery4u.com/page-layout/12-jquery-mobile-layout-plugins-examples/#.UGwYQK6qbGg" ADD_DATE="1552706837">12+ jQuery Mobile Layout Plugins and Examples | jQuery4u</A>
+                        <DT><A HREF="http://jquerytools.org/demos/overlay/modal-dialog.html" ADD_DATE="1552706837">Creating modal dialogs with overlay</A>
+                        <DT><A HREF="http://www.designlabelblog.com/2009/03/20-ways-to-create-javascript-modal.html" ADD_DATE="1552706837">20+ ways to create javascript modal windows and dialog boxes | Designlabel</A>
+                        <DT><A HREF="http://sandbox.scriptiny.com/tinybox2/" ADD_DATE="1552706837">TinyBox 2 - javascript modal windows</A>
+                        <DT><A HREF="http://raventools.com/blog/create-a-modal-dialog-using-css-and-javascript/" ADD_DATE="1552706837">Create a Modal Dialog Using CSS and Javascript - Raven Internet Marketing Tools</A>
+                        <DT><A HREF="http://www.wittysparks.com/2008/10/28/top-8-modal-dialogs-javascript/" ADD_DATE="1552706838">Top 8 modal dialogs javascript | Witty Sparks</A>
+                        <DT><A HREF="http://davidwalsh.name/facebook-lightbox" ADD_DATE="1552706838">LightFace: Facebook Lightbox for MooTools</A>
+                        <DT><A HREF="http://www.webgurusdesignblog.com/2009/02/10-best-modal-boxes-for-web-design-projects/" ADD_DATE="1552706838">10 best modal boxes for web design projects | WebGurus Design Blog</A>
+                        <DT><A HREF="http://fancyapps.com/fancybox/" ADD_DATE="1552706838">fancyBox - Fancy jQuery Lightbox Alternative</A>
+                        <DT><A HREF="http://www.electrictoolbox.com/jquery-facebox-open-programatically/" ADD_DATE="1552706838">Open a jQuery Facebox dialog programatically</A>
+                        <DT><A HREF="http://www.1stwebdesigner.com/freebies/ajax-lightbox-modal-dialog-solutions/" ADD_DATE="1552706838">30 Awesome Ajax Lightbox and Modal Dialog Solutions</A>
+                        <DT><A HREF="http://smashingspy.com/32-best-jquery-popup-window-dialog-box-example/" ADD_DATE="1552706838">32 Best jQuery Popup Window Dialog Box Example | Smashing Spy</A>
+                        <DT><A HREF="http://onehackoranother.com/projects/jquery/boxy/" ADD_DATE="1552706838">boxy</A>
+                        <DT><A HREF="http://www.zurb.com/playground/reveal-modal-plugin" ADD_DATE="1552706838">Reveal: jQuery Modal Plugin from ZURB - ZURB Playground - ZURB.com</A>
+                        <DT><A HREF="http://leanmodal.finelysliced.com.au/#" ADD_DATE="1552706838">leanModal - a JQuery modal plugin that works with your CSS</A>
+                        <DT><A HREF="http://www.alessioatzeni.com/blog/login-box-modal-dialog-window-with-css-and-jquery/" ADD_DATE="1552706838">Login Box Modal Dialog Window with CSS and jQuery | Blog of Alessio Atzeni | Web Design Tutorials and Front-end Development Blog by Alessio Atzeni</A>
+                        <DT><A HREF="http://buckwilson.me/lightboxme/#" ADD_DATE="1552706838">Lightbox_me - Stupidly Simple Lightboxing - The jQuery lightbox plugin for people who know what they&#39;re doing.</A>
+                        <DT><A HREF="http://jaspreetchahal.org/jquery-modal-window-facebook-style/" ADD_DATE="1552706838">jQuery modal window facebook style | Jaspreet Chahal&#39;s Blog</A>
+                        <DT><A HREF="http://choosedaily.com/1178/15-jquery-popup-modal-dialog-plugins-tutorials/" ADD_DATE="1552706838">15+ jQuery Popup Modal Dialog Plugins and Tutorials</A>
+                        <DT><A HREF="http://www.bitrepository.com/ajax-login-modal-box.html" ADD_DATE="1552706838">AJAX Login Form inside a Modal Box | Powered by JQuery</A>
+                        <DT><A HREF="http://web.enavu.com/tutorials/top-10-jquery-modal-box-plugins/" ADD_DATE="1552706838">Top 10 jQuery Modal Box Plugins | web enavu</A>
+                        <DT><A HREF="http://www.jquery4u.com/windows/14-jquery-modal-dialog-boxes/" ADD_DATE="1552706838">14 jQuery Modal Dialog Boxes | jQuery4u</A>
+                        <DT><A HREF="http://labs.voronianski.com/jquery.avgrund.js/" ADD_DATE="1552706838">jQuery plugin for Avgrund concept popin</A>
+                        <DT><A HREF="http://www.codeproject.com/Articles/488312/jQuery-Modal-Dialog-with-Dynamic-Content" ADD_DATE="1552706838">jQuery Modal Dialog with Dynamic Content - CodeProject</A>
+                        <DT><A HREF="http://www.designresourcebox.com/a-collection-of-useful-jquery-modal-dialog-boxes-31-plugins/" ADD_DATE="1552706838">A Collection Of Useful jQuery Modal Dialog Boxes - 31 Plugins</A>
+                        <DT><A HREF="http://needim.github.com/noty/" ADD_DATE="1552706838">noty - A jQuery Notification Plugin</A>
+                        <DT><A HREF="http://kylefox.ca/jquery-modal/examples/?" ADD_DATE="1552706838">jQuery Modal</A>
+                        <DT><A HREF="http://dev.iceburg.net/jquery/jqModal/#examples" ADD_DATE="1552706838">jqModal :: Minimalistic Modaling for jQuery</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706830" LAST_MODIFIED="1552706837">Selectbox</H3>
+                    <DL><p>
+                        <DT><A HREF="http://hungred.com/how-to/tutorial-jquery-select-box-manipulation-plugin/" ADD_DATE="1552706836">Tutorial: jQuery Select Box Manipulation Without Plugin - Hungred Dot Com</A>
+                        <DT><A HREF="http://ivaynberg.github.com/select2/#basics" ADD_DATE="1552706836">Select2 3.2</A>
+                        <DT><A HREF="http://www.ajaxupdates.com/jquery-select-box/" ADD_DATE="1552706836">jQuery Select Box</A>
+                        <DT><A HREF="http://www.electrictoolbox.com/jquery-add-option-select-jquery/" ADD_DATE="1552706836">Add a new option to a select with jQuery</A>
+                        <DT><A HREF="http://www.bulgaria-web-developers.com/projects/javascript/selectbox/" ADD_DATE="1552706836">jQuery SelectBox plugin</A>
+                        <DT><A HREF="http://labs.abeautifulsite.net/jquery-selectBox/" ADD_DATE="1552706836">jQuery selectBox (select replacement plugin)</A>
+                        <DT><A HREF="http://www.jquery4u.com/plugins/10-jquery-selectboxdrop-down-plugins/" ADD_DATE="1552706836">10+ jQuery Selectbox/Drop-down Plugins | jQuery4u</A>
+                        <DT><A HREF="http://www.onextrapixel.com/2012/06/20/create-a-custom-select-box-with-jquery/" ADD_DATE="1552706837">Create a Custom Select Box with jQuery</A>
+                        <DT><A HREF="http://info.wsisiz.edu.pl/~suszynsk/jQuery/demos/jquery-selectbox/" ADD_DATE="1552706837">jQuery custom selectboxes</A>
+                        <DT><A HREF="http://www.stoimen.com/blog/2010/06/22/jquery-get-the-selected-option-text/" ADD_DATE="1552706837">jQuery: Get the Selected Option Text</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706830" LAST_MODIFIED="1552706836">Selector</H3>
+                    <DL><p>
+                        <DT><A HREF="http://www.electrictoolbox.com/jquery-get-set-form-values/" ADD_DATE="1552706836">How to get and set form element values with jQuery</A>
+                        <DT><A HREF="http://www.electrictoolbox.com/jquery-get-set-form-values/demos/" ADD_DATE="1552706836">Demos for getting and setting form values with jQuery</A>
+                        <DT><A HREF="http://www.electrictoolbox.com/jquery-clear-form/" ADD_DATE="1552706836">Clear a form with jQuery</A>
+                        <DT><A HREF="http://www.pengoworks.com/workshop/jquery/field/field.plugin.htm" ADD_DATE="1552706836">jQuery Field Plug-in</A>
+                        <DT><A HREF="http://api.jquery.com/category/selectors/" ADD_DATE="1552706836">Selectors – jQuery API</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706831" LAST_MODIFIED="1552706838">Form</H3>
+                    <DL><p>
+                        <DT><A HREF="http://www.izwebz.com/css/contact-form-voi-jquery-ajax-php/" ADD_DATE="1552706836">Contact Form với Jquery AJAX + PHP | Học thiết kế web theo chuẩn.</A>
+                        <DT><A HREF="http://www.izwebz.com/css/jquery-ajax-supper-form-php-mysql/" ADD_DATE="1552706836">Jquery AJAX Supper Form + PHP &amp; MYSQL | Học thiết kế web theo chuẩn.</A>
+                        <DT><A HREF="http://be.twixt.us/jquery/formSubmission.php" ADD_DATE="1552706836">jQuery ajaxSubmit()</A>
+                        <DT><A HREF="http://www.malsup.com/jquery/form/#ajaxForm" ADD_DATE="1552706836">jQuery Form Plugin</A>
+                        <DT><A HREF="http://www.queness.com/post/160/create-a-ajax-based-form-submission-with-jquery" ADD_DATE="1552706836">Create a Ajax based Form Submission with jQuery | Queness</A>
+                        <DT><A HREF="http://www.noupe.com/css/47-excellent-ajax-css-forms.html" ADD_DATE="1552706836">47+ Excellent Ajax CSS Forms - noupe</A>
+                        <DT><A HREF="http://www.innovativephp.com/jquery-form-validation-practical-examples/" ADD_DATE="1552706836">Mastering Jquery Form Validation Using Practical Examples</A>
+                        <DT><A HREF="http://www.designchemical.com/blog/index.php/jquery/create-your-own-jquery-ajax-form-submit-with-validation/" ADD_DATE="1552706837">Create Your Own jQuery AJAX Form Submit With Validation « Design Chemical – jQuery, Wordpress, Tutorials &amp; Plugins</A>
+                        <DT><A HREF="http://net.tutsplus.com/tutorials/javascript-ajax/submit-a-form-without-page-refresh-using-jquery/" ADD_DATE="1552706837">Submit A Form Without Page Refresh using jQuery | Nettuts+</A>
+                        <DT><A HREF="http://designmodo.com/jquery-form-validation/" ADD_DATE="1552706837">12 Useful jQuery Form Validation - Techniques and Tutorials - Designmodo</A>
+                        <DT><A HREF="http://www.nomensa.com/blog/2010/accessible-forms-using-the-jquery-validation-plug-in/" ADD_DATE="1552706837">Accessible forms using jQuery’s Validation plug-in – Humanising Technology Blog</A>
+                        <DT><A HREF="http://wecode.hubpages.com/hub/JQuery-Client-side-Validation-for-Text-inputs" ADD_DATE="1552706837">JQuery Client-side Validation for Text inputs</A>
+                        <DT><A HREF="http://www.position-absolute.com/articles/jquery-form-validator-because-form-validation-is-a-mess/" ADD_DATE="1552706837">A jQuery inline form validation, because validation is a mess « Position Absolute</A>
+                        <DT><A HREF="http://coursesweb.net/jquery/validate-submit-form" ADD_DATE="1552706837">Validate and Submit Form</A>
+                        <DT><A HREF="http://www.codeproject.com/Articles/213138/An-Example-to-Use-jQuery-Validation-Plugin" ADD_DATE="1552706837">An Example of Using the jQuery Validation Plug-in - CodeProject</A>
+                        <DT><A HREF="http://bassistance.de/jquery-plugins/jquery-plugin-validation/" ADD_DATE="1552706837">bassistance.de » jQuery plugin: Validation</A>
+                        <DT><A HREF="http://speckyboy.com/2009/12/17/10-useful-jquery-form-validation-techniques-and-tutorials-2/" ADD_DATE="1552706837">10 Useful jQuery Form Validation Techniques and Tutorials - Speckyboy Design Magazine</A>
+                        <DT><A HREF="http://www.raymondcamden.com/index.cfm/2012/7/30/Example-of-form-validation-in-a-jQuery-Mobile-Application" ADD_DATE="1552706837">Example of form validation in a jQuery Mobile Application</A>
+                        <DT><A HREF="http://www.jquery4u.com/plugins/10-jquery-form-validation-plugins/" ADD_DATE="1552706837">10 jQuery Form Validation Plugins | jQuery4u</A>
+                        <DT><A HREF="http://www.jquery4u.com/forms/30-jquery-forms/" ADD_DATE="1552706837">jQuery Forms &gt; 30 Examples and Plugins | jQuery4u</A>
+                        <DT><A HREF="http://uxdesign.smashingmagazine.com/2012/06/27/form-field-validation-errors-only-approach/" ADD_DATE="1552706837">Form-Field Validation: The Errors-Only Approach | Smashing UX Design</A>
+                        <DT><A HREF="http://validval.frebsite.nl/options.php" ADD_DATE="1552706838">Options - jQuery.validVal</A>
+                        <DT><A HREF="http://www.position-relative.net/creation/formValidator/demos/demoValidators.html" ADD_DATE="1552706838">JQuery Validation Engine</A>
+                        <DT><A HREF="http://coww.ws/jqmtest/#form1.cfm" ADD_DATE="1552706838">JQM</A>
+                        <DT><A HREF="http://www.jquery4u.com/forms/basic-jquery-form-validation-tutorial/" ADD_DATE="1552706838">Basic jQuery Form Validation Example (2mins) | jQuery4u</A>
+                        <DT><A HREF="http://www.codeproject.com/Articles/409611/jQuery-Validation-Styles" ADD_DATE="1552706838">jQuery Validation Styles - CodeProject</A>
+                        <DT><A HREF="http://designm.ag/resources/jquery-form-plugins/" ADD_DATE="1552706838">25 jQuery Plugins for Working with Forms - DesignM.ag</A>
+                        <DT><A HREF="http://www.jformer.com/" ADD_DATE="1552706838">jQuery Form Framework - jFormer</A>
+                        <DT><A HREF="http://digitalbush.com/projects/masked-input-plugin/" ADD_DATE="1552706838">digitalBush » Masked Input Plugin</A>
+                        <DT><A HREF="http://www.alpacajs.org/" ADD_DATE="1552706838">Alpaca - Easy Forms for jQuery</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706831" LAST_MODIFIED="1552706836">Timeout</H3>
+                    <DL><p>
+                        <DT><A HREF="http://stackoverflow.com/questions/3543683/jquery-ajax-timeout-setting" ADD_DATE="1552706836">jquery $.ajax timeout setting - Stack Overflow</A>
+                        <DT><A HREF="http://www.bennadel.com/blog/1500-Catching-Timeout-Errors-With-jQuery-Powered-AJAX.htm" ADD_DATE="1552706836">Catching Timeout Errors With jQuery Powered AJAX</A>
+                        <DT><A HREF="http://www.maheshchari.com/jquery-ajax-error-handling/" ADD_DATE="1552706836">jQuery ajax error handling for $.get ,$.post, $.load methods | web development tutorials</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706831" LAST_MODIFIED="1552706836">Table</H3>
+                    <DL><p>
+                        <DT><A HREF="http://beckelman.net/2008/11/18/select-all-checkboxes-in-a-table-column-with-and-without-jquery-plugin-demo/" ADD_DATE="1552706836">Select All CheckBoxes in a Table Column With and Without jQuery Plugin Demo | Bill Beckelman</A>
+                        <DT><A HREF="http://www.devcurry.com/2009/07/retrieve-data-from-table-cell-using.html" ADD_DATE="1552706836">Retrieve Data From a Table Cell Using jQuery</A>
+                        <DT><A HREF="http://blogs.microsoft.co.il/blogs/linqed/archive/2009/03/04/generating-html-tables-with-jquery.aspx" ADD_DATE="1552706836">Generating HTML Tables with jQuery - LINQED.NET</A>
+                        <DT><A HREF="http://naspinski.net/post/Use-jQuery-to-add-all-the-values-in-a-table-column_.aspx" ADD_DATE="1552706836">Use jQuery to add all the values in a table column</A>
+                        <DT><A HREF="http://www.packtpub.com/article/jquery-table-manipulation-part1" ADD_DATE="1552706836">jQuery Table Manipulation: Part 1 | Packt Publishing</A>
+                        <DT><A HREF="http://dotnetslackers.com/articles/ajax/Practical-JQuery.aspx" ADD_DATE="1552706836">Practical JQuery</A>
+                        <DT><A HREF="http://www.noupe.com/css/21-fresh-ajax-css-tables.html" ADD_DATE="1552706836">21+ Fresh Ajax CSS Tables - noupe</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706831" LAST_MODIFIED="1552706837">Menu</H3>
+                    <DL><p>
+                        <DT><A HREF="http://www.1stwebdesigner.com/css/36-eye-catching-jquery-navigation-menus/" ADD_DATE="1552706836">36 Eye-Catching Jquery Navigation Menus</A>
+                        <DT><A HREF="http://www.1stwebdesigner.com/css/create-sliding-navigation-menu-jquery/" ADD_DATE="1552706836">Create a Sliding Navigation Menu with jQuery</A>
+                        <DT><A HREF="http://www.1stwebdesigner.com/css/35-excellent-jquery-and-css3-navigation-menus/" ADD_DATE="1552706836">35 Excellent jQuery and CSS3 Navigation Menus</A>
+                        <DT><A HREF="http://www.1stwebdesigner.com/css/300-jquery-css-mootools-and-js-navigation-menus/" ADD_DATE="1552706836">300+ Jquery, CSS, MooTools and JS navigation menus</A>
+                        <DT><A HREF="http://www.1stwebdesigner.com/css/38-jquery-and-css-drop-down-multi-level-menu-solutions/" ADD_DATE="1552706836">38 jQuery And CSS Drop Down Multi Level Menu Solutions</A>
+                        <DT><A HREF="http://www.tripwiremagazine.com/2012/09/jquery-menu-plugins.html" ADD_DATE="1552706836">35+ Useful jQuery Menu Plugins</A>
+                        <DT><A HREF="http://www.stunningmesh.com/2010/12/100-excellent-jquery-plugins-for-navigation-and-menus/" ADD_DATE="1552706837">100+ Excellent jQuery Plugins for Navigation and Menus | Stunning Mesh</A>
+                        <DT><A HREF="http://www.freshdesignweb.com/jquery-menu.html" ADD_DATE="1552706837">45 Beautiful jQuery Menu Plugins and Tutorials</A>
+                        <DT><A HREF="http://vandelaydesign.com/blog/web-development/jquery-menu-scripts/" ADD_DATE="1552706837">25 Free and Premium jQuery Menu Scripts | Vandelay Design Blog</A>
+                        <DT><A HREF="http://www.yourtechneeds.info/blogs/130-20-jquery-menu-examples" ADD_DATE="1552706837">YourTechNeeds | +20 Jquery Menu Examples</A>
+                        <DT><A HREF="http://www.1stwebdesigner.com/design/jquery-navigation-plugins/" ADD_DATE="1552706837">55 jQuery Navigation and Menu Plugins</A>
+                        <DT><A HREF="http://www.codefear.com/scripts/25-free-jquery-menu-navigation/" ADD_DATE="1552706837">25 Free jQuery Menu Navigation and Tutorials - Code Fear</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706832" LAST_MODIFIED="1552706837">Highlight</H3>
+                    <DL><p>
+                        <DT><A HREF="http://www.gotoquiz.com/web-coding/programming/javascript/highlight-words-in-text-with-jquery/" ADD_DATE="1552706836">Highlight words in text with jQuery | A Web Coding Blog</A>
+                        <DT><A HREF="http://www.techtricky.com/highlight-text-with-jquery/" ADD_DATE="1552706836">Jquery Highlight Search Text | Highlight Search Term Effect</A>
+                        <DT><A HREF="http://johannburkard.de/blog/programming/javascript/highlight-javascript-text-higlighting-jquery-plugin.html" ADD_DATE="1552706836">highlight: JavaScript text higlighting jQuery plugin</A>
+                        <DT><A HREF="http://www.jquery-plugin.buss.hk/my-plugins/jquery-caret-plugin" ADD_DATE="1552706836">jQuery Caret Plugin - jQuery Plugins,jQuery plugins</A>
+                        <DT><A HREF="http://alan.blog-city.com/jquerylinedtextarea.htm" ADD_DATE="1552706836">JQuery Lined TextArea plugin</A>
+                        <DT><A HREF="http://www.strangeplanet.fr/work/jquery-highlighttextarea/" ADD_DATE="1552706836">jQuery • highlightTextarea</A>
+                        <DT><A HREF="http://freebiesdesign.com/javascript-syntax-highlighter-textarea/" ADD_DATE="1552706836">3 Javascript Syntax Highlighter Textarea</A>
+                        <DT><A HREF="http://www.1stwebdesigner.com/css/16-free-javascript-code-syntax-highlighters-for-better-programming/" ADD_DATE="1552706837">16 Free Javascript Code Syntax Highlighters For Better Programming</A>
+                        <DT><A HREF="http://balupton.github.com/jquery-syntaxhighlighter/demo/" ADD_DATE="1552706837">jQuery Syntax Highlighter - Based on Google&#39;s Prettify</A>
+                        <DT><A HREF="http://blog.dreamcss.com/wysiwyg-editor/javascript-source-code-editors/" ADD_DATE="1552706837">11 Best JavaScript source code editors</A>
+                        <DT><A HREF="http://www.web-delicious.com/3-best-online-real-time-syntax-highlighting-editor-in-javascript/" ADD_DATE="1552706837">Best Online Syntax Highlighting Editor in Javascript | free web resources for designers and web developers</A>
+                        <DT><A HREF="http://www.sencha.com/forum/showthread.php?46811-Custom-TextArea-with-real-time-syntax-highlighting" ADD_DATE="1552706837">Custom TextArea with real-time syntax highlighting</A>
+                        <DT><A HREF="http://www.bvbcode.com/code/ck3aw19d" ADD_DATE="1552706837">JsDecoder Js decoding, syntax highlighting, auto-insert TextArea Source Code Download</A>
+                        <DT><A HREF="http://www.theextremewebdesigns.com/blog/jquery-textarea-value-get-set-append-to-textarea-value/" ADD_DATE="1552706837">jQuery Textarea Value | Get, Set, Append to Textarea value</A>
+                        <DT><A HREF="http://startbigthinksmall.wordpress.com/2008/10/30/beautyofcode-jquery-plugin-for-syntax-highlighting/" ADD_DATE="1552706837">beautyOfCode: jQuery Plugin for Syntax Highlighting « Struggles by Lars C.</A>
+                        <DT><A HREF="http://www.jquery4u.com/plugins/10-jquery-text-highlighter-plugins/" ADD_DATE="1552706837">10 jQuery Text Highlighter Plugins | jQuery4u</A>
+                        <DT><A HREF="http://www.jquery4u.com/snippets/jquery-highlight-text/" ADD_DATE="1552706837">jQuery Highlight Text | jQuery4u</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706832" LAST_MODIFIED="1552706838">WebServices</H3>
+                    <DL><p>
+                        <DT><A HREF="http://www.codeproject.com/Articles/12816/JavaScript-SOAP-Client" ADD_DATE="1552706836">JavaScript SOAP Client - CodeProject</A>
+                        <DT><A HREF="http://openlandscape.net/tag/javascript/" ADD_DATE="1552706836">JavaScript « OpenLandscape</A>
+                        <DT><A HREF="http://snipplr.com/view/63957/jquery-connect-to-sap-web-service/" ADD_DATE="1552706836">JQuery: Connect to SAP Web Service - jQuery - Snipplr Social Snippet Repository</A>
+                        <DT><A HREF="http://openlandscape.net/2009/09/25/call-soap-xm-web-services-with-jquery-ajax/" ADD_DATE="1552706836">Call SOAP-XML Web Services With jQuery Ajax « OpenLandscape</A>
+                        <DT><A HREF="http://leonidius2010.wordpress.com/2011/05/16/98/" ADD_DATE="1552706836">Simple jQuery client to call a SOAP web service | Leonid&#39;s space</A>
+                        <DT><A HREF="http://blog.bayestech.com/?p=104" ADD_DATE="1552706836">Calling a webservice using jQuery and Javascript | Bayes Blog</A>
+                        <DT><A HREF="http://www.bennadel.com/blog/1853-Posting-XML-SOAP-Requests-With-jQuery.htm" ADD_DATE="1552706837">Posting XML SOAP Requests With jQuery</A>
+                        <DT><A HREF="http://pastebin.com/EfTQYP1L" ADD_DATE="1552706837">JQuery AJAX Consume SOAP Web Service - Pastebin.com</A>
+                        <DT><A HREF="http://javascriptweblog.wordpress.com/2010/11/29/json-and-jsonp/" ADD_DATE="1552706837">JSON and JSONP | JavaScript, JavaScript…</A>
+                        <DT><A HREF="http://forums.asp.net/t/1711966.aspx/1" ADD_DATE="1552706837">How to call a cross domain web service function using JQuery/Javascript from an HTML page specifically for safari browser : The Official Microsoft ASP.NET Forums</A>
+                        <DT><A HREF="http://www.cnblogs.com/clearforever/archive/2011/10/09/2203628.html" ADD_DATE="1552706837">Using JQuery to consume Web Service via SOAP - 用情 - 博客园</A>
+                        <DT><A HREF="http://davidjtaylor.wordpress.com/2009/06/23/using-jquery-with-asp-net-webservices/" ADD_DATE="1552706837">Example using jQuery with ASP.Net (SOAP) WebServices « Dave Taylor (@davetayls)</A>
+                        <DT><A HREF="http://ojasmaru.blogspot.com/2012/08/calling-sharepoint-2010-getlistitems.html" ADD_DATE="1552706837">Pro-Grammar: Calling the SharePoint 2010 GetListItems web services with Jquery</A>
+                        <DT><A HREF="http://www.yetanotherchris.me/home/2010/1/1/using-jquery-with-aspnet.html" ADD_DATE="1552706837">Yet Another Chris - C# and .NET - Latest posts - Using JQuery with ASP.NET</A>
+                        <DT><A HREF="http://www.a2zmenu.com/Blogs/Ajax/How-to-call-webservice-using-Ajax-or-JavaScript.aspx" ADD_DATE="1552706837">How to call webservice using Ajax or JavaScript</A>
+                        <DT><A HREF="http://www.c-sharpcorner.com/UploadFile/88b6e5/how-to-call-web-service-in-android-using-soap/" ADD_DATE="1552706837">How to Call Web Service in Android Using SOAP</A>
+                        <DT><A HREF="http://devcenter.kinvey.com/phonegap/tutorials/how-to-implement-safe-signin-via-oauth" ADD_DATE="1552706837">How to Implement Safe Sign-In via OAuth PhoneGap Tutorial | Kinvey</A>
+                        <DT><A HREF="http://quickblox.com/developers/Simple_sample_for_Users_(on_the_PhoneGap_platform)" ADD_DATE="1552706837">Simple sample for Users (on the PhoneGap platform) - QuickBlox Developers (API docs, code samples, SDK)</A>
+                        <DT><A HREF="http://weblogs.asp.net/jan/archive/2009/04/09/calling-the-sharepoint-web-services-with-jquery.aspx" ADD_DATE="1552706837">Calling the SharePoint Web Services with jQuery - Jan Tielens&#39; Bloggings</A>
+                        <DT><A HREF="http://mrsarker.wordpress.com/2012/02/23/cross-domain-wcf-service-call-using-ajax-ajax-call-to-https-service-from-http-page/" ADD_DATE="1552706837">Cross Domain WCF service Call using AJAX / Ajax Call to HTTPS service from HTTP page (With JSONP) | Keep in Touch With Technology Always..</A>
+                        <DT><A HREF="http://bloggingabout.net/blogs/adelkhalil/archive/2009/08/14/cross-domain-jsonp-with-jquery-call-step-by-step-guide.aspx" ADD_DATE="1552706837">Cross-domain JSONP with jQuery call step-by-step guide - Developer Pills</A>
+                        <DT><A HREF="http://www.cleancode.co.nz/blog/1041/complete-example-wcf-ajax-ssl-http" ADD_DATE="1552706838">A Complete Example of WCF,Ajax, SSL and None SSL | CleanCode NZ</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706832" LAST_MODIFIED="1552706837">Live or On</H3>
+                    <DL><p>
+                        <DT><A HREF="http://www.developerdrive.com/2011/12/switch-on-with-jquerys-new-event-methods/" ADD_DATE="1552706836">Switch on with jQuery&#39;s new event methods | Web development blog, news and tutorials - Developer Drive</A>
+                        <DT><A HREF="http://www.jquery4u.com/jquery-functions/on-vs-live-review/" ADD_DATE="1552706836">jQuery 1.7+ .on() vs .live() Review | jQuery4u</A>
+                        <DT><A HREF="http://api.jquery.com/live/" ADD_DATE="1552706836">.live() | jQuery API Documentation</A>
+                        <DT><A HREF="http://api.jquery.com/delegate/" ADD_DATE="1552706836">.delegate() | jQuery API Documentation</A>
+                        <DT><A HREF="http://payelneral.blogspot.com/2012/01/jquery-event-handler-attachments-live.html" ADD_DATE="1552706836">Payelneral: jQuery Event handler Attachments live, delegate, on</A>
+                        <DT><A HREF="http://www.andismith.com/blog/2011/11/on-and-off/" ADD_DATE="1552706836">Using jQuery .on() and .off() – AndiSmith.com</A>
+                        <DT><A HREF="http://blog.millermedeiros.com/avoiding-the-this-keyword-on-jquery/" ADD_DATE="1552706836">Avoiding the this keyword on jQuery related code | Blog | Miller Medeiros</A>
+                        <DT><A HREF="http://net.tutsplus.com/tutorials/javascript-ajax/quick-tip-the-difference-between-live-and-delegate/" ADD_DATE="1552706837">Quick Tip: The Difference Between Live() and Delegate() | Nettuts+</A>
+                        <DT><A HREF="http://www.learningjquery.com/2010/03/using-delegate-and-undelegate-in-jquery-1-4-2" ADD_DATE="1552706837">Using Delegate and Undelegate in jQuery 1.4.2 » Learning jQuery - Tips, Techniques, Tutorials</A>
+                        <DT><A HREF="http://www.elijahmanor.com/2012/02/differences-between-jquery-bind-vs-live.html" ADD_DATE="1552706837">Web Dev .NET: Differences Between jQuery .bind() vs .live() vs .delegate() vs .on()</A>
+                        <DT><A HREF="http://www.alfajango.com/blog/the-difference-between-jquerys-bind-live-and-delegate/" ADD_DATE="1552706837">The Difference Between jQuery’s .bind(), .live(), and .delegate() - Alfa Jango Blog</A>
+                        <DT><A HREF="http://www.w3schools.com/jquery/event_on.asp" ADD_DATE="1552706837">jQuery on() Method</A>
+                        <DT><A HREF="http://www.raymondcamden.com/index.cfm/2012/4/1/Reminder--Use-the-proper-jQuery-Mobile-event-handler" ADD_DATE="1552706837">Reminder - Use the proper jQuery Mobile event handler</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706832" LAST_MODIFIED="1552706836">Document</H3>
+                    <DL><p>
+                        <DT><A HREF="http://api.jquery.com/" ADD_DATE="1552706836">jQuery API Documentation</A>
+                        <DT><A HREF="http://jqapi.com/" ADD_DATE="1552706836">jQAPI - Alternative jQuery Documentation Browser</A>
+                        <DT><A HREF="http://api.jqueryui.com/" ADD_DATE="1552706836">jQuery UI API Documentation</A>
+                        <DT><A HREF="http://www.bennadel.com/resources/uploads/jquery_documentation.pdf" ADD_DATE="1552706836">www.bennadel.com/resources/uploads/jquery_documentation.pdf</A>
+                        <DT><A HREF="http://api.jquerymobile.com/page/" ADD_DATE="1552706836">Page Widget | jQuery Mobile API Documentation</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706832" LAST_MODIFIED="1552706837">JSONP</H3>
+                    <DL><p>
+                        <DT><A HREF="http://www.asp.net/ajaxlibrary/jquery_webforms_jsonp_retrieve_data.ashx" ADD_DATE="1552706836">How Do I use JSONP to Retrieve Data from a Remote Website? - ASP.NET Ajax Library</A>
+                        <DT><A HREF="http://www.onlinesolutionsdevelopment.com/blog/web-development/javascript/jsonp-example/" ADD_DATE="1552706836">JSONP Example | Online Solutions Development</A>
+                        <DT><A HREF="http://www.jquery4u.com/function-demos/jsonp/" ADD_DATE="1552706836">jQuery Jsonp Function Example | jQuery4u</A>
+                        <DT><A HREF="https://answers.atlassian.com/questions/96184/how-can-i-make-a-call-to-rest-api-using-jquery-cross-domain-to-get-the-list-of-issues-in-jira" ADD_DATE="1552706836">How can I make a call to REST API using JQuery, Cross domain to get the list of issues in Jira? - Atlassian Answers</A>
+                        <DT><A HREF="http://www.jquery4u.com/json/jsonp-examples/" ADD_DATE="1552706836">jQuery&#39;s JSONP Explained with Examples | jQuery4u</A>
+                        <DT><A HREF="http://www.jquery4u.com/image-scripts/load-flickr-photos-using-jsonapi/" ADD_DATE="1552706836">Load Flickr Pictures using JSONP API | jQuery4u</A>
+                        <DT><A HREF="http://www.ibm.com/developerworks/library/wa-aj-jsonp1/" ADD_DATE="1552706837">Cross-domain communications with JSONP, Part 1: Combine JSONP and jQuery to quickly build powerful mashups</A>
+                        <DT><A HREF="http://www.w3resource.com/JSON/JSONP.php" ADD_DATE="1552706837">JSONP Tutorial | JSON Tutorial | w3resource</A>
+                        <DT><A HREF="http://www.pureexample.com/jquery-cross-domain-ajax.html" ADD_DATE="1552706837">jQuery Cross Domain Ajax - Pure Example</A>
+                        <DT><A HREF="http://stackoverflow.com/questions/14108532/ajax-cross-domain-request-with-jsonp" ADD_DATE="1552706837">jquery - Ajax cross-domain request with JSONP - Stack Overflow</A>
+                        <DT><A HREF="http://www.codeproject.com/Questions/523643/accessingplusremotepluswebplusservices-crossplusdo" ADD_DATE="1552706837">cross domain call with jQuery jsonp to remote ASP.NET web service - CodeProject</A>
+                        <DT><A HREF="http://james.padolsey.com/javascript/cross-domain-requests-with-jsonp-safe/" ADD_DATE="1552706837">Cross-domain requests with JSONP? Safe? – James Padolsey</A>
+                        <DT><A HREF="http://www.fbloggs.com/2010/07/09/how-to-access-cross-domain-data-with-ajax-using-jsonp-jquery-and-php/" ADD_DATE="1552706837">How to access cross-domain data with AJAX using JSONP, jQuery and PHP | Fbloggs Geekdom</A>
+                        <DT><A HREF="http://java.dzone.com/articles/implementing-ajax" ADD_DATE="1552706837">Implementing Ajax Authentication using jQuery, Spring Security and HTTPS | Javalobby</A>
+                        <DT><A HREF="http://blah.winsmarts.com/2012-1-jQuery_and_Crossdomain.aspx" ADD_DATE="1552706837">jQuery and Crossdomain - Sahil Malik | blah.winsmarts.com</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706833" LAST_MODIFIED="1552706838">Tree</H3>
+                    <DL><p>
+                        <DT><A HREF="http://www.jstree.com/demo" ADD_DATE="1552706836">jsTree » Demo</A>
+                        <DT><A HREF="http://jquery.bassistance.de/treeview/demo/large.html?/about_airdrie/index.cfm" ADD_DATE="1552706836">jQuery treeview</A>
+                        <DT><A HREF="http://www.dynamicdrive.com/dynamicindex1/treeview/" ADD_DATE="1552706836">Dynamic Drive DHTML Scripts- jQuery TreeView Menu (v1.4)</A>
+                        <DT><A HREF="http://www.jqwidgets.com/jquery-tree-with-context-menu/" ADD_DATE="1552706836">jQuery Tree with Context Menu - Javascript, HTML5, jQuery Widgets</A>
+                        <DT><A HREF="http://www.abeautifulsite.net/blog/2008/03/jquery-file-tree/#demo" ADD_DATE="1552706836">jQuery File Tree · A Beautiful Blog</A>
+                        <DT><A HREF="http://www.jeasyui.com/demo/main/index.php?plugin=Tree&theme=default&dir=ltr&pitem=Basic%20Tree" ADD_DATE="1552706836">Live Demo - jQuery EasyUI</A>
+                        <DT><A HREF="http://www.htmldrive.net/items/show/104/jQuery-simple-Tree-Menu.html" ADD_DATE="1552706837">jQuery simple Tree Menu | tree menu,vertical navigation menu,multi-level navigation menus</A>
+                        <DT><A HREF="http://freebiesdesign.com/7-best-jquery-treeview-plugins/#.UbruPaIjw9M" ADD_DATE="1552706837">7 Best jQuery Treeview Plugins</A>
+                        <DT><A HREF="https://code.google.com/p/dynatree/" ADD_DATE="1552706837">dynatree - Dynatree is a JavaScript dynamic tree view plugin for jQuery with support for persistence, keyboard, checkboxes, drag&#39;n&#39;drop, and lazy loading. - Google Project Hosting</A>
+                        <DT><A HREF="http://wwwendt.de/tech/fancytree/demo/#sample-default.html" ADD_DATE="1552706837">Fancytree - Example Browser</A>
+                        <DT><A HREF="https://github.com/mar10/fancytree/wiki" ADD_DATE="1552706837">Home · mar10/fancytree Wiki</A>
+                        <DT><A HREF="https://github.com/mar10/fancytree/wiki/TutorialLoadData" ADD_DATE="1552706837">TutorialLoadData · mar10/fancytree Wiki</A>
+                        <DT><A HREF="https://github.com/mar10/fancytree/" ADD_DATE="1552706837">mar10/fancytree: JavaScript tree view / tree grid plugin with support for keyboard, inline editing, filtering, checkboxes, drag&#39;n&#39;drop, and lazy loading</A>
+                        <DT><A HREF="http://wwwendt.de/tech/fancytree/demo/sample-api.html" ADD_DATE="1552706837">Fancytree - Example</A>
+                        <DT><A HREF="https://github.com/mar10/fancytree/wiki/TutorialApi" ADD_DATE="1552706837">TutorialApi · mar10/fancytree Wiki</A>
+                        <DT><A HREF="http://jsfiddle.net/4GjRv/579/" ADD_DATE="1552706837">Fancytree - Init from Ajax request - JSFiddle</A>
+                        <DT><A HREF="https://github.com/mar10/fancytree/issues/311" ADD_DATE="1552706837">POST id changes when multiple trees are loaded via AJAX - new option `id` · Issue #311 · mar10/fancytree</A>
+                        <DT><A HREF="https://stackoverflow.com/questions/28680203/reload-entire-fancytree" ADD_DATE="1552706837">jquery - Reload entire Fancytree - Stack Overflow</A>
+                        <DT><A HREF="https://github.com/mar10/fancytree/wiki/TutorialEvents" ADD_DATE="1552706837">TutorialEvents · mar10/fancytree Wiki</A>
+                        <DT><A HREF="http://www.wwwendt.de/tech/fancytree/doc/jsdoc/FancytreeNode.html#load" ADD_DATE="1552706837">JSDoc: Class: FancytreeNode</A>
+                        <DT><A HREF="http://jsfiddle.net/4GjRv/452/" ADD_DATE="1552706837">Fancytree - Init from Ajax request - JSFiddle</A>
+                        <DT><A HREF="https://www.sencha.com/forum/showthread.php?86371-TreePanel-Selecting-all-relative-nodes-(parents-amp-children)-when-a-node-is-selected" ADD_DATE="1552706838">TreePanel - Selecting all relative nodes (parents &amp; children) when a node is selected</A>
+                        <DT><A HREF="http://m.www.cnblogs.com/zhengshuangliang/p/4642987.html" ADD_DATE="1552706838">Fancytree Javascript Tree TreeTable 树介绍和使用 - 两轮明月 - 博客园</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706833" LAST_MODIFIED="1552706838">Data table grid</H3>
+                    <DL><p>
+                        <DT><A HREF="http://jquerygrip.blogspot.com/2012/11/best-jquery-grid-plugins-and-jquery-tables.html" ADD_DATE="1552706836">Jquery : Best JQuery Grid Plugins And JQuery Tables</A>
+                        <DT><A HREF="http://www.datatables.net/" ADD_DATE="1552706836">DataTables (table plug-in for jQuery)</A>
+                        <DT><A HREF="http://square-bracket.com/openjs#" ADD_DATE="1552706836">Welcome to Square Bracket - Open JS Grid v2</A>
+                        <DT><A HREF="http://www.jquery4u.com/plugins/30-amazing-jquery-tables/" ADD_DATE="1552706836">35 Amazing jQuery Tables | jQuery4u</A>
+                        <DT><A HREF="http://handsontable.com/" ADD_DATE="1552706836">Handsontable - jQuery grid editor. Excel-like grid editing with HTML &amp; JavaScript</A>
+                        <DT><A HREF="http://chuckbarest.wordpress.com/2012/02/16/hierarchal-grid-with-jquery-data-table/" ADD_DATE="1552706836">Hierarchal Grid with jQuery Data Table « Chuck&#39;s Code Blog</A>
+                        <DT><A HREF="http://www.javacodegeeks.com/2013/02/jquery-datatables-and-java-integration.html" ADD_DATE="1552706836">JQuery DataTables And Java Integration | Java Code Geeks</A>
+                        <DT><A HREF="http://encosia.com/use-jquery-to-extract-data-from-html-lists-and-tables/" ADD_DATE="1552706837">Use jQuery to extract data from HTML lists and tables » Encosia</A>
+                        <DT><A HREF="http://stackoverflow.com/questions/9585760/how-to-build-datatable-using-jquery-from-rest-xml-response" ADD_DATE="1552706837">How to build datatable using jQuery from REST xml response? - Stack Overflow</A>
+                        <DT><A HREF="http://www.mysamplecode.com/2012/04/jquery-ajax-request-response-java.html" ADD_DATE="1552706837">jQuery AJAX request and response example - Java Servlets, MySQL and JSON</A>
+                        <DT><A HREF="http://sharepointhillbilly.com/Lists/Posts/Post.aspx?ID=5" ADD_DATE="1552706837">A Dummies Guide to SharePoint &amp; jQuery - Reading List Data With SPServices -</A>
+                        <DT><A HREF="http://www.dotnetspeaks.com/DisplayArticle.aspx?ID=67" ADD_DATE="1552706837">DotNetSpeaks - jQuery Datatable using webservice</A>
+                        <DT><A HREF="http://net.tutsplus.com/tutorials/javascript-ajax/use-jquery-to-retrieve-data-from-an-xml-file/" ADD_DATE="1552706837">Quick Tip: Use jQuery to Retrieve Data From an XML File | Nettuts+</A>
+                        <DT><A HREF="http://www.codeproject.com/Articles/359750/jQuery-DataTables-in-Java-Web-Applications" ADD_DATE="1552706837">jQuery DataTables in Java Web Applications - CodeProject</A>
+                        <DT><A HREF="http://www.jquerysample.com/" ADD_DATE="1552706837">jQuery Sample - Free Source Code, Examples, Tutorials, and Demos for jQuery, AJAX, and jQuery UI</A>
+                        <DT><A HREF="http://www.mikesdotnetting.com/Article/96/Handling-JSON-Arrays-returned-from-ASP.NET-Web-Services-with-jQuery" ADD_DATE="1552706837">Handling JSON Arrays returned from ASP.NET Web Services with jQuery</A>
+                        <DT><A HREF="http://aext.net/2010/04/excellent-jquery-plugins-resources-for-data-presentation-and-grid-layout/" ADD_DATE="1552706837">jQuery Grid &amp; Data Presentation Plugins | AEXT.NET MAGAZINE</A>
+                        <DT><A HREF="http://mytechworld.officeacuity.com/index.php/2009/08/populating-table-data-using-jquery/" ADD_DATE="1552706837">Populating Table Data using jQuery | My Tech World</A>
+                        <DT><A HREF="http://www.jtable.org/" ADD_DATE="1552706837">jTable.org - A JQuery plugin to create AJAX based CRUD tables</A>
+                        <DT><A HREF="http://nbhuy.wordpress.com/2011/11/10/ajax-based-crud-tables-using-asp-net-mvc-3-and-jtable-jquery-plug-in/" ADD_DATE="1552706837">AJAX based CRUD tables using ASP.NET MVC 3 and jTable jQuery plug-in | Share To Get More</A>
+                        <DT><A HREF="http://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm#demos/jqxgrid/rowdetails.htm" ADD_DATE="1552706837">jQuery Grid, JavaScript Grid, jqxGrid, DataGrid, jQuery DataGrid</A>
+                        <DT><A HREF="http://www.bluelemoncode.com/post/2011/12/30/Freezing-gridview-header-and-columns-while-scrolling-rest-of-the-content.aspx" ADD_DATE="1552706837">BlueLemonCode.Com | Freezing gridview header and columns while scrolling rest of the content</A>
+                        <DT><A HREF="http://gridviewscroll.aspcity.idv.tw/Demo/Advanced.aspx" ADD_DATE="1552706838">Demo - Advanced - GridViewScroll with jQuery</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706833" LAST_MODIFIED="1552706837">Loading</H3>
+                    <DL><p>
+                        <DT><A HREF="http://stackoverflow.com/questions/1964839/jquery-please-wait-loading-animation" ADD_DATE="1552706836">jQuery &quot;Please Wait, Loading...&quot; animation? - Stack Overflow</A>
+                        <DT><A HREF="http://thisiscontext.com/tools/jQuery-showLoading" ADD_DATE="1552706836">jQuery showLoading plugin | show loading graphic over specific element | jQuery ajax loading overlay</A>
+                        <DT><A HREF="http://www.golubovic.iz.rs/2012/11/preload-web-site-using-jquery/" ADD_DATE="1552706836">Preload web site using jquery - Aleksandar Golubović</A>
+                        <DT><A HREF="http://designhuntr.com/display-animation-while-page-loading-using-jquery/" ADD_DATE="1552706836">Display Animation While Page Loading Using jQuery - DesignHuntR</A>
+                        <DT><A HREF="http://net.tutsplus.com/tutorials/javascript-ajax/how-to-load-in-and-animate-content-with-jquery/" ADD_DATE="1552706836">How to Load In and Animate Content with jQuery | Nettuts+</A>
+                        <DT><A HREF="http://curtishenson.com/version7/quick-tip-delay-page-loading-with-jquery/" ADD_DATE="1552706836">Quick Tip: Delay Page Loading with jQuery - Curtis Henson</A>
+                        <DT><A HREF="http://www.cssjockey.com/tutorials/an-easy-way-to-create-loading-bar" ADD_DATE="1552706837">An easy way to create Loading Bar!</A>
+                        <DT><A HREF="http://niklausgerber.com/blog/preloadme-a-lightweight-jquery-website-preloader/" ADD_DATE="1552706837">PreLoadMe, a lightweight jQuery website preloader | Niklaus Gerber</A>
+                        <DT><A HREF="http://www.gordonmac.com/adding-a-page-loading-box-with-jquery/" ADD_DATE="1552706837">Adding a page “loading” box with jQuery | Gordon Mackay</A>
+                        <DT><A HREF="http://fgnass.github.io/spin.js/#!" ADD_DATE="1552706837">spin.js</A>
+                        <DT><A HREF="http://www.aplusdesign.com.au/blog/jquery-ajax-loader-spinner/" ADD_DATE="1552706837">jQuery Ajax Loader &amp; Spinner | A Plus Design</A>
+                        <DT><A HREF="http://hekigan.github.io/is-loading/" ADD_DATE="1552706837">isLoading jQuery plugin</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706833" LAST_MODIFIED="1552706838">Map</H3>
+                    <DL><p>
+                        <DT><A HREF="http://gmap3.net/" ADD_DATE="1552706836">Gmap3 : A jQuery plugin to use google maps</A>
+                        <DT><A HREF="http://www.jquery4u.com/plugins/10-jquery-google-map-plugins/" ADD_DATE="1552706836">10 jQuery Google Map Plugins | jQuery4u</A>
+                        <DT><A HREF="http://www.tripwiremagazine.com/2013/05/jquery-google-maps.html" ADD_DATE="1552706836">30+ Useful jQuery Google Maps Plugins</A>
+                        <DT><A HREF="http://jquery-ui-map.googlecode.com/svn/trunk/demos/jquery-google-maps-mobile.html" ADD_DATE="1552706836">jQuery mobile with Google maps - Google maps jQuery plugin</A>
+                        <DT><A HREF="http://code.google.com/p/jquery-ui-map/" ADD_DATE="1552706836">jquery-ui-map - Google map v3 plugin for jQuery and jQuery Mobile - Google Project Hosting</A>
+                        <DT><A HREF="http://www.designyourway.net/blog/resources/a-collection-of-jquery-maps-plugins-20-examples/" ADD_DATE="1552706836">A Collection Of jQuery Maps Plugins - 20 Examples</A>
+                        <DT><A HREF="http://labs.mario.ec/jquery-gmap/" ADD_DATE="1552706836">jQuery gMap 2 - Google Maps API V3</A>
+                        <DT><A HREF="http://codegeekz.com/best-jquery-map-plugins/" ADD_DATE="1552706837">16 Best Free jQuery Map Plugins | Code Geekz</A>
+                        <DT><A HREF="http://gmap.nurtext.de/" ADD_DATE="1552706837">gMap - Google Maps Plugin For jQuery | About</A>
+                        <DT><A HREF="http://www.scratchinginfo.com/best-and-top-jquery-google-maps-plugins/" ADD_DATE="1552706837">Best and Top jQuery Google Maps Plugins | Web Development Tutorials and Resources @ ScratchingInfo</A>
+                        <DT><A HREF="http://www.mapseasy.com/" ADD_DATE="1552706837">MapsEasy.com - Google Maps Creation Tool</A>
+                        <DT><A HREF="http://jquerybyexample.blogspot.com/2012/07/5-superb-jquery-google-map-plugins.html" ADD_DATE="1552706837">5 Superb jQuery Google Map Plugins | jQuery, jQuery Plugins, jQuery Codes, Tips and Tricks, jQuery Interview Questions</A>
+                        <DT><A HREF="http://www.queness.com/post/8961/10-google-map-javascript-resources-to-kick-start-your-mapping-skill" ADD_DATE="1552706837">10+ Google Map Javascript Resources to Kick Start Your Mapping Skill</A>
+                        <DT><A HREF="http://designmodo.com/jquery-google-maps-tutorials-plugins/" ADD_DATE="1552706837">20+ Useful jQuery Google Maps Tutorials and Plugins - Designmodo</A>
+                        <DT><A HREF="http://www.blocsoft.com/bmap/" ADD_DATE="1552706837">bMap - The blocsoft.com jQuery google maps Plugin</A>
+                        <DT><A HREF="http://ubilabs.github.io/geocomplete/" ADD_DATE="1552706837">Geocomplete - jQuery Geocoding and Places Autocomplete Plugin</A>
+                        <DT><A HREF="http://www.webappers.com/2010/01/06/simplify-google-maps-api-with-google-maps-jquery-plugin/" ADD_DATE="1552706837">Simplify Google Maps API with Google Maps jQuery Plugin | Web Resources | WebAppers</A>
+                        <DT><A HREF="http://smashinghub.com/23-best-jquery-google-maps-plugins.htm" ADD_DATE="1552706837">23 Best jQuery Google Maps Plugins</A>
+                        <DT><A HREF="http://jeromesmadja.github.io/initmapjs/" ADD_DATE="1552706837">jQuery plugin for Google Maps - initmap.js</A>
+                        <DT><A HREF="http://www.htmltutsplus.com/plugins/10-exceptionally-helpful-jquery-plugins-for-google-maps-integration/" ADD_DATE="1552706837">10 Exceptionally Helpful Jquery Plugins For Google Maps Integration | HTML Tuts+</A>
+                        <DT><A HREF="http://speckyboy.com/2010/02/03/10-jquery-plugins-for-easier-google-map-installation/" ADD_DATE="1552706837">10 jQuery Plugins for Easier Google Map Installation - Speckyboy Design Magazine</A>
+                        <DT><A HREF="http://trangcongnghe.com/thu-thuat/434-su-dung-google-maps-hieu-qua.html" ADD_DATE="1552706838">Sử dụng Google Maps hiệu quả » Trang Công Nghệ - Cập nhật tin tức công nghệ thông tin 24/24</A>
+                        <DT><A HREF="http://openlayers.org/" ADD_DATE="1552706838">OpenLayers: Home</A>
+                    </DL><p>
