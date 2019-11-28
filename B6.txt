@@ -1,0 +1,609 @@
+
+                    <DT><H3 ADD_DATE="1552706833" LAST_MODIFIED="1552706837">Upload</H3>
+                    <DL><p>
+                        <DT><A HREF="http://blueimp.github.io/jQuery-File-Upload/angularjs.html" ADD_DATE="1552706836">jQuery File Upload Demo - AngularJS version</A>
+                        <DT><A HREF="http://hayageek.com/ajax-file-upload-jquery/" ADD_DATE="1552706836">AJAX File Upload jQuery Tutorial</A>
+                        <DT><A HREF="http://tutorialzine.com/2013/05/mini-ajax-file-upload-form/" ADD_DATE="1552706836">Mini AJAX File Upload Form | Tutorialzine</A>
+                        <DT><A HREF="http://www.dropzonejs.com/" ADD_DATE="1552706836">Dropzone.js</A>
+                        <DT><A HREF="http://www.jainaewen.com/files/javascript/jquery/iframe-post-form.html" ADD_DATE="1552706836">Ewen&#39;s Files, Ewen Elder; jQuery JavaScript PHP CSS xHTML MySQL Developer</A>
+                        <DT><A HREF="http://tapestry5-jquery.com/components/docsajaxupload" ADD_DATE="1552706836">Tapestry5-jQuery</A>
+                        <DT><A HREF="http://www.9lessons.info/2013/09/multiple-ajax-image-upload-jquery.html" ADD_DATE="1552706836">Ajax Select and Upload Multiple Images with Jquery</A>
+                        <DT><A HREF="http://www.9lessons.info/2013/08/multiple-ajax-image-upload-refreshing.html" ADD_DATE="1552706837">Multiple Ajax Image Upload without Refreshing Page using Jquery.</A>
+                        <DT><A HREF="http://www.plupload.com/example_queuewidget.php" ADD_DATE="1552706837">Plupload - A tool for uploading files using Flash, Silverlight, Google Gears, HTML5 or Browserplus</A>
+                        <DT><A HREF="http://www.jquery4u.com/plugins/jquery-file-upload-plugins/" ADD_DATE="1552706837">6 Nice jQuery File Upload Plugins | jQuery4u</A>
+                        <DT><A HREF="http://www.dreamcss.com/2009/07/file-managers-based-on-jquery-ajax-php.html" ADD_DATE="1552706837">6 New File Managers Based on jQuery, Ajax, php</A>
+                        <DT><A HREF="https://blueimp.github.io/jQuery-File-Upload/basic-plus.html" ADD_DATE="1552706837">jQuery File Upload Demo - Basic Plus version</A>
+                        <DT><A HREF="https://jqueryhouse.com/jquery-file-upload-plugins/" ADD_DATE="1552706837">20 jQuery File Upload Plugins | jQueryHouse</A>
+                        <DT><A HREF="http://hayageek.com/docs/jquery-upload-file.php" ADD_DATE="1552706837">jQuery Upload File Plugin Demo</A>
+                        <DT><A HREF="http://plugins.krajee.com/file-basic-usage-demo" ADD_DATE="1552706837">Bootstrap File Input Basic Usage Demo - © Kartik</A>
+                        <DT><A HREF="https://www.jqueryscript.net/other/jQuery-Plugin-For-Multiple-File-Uploader-Upload-File.html" ADD_DATE="1552706837">jQuery Plugin For Multiple File Uploader - Upload File | Free jQuery Plugins</A>
+                        <DT><A HREF="https://colorlib.com/wp/jquery-file-upload-scripts/" ADD_DATE="1552706837">Top 17 Best Free jQuery File Upload Scripts For Multiple File Upload 2018 - Colorlib</A>
+                        <DT><A HREF="https://www.jqueryscript.net/tags.php?/upload/" ADD_DATE="1552706837">jQuery upload Plugins | jQuery Script</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706833" LAST_MODIFIED="1552706836">News Ticker</H3>
+                    <DL><p>
+                        <DT><A HREF="http://freebiesdesign.com/9-best-jquery-news-ticker/" ADD_DATE="1552706836">9 Best jQuery News Ticker</A>
+                    </DL><p>
+                    <DT><A HREF="http://jquery.com/" ADD_DATE="1552706834">jQuery: The Write Less, Do More, JavaScript Library</A>
+                    <DT><A HREF="http://www.learningjquery.com/" ADD_DATE="1552706834">Learning jQuery</A>
+                    <DT><A HREF="http://examples.learningjquery.com/62/" ADD_DATE="1552706834">clueTip Demo</A>
+                    <DT><A HREF="http://interface.eyecon.ro/demos" ADD_DATE="1552706834">Interface elements for jQuery - Real examples of Interface elements</A>
+                    <DT><A HREF="http://simonwillison.net/2007/Aug/15/jquery/" ADD_DATE="1552706834">jQuery for JavaScript programmers</A>
+                    <DT><A HREF="http://tablesorter.com/docs/" ADD_DATE="1552706834">jQuery plugin: Tablesorter 2.0</A>
+                    <DT><A HREF="http://blog.reindel.com/2007/10/02/parse-json-with-jquery-and-javascript/" ADD_DATE="1552706834">Parse JSON with jQuery and JavaScript » d’bug</A>
+                    <DT><A HREF="http://www.appelsiini.net/projects/lazyload/" ADD_DATE="1552706834">Lazy Load Plugin for jQuery</A>
+                    <DT><A HREF="http://dev.iceburg.net/jquery/jqModal/" ADD_DATE="1552706834">jqModal :: Minimalistic Modaling for jQuery</A>
+                    <DT><A HREF="http://www.skidvn.com/jcache" ADD_DATE="1552706834">jCache - A client-side caching plugin for jQuery</A>
+                    <DT><A HREF="http://flydom.socianet.com/" ADD_DATE="1552706834">jQuery Plugin - FlyDOM: Create DOM on the Fly</A>
+                    <DT><A HREF="http://www.andreacfm.com/examples/ajaxContent/" ADD_DATE="1552706834">jQuery ajaxContent - Easy Ajax plug-in</A>
+                    <DT><A HREF="http://malsup.com/jquery/form/#api" ADD_DATE="1552706834">jQuery Form Plugin</A>
+                    <DT><A HREF="http://marcgrabanski.com/code/ui-datepicker/" ADD_DATE="1552706834">jQuery UI Datepicker</A>
+                    <DT><A HREF="http://www.appelsiini.net/2007/9/lazy-load-images-jquery-plugin" ADD_DATE="1552706835">Lazy Load Images jQuery Plugin</A>
+                    <DT><A HREF="http://bassistance.de/2007/01/28/jquery-tools-api-browser/" ADD_DATE="1552706835">bassistance.de » jQuery Tools: API Browser</A>
+                    <DT><A HREF="http://bassistance.de/2007/10/02/release-treeview-plugin-13/" ADD_DATE="1552706835">bassistance.de » Release: Treeview plugin 1.3</A>
+                    <DT><A HREF="http://bassistance.de/2007/08/24/release-accordion-menu-plugin-15/" ADD_DATE="1552706835">bassistance.de » Release: Accordion menu plugin 1.5</A>
+                    <DT><A HREF="http://bassistance.de/2007/07/04/release-tooltip-plugin-11/" ADD_DATE="1552706835">bassistance.de » Release: Tooltip plugin 1.1</A>
+                    <DT><A HREF="http://bassistance.de/jquery-plugins/jquery-plugin-treeview/" ADD_DATE="1552706835">bassistance.de » jQuery plugin: Treeview</A>
+                    <DT><A HREF="http://bassistance.de/category/jquery/plugin-parade/" ADD_DATE="1552706835">bassistance.de » Plugin Parade</A>
+                    <DT><A HREF="http://bassistance.de/" ADD_DATE="1552706835">bassistance.de</A>
+                    <DT><A HREF="http://visualjquery.com/1.1.2.html" ADD_DATE="1552706835">Visual jQuery 1.1</A>
+                    <DT><A HREF="http://ui.jquery.com/" ADD_DATE="1552706835">jQuery UI: Widgets, Components, and Interactions</A>
+                    <DT><A HREF="http://blog.brandonaaron.net/2007/08/19/new-plugin-live-query/" ADD_DATE="1552706835">Brandon Aaron » Blog Archive » New Plugin: Live Query</A>
+                    <DT><A HREF="http://www.stilbuero.de/page/3/" ADD_DATE="1552706835">Klaus Hartl - Stilbüro</A>
+                    <DT><A HREF="http://mg.to/2006/02/27/easy-dom-creation-for-jquery-and-prototype" ADD_DATE="1552706835">Easy DOM creation for jQuery and Prototype | mg.to</A>
+                    <DT><A HREF="http://drupal.org/project/cluetip" ADD_DATE="1552706835">Cluetip | drupal.org</A>
+                    <DT><A HREF="http://plugins.learningjquery.com/cluetip/demo/" ADD_DATE="1552706835">clueTip Plugin Demo</A>
+                    <DT><A HREF="http://meme-rocket.com/2007/09/07/agnostic-unobtrusive-javascript/" ADD_DATE="1552706835">Bill Burcham’s memeRocket :: Agnostic Unobtrusive JavaScript</A>
+                    <DT><A HREF="http://brandonaaron.net/docs/livequery/#getting-started" ADD_DATE="1552706835">jQuery Live Query Plugin 1.0</A>
+                    <DT><A HREF="http://gsgd.co.uk/sandbox/jquery/easing/" ADD_DATE="1552706835">jQuery Easing Plugin</A>
+                    <DT><A HREF="http://remysharp.com/jquery-api/" ADD_DATE="1552706835">jQuery API</A>
+                    <DT><A HREF="http://remysharp.com/" ADD_DATE="1552706835">remy sharp’s b:log</A>
+                    <DT><A HREF="http://blog.brandonaaron.net/2007/08/19/new-plugin-live-query" ADD_DATE="1552706835">Brandon Aaron » Blog Archive » New Plugin: Live Query</A>
+                    <DT><A HREF="http://www.sastgroup.com/jquery/240-plugins-jquery" ADD_DATE="1552706835">240 plugins jquery : sastgroup.com</A>
+                    <DT><A HREF="http://flesler.blogspot.com/search/label/jQuery.Preload" ADD_DATE="1552706835">Ariel Flesler: jQuery.Preload</A>
+                    <DT><A HREF="http://markitup.jaysalvat.com/home/" ADD_DATE="1552706835">markItUp! Universal Markup Editor</A>
+                    <DT><A HREF="http://www.ericmmartin.com/projects/simplemodal/" ADD_DATE="1552706835">EricMMartin.com » SimpleModal</A>
+                    <DT><A HREF="http://acko.net/dev/farbtastic" ADD_DATE="1552706835">Farbtastic: jQuery color picker plug-in | Steven Wittens - Acko.net</A>
+                    <DT><A HREF="http://ejohn.org/blog/classy-query/" ADD_DATE="1552706835">John Resig - Classy Query</A>
+                    <DT><A HREF="http://jqueryfordesigners.com/slide-out-and-drawer-effect/" ADD_DATE="1552706835">Slide out and drawer effect | jQuery for Designers - Tutorials and screencasts</A>
+                    <DT><A HREF="http://www.filamentgroup.com/lab/update_automatically_preload_images_from_css_with_jquery/" ADD_DATE="1552706835">Update: A New &amp; Improved jQuery Script to Automatically Preload images from CSS | Filament Group, Inc.</A>
+                    <DT><A HREF="http://www.givainc.com/labs/mcdropdown_jquery_plugin.htm" ADD_DATE="1552706835">Giva Labs - mcDropdown jQuery Plug-in | Giva</A>
+                    <DT><A HREF="http://stanlemon.net/projects/jgrowl.html" ADD_DATE="1552706835">stanlemon.net : jgrowl</A>
+                    <DT><A HREF="http://p.sohei.org/" ADD_DATE="1552706835">don’t look</A>
+                    <DT><A HREF="http://stilbuero.de/jquery/tabs/#fragment-9" ADD_DATE="1552706835">Tabs - jQuery plugin for accessible, unobtrusive tabs</A>
+                    <DT><A HREF="http://interface.eyecon.ro/" ADD_DATE="1552706835">Interface elements for jQuery - About Interface</A>
+                    <DT><A HREF="http://www.shafqatahmed.com/2008/08/mybutton-font-f.html" ADD_DATE="1552706835">Shafqat Ahmed&#39;s .NET Blog: Get started JQuery by example in 15 mins : Reduce Your Javascript Size and Development Time</A>
+                    <DT><A HREF="http://jquery.andreaseberhard.de/" ADD_DATE="1552706835">Plugins and Demos for jQuery JavaScript Library</A>
+                    <DT><A HREF="http://www.noupe.com/ajax/50-amazing-jquery-examples-part1.html" ADD_DATE="1552706835">50+ Amazing Jquery Examples- Part1</A>
+                    <DT><A HREF="http://randomactsofcoding.blogspot.com/2008/10/starting-with-jquery-how-to-write.html" ADD_DATE="1552706835">Random Acts of Coding: Starting With jQuery - How to Write Custom Validation Rules</A>
+                    <DT><A HREF="http://devsnippets.com/jquery-posts/20-jquery-plugins-for-unforgettable-user-experience.html" ADD_DATE="1552706835">» 20 jQuery Plugins for Unforgettable User Experience</A>
+                    <DT><A HREF="http://thetoptenme.wordpress.com/2008/08/19/the-complete-guide-for-jquery-developer-reblog/" ADD_DATE="1552706835">“The Complete Guide” for jQuery Developer- Reblog « Whiteboard</A>
+                    <DT><A HREF="http://remysharp.com/tag/jquery/page/3/" ADD_DATE="1552706835">remy sharp&#39;s b:log</A>
+                    <DT><A HREF="http://api.jquery.com/?added=1.3" ADD_DATE="1552706835">$.ajax(options) :: jQuery API Browser v1.3</A>
+                    <DT><A HREF="http://mjijackson.com/shadowbox/" ADD_DATE="1552706835">Shadowbox.js Media Viewer</A>
+                    <DT><A HREF="http://www.digitalia.be/software/slimbox2#features" ADD_DATE="1552706835">digitalia.be · Slimbox 2, the ultimate lightweight Lightbox clone for jQuery</A>
+                    <DT><A HREF="http://www.noupe.com/jquery/the-power-of-wordpress-and-jquery-30-useful-plugins-tutorials.html" ADD_DATE="1552706835">The Power of WordPress and jQuery: 25+ Useful Plugins &amp; Tutorials | Noupe</A>
+                    <DT><A HREF="http://devkick.com/blog/useful-jquery-a-compilation-of-jquery-utilities/" ADD_DATE="1552706835">Useful jQuery: a Compilation of jQuery Utilities : DevKick Blog</A>
+                    <DT><A HREF="http://code.google.com/p/jquery-utils/" ADD_DATE="1552706835">jquery-utils - Google Code</A>
+                    <DT><A HREF="http://www.shopdev.co.uk/blog/cookies-with-jquery-designing-collapsible-layouts/" ADD_DATE="1552706835">Cookies With jQuery - Designing Collapsible Layouts » ShopDev Website Design Blog</A>
+                    <DT><A HREF="http://marcgrabanski.com/article/jquery-plugin-actions-vs-utilities" ADD_DATE="1552706835">jQuery Plugin Actions vs Utilities: jQuery</A>
+                    <DT><A HREF="http://www.digital-web.com/articles/jquery_crash_course/" ADD_DATE="1552706835">Digital Web Magazine - jQuery Crash Course</A>
+                    <DT><A HREF="http://jetlogs.org/2007/12/16/jquery-disabled-and-readonly-inputs/" ADD_DATE="1552706835">Jetlogs.org » jQuery: Disabled and ReadOnly Inputs</A>
+                    <DT><A HREF="http://brandonaaron.net/" ADD_DATE="1552706835">Brandon Aaron : Blog</A>
+                    <DT><A HREF="http://jetlogs.org/2008/08/19/jquery-multiple-checkbox-validation/" ADD_DATE="1552706835">Jetlogs.org » jQuery: Multiple Checkbox Validation</A>
+                    <DT><A HREF="http://mosesofegypt.net/post/GridView-with-Select-All-CheckBox-using-JQuery.aspx" ADD_DATE="1552706836">Moses&#39; Blog | GridView with Select All CheckBox using JQuery</A>
+                    <DT><A HREF="http://snipplr.com/view/3738/jquery-selectall-checkboxes/" ADD_DATE="1552706836">JQuery: select-all checkboxes - JavaScript - Snipplr</A>
+                    <DT><A HREF="http://net.tutsplus.com/category/tutorials/javascript-ajax/page/3/" ADD_DATE="1552706836">Javascript &amp; AJAX - Nettuts+</A>
+                    <DT><A HREF="http://arshaw.com/fullcalendar/docs/" ADD_DATE="1552706836">FullCalendar - Documentation</A>
+                    <DT><A HREF="http://www.scottdarby.com/plugins/stylish-select/0.3/" ADD_DATE="1552706836">jQuery Stylish Select 0.3 plugin examples</A>
+                    <DT><A HREF="http://rikrikrik.com/jquery/quicksearch/#download" ADD_DATE="1552706836">rikrikrik.com - jQuery quickSearch plug-in</A>
+                    <DT><A HREF="http://orderedlist.com/articles/live-search-with-quicksilver-style-for-jquery" ADD_DATE="1552706836">Live Search with QuickSilver Style (for jQuery) // Ordered List // We Make The Web Beautifully Simple</A>
+                    <DT><A HREF="http://beckelman.net/post/2008/11/20/jQuery-tableSorter-and-quickSearch-Plugins-Together-Demo.aspx" ADD_DATE="1552706836">jQuery tableSorter and quickSearch Plugins Together Demo</A>
+                    <DT><A HREF="http://michael.theirwinfamily.net/?q=code_blog/jquery/modify-jquerys-quicksearch-plugin-include-reset-button" ADD_DATE="1552706836">Modify jQuery&#39;s Quicksearch plugin to include reset button | Michael Irwin - Web Developer</A>
+                    <DT><A HREF="http://www.sprymedia.co.uk/article/DataTables" ADD_DATE="1552706836">Allan Jardine | Reflections | DataTables</A>
+                    <DT><A HREF="http://www.tomcoote.co.uk/jQueryColumnFilters.aspx" ADD_DATE="1552706836">Tom Coote Web Development</A>
+                    <DT><A HREF="http://choosedaily.com/1308/15-jquery-autocomplete-plugins-tutorials/" ADD_DATE="1552706836">15+ jQuery Autocomplete Plugins &amp; Tutorials</A>
+                    <DT><A HREF="http://marcgrabanski.com/article/list-of-useful-jquery-plugins" ADD_DATE="1552706836">List of Useful jQuery Plugins: jQuery, JavaScript</A>
+                    <DT><A HREF="http://www.jarodtaylor.com/meerkat/" ADD_DATE="1552706836">Meerkat - A jQuery Plugin</A>
+                    <DT><A HREF="http://www.filamentgroup.com/services" ADD_DATE="1552706836">Strategy, branding, IA, UI design, accessibility | Filament Group, Inc., Boston, MA</A>
+                    <DT><A HREF="http://www.jqueryplugins.com/plugins/data/" ADD_DATE="1552706836">jQuery Plugins - Data</A>
+                    <DT><A HREF="http://www.9lessons.info/2008/08/table-of-contents.html" ADD_DATE="1552706836">Table of Contents</A>
+                    <DT><A HREF="http://www.izwebz.com/category/jquery/page/2/" ADD_DATE="1552706836">JQuery | Học thiết kế web theo chuẩn. - Part 2</A>
+                    <DT><A HREF="http://wowslider.com/" ADD_DATE="1552706836">WOW Slider : jQuery Image Slider &amp; Gallery</A>
+                    <DT><A HREF="http://www.webinfopedia.com/autoload-refresh-div-in-jquery.html" ADD_DATE="1552706836">Auto Load and Refresh Div every 10 Seconds with jQuery and Ajax</A>
+                    <DT><A HREF="http://www.jqueryrain.com/2012/09/best-jquery-pdf-viewer-plugin-examples/" ADD_DATE="1552706836">7 Best jQuery &amp; JavaScript PDF Viewer plugin with examples</A>
+                    <DT><A HREF="http://www.bestjquery.com/" ADD_DATE="1552706836">500+ Best jQuery : Website Design Awards Gallery 2013 - 2012</A>
+                    <DT><A HREF="http://thenewboston.org/list.php?cat=32" ADD_DATE="1552706836">List of Videos for jQuery</A>
+                    <DT><A HREF="http://gridster.net/#documentation" ADD_DATE="1552706836">gridster.js</A>
+                    <DT><A HREF="http://www.jqapi.com/#p=ajaxComplete" ADD_DATE="1552706836">.ajaxComplete() - jQAPI</A>
+                    <DT><A HREF="http://www.elijahmanor.com/2013/01/beginner-html5-javascript-jquery.html" ADD_DATE="1552706836">Web Dev .NET: Beginner HTML5, JavaScript, jQuery, Backbone, and CSS3 Resources</A>
+                    <DT><A HREF="https://code-examples.net/en/q/2b6b13" ADD_DATE="1552706836">[content-type] Jquery - How to make $.post() use contentType=application/json? [ajax] | CODE Examples [English]</A>
+                    <DT><A HREF="https://www.stephanboyer.com/post/107/fun-with-promises-in-javascript" ADD_DATE="1552706836">Fun with promises in JavaScript | Stephan Boyer</A>
+                    <DT><A HREF="http://blog.mrnepal.com/2012/04/10/ajaxsetup-does-not-set-content-type-for-get-requests/" ADD_DATE="1552706836">$.ajaxSetup does not set content type for Get requests – Blog – Nabin Nepal (Starx)</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/48190869/ajax-wrapper-for-jquery" ADD_DATE="1552706836">javascript - AJAX wrapper for jQuery - Stack Overflow</A>
+                    <DT><A HREF="http://qaru.site/questions/28558/jquery-how-to-make-post-use-contenttype-applicationjson" ADD_DATE="1552706836">content-type - JQuery - Как сделать $.post() использовать contentType = application/json? - Qaru</A>
+                    <DT><A HREF="https://www.codeproject.com/Articles/382390/An-Example-to-Use-jQuery-Global-AJAX-Event-Handler" ADD_DATE="1552706836">An Example to Use jQuery Global AJAX Event Handlers - CodeProject</A>
+                    <DT><A HREF="http://salesforcexytools.com/Javascript/Program/js-jq-parseHTML.html" ADD_DATE="1552706836">jQuery - selectors on a html string | SalesforceXyTools</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706823" LAST_MODIFIED="1552706831">slider</H3>
+                <DL><p>
+                    <DT><A HREF="http://jscontrolstags.sourceforge.net/demo/slider/slider.html" ADD_DATE="1552706829">JSControlsTags.Slider usecase</A>
+                    <DT><A HREF="http://archive.dojotoolkit.org/nightly/tests/widget/test_Slider.html" ADD_DATE="1552706830">Slider Widget Demo</A>
+                    <DT><A HREF="http://jscontrolstags.sourceforge.net/controls/slider/slider.html" ADD_DATE="1552706830">JSControlsTags</A>
+                    <DT><A HREF="http://webfx.eae.net/dhtml/slider/slider.html" ADD_DATE="1552706830">Slider (WebFX)</A>
+                    <DT><A HREF="http://www.stripegenerator.com/" ADD_DATE="1552706830">Stripe Generator - diagonal stripes background tiles</A>
+                    <DT><A HREF="http://icant.co.uk/articles/maintainablejavascriptslideshow/" ADD_DATE="1552706831">Slideshow - an example of a maintainable, unobtrusive JavaScript solution</A>
+                    <DT><A HREF="http://ajaxorized.com/introducing-the-sliding-date-picker/" ADD_DATE="1552706831">Ajaxorized » Introducing: The sliding date-picker</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706823" LAST_MODIFIED="1552706832">Create DOM Tool</H3>
+                <DL><p>
+                    <DT><A HREF="http://muffinresearch.co.uk/code/javascript/DOMTool/" ADD_DATE="1552706829">DOM Tool | Version 1.1</A>
+                    <DT><A HREF="http://schf.uc.org/articles/2006/10/15/making-javascript-dom-a-piece-of-cake-with-the-graft-function" ADD_DATE="1552706830">Making Javascript DOM a Piece of Cake with the graft() Function</A>
+                    <DT><A HREF="http://muffinresearch.co.uk/archives/2006/11/28/domtool/" ADD_DATE="1552706830">DOMTool | Muffin Research Labs by Stuart Colville</A>
+                    <DT><A HREF="http://www.danwebb.net/2006/9/3/low-pro-unobtrusive-scripting-for-prototype" ADD_DATE="1552706830">danwebb.net - Low Pro: Unobtrusive Scripting For Prototype</A>
+                    <DT><A HREF="http://dean.edwards.name/weblog/2006/03/faster" ADD_DATE="1552706831">Dean Edwards: Faster DOM Queries</A>
+                    <DT><A HREF="http://www.zachleat.com/web/2007/07/07/domdom-easy-dom-element-creation/" ADD_DATE="1552706831">zachleat.com {web} » DOMDom, easy DOM Element Creation</A>
+                    <DT><A HREF="http://flydom.socianet.com/" ADD_DATE="1552706831">jQuery Plugin - FlyDOM: Create DOM on the Fly</A>
+                    <DT><A HREF="http://jquery.com/plugins/project/appendDom" ADD_DATE="1552706831">appendDom | jQuery Plugins</A>
+                    <DT><A HREF="http://jquery.com/plugins/project/appendText" ADD_DATE="1552706832">appendText | jQuery Plugins</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706824" LAST_MODIFIED="1552706833">JSON</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.json.org/java/index.html" ADD_DATE="1552706829">JSON in Java</A>
+                    <DT><A HREF="http://www.json.org/js.html" ADD_DATE="1552706830">JSON in JavaScript</A>
+                    <DT><A HREF="http://json.org/" ADD_DATE="1552706830">Introducing JSON</A>
+                    <DT><A HREF="http://www.xml.com/pub/a/2005/12/21/json-dynamic-script-tag.html" ADD_DATE="1552706830">XML.com: JSON and the Dynamic Script Tag: Easy, XML-less Web Services for JavaScript</A>
+                    <DT><A HREF="http://developer.yahoo.com/common/json.html" ADD_DATE="1552706831">Using JSON with Yahoo! Web Services</A>
+                    <DT><A HREF="http://www-128.ibm.com/developerworks/library/j-ajax2/" ADD_DATE="1552706831">Ajax for Java developers: Java object serialization for Ajax</A>
+                    <DT><A HREF="http://today.java.net/pub/a/today/2006/04/27/building-ajax-with-dojo-and-json.html" ADD_DATE="1552706831">java.net: Using Dojo and JSON to Build Ajax Applications</A>
+                    <DT><A HREF="http://www.dustindiaz.com/json-for-the-masses/" ADD_DATE="1552706831">JSON for the masses</A>
+                    <DT><A HREF="http://braincast.nl/samples/jsoneditor/" ADD_DATE="1552706832">javascript json editor</A>
+                    <DT><A HREF="http://ejohn.org/blog/the-state-of-json/" ADD_DATE="1552706832">John Resig - The State of JSON</A>
+                    <DT><A HREF="http://www.crockford.com/javascript/recommend.html" ADD_DATE="1552706832">Recommendations for Modifications to the ECMAScript Language Specification</A>
+                    <DT><A HREF="http://ejohn.org/blog/native-json-support-is-required/" ADD_DATE="1552706832">John Resig - Native JSON Support is Required</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/library/j-ajax2/" ADD_DATE="1552706832">Ajax for Java developers: Java object serialization for Ajax</A>
+                    <DT><A HREF="http://www.javaworld.com/javaworld/jw-11-2006/jw-1115-json.html?page=2" ADD_DATE="1552706833">Dynamic Webpages with JSON - Java World</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706824" LAST_MODIFIED="1552706834">Tagging</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.oreilly.com/catalog/tagclouds/index.html?CMP=ILC-J04X34597568&ATT=http://www.onlamp.com/pub/a/onlamp/2005/06/09/rails_ajax.html?page=1" ADD_DATE="1552706829">oreilly.com -- Online Catalog: Building Tag Clouds in Perl and PHP</A>
+                    <DT><A HREF="http://lists.alioth.debian.org/pipermail/debtags-devel/2006-September/001354.html" ADD_DATE="1552706830">Ajax debtag tag clouds</A>
+                    <DT><A HREF="http://ajaxian.com/archives/zirrus-tag-clouds-meets-to-do-lists" ADD_DATE="1552706830">Ajaxian » Zirr.us: Tag clouds meets To Do lists</A>
+                    <DT><A HREF="http://www.onlamp.com/pub/a/onlamp/2005/06/09/rails_ajax.html?page=2" ADD_DATE="1552706830">ONLamp.com -- Ajax on Rails</A>
+                    <DT><A HREF="http://www.ferdychristant.com/fchristant/production/tagcloud3d.nsf/vwWebDocsByTag?openview&count=-1" ADD_DATE="1552706830">http://www.ferdychristant.com/fchristant/production/tagcloud3d.nsf/vwWebDocsByTag?openview&amp;count=-1</A>
+                    <DT><A HREF="http://www.ferdychristant.com/fchristant/production/fdm.nsf/archive/DOMM-6SKFQW" ADD_DATE="1552706831">Domino Tag Clouds</A>
+                    <DT><A HREF="http://webdomino.blogspot.com/2006/09/ajax-tag-clouds.html" ADD_DATE="1552706831">Web 2.0 &amp; Domino: AJAX - Tag Clouds</A>
+                    <DT><A HREF="http://loadaveragezero.com/drx/tag/A#zero" ADD_DATE="1552706831">drx: Web Developer Resource Index: Tag: A - loadaverageZero</A>
+                    <DT><A HREF="http://www.petefreitag.com/item/396.cfm" ADD_DATE="1552706832">How To Make a Tag Cloud</A>
+                    <DT><A HREF="http://blog.pietrosperoni.it/2005/05/28/tagclouds-and-cultural-changes/" ADD_DATE="1552706832">P. S. : » Tagclouds and cultural changes</A>
+                    <DT><A HREF="http://www.perl.com/lpt/a/977" ADD_DATE="1552706832">Perl.com: Using Ajax from Perl</A>
+                    <DT><A HREF="http://www.dekoh.org/blog/news/entry/opensource_ajax_widgets_available" ADD_DATE="1552706832">Dekoh developers blog : Weblog</A>
+                    <DT><A HREF="http://www.oreillynet.com/feeds/widgets/organic_search_tagcloud/" ADD_DATE="1552706832">Organic Search Tagcloud</A>
+                    <DT><A HREF="http://prism-perfect.net/archive/php-tag-cloud-tutorial/" ADD_DATE="1552706833">PHP Tag Cloud Tutorial | Prism-Perfect.net</A>
+                    <DT><A HREF="http://www.hawkee.com/snippet/1485/" ADD_DATE="1552706833">Tagcloud Font Distributor - PHP Code Snippet</A>
+                    <DT><A HREF="http://www.roscripts.com/Create_tag_cloud-71.html" ADD_DATE="1552706833">Create tag cloud</A>
+                    <DT><A HREF="http://blog.wannawork.de/index.php/2006/11/10/tag_cloud_plugin" ADD_DATE="1552706833">Wannawork - Tag Cloud-Plugin</A>
+                    <DT><A HREF="http://radar.oreilly.com/archives/2007/01/tag_cloud_of_wh.html" ADD_DATE="1552706833">O&#39;Reilly Radar &gt; Tag Cloud of &quot;What is Web 2.0?&quot;</A>
+                    <DT><A HREF="http://chir.ag/tags/" ADD_DATE="1552706833">Tag Cloud - Chirag Mehta : chir.ag</A>
+                    <DT><A HREF="http://www.phpclasses.org/browse/package/3672.html" ADD_DATE="1552706834">PHP Classes - Class: Multi-User Tag Cloud</A>
+                    <DT><A HREF="http://aspnet.4guysfromrolla.com/articles/102506-1.aspx" ADD_DATE="1552706834">ASP.NET.4GuysFromRolla.com: Creating a Tag Cloud in ASP.NET</A>
+                    <DT><A HREF="http://www.echochamberproject.com/node/247" ADD_DATE="1552706834">Tag Cloud Font Distribution Algorithm | Echo Chamber Project</A>
+                    <DT><A HREF="http://drupal.org/project/tagadelic" ADD_DATE="1552706834">Tagadelic | drupal.org</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706824" LAST_MODIFIED="1552706829">Drag &amp; Drop</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.walterzorn.com/dragdrop/dragdrop_e.htm" ADD_DATE="1552706829">JavaScript: DHTML Library, Drag &amp; Drop for Images and Layers</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706824" LAST_MODIFIED="1552706832">Mootools</H3>
+                <DL><p>
+                    <DT><A HREF="http://moofx.mad4milk.net/#mootools" ADD_DATE="1552706829">moo.fx - size does matter</A>
+                    <DT><A HREF="http://mootools.net/" ADD_DATE="1552706829">mootools - home</A>
+                    <DT><A HREF="http://www.mochikit.com/download.html" ADD_DATE="1552706830">MochiKit - A lightweight Javascript library</A>
+                    <DT><A HREF="http://docs.mootools.net/" ADD_DATE="1552706830">mootools docs - Core</A>
+                    <DT><A HREF="http://clientside.cnet.com/wiki/mootorial/04-window" ADD_DATE="1552706831">Window » Clientside Examples &amp; Tutorials » Clientside</A>
+                    <DT><A HREF="http://clientside.cnet.com/code-snippets/visual-effects/new-elementpin/" ADD_DATE="1552706831">new: Element.pin » Clientside</A>
+                    <DT><A HREF="http://blog.mootools.net/2008/2/12/what-s-new-in-1-2-swiff" ADD_DATE="1552706831">MooTools What&#39;s New in 1.2: Swiff</A>
+                    <DT><A HREF="http://digitarald.de/projects/" ADD_DATE="1552706831">digitarald » Projects</A>
+                    <DT><A HREF="http://www.coryhudson.com/" ADD_DATE="1552706832">CoryHudson.com</A>
+                    <DT><A HREF="http://solutoire.com/" ADD_DATE="1552706832">Solutoire.com</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706825" LAST_MODIFIED="1552706830">jsolait</H3>
+                <DL><p>
+                    <DT><A HREF="http://jsolait.net/wiki/tutorials" ADD_DATE="1552706829">tutorials - jsolait - Trac</A>
+                    <DT><A HREF="http://jsolait.net/" ADD_DATE="1552706830">jsolait - Trac</A>
+                    <DT><A HREF="http://jsolait.net/doc/tutorial.xhtml" ADD_DATE="1552706830">.: jsolait :. | documentation | tutorial</A>
+                    <DT><A HREF="http://jsolait.net/examples/jsonrpc/index.xhtml" ADD_DATE="1552706830">.: jsolait.net :. | examples | json-rpc</A>
+                    <DT><A HREF="http://jsolait.net/wiki/tutorials/gettingstarted" ADD_DATE="1552706830">tutorials/gettingstarted - jsolait - Trac</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706825" LAST_MODIFIED="1552706831">Suggestions</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.robertnyman.com/2007/04/09/ajax-suggestions-a-new-javascript-library-for-you/" ADD_DATE="1552706829">AJAX Suggestions - a new JavaScript library for you - Robert’s talk</A>
+                    <DT><A HREF="http://gadgetopia.com/autosuggest/?state=Nebraska" ADD_DATE="1552706829">AutoSuggest Sample</A>
+                    <DT><A HREF="http://www.gadgetopia.com/post/3773" ADD_DATE="1552706830">Easy JavaScript Autocomplete / Intellisense Script | Gadgetopia</A>
+                    <DT><A HREF="http://www.entechsolutions.com/DeveloperCorner/AutoSuggestMenu/Demo.aspx" ADD_DATE="1552706830">ENTech Solutions : AutoSuggestMenu : Demo</A>
+                    <DT><A HREF="http://www.brandspankingnew.net/archive/2006/08/ajax_auto-suggest_auto-complete.html" ADD_DATE="1552706830">AutoSuggest: An AJAX auto-complete text field : CSS . XHTML . Javascript . DOM, Development : Brand Spanking New</A>
+                    <DT><A HREF="http://www.brandspankingnew.net/archive/2007/02/ajax_auto_suggest_v2.html" ADD_DATE="1552706831">Ajax Auto Suggest v.2 : CSS . XHTML . Javascript . DOM : Brand Spanking New</A>
+                    <DT><A HREF="http://www.beauscott.com/" ADD_DATE="1552706831">BeauScott.com</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706825" LAST_MODIFIED="1552706830">Slideshow</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.electricprism.com/aeron/slideshow/" ADD_DATE="1552706829">Slideshow: A Javascript class for Mootools 1.0</A>
+                    <DT><A HREF="http://host.sonspring.com/slideshow/" ADD_DATE="1552706829">Slideshow Demo</A>
+                    <DT><A HREF="http://www.agilepartners.com/blog/2005/12/07/iphoto-image-resizing-using-javascript/" ADD_DATE="1552706830">Agile Partners weblog » iPhoto-like image resizing using Javascript</A>
+                    <DT><A HREF="http://www.maxkiesler.com/index.php/weblog/comments/ajax_slideshow/" ADD_DATE="1552706830">Max Kiesler- Strategic Designer</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706825" LAST_MODIFIED="1552706832">Rating</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.yvoschaap.com/index.php/weblog/css_star_rater_ajax_version/" ADD_DATE="1552706829">YvoSchaap.com - CSS: Star Rater Ajax Version</A>
+                    <DT><A HREF="http://www.masugadesign.com/the-lab/scripts/unobtrusive-ajax-star-rating-bar/" ADD_DATE="1552706829">Masuga Design » Unobtrusive AJAX Star Rating Bar</A>
+                    <DT><A HREF="http://www.komodomedia.com/blog/index.php/2005/08/24/creating-a-star-rater-using-css/" ADD_DATE="1552706830">Creating a Star Rater using CSS » Blog » Komodo Media</A>
+                    <DT><A HREF="http://www.bobbyschwalbe.com/tutorials/starvoting/" ADD_DATE="1552706830">Five Star Rating with Javascript, AJAX and C#</A>
+                    <DT><A HREF="http://www.reversefolds.com/articles/show/rating2" ADD_DATE="1552706831">ReverseFolds - CakePHP Star Rating part 2</A>
+                    <DT><A HREF="http://www.progressive-coding.com/tutorial.php?id=6" ADD_DATE="1552706831">Creating an AJAX Rating Widget</A>
+                    <DT><A HREF="http://hades.phparch.com/ceres/public/article/index.php/art::ajax::ajax_rating_system/1" ADD_DATE="1552706831">Writing an AJAX-based Visual Rating System with PHP — a/r/t by php|architect</A>
+                    <DT><A HREF="http://www.mt-hacks.com/ajaxrating.html" ADD_DATE="1552706831">Ajax Rating - Star Rater and More - MT (Movable Type) Hacks</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/library/x-ajaxxml5/" ADD_DATE="1552706832">Ajax and XML: Ajax for ratings and comments</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706825" LAST_MODIFIED="1552706829">extjs</H3>
+                <DL><p>
+                    <DT><A HREF="http://extjs.com/" ADD_DATE="1552706829">Ext JS - JavaScript Library</A>
+                    <DT><A HREF="http://extjs.com/learn/" ADD_DATE="1552706829">Learn About the Ext JavaScript Library - Learn About the Ext JavaScript Library</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706826" LAST_MODIFIED="1552706829">Domassistant</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.domassistant.com/blog/2008/02/20/releasing-domassistant-26-overall-fastest-css-selectors-plugins-and-more/" ADD_DATE="1552706829">DOMAssistant development blog » Blog Archive » Releasing DOMAssistant 2.6 - overall fastest CSS selectors, plugins and more</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706826" LAST_MODIFIED="1552706830">Learn Ajax</H3>
+                <DL><p>
+                    <DT><A HREF="http://developer.mozilla.org/en/docs/AJAX" ADD_DATE="1552706829">AJAX - MDC</A>
+                    <DT><A HREF="http://learn-ajax-tutorial.com/AjaxFrameworks.cfm" ADD_DATE="1552706829">Ajax Tutorial: Ajax Frameworks</A>
+                    <DT><A HREF="http://blog.reindel.com/2008/12/28/40-javascript-and-jquery-resources-that-will-make-you-a-better-web-developer/" ADD_DATE="1552706830">40+ JavaScript and jQuery resources that will make you a better Web developer | d&#39;bug</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706826" LAST_MODIFIED="1552706832">Session timeout</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.cypressnorth.com/blog/web-programming-and-development/global-ajax-error-handling-with-jquery/" ADD_DATE="1552706829">Global AJAX error handling with jQuery | Cypress North</A>
+                    <DT><A HREF="http://blog.cnizz.com/2013/05/28/using-jquery-ajaxerror-to-automatically-handle-session-expiration-and-server-side-errors/" ADD_DATE="1552706830">Using jQuery ajaxError to Automatically Handle Session Expiration and Server Side Errors | Chris Nizzardini | Chris Nizzardini</A>
+                    <DT><A HREF="http://markfreedman.com/index.php/2012/02/28/handling-session-and-authentication-timeouts-in-asp-net-mvc/" ADD_DATE="1552706830">Handling Session and Authentication Timeouts in ASP.NET MVC — Mark Freedman&#39;s Blog</A>
+                    <DT><A HREF="http://www.raymondcamden.com/index.cfm/2010/9/8/Example-of-handling-session-time-outs-in-an-Ajax-application" ADD_DATE="1552706830">Example of handling session time outs in an Ajax application</A>
+                    <DT><A HREF="http://doanduyhai.wordpress.com/2012/04/21/spring-security-part-vi-session-timeout-handling-for-ajax-calls/" ADD_DATE="1552706830">Spring Security part VI : Session Timeout handling for Ajax calls | DuyHai&#39;s Java Blog</A>
+                    <DT><A HREF="http://debapk.blogspot.com/2011/11/how-to-handle-session-expiration-in.html" ADD_DATE="1552706831">How to handle Session Timeout in Jquery calls in MVC|ASP.NET | MVC | SharePoint Deba</A>
+                    <DT><A HREF="http://technico.qnownow.com/handling-session-timeout-in-jquery-ajax-call/" ADD_DATE="1552706831">Handling Session Timeout in JQuery AJAX callEverything Technical</A>
+                    <DT><A HREF="http://trycatchfail.com/blog/post/Handling-Authorization-Failures-for-AJAX-Requests-in-ASPNET-MVC-Applications.aspx" ADD_DATE="1552706831">try-catch-FAIL | Handling Authorization Failures for AJAX Requests in ASP.NET MVC Applications</A>
+                    <DT><A HREF="http://gnaresh.wordpress.com/2012/07/09/javascript-session-timeout-forms-authentication-using-jquery-ajax-and-webservice/" ADD_DATE="1552706831">JavaScript Session Timeout Forms Authentication using JQuery Ajax and Webservice | .Net Heaven</A>
+                    <DT><A HREF="http://miamicoder.com/2011/the-art-of-gracefully-handling-session-timeouts-with-extjs/" ADD_DATE="1552706832">The Art of Gracefully Handling Session Timeouts with Ext JS</A>
+                    <DT><A HREF="http://www.rqgg.net/topic/niuwu-handling-session-timeout-in-ajax.html" ADD_DATE="1552706832">Handling session timeout in ajax</A>
+                    <DT><A HREF="http://bugsort.com/jquery/jquery-handling-session-timeout-in-ajax/?PHPSESSID=a8e1231beff8cb65aa0185af6180d645" ADD_DATE="1552706832">JQuery,Handling session timeout in ajax - JQuery - BugSort - Public Forum</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706826" LAST_MODIFIED="1552706832">Audio</H3>
+                <DL><p>
+                    <DT><A HREF="http://sodeve.net/2011/10/how-to-add-javascript-beep-that-runs-in-all-browsers/" ADD_DATE="1552706829">How To Add Javascript Beep That Runs in All Browsers | SODEVE</A>
+                    <DT><A HREF="http://blog.parse.com/2013/02/27/reproducing-the-macintosh-boot-beep-from-javascript-cloud-code/" ADD_DATE="1552706829">Reproducing the Macintosh Boot Beep from JavaScript Cloud Code | Parse Blog</A>
+                    <DT><A HREF="http://urbanoalvarez.es/blog/2010/05/03/play-a-sound-via-javascript/" ADD_DATE="1552706830">Play a sound via JavaScript | Urbano&#39;s Blog</A>
+                    <DT><A HREF="http://www.schillmania.com/projects/soundmanager2/demo/mp3-player-button/#" ADD_DATE="1552706830">SoundManager 2 Demo: Basic MP3 Play Button</A>
+                    <DT><A HREF="http://www.storiesinflight.com/html5/audio.html" ADD_DATE="1552706830">Stories In Flight | HTML5 Audio and JavaScript Control</A>
+                    <DT><A HREF="http://flashbeep.net/#alert" ADD_DATE="1552706831">Flash Beep</A>
+                    <DT><A HREF="http://mibew.org/forums/index.php?topic=976.0" ADD_DATE="1552706831">How to create a looping notification sound</A>
+                    <DT><A HREF="https://gist.github.com/luciferous/1068738" ADD_DATE="1552706831">Beep!</A>
+                    <DT><A HREF="http://www.9lessons.info/2013/04/play-notification-sound-using-jquery.html" ADD_DATE="1552706831">Play Notification Sound using Jquery.</A>
+                    <DT><A HREF="http://webdesign.about.com/od/sound/a/play_sound_oncl.htm" ADD_DATE="1552706832">How to Play a Sound on Click or on MouseOver</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706826" LAST_MODIFIED="1552706833">Notification</H3>
+                <DL><p>
+                    <DT><A HREF="http://cssdeck.com/labs/menu-with-notification-badges" ADD_DATE="1552706829">Menu with Notification Badges | CSSDeck</A>
+                    <DT><A HREF="http://notifyjs.com/" ADD_DATE="1552706830">Notify.js</A>
+                    <DT><A HREF="http://www.hongkiat.com/blog/show-n-hide-notification-bar/" ADD_DATE="1552706830">How to Create Hide / Show Notification Bar With CSS3</A>
+                    <DT><A HREF="http://css-tricks.com/pop-from-top-notification/" ADD_DATE="1552706830">Pop From Top Notification | CSS-Tricks</A>
+                    <DT><A HREF="http://www.cssportal.com/blog/css-notification-boxes/" ADD_DATE="1552706830">CSS Notification Boxes – CSSPortal</A>
+                    <DT><A HREF="http://tympanus.net/codrops/2012/06/25/timed-notifications-with-css-animations/" ADD_DATE="1552706831">Timed Notifications with CSS Animations | Codrops</A>
+                    <DT><A HREF="http://techmantium.com/css-message-notification-bars/" ADD_DATE="1552706831">CSS Message Notification Bars | Techmantium</A>
+                    <DT><A HREF="http://loridave.com/" ADD_DATE="1552706831">CSS Notification Boxes</A>
+                    <DT><A HREF="http://www.red-team-design.com/cool-notification-messages-with-css3-jquery" ADD_DATE="1552706831">Cool notification messages with CSS3 &amp; jQuery - RedTeamDesign</A>
+                    <DT><A HREF="http://designshack.net/articles/css/build-css3-notifications-with-fade-animations/" ADD_DATE="1552706832">Building CSS3 Notification Boxes With Fade Animations | Design Shack</A>
+                    <DT><A HREF="http://jquery-plugins.net/tag/notification-box" ADD_DATE="1552706832">notification box | jQuery Plugins</A>
+                    <DT><A HREF="http://www.paulund.co.uk/giveaway-10-css-notification-boxes-for-free" ADD_DATE="1552706832">Giveaway 10 CSS Notification Boxes For Free</A>
+                    <DT><A HREF="http://cssglobe.com/jquery-plugin-easy-notification/" ADD_DATE="1552706832">jQuery plugin Easy Notification | CSS Globe</A>
+                    <DT><A HREF="http://blog.icodeclarity.com/post/29700121502/20-useful-jquery-notification-plugins-and-tutorials" ADD_DATE="1552706833">20 Useful jQuery Notification Plugins and Tutorials (Shared Article) - Simplified Source</A>
+                    <DT><A HREF="http://www.2lessons.info/2012/05/how-to-create-facebook-style-activity.html" ADD_DATE="1552706833">How to create a facebook beeper using jquery and css</A>
+                    <DT><A HREF="http://medleyweb.com/web-dev/10-great-jquery-notification-plugins" ADD_DATE="1552706833">10 Great jQuery Notification Plugins to Increase User Experience</A>
+                    <DT><A HREF="http://www.tripwiremagazine.com/2012/08/jquery-notification-plugins.html" ADD_DATE="1552706833">20 Useful jQuery Notification Plugins and Tutorials</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706826" LAST_MODIFIED="1552706830">Build HTML</H3>
+                <DL><p>
+                    <DT><A HREF="http://marcgrabanski.com/building-html-in-jquery-and-javascript/" ADD_DATE="1552706829">Building HTML in jQuery and JavaScript - Marc Grabanski</A>
+                    <DT><A HREF="http://daffl.github.io/2011/01/06/jquery-dform.html" ADD_DATE="1552706830">Creating forms in JSON with jQuery - Daffs blog</A>
+                    <DT><A HREF="http://www.jformer.com/demos/" ADD_DATE="1552706830">Demos - jFormer</A>
+                    <DT><A HREF="http://tjvantoll.com/2013/07/10/creating-a-jquery-ui-dialog-with-a-submit-button/" ADD_DATE="1552706830">Creating a jQuery UI Dialog with a Submit Button - TJ VanToll - Tutorials, Thoughts, and Ramblings on Front-End Development</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706827" LAST_MODIFIED="1552706833">Create Dynamic Table</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.dynatable.com/?perPage=20&page=2&offset=20" ADD_DATE="1552706829">Dynatable.js - jQuery plugin for HTML5+JSON interactive tables and more</A>
+                    <DT><A HREF="https://appendgrid.apphb.com/Demo/ServerHandling" ADD_DATE="1552706830">appendGrid - Demo: Server-side Handling</A>
+                    <DT><A HREF="http://www.discussdesk.com/add-remove-more-rows-dynamically-using-jquery.htm" ADD_DATE="1552706830">Add remove more rows dynamically using Jquery in HTML table</A>
+                    <DT><A HREF="http://www.ssiddique.info/jquery-and-editable-html-table.html" ADD_DATE="1552706830">Create editable HTML table using jQuery</A>
+                    <DT><A HREF="http://lab.devzone.co.in/add-remove-rows-table-using-jquery/index.html" ADD_DATE="1552706831">Add Remove rows in table dynamically using JQuery :devzone.co.in</A>
+                    <DT><A HREF="http://www.amitpatil.me/ajax-table-adding-removing-rows-dynamically-using-javascript-animation/" ADD_DATE="1552706831">Dynamically add rows to table using javascript</A>
+                    <DT><A HREF="http://www.infotuts.com/ajax-table-add-edit-delete-rows-dynamically-jquery-php/" ADD_DATE="1552706831">Ajax table Add Edit Delete Rows Dynamically Using jQuery PHP- InfoTuts</A>
+                    <DT><A HREF="http://demo.mysamplecode.com/JavaScript/pages/javaScriptDynamicTable.jsp" ADD_DATE="1552706831">Programmers sample guide, help is on the way</A>
+                    <DT><A HREF="http://viralpatel.net/blogs/dynamically-add-remove-rows-in-html-table-using-javascript/" ADD_DATE="1552706831">Dynamically Add/Remove rows in HTML table using JavaScript</A>
+                    <DT><A HREF="http://blog.teamtreehouse.com/how-to-code-sortable-tabular-data-with-jquery" ADD_DATE="1552706832">How To Code a Sortable Table with jQuery | Treehouse Blog</A>
+                    <DT><A HREF="http://www.just-thor.com/2014/07/18/dynamic-rows-in-table-using-jquery/" ADD_DATE="1552706832">Dynamic Rows in Table using JQuery</A>
+                    <DT><A HREF="http://jquerytipsntricks.wordpress.com/2013/08/18/bind-events-to-dynamically-created-elements-using-jquery/" ADD_DATE="1552706832">Bind events to dynamically created elements using jQuery | jQuery Tips and Tricks</A>
+                    <DT><A HREF="http://www.zachhunter.com/2012/04/crud-my-table-rows/" ADD_DATE="1552706832">Making an Editiable Table (CRUD) with jQuery « Zach Hunter&#39;s Busy Life</A>
+                    <DT><A HREF="http://www.dotnetfox.com/articles/jquery-dynamically-add-and-edit-table-rows-with-jquery-ui-dialog-1106.aspx" ADD_DATE="1552706833">jQuery dynamically add and edit Table rows with jQuery UI dialog</A>
+                    <DT><A HREF="http://www.tripwiremagazine.com/2013/06/jquery-filter-sort-plugins.html" ADD_DATE="1552706833">35+ Useful jQuery Filter and Sort Plugins</A>
+                    <DT><A HREF="http://www.sanwebe.com/2013/03/addremove-input-fields-dynamically-with-jquery" ADD_DATE="1552706833">Add/Remove Input Fields Dynamically with jQuery</A>
+                    <DT><A HREF="http://viralpatel.net/blogs/dynamic-add-textbox-input-button-radio-element-html-javascript/" ADD_DATE="1552706833">Dynamically add button,textbox,input,radio elements in html form using JavaScript</A>
+                    <DT><A HREF="http://www.mkyong.com/jquery/how-to-add-remove-textbox-dynamically-with-jquery/" ADD_DATE="1552706833">How to add / remove textbox dynamically with jQuery</A>
+                    <DT><A HREF="http://phpmysqlmania.blogspot.com/p/dynamic-table-row-inserter.html" ADD_DATE="1552706833">PHP MySql mania: Dynamic table row inserter</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706827" LAST_MODIFIED="1552706830">Callback</H3>
+                <DL><p>
+                    <DT><A HREF="http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/" ADD_DATE="1552706829">Understand JavaScript Callback Functions and Use Them | JavaScript is Sexy</A>
+                    <DT><A HREF="http://www.impressivewebs.com/callback-functions-javascript/" ADD_DATE="1552706830">Callback Functions in JavaScript | Impressive Webs</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/17015409/assigning-variable-from-jquery-ajax-call-returns-undefined" ADD_DATE="1552706830">Assigning variable from jquery ajax call returns undefined - Stack Overflow</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/14754619/jquery-ajax-success-callback-function-definition" ADD_DATE="1552706830">javascript - jQuery ajax success callback function definition - Stack Overflow</A>
+                </DL><p>
+                <DT><A HREF="http://www.ajaxbestiary.com/" ADD_DATE="1552706827">Ajax Bestiary » AJAX Development, News, Techniques &amp; More</A>
+                <DT><A HREF="http://www-128.ibm.com/developerworks/websphere/library/techarticles/0606_barcia/0606_barcia.html" ADD_DATE="1552706827">Build enterprise SOA Ajax clients with the Dojo toolkit and JSON-RPC</A>
+                <DT><A HREF="http://www.javapassion.com/handsonlabs/ajaxdojointro/index.html#Tutorial_Exercises" ADD_DATE="1552706827">LAB-4260: Using Dojo Toolkit for Building AJAX Applications</A>
+                <DT><A HREF="http://www-128.ibm.com/developerworks/opensource/library/os-ecl-ajax/" ADD_DATE="1552706827">Two tools bring Ajax to Eclipse&#39;s Ajax Toolkit Framework</A>
+                <DT><A HREF="http://www.defusion.org.uk/code/javascript-image-cropper-ui-using-prototype-scriptaculous/" ADD_DATE="1552706827">DEfusion.org.uk » JavaScript Image Cropper UI, using Prototype &amp; script.aculo.us</A>
+                <DT><A HREF="http://www.pentaho.org/index.php?option=com_content&task=view&id=102&Itemid=317" ADD_DATE="1552706827">Pentaho - Open Source Business Intelligence - Download</A>
+                <DT><A HREF="http://www.htmldog.com/articles/suckerfish/dropdowns/" ADD_DATE="1552706828">Suckerfish Dropdowns - HTML Dog</A>
+                <DT><A HREF="http://ajaxpatterns.org/One-Second_Spotlight" ADD_DATE="1552706828">One-Second Spotlight - Ajax Patterns</A>
+                <DT><A HREF="http://api.rubyonrails.org/classes/ActionView/Helpers/JavaScriptHelper.html" ADD_DATE="1552706828">Module: ActionView::Helpers::JavaScriptHelper</A>
+                <DT><A HREF="http://ajaxtags.no-ip.info/" ADD_DATE="1552706828">http://ajaxtags.no-ip.info/</A>
+                <DT><A HREF="http://brennan.offwhite.net/blog/2006/09/10/web-development-tools-for-the-power-developer/" ADD_DATE="1552706828">Brennan’s Blog » Blog Archive » Web Development Tools for the Power Developer</A>
+                <DT><A HREF="http://ajax.raleigh.ibm.com:8822/help/index.jsp" ADD_DATE="1552706828">Help - Eclipse Platform</A>
+                <DT><A HREF="http://kasparov.skife.org/blog/src/javascript/" ADD_DATE="1552706828">Brian McCallister</A>
+                <DT><A HREF="http://www.thescripts.com/forum/archive/index.php/f-149.html" ADD_DATE="1552706828">Javascript / DHTML / Ajax - Community Site Map</A>
+                <DT><A HREF="http://www.ajaxmatters.com/blog/articles/" ADD_DATE="1552706828">AJAX Matters Blog » Articles</A>
+                <DT><A HREF="http://www-128.ibm.com/developerworks/xml/library/wa-ajaxintro8.html" ADD_DATE="1552706828">Mastering Ajax, Part 8: Using XML in requests and responses</A>
+                <DT><A HREF="http://www.javavietnam.org/javavn/cms/vi/AJAX_2.html" ADD_DATE="1552706828">JavaVietNam - AJAX_Tương lai cho ứng dụng Web (Phần 2)</A>
+                <DT><A HREF="http://www.javavietnam.org/javavn/cms/vi/javavn/cms/vi/java_tutorials/java_tutorials_intermediate/AJAX_1.html" ADD_DATE="1552706828">JavaVietNam - AJAX - Tương lai cho ứng dụng Web (phần 1)</A>
+                <DT><A HREF="http://www.widgetbox.com/" ADD_DATE="1552706828">Widgetbox › Directory of web widgets for WordPress, TypePad, MySpace and other blogs and web pages</A>
+                <DT><A HREF="http://www.interaktonline.com/Support/Articles/?viewAll=1" ADD_DATE="1552706828">Articles</A>
+                <DT><A HREF="http://javascript.crockford.com/" ADD_DATE="1552706828">Douglas Crockford&#39;s Javascript</A>
+                <DT><A HREF="http://kylescholz.com/blog/" ADD_DATE="1552706828">kylescholz.com :: blog</A>
+                <DT><A HREF="http://www-128.ibm.com/developerworks/web/library/wa-ajaxintro1.html?ca=dgr-lnxw01MasterAJAX" ADD_DATE="1552706828">Mastering Ajax, Part 1: Introduction to Ajax</A>
+                <DT><A HREF="http://aka-fotos.de/web/?javascript/liberty" ADD_DATE="1552706828">liberty JavaScript Basic library | aka-fotos.de</A>
+                <DT><A HREF="http://ajax.solutoire.com/" ADD_DATE="1552706828">s o l u t o i r e . c o m - ajax resources</A>
+                <DT><A HREF="http://www.thinkvitamin.com/features/ajax/go-forth-and-api" ADD_DATE="1552706829">Vitamin Features » Go forth and API</A>
+                <DT><A HREF="http://www.openajax.org/" ADD_DATE="1552706829">OpenAjax Alliance</A>
+                <DT><A HREF="http://tt-rss.spb.ru/trac/" ADD_DATE="1552706829">Tiny Tiny RSS - Trac</A>
+                <DT><A HREF="http://blog.donews.com/dodo/archive/2006/08/16/1003231.aspx" ADD_DATE="1552706829">70个流行的AJAX应用的演示和源码下载 - WEB标准网站设计心得 - DonewsBlog</A>
+                <DT><A HREF="http://www.smashingmagazine.com/2006/11/15/ajax-dhtml-and-javascript-libraries/" ADD_DATE="1552706829">AJAX, DHTML and JavaScript Libraries | Smashing Magazine</A>
+                <DT><A HREF="http://www.blinklist.com/tag/tagging+ajax/" ADD_DATE="1552706829">Discover the best tagging ajax and tagging ajax web2.0 sites</A>
+                <DT><A HREF="http://www.mister-wong.de/user/georgbez/javascript/" ADD_DATE="1552706829">javascript | georgbez | mister-wong.de | Social Bookmarking Tool</A>
+                <DT><A HREF="http://www.rawdata.net/developer/web_developer/ajax_javascript_librabries.php" ADD_DATE="1552706829">AJAX Javascript Libraries / Frameworks</A>
+                <DT><A HREF="http://www.whitefrost.com/reference/2003/06/17/libXmlRequest.js" ADD_DATE="1552706829">http://www.whitefrost.com/reference/2003/06/17/libXmlRequest.js</A>
+                <DT><A HREF="http://errorcoding.com/project/jsFlickrSlideshow" ADD_DATE="1552706829">Javascript Flickr Slideshow | Error Coding</A>
+                <DT><A HREF="http://ejohn.org/" ADD_DATE="1552706829">John Resig - JavaScript, Programming, and Web Applications</A>
+                <DT><A HREF="http://www.dustyd.net/projects/PhotoNotes/" ADD_DATE="1552706829">dustyd.net - PhotoNotes (Flickr Notes)</A>
+                <DT><A HREF="http://www.maxkiesler.com/index.php/weblog/comments/downloadable_web_20_and_ajax_widgets1/" ADD_DATE="1552706829">Max Kiesler- Strategic Designer</A>
+                <DT><A HREF="http://www.dhtmlgoodies.com/index.html?whichScript=ajax_dynamicArticles" ADD_DATE="1552706829">Dynamically loaded articles</A>
+                <DT><A HREF="http://www.dhtmlgoodies.com/index.html?whichScript=ajax-dynamic-content" ADD_DATE="1552706829">Ajax dynamic content</A>
+                <DT><A HREF="http://twilightuniverse.com/projects/sack/" ADD_DATE="1552706829">Simple AJAX Code-Kit (SACK) Documentation</A>
+                <DT><A HREF="http://blog.360.yahoo.com/blog-7WY1U8U5bqhMWlHhJpepg2M-?cq=1&l=6&u=10&mx=58&lmt=5" ADD_DATE="1552706829">Yahoo! 360° - hung map&#39;s Blog</A>
+                <DT><A HREF="http://mjtemplate.org/" ADD_DATE="1552706829">mjt</A>
+                <DT><A HREF="http://livepipe.net/projects/event_behavior/" ADD_DATE="1552706829">Event.Behavior : Natural Language Event Programming for Prototype</A>
+                <DT><A HREF="http://josephscott.org/code/js/eip/example.html" ADD_DATE="1552706829">AJAX Edit In Place (EIP) With Prototype</A>
+                <DT><A HREF="http://billwscott.com/carousel/" ADD_DATE="1552706829">Carousel Component - Documentation</A>
+                <DT><A HREF="http://www.maxkiesler.com/index.php/mhub/" ADD_DATE="1552706829">Max Kiesler - mHub</A>
+                <DT><A HREF="http://joseph.randomnetworks.com/tag/editinplace" ADD_DATE="1552706829">Joseph Scott&#39;s Blog</A>
+                <DT><A HREF="http://www.barelyfitz.com/blog/archives/2006/03/09/232/" ADD_DATE="1552706829">BarelyBlogging » Blog Archive » Eliminating redisplay flashes in JavaScript</A>
+                <DT><A HREF="http://www.barelyfitz.com/projects/tabber/" ADD_DATE="1552706829">JavaScript Tabifier automatically create an html tab interface</A>
+                <DT><A HREF="http://www.ruzee.com/blog/shadedborder" ADD_DATE="1552706829">ruzee.com - Steffen Rusitschka » ShadedBorder - JavaScript Round Corners with Drop Shadow</A>
+                <DT><A HREF="http://script.spinelz.org/index_en.html" ADD_DATE="1552706829">Spinelz - JavaScript libraries</A>
+                <DT><A HREF="http://www.axentric.com/posts/default/7" ADD_DATE="1552706829">axentric. a web designer&#39;s “tackboard”.</A>
+                <DT><A HREF="http://www.huddletogether.com/projects/lightbox2/" ADD_DATE="1552706829">Lightbox 2</A>
+                <DT><A HREF="http://stickmanlabs.com/crossfader/#" ADD_DATE="1552706829">Cross Fader Demo v0.2</A>
+                <DT><A HREF="http://www.dustindiaz.com/" ADD_DATE="1552706829">/with Imagination: Dustin Diaz</A>
+                <DT><A HREF="http://colinramsay.co.uk/2007/04/20/a-javascript-tickertape-component/" ADD_DATE="1552706829">http://colinramsay.co.uk/2007/04/20/a-javascript-tickertape-component/</A>
+                <DT><A HREF="http://meyerweb.com/eric/tools/s5/" ADD_DATE="1552706829">S5: A Simple Standards-Based Slide Show System</A>
+                <DT><A HREF="http://www.dhtmlsite.com/" ADD_DATE="1552706829">DHTMLSite - Ultimate Resource on DHTML/AJAX Scripts and Tutorials</A>
+                <DT><A HREF="http://www.missingmethod.com/projects/slider.html" ADD_DATE="1552706829">Slider.js Example</A>
+                <DT><A HREF="http://freeajaxscripts.net/tutorials.html" ADD_DATE="1552706829">Index | Ajax Scripts | Ajax Code Examples</A>
+                <DT><A HREF="http://www.jsvalidate.com/" ADD_DATE="1552706829">JSValidate</A>
+                <DT><A HREF="http://www.dustindiaz.com/roll-out-your-own-interface/" ADD_DATE="1552706829">Roll out your own JavaScript Interfaces</A>
+                <DT><A HREF="http://www.maxkiesler.com/index.php/weblog/comments/ajax_amp_javascript_galleries_slideshows_and_effects_redux/" ADD_DATE="1552706829">AJAX &amp; Javascript Galleries, Slideshows and Effects Redux at Max Kiesler</A>
+                <DT><A HREF="http://www.twinhelix.com/" ADD_DATE="1552706829">JavaScript Menu, DHTML Menu, Popup Tooltip, Ajax Scripts - TwinHelix</A>
+                <DT><A HREF="http://www.ajaxdaddy.com/demo-ajax-tabs.html" ADD_DATE="1552706829">Ajax Tabs Examples</A>
+                <DT><A HREF="http://www.developer.com/design/article.php/10925_3719341_3" ADD_DATE="1552706829">Fun with Auto-Complete Widgets</A>
+                <DT><A HREF="http://ejohn.org/blog/acid3-tackles-ecmascript/" ADD_DATE="1552706829">John Resig - Acid 3 Tackles ECMAScript</A>
+                <DT><A HREF="http://www.ajaxlessons.com/2006/02/18/ajax-workshop-2-building-tabbed-content/" ADD_DATE="1552706829">Ajax Lessons » Ajax Workshop 2: Building Tabbed Content</A>
+                <DT><A HREF="http://snook.ca/archives/javascript/be_library_agnostic/" ADD_DATE="1552706829">Be Library Agnostic - Snook.ca</A>
+                <DT><A HREF="http://icant.co.uk/sandbox/ajax-code-display/" ADD_DATE="1552706829">Displaying source code with Ajax</A>
+                <DT><A HREF="http://paul.irish.aurgasm.us/2008/automate-firing-of-onload-events/" ADD_DATE="1552706829">Automate firing of onload events — Glibness</A>
+                <DT><A HREF="http://www.danwebb.net/lowpro" ADD_DATE="1552706829">danwebb.net - Low Pro Archive</A>
+                <DT><A HREF="http://devthought.com/tags/project/" ADD_DATE="1552706829">Devthought - Guillermo Rauch’s Blog » Project</A>
+                <DT><A HREF="http://www.ajaxreview.com/" ADD_DATE="1552706829">AJAX Review / Web 2.0 Dissected (powered by evoBlog)</A>
+                <DT><A HREF="http://blog.hedgerwow.com/" ADD_DATE="1552706829">HedgerWow</A>
+                <DT><A HREF="http://www.coryhudson.com/" ADD_DATE="1552706829">CoryHudson.com</A>
+                <DT><A HREF="http://www.twilightuniverse.com/projects/sack/" ADD_DATE="1552706829">Twilight Universe » Simple AJAX Code-Kit (SACK)</A>
+                <DT><A HREF="http://javascriptmvc.com/learningcenter/controller/index.html" ADD_DATE="1552706829">Controller - JavaScriptMVC</A>
+                <DT><A HREF="http://blogs.pathf.com/agileajax/" ADD_DATE="1552706829">Agile Ajax</A>
+                <DT><A HREF="http://msmvps.com/blogs/omar/archive/2008/05/24/uframe-goodness-of-updatepanel-and-iframe-combined.aspx" ADD_DATE="1552706829">UFrame: goodness of UpdatePanel and IFRAME combined - Omar AL Zabir blog on ASP.NET Ajax and .NET 3.5</A>
+                <DT><A HREF="http://dev.aol.com/topic/ajax" ADD_DATE="1552706829">AJAX Central | dev.aol.com | The AOL Developer Network</A>
+                <DT><A HREF="http://www.openwebware.com/" ADD_DATE="1552706829">Open Source Cross-Browser WYSIWYG Editor</A>
+                <DT><A HREF="http://www.dyn-web.com/" ADD_DATE="1552706829">Welcome to dyn-web.com</A>
+                <DT><A HREF="http://www.webappers.com/page/2/" ADD_DATE="1552706829">Best Open Source Resources for Web Developers | WebAppers</A>
+                <DT><A HREF="http://www.jquery4u.com/snippets/jquery-decode-url-string/" ADD_DATE="1552706829">jQuery Encode/Decode URL String | jQuery4u</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706823">Cookies</H3>
+            <DL><p>
+                <DT><A HREF="http://www.quirksmode.org/js/cookies.html" ADD_DATE="1552706821">JavaScript - Cookies</A>
+                <DT><A HREF="http://www.mach5.com/support/analyzer/manual/html/General/CookiesJavaScript.htm" ADD_DATE="1552706821">Cookie JavaScript Example</A>
+                <DT><A HREF="http://techpatterns.com/downloads/javascript_cookies.php" ADD_DATE="1552706821">Javascript Cookie Script: Get Cookie, Set Cookie, Delete Cookie Functions</A>
+                <DT><A HREF="http://javascript.internet.com/cookies/cookie-redirect-2.html" ADD_DATE="1552706822">The JavaScript Source: Cookies : Cookie Redirect 2</A>
+                <DT><A HREF="http://www.webreference.com/js/column8/functions.html" ADD_DATE="1552706822">Crispy JavaScript Cookies: JavaScript Cookie Functions - Doc JavaScript</A>
+                <DT><A HREF="http://www.webreference.com/js/column8/http.html" ADD_DATE="1552706822">Crispy JavaScript Cookies: HTTP Cookie Headers - Doc JavaScript</A>
+                <DT><A HREF="http://www.monsur.com/projects/jscache/" ADD_DATE="1552706823">Javascript LRU Cache</A>
+                <DT><A HREF="http://www.comptechdoc.org/independent/web/cgi/javamanual/javacookie.html" ADD_DATE="1552706823">JavaScript Cookies</A>
+                <DT><A HREF="http://www.skidvn.com/jcache" ADD_DATE="1552706823">jCache - A client-side caching plugin for jQuery</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706826">Learn javascript</H3>
+            <DL><p>
+                <DT><A HREF="http://www.w3schools.com/js/default.asp" ADD_DATE="1552706821">JavaScript Tutorial</A>
+                <DT><A HREF="http://www.javascriptkit.com/" ADD_DATE="1552706821">JavaScript Kit- Comprehensive JavaScript, DHTML, CSS tutorials and over 400+ free JavaScripts!</A>
+                <DT><A HREF="http://javascript.about.com/od/learnjavascript/Learn_to_Program_with_Javascript.htm" ADD_DATE="1552706821">Learn Javascript</A>
+                <DT><A HREF="http://www.w3schools.com/htmldom/dom_obj_document.asp" ADD_DATE="1552706822">HTML DOM Document Object</A>
+                <DT><A HREF="http://www.quirksmode.org/js/contents.html" ADD_DATE="1552706822">JavaScript - Table of Contents</A>
+                <DT><A HREF="http://www.w3schools.com/htmldom/dom_examples.asp" ADD_DATE="1552706822">DOM Examples</A>
+                <DT><A HREF="http://code.google.com/support/bin/answer.py?answer=77412&topic=12044" ADD_DATE="1552706823">Developer Knowledge Base - Using Firebug to Aid GME Development</A>
+                <DT><A HREF="http://developer.mozilla.org/en/docs/Accessible_DHTML#Sample_widgets" ADD_DATE="1552706823">Accessible DHTML - MDC</A>
+                <DT><A HREF="http://jennifermadden.com/javascript/windowClose.html" ADD_DATE="1552706823">Closing Windows And Confirmation Boxes</A>
+                <DT><A HREF="http://www.quackit.com/javascript/tutorial/javascript_void_0.cfm" ADD_DATE="1552706824">JavaScript Void(0)</A>
+                <DT><A HREF="http://www.tizag.com/javascriptT/javascriptvoid.php" ADD_DATE="1552706824">Javascript Tutorial - Void 0</A>
+                <DT><A HREF="http://www.pagetutor.com/javascript/index.html" ADD_DATE="1552706824">Javascript Tutor</A>
+                <DT><A HREF="http://www.yourhtmlsource.com/javascript/" ADD_DATE="1552706824">JavaScript | learn to write JavaScript scripts || HTMLSource ]</A>
+                <DT><A HREF="http://www.pctalknet.com/javascript/casestatement.php" ADD_DATE="1552706825">Javascript case statements basic tutorials and code syntax. Learn javascript basic syntax and case statement</A>
+                <DT><A HREF="http://www.openjs.com/tutorials/" ADD_DATE="1552706825">Tutorials</A>
+                <DT><A HREF="http://www.javascript-reference.info/" ADD_DATE="1552706825">JavaScript Reference</A>
+                <DT><A HREF="http://www.javascriptmall.com/learn/contents.htm" ADD_DATE="1552706825">Learning JavaScript for Beginners - Contents</A>
+                <DT><A HREF="http://www.learn-javascript-tutorial.com/" ADD_DATE="1552706825">JavaScript Tutorial: Learn JavaScript</A>
+                <DT><A HREF="http://www.webreference.com/js/column44/createtag.html" ADD_DATE="1552706826">The Document Object Model (DOM), Part 5: The createElement Method</A>
+                <DT><A HREF="http://learn.appendto.com/" ADD_DATE="1552706826">Learn jQuery &amp; JAVASCRIPT for free | appendTo Developer Learning Center</A>
+                <DT><A HREF="http://www.programminghelp.org/javascript/" ADD_DATE="1552706826">Javascript - Programming Help</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706827">Modal Dialog Windows</H3>
+            <DL><p>
+                <DT><A HREF="http://www.wingo.com/dialogbox/index.html" ADD_DATE="1552706821">DHTML Modal Dialog Box Widget - Object Oriented JavaScript Inheritance Methods</A>
+                <DT><A HREF="http://www.zapatec.com/website/ajax/zpwin/demo/alerts.html" ADD_DATE="1552706821">Zapatec DHTML Window Widget - Dialog Windows</A>
+                <DT><A HREF="http://www.dhtmlgoodies.com/index.html?page=dhtml-suite" ADD_DATE="1552706821">DHTML Suite for applications -</A>
+                <DT><A HREF="http://www.fiftyfoureleven.com/resources/user-interface/widgets" ADD_DATE="1552706822">Widgets - User Interface Widgets, JavaScript Widgets</A>
+                <DT><A HREF="http://www.huddletogether.com/projects/lightbox/" ADD_DATE="1552706822">Lightbox JS</A>
+                <DT><A HREF="http://particletree.com/features/lightbox-gone-wild/" ADD_DATE="1552706823">Particletree » Lightbox Gone Wild!</A>
+                <DT><A HREF="http://ajaxian.com/archives/modal-dialog-lightbox-goes-wild" ADD_DATE="1552706823">Ajaxian » Modal Dialog: Lightbox Goes Wild</A>
+                <DT><A HREF="http://okonet.ru/projects/modalbox/" ADD_DATE="1552706823">ModalBox — An easy way to create popups and wizards</A>
+                <DT><A HREF="http://del.icio.us/popular/dialog" ADD_DATE="1552706823">Popular pages tagged with &quot;dialog&quot; on del.icio.us</A>
+                <DT><A HREF="http://mootools.net/" ADD_DATE="1552706824">mootools - home</A>
+                <DT><A HREF="http://www.jackslocum.com/blog/2006/12/17/how-to-create-a-reusable-ajax-driven-web-dialog-a-working-example/" ADD_DATE="1552706824">Jack Slocum&#39;s Blog » Creating a reusable Ajax driven dialog - a working example</A>
+                <DT><A HREF="http://www.yui-ext.com/deploy/yui-ext/docs/#../examples/view/chooser.html" ADD_DATE="1552706824">yui-ext Documentation Center</A>
+                <DT><A HREF="http://examples.qcodo.com/examples/advanced_ajax/dialog_box.php" ADD_DATE="1552706824">Qcodo Development Framework - Examples</A>
+                <DT><A HREF="http://www.blinklist.com/tag/popup+javascript/" ADD_DATE="1552706825">Discover the best popup javascript and popup javascript ajax sites</A>
+                <DT><A HREF="http://blogs.pathf.com/agileajax/ajax_widgets/index.html" ADD_DATE="1552706825">Agile Ajax: Ajax Widgets</A>
+                <DT><A HREF="http://tooltip.crtx.org/" ADD_DATE="1552706825">Tooltip.js - About</A>
+                <DT><A HREF="http://www.sitepoint.com/examples/popups/" ADD_DATE="1552706825">Working with New Windows</A>
+                <DT><A HREF="http://www.java2s.com/Code/JavaScript/Ajax-Layer/Modeldialogsetbackgroundbrowserclientareatogray.htm" ADD_DATE="1552706825">Model dialog (set background browser client area to gray) : Window Dialog : Ajax Layer : JavaScript DHTML examples (example source code) Organized by topic</A>
+                <DT><A HREF="http://www.mhavila.com.br/topicos/web/window_modal.html" ADD_DATE="1552706826">Janela modal na web</A>
+                <DT><A HREF="http://www.dhtmlgoodies.com/index.html?whichScript=ajax-poller" ADD_DATE="1552706826">Ajax poller</A>
+                <DT><A HREF="http://www.dynamicdrive.com/dynamicindex8/dhtmlwindow/" ADD_DATE="1552706826">Dynamic Drive DHTML Scripts- DHTML Window widget</A>
+                <DT><A HREF="http://www.macridesweb.com/oltest/MODAL.html" ADD_DATE="1552706826">overLIB - MODAL and Confirm Dialog examples in overlibmws</A>
+                <DT><A HREF="http://wiki.osafoundation.org/bin/view/Projects/AjaxLibraries" ADD_DATE="1552706826">AjaxLibraries &lt; Projects &lt; OSAF</A>
+                <DT><A HREF="http://livepipe.net/projects/control_modal/" ADD_DATE="1552706827">Control.Modal : Unobtrusive CSS Modal Windows and Lightboxes for Prototype</A>
+                <DT><A HREF="http://www.ryanjlowe.com/?p=9#" ADD_DATE="1552706827">Ryan J Lowe’s Dev Blog » Blog Archive » LITBox</A>
+                <DT><A HREF="http://stickmanlabs.com/lightwindow/" ADD_DATE="1552706827">lightWindow Demo</A>
+                <DT><A HREF="http://sublog.subimage.com/articles/2006/01/01/subModal" ADD_DATE="1552706827">subLog : Cross Browser DHTML Modal Dialogs For Web Apps</A>
+                <DT><A HREF="http://dev.iceburg.net/jquery/jqModal/" ADD_DATE="1552706827">jqModal :: Minimalistic Modaling for jQuery</A>
+                <DT><A HREF="http://www.ericmmartin.com/projects/simplemodal/" ADD_DATE="1552706827">EricMMartin.com » SimpleModal</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706826">Sound</H3>
+            <DL><p>
+                <DT><A HREF="http://www.schillmania.com/projects/soundmanager2/" ADD_DATE="1552706821">SoundManager 2: Javascript Sound for the Web</A>
+                <DT><A HREF="http://www.faqts.com/knowledge_base/index.phtml/fid/53/" ADD_DATE="1552706821">FAQTs - Knowledge Base - faqts : Computers : Programming : Languages : JavaScript</A>
+                <DT><A HREF="http://www.smashingmagazine.com/2006/11/15/ajax-dhtml-and-javascript-libraries/" ADD_DATE="1552706821">AJAX, DHTML and JavaScript Libraries | Smashing Magazine</A>
+                <DT><A HREF="http://www.jeroenwijering.com/?item=Flash_Media_Player" ADD_DATE="1552706822">Flash Media Player</A>
+                <DT><A HREF="http://www.macloo.com/examples/audio_player/" ADD_DATE="1552706822">Tutorial for Flash MP3 Player</A>
+                <DT><A HREF="http://www.developer.com/tech/article.php/3664936" ADD_DATE="1552706822">Integrating MP3 Audio Messages Into Your Website</A>
+                <DT><A HREF="http://www.macloo.com/examples/audio_player/options.html" ADD_DATE="1552706823">Customizing the Flash MP3 Player</A>
+                <DT><A HREF="http://jquery.lukelutman.com/plugins/flash/" ADD_DATE="1552706823">jQuery Flash Plugin</A>
+                <DT><A HREF="http://an-archos.com/anarchy-media-player" ADD_DATE="1552706823">An-Archos » Anarchy Media Player</A>
+                <DT><A HREF="http://cit.ucsf.edu/embedmedia/step1.php" ADD_DATE="1552706824">Embedded Media HTML Generator</A>
+                <DT><A HREF="http://www.era404.com/media/item/?id=26" ADD_DATE="1552706824">Activating an ActiveX Control&#39;s Interface through Javascript</A>
+                <DT><A HREF="http://www.aflax.org/examples/video3/video.html" ADD_DATE="1552706824">AFLAX: A JavaScript Library for Adobe&#39;s Flash™ Platform</A>
+                <DT><A HREF="http://malsup.com/jquery/media/" ADD_DATE="1552706824">JQuery Media Plugins</A>
+                <DT><A HREF="http://www.airtightinteractive.com/simpleviewer/" ADD_DATE="1552706825">SimpleViewer Download</A>
+                <DT><A HREF="http://www.mediacollege.com/flash/media-player/" ADD_DATE="1552706825">Flash Video / Media Player</A>
+                <DT><A HREF="http://www.davidmeade.com/resources/media_test.php#examples" ADD_DATE="1552706825">Media Player Test</A>
+                <DT><A HREF="http://digitalmedia.oreilly.com/2005/02/23/mp3_embed.html" ADD_DATE="1552706825">O&#39;Reilly -- Build a Simple MP3 Player for Your Site</A>
+                <DT><A HREF="http://digitalmedia.oreilly.com/2005/02/16/ableton_intro.html" ADD_DATE="1552706826">O&#39;Reilly -- Getting Started with Ableton Live</A>
+                <DT><A HREF="http://digitalmedia.oreilly.com/pub/a/oreilly/digitalmedia/2005/10/05/enhanced-web-mp3-player.html?page=2" ADD_DATE="1552706826">O&#39;Reilly -- Build an Enhanced MP3 Player for Your Site</A>
+                <DT><A HREF="http://musicplayer.sourceforge.net/" ADD_DATE="1552706826">XSPF Web Music Player (Flash) - Plays MP3 on your website</A>
+                <DT><A HREF="http://stat.radioblogclub.com/radio.blog/" ADD_DATE="1552706826">Radio Blog - www.radioblogclub.com</A>
+                <DT><A HREF="http://www.enricolai.com/fmp3/xspf-flash-mp3-player.asp?textcolor=ffffff&color=062DFF" ADD_DATE="1552706826">XSPF Flash MP3 Player per FMP3 ( Podcast )</A>
+                <DT><A HREF="http://www.archive.org/details/flashplaylistplayer" ADD_DATE="1552706826">Internet Archive: Details: flash playlist player</A>
+                <DT><A HREF="http://www.bkdesign.ca/media/flv-and-flash-movie-playlist.php" ADD_DATE="1552706826">FLV and Flash Movie Playlist (BKdesign Solutions)</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706825">Calendar</H3>
+            <DL><p>
+                <DT><A HREF="http://www.dynarch.com/projects/calendar/" ADD_DATE="1552706821">The Coolest DHTML / JavaScript Calendar [dynarch.com]</A>
+                <DT><A HREF="http://codetale.com/2007/02/23/javascript-calendar-widget/" ADD_DATE="1552706821">javascript calendar widget at Tools and how to’s</A>
+                <DT><A HREF="http://wpcal.firetree.net/installation/" ADD_DATE="1552706821">Event Calendar » Installation</A>
+                <DT><A HREF="http://phpicalendar.net/phpicalendar/day.php" ADD_DATE="1552706822">Biology Seminars, Home 1234, OtherNM, Stargate Atlantis, US Holidays, Call list, Jim Hu, bugtest - Saturday, March 10</A>
+                <DT><A HREF="http://www.scriptcalendar.com/scrptcal/demo.aspx" ADD_DATE="1552706822">ScriptCalendar - An incredible javascript event calendar, either a javascript calendar or an xml calendar (calendar in javascript, calendar event, event calendar)</A>
+                <DT><A HREF="http://www.ljzsoft.com/excel-calendar.htm" ADD_DATE="1552706823">XLCalendar - Free Calendar Generator for Microsoft Excel</A>
+                <DT><A HREF="http://home.earthlink.net/~rlp2735/index.html" ADD_DATE="1552706823">Free JavaScript Event Calendar</A>
+                <DT><A HREF="http://www.monket.net/wiki/monket-calendar/" ADD_DATE="1552706823">Monket Calendar - Wiki - monket.net</A>
+                <DT><A HREF="http://www.planscalendar.com/demo/plans.cgi?active_tab=1" ADD_DATE="1552706823">Main Calendar Calendar</A>
+                <DT><A HREF="http://icaldemo.brownbearsw.com/default" ADD_DATE="1552706824">default: March 2007</A>
+                <DT><A HREF="http://www.calendarscript.com/" ADD_DATE="1552706824">CalendarScript - Your Event-Publishing Solution For The Web!</A>
+                <DT><A HREF="http://www.calendarscript.com/demo/calendar.pl" ADD_DATE="1552706824">Calendar</A>
+                <DT><A HREF="http://code.google.com/p/calendardateselect/" ADD_DATE="1552706824">calendardateselect - Google Code</A>
+                <DT><A HREF="http://marcgrabanski.com/code/ui-datepicker/" ADD_DATE="1552706825">jQuery UI Datepicker</A>
+                <DT><A HREF="http://www.datejs.com/" ADD_DATE="1552706825">Datejs - A JavaScript Date Library » About…</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706824">Tooltip</H3>
+            <DL><p>
+                <DT><A HREF="http://www.mojavelinux.com/projects/domtooltip/" ADD_DATE="1552706821">DOM Tooltip | mojavelinux.com</A>
+                <DT><A HREF="http://www.mojavelinux.com/cooker/demos/domTT/" ADD_DATE="1552706821">DOM Tooltip :: Demos</A>
+                <DT><A HREF="http://www.bosrup.com/web/overlib/" ADD_DATE="1552706821">overLIB - Homepage</A>
+                <DT><A HREF="http://blog.innerewut.de/pages/tooltip" ADD_DATE="1552706822">tooltip.js - A lightweight prototype based JavaScript tooltip</A>
+                <DT><A HREF="http://www.wildbit.com/labs/cooltips/" ADD_DATE="1552706822">CoolTips — Neat tooltips under the mouse</A>
+                <DT><A HREF="http://blog.innerewut.de/tooltip" ADD_DATE="1552706823">BlogFish: tooltip.js</A>
+                <DT><A HREF="http://www.nickstakenburg.com/projects/prototip/" ADD_DATE="1552706823">Prototip - Tooltips for prototype</A>
+                <DT><A HREF="http://tooltip.crtx.org/" ADD_DATE="1552706823">Tooltip.js - About</A>
+                <DT><A HREF="http://jquery.bassistance.de/tooltip/" ADD_DATE="1552706823">Tests for Tooltip</A>
+                <DT><A HREF="http://jdstiles.com/java/alttxt/alttxt.html" ADD_DATE="1552706824">ALTTXT Tooltip Script v-1.6</A>
+                <DT><A HREF="http://boxover.swazz.org/" ADD_DATE="1552706824">Tooltips, DHTML, javascript - BoxOver</A>
+                <DT><A HREF="http://www.hongkiat.com/blog/tooltips-scripts-50-scripts-with-ajax-javascripts-css-tutorials/" ADD_DATE="1552706824">Tooltips Scripts: 50+ Scripts With AJAX, Javascripts, CSS &amp; Tutorials | Tools</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706823">Resize Image</H3>
+            <DL><p>
+                <DT><A HREF="http://www.javascriptkit.com/script/cutindex21.shtml" ADD_DATE="1552706821">JavaScript Kit- Images and music scripts</A>
+                <DT><A HREF="http://www.xs4all.nl/~sbpoley/webmatters/resize.html" ADD_DATE="1552706821">Web Matters - Image resizing example</A>
+                <DT><A HREF="http://www.codefoot.com/javascript/script_image_resize.html" ADD_DATE="1552706821">CodeFoot.com: JavaScript: Active Image Resizing With Drag</A>
+                <DT><A HREF="http://www.webreference.com/programming/javascript/images/2.html" ADD_DATE="1552706822">Dynamically Resizing Images - WebReference.com</A>
+                <DT><A HREF="http://www.sitepoint.com/article/resize-popup-fit-images-size" ADD_DATE="1552706822">Resize a Popup to Fit an Image&#39;s Size [JavaScript &amp; AJAX Tutorials]</A>
+                <DT><A HREF="http://www.getfreesofts.com/scriptscategory/8/33/1/0.html" ADD_DATE="1552706822">Top 1 to 50 Image Effects - JavaScript scripts</A>
+                <DT><A HREF="http://www.devguru.com/Technologies/ecmaScript/quickref/image.html" ADD_DATE="1552706823">DevGuru JavaScript OBJECT: Image</A>
+                <DT><A HREF="http://www.c6software.com/Products/PopBox/Default.aspx" ADD_DATE="1552706823">PopBox! - Javascript Image Magnification</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706821">SetFocus</H3>
+            <DL><p>
+                <DT><A HREF="http://www.htmlgoodies.com/beyond/javascript/article.php/3471131" ADD_DATE="1552706821">Jump Focus with Form Elements</A>
+                <DT><A HREF="http://www.htmlgoodies.com/tutorials/forms/article.php/3479121" ADD_DATE="1552706821">So, You Want A Form, Huh?</A>
+                <DT><A HREF="http://www.webmasterworld.com/forum91/1611.htm" ADD_DATE="1552706821">set focus to a submit button</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706822">Wrap</H3>
+            <DL><p>
+                <DT><A HREF="http://javascript.internet.com/forms/line-wrapper.html" ADD_DATE="1552706821">The JavaScript Source: Forms: Line Wrapper</A>
+                <DT><A HREF="http://www.stevekallestad.com/blog/javascript_pullquotes.html" ADD_DATE="1552706821">Javascript Pullquotes</A>
+                <DT><A HREF="http://jsfromhell.com/string/wordwrap" ADD_DATE="1552706821">string.wordwrap - JSFromHell.com: JavaScript Repository</A>
+                <DT><A HREF="http://zeniltuo.com/" ADD_DATE="1552706822">Zeniltuo.com - inspiration journey - All website galleries in one page</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706826">Encrypting</H3>
+            <DL><p>
+                <DT><A HREF="http://www.securecottage.com/demo/rsa2.html" ADD_DATE="1552706820">Demo of Web Page Encryption</A>
+                <DT><A HREF="http://www.codeproject.com/Articles/198646/Javascript-RSA-Encryption-and-Java-Decryption" ADD_DATE="1552706821">Javascript RSA Encryption and Java Decryption - CodeProject</A>
+                <DT><A HREF="http://www.jcryption.org/" ADD_DATE="1552706821">jCryption - Javascript data encryption, PHP, Java</A>
+                <DT><A HREF="http://shanechism.com/code/2010/12/php-rsa-encryption-decryption-class-inactive-not-working" ADD_DATE="1552706822">RSA Encryption/Decryption Class &lt;&lt; Code &lt;&lt; Shane Chism</A>
+                <DT><A HREF="https://github.com/ziyan/javascript-rsa/tree/master/src" ADD_DATE="1552706822">javascript-rsa/src at master · ziyan/javascript-rsa · GitHub</A>
+                <DT><A HREF="http://www.hanewin.net/encrypt/rsa/rsa.htm" ADD_DATE="1552706823">RSA Public Key Encryption Test in JavaScript</A>
+                <DT><A HREF="http://www.nczonline.net/blog/2009/12/08/computer-science-in-javascript-base64-encoding/" ADD_DATE="1552706823">Computer science in JavaScript: Base64 encoding | NCZOnline</A>
+                <DT><A HREF="http://www.webtoolkit.info/javascript-base64.html" ADD_DATE="1552706823">Javascript base64 - Javascript tutorial with example source code</A>
+                <DT><A HREF="http://burntelectrons.org/moz/base64.html" ADD_DATE="1552706823">JavaScript Base64 Encoder/Decoder</A>
+                <DT><A HREF="https://github.com/dankogai/js-base64" ADD_DATE="1552706824">dankogai/js-base64 · GitHub</A>
+                <DT><A HREF="http://rumkin.com/tools/compression/base64.php" ADD_DATE="1552706824">JavaScript Base64 Encoding</A>
+                <DT><A HREF="http://ostermiller.org/calc/encode.html" ADD_DATE="1552706824">Base64 and URL Encoding and Decoding</A>
+                <DT><A HREF="http://decodebase64.com/" ADD_DATE="1552706825">Decode and Encode Base64 (using JavaScript)</A>
+                <DT><A HREF="http://kenany.me/blog/base64-js/" ADD_DATE="1552706825">base64 in JavaScript - Kenan Yildirim</A>
+                <DT><A HREF="http://coursesweb.net/javascript/base64-encode-decode_cs" ADD_DATE="1552706825">JavaScript base64 encode decode</A>
+                <DT><A HREF="http://jsbase64.codeplex.com/" ADD_DATE="1552706825">Really fast Javascript Base64 encoder/decoder with utf-8 suppot - Home</A>
+                <DT><A HREF="http://ntt.cc/2008/01/19/base64-encoder-decoder-with-javascript.html" ADD_DATE="1552706825">Base64 Encoder and Decoder with JavaScript - Ntt.cc</A>
+                <DT><A HREF="http://blog.danguer.com/2011/10/24/base64-binary-decoding-in-javascript/" ADD_DATE="1552706825">Base64 Binary Decoding in Javascript | Daniel Guerrero Thoughts</A>
+                <DT><A HREF="https://code.google.com/p/crypto-js/" ADD_DATE="1552706826">crypto-js - JavaScript implementations of standard and secure cryptographic algorithms - Google Project Hosting</A>
+                <DT><A HREF="http://www-cs-students.stanford.edu/~tjw/jsbn/" ADD_DATE="1552706826">RSA and ECC in JavaScript</A>
+                <DT><A HREF="http://www.movable-type.co.uk/scripts/aes.html" ADD_DATE="1552706826">JavaScript Implementation of AES Advanced Encryption Standard in Counter Mode | Movable Type Scripts</A>
+                <DT><A HREF="http://caligatio.github.io/jsSHA/" ADD_DATE="1552706826">jsSHA - SHA Hashes in JavaScript</A>
+            </DL><p>
