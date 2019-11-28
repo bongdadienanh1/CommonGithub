@@ -1,0 +1,692 @@
+
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706826">iPhone</H3>
+            <DL><p>
+                <DT><A HREF="http://www.icodeblog.com/tag/xcode/" ADD_DATE="1552706821">xcode | iPhone Programming Tutorials</A>
+                <DT><A HREF="http://www.iphonesdkarticles.com/2008/07/first-iphone-application.html" ADD_DATE="1552706821">First iPhone Application | iPhone SDK Articles</A>
+                <DT><A HREF="http://mobile.tutsplus.com/tutorials/iphone/iphone-sdk_xcode-fundamentals/" ADD_DATE="1552706822">Beginning iOS Development: Xcode Fundamentals</A>
+                <DT><A HREF="http://iphonedevsdk.com/forum/iphone-sdk-tutorials/93644-how-to-design-an-iphone-app-with-custom-ui-video-tutorial.html" ADD_DATE="1552706822">How to Design An iPhone App With Custom UI - Video tutorial - iPhone Dev SDK</A>
+                <DT><A HREF="http://www.appcoda.com/tutorials/" ADD_DATE="1552706822">iPhone, iPad Programming Tutorials</A>
+                <DT><A HREF="http://speckyboy.com/category/iphone-ipad-dev/" ADD_DATE="1552706823">iOS - Speckyboy Design Magazine</A>
+                <DT><A HREF="http://www.xprogress.com/" ADD_DATE="1552706823">xProgress.com - Ultimate tutorial library about iPhone SDK, Objective-C, XCode and DashCode</A>
+                <DT><A HREF="http://www.edumobile.org/iphone/" ADD_DATE="1552706823">iPhone Tutorial Covering iPhone, iPad, iOS4 SDK Development &amp; Programming Blog</A>
+                <DT><A HREF="http://www.idev101.com/libraries.html" ADD_DATE="1552706824">Open Source Code Libraries for iPhone/iOS</A>
+                <DT><A HREF="http://buildmobile.com/category/ios/ios-tutorials/" ADD_DATE="1552706824">BuildMobile |BuildMobile</A>
+                <DT><A HREF="http://www.raywenderlich.com/tutorials" ADD_DATE="1552706824">iPhone Tutorials</A>
+                <DT><A HREF="http://www.dezineguide.com/tutorial/20-best-iphone-apps-development-tutorials/" ADD_DATE="1552706824">20 Best iPhone Apps Development Tutorials | DezineGuide</A>
+                <DT><A HREF="http://maniacdev.com/" ADD_DATE="1552706825">iOS App Dev Libraries, Controls, Tutorials, Examples and Tools</A>
+                <DT><A HREF="http://www.icodeblog.com/" ADD_DATE="1552706825">iPhone Programming Tutorials | iPhone Programming Tutorials</A>
+                <DT><A HREF="http://mobile.tutsplus.com/tutorials/iphone/introduction-to-iphone-sdk-development/" ADD_DATE="1552706825">Introduction to iPhone SDK Development</A>
+                <DT><A HREF="http://www.webresourcesdepot.com/iphone-application-and-website-development-all-tools-and-tutorials-you-need/" ADD_DATE="1552706825">iPhone Application And Website Development: All Tools And Tutorials You Need</A>
+                <DT><A HREF="http://monoclestudios.com/cocos2d_whitepaper.html" ADD_DATE="1552706825">Monocle Studios Tutorials - iPhone Development with cocos2d-iphone</A>
+                <DT><A HREF="http://vnfunz.vn/33/10229/Cong-nghe/Lap-trinh/Ngon-ngu-khac/37-video-tutorial-iPhone-Development.aspx" ADD_DATE="1552706826">37 video tutorial iPhone Development - vnfunz.vn</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706824">Location</H3>
+            <DL><p>
+                <DT><A HREF="http://quickblox.com/blog/2012/07/build-an-atm-bank-branch-locator-app-with-augmented-reality-and-more/" ADD_DATE="1552706821">build an ATM / bank branch locator app with Augmented Reality (and more) | Blog of QuickBlox BaaS: cloud backend, API, SDK for mobile apps</A>
+                <DT><A HREF="http://www.codeproject.com/Articles/445361/Property-Finder-a-Cross-Platform-HTML5-Mobile-App" ADD_DATE="1552706821">Property Finder - a Cross-Platform HTML5 Mobile App - CodeProject</A>
+                <DT><A HREF="https://developers.google.com/maps/articles/phpsqlsearch_v3" ADD_DATE="1552706821">Creating a Store Locator with PHP, MySQL &amp; Google Maps - Google Maps API — Google Developers</A>
+                <DT><A HREF="http://magicapplicationplatform.blogspot.com/2013/01/creating-store-locator-store-finder.html" ADD_DATE="1552706822">Creating a Store Locator / Store Finder mobile app with Magic xpa | The Magic Application Platform Blog</A>
+                <DT><A HREF="http://codecanyon.net/item/store-locator-in-app/3101958" ADD_DATE="1552706822">Mobile - Store Locator in App | CodeCanyon</A>
+                <DT><A HREF="http://www.practicalecommerce.com/articles/3708-The-Case-for-Building-a-Mobile-Ecommerce-App" ADD_DATE="1552706823">The Case for Building a Mobile Ecommerce App | Practical eCommerce</A>
+                <DT><A HREF="http://www.raywenderlich.com/13160/using-the-google-places-api-with-mapkit" ADD_DATE="1552706823">Using the Google Places API With MapKit | Ray Wenderlich</A>
+                <DT><A HREF="http://www.script-tutorials.com/google-places-api-practice/" ADD_DATE="1552706823">Google Places API – practice | HTML5 and CSS3 Tutorials at Script Tutorials</A>
+                <DT><A HREF="http://www.layar.com/documentation/browser/howtos/geolocation-layer/" ADD_DATE="1552706823">Geolocation layer – Layar Developer Documentation</A>
+                <DT><A HREF="http://www.codeproject.com/Articles/112044/GPSLocator-App-to-Find-Current-Nearest-Location-us" ADD_DATE="1552706824">GPSLocator - App to Find Current (Nearest) Location using GPS - CodeProject</A>
+                <DT><A HREF="https://developers.google.com/places/documentation/" ADD_DATE="1552706824">Getting Started - Google Places API — Google Developers</A>
+                <DT><A HREF="https://developers.arcgis.com/en/javascript/jssamples/mobile_findnearby.html" ADD_DATE="1552706824">Find nearby locations | ArcGIS API for JavaScript</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706822">Nodejs</H3>
+            <DL><p>
+                <DT><A HREF="http://abdelraoof.com/blog/2014/11/11/install-nodejs-without-admin-rights/" ADD_DATE="1552706821">How to install Node.js without admin rights · Abdel Raoof Olakara</A>
+                <DT><A HREF="http://superuser.com/questions/347476/how-to-install-npm-behind-authentication-proxy-on-windows" ADD_DATE="1552706821">node.js - How to install NPM behind authentication proxy on Windows? - Super User</A>
+                <DT><A HREF="http://wil.boayue.com/blog/2013/06/14/using-npm-behind-a-proxy/" ADD_DATE="1552706821">Using npm behind a corporate proxy - Wil Boayue</A>
+                <DT><A HREF="http://stackoverflow.com/questions/7559648/is-there-a-way-to-make-npm-install-the-command-to-work-behind-proxy" ADD_DATE="1552706822">node.js - Is there a way to make npm install (the command) to work behind proxy? - Stack Overflow</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706825">Ionic</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706830">Tutorial</H3>
+                <DL><p>
+                    <DT><A HREF="https://ccoenraets.github.io/ionic-tutorial/" ADD_DATE="1552706829">Ionic Framework Tutorial</A>
+                    <DT><A HREF="http://learn.ionicframework.com/" ADD_DATE="1552706829">Learn Ionic</A>
+                    <DT><A HREF="https://thinkster.io/ionic-framework-tutorial/" ADD_DATE="1552706830">Mastering the Ionic Framework: Learn to Build &amp; Deploy Native Speed HTML5 Based Apps | Thinkster</A>
+                    <DT><A HREF="http://gonehybrid.com/build-your-first-mobile-app-with-the-ionic-framework-part-6/" ADD_DATE="1552706830">Build Your First Mobile App With The Ionic Framework - Part 6</A>
+                    <DT><A HREF="http://www.joshmorony.com/learning-the-ionic-framework-as-a-sencha-touch-developer-part-3/" ADD_DATE="1552706830">Learning the Ionic Framework as a Sencha Touch Developer: Part 3 | HTML5 Mobile Tutorials | Ionic, Phaser, Sencha Touch &amp; PhoneGap</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706830">App</H3>
+                <DL><p>
+                    <DT><A HREF="https://blog.nraboy.com/2015/03/create-todo-list-mobile-app-using-ionic-framework/" ADD_DATE="1552706829">Create A Todo List Mobile App Using Ionic Framework</A>
+                    <DT><A HREF="http://www.htmlxprs.com/post/6/creating-a-realtime-image-sharing-app-with-ionic-and-socketio-tutorial" ADD_DATE="1552706829">Creating a Realtime Image Sharing App With Ionic and Socket.io - Tutorial</A>
+                    <DT><A HREF="http://devdactic.com/simple-login-example-with-ionic-and-angularjs/" ADD_DATE="1552706830">Login Example with Ionic and AngularJS</A>
+                    <DT><A HREF="https://auth0.com/docs/native-platforms/ionic" ADD_DATE="1552706830">Ionic Framework Tutorial - Auth0 Docs</A>
+                </DL><p>
+                <DT><A HREF="http://www.developer.com/ws/android/development-tools/developing-hybrid-apps-with-the-ionic-framework.html" ADD_DATE="1552706821">Developing Hybrid Apps with the Ionic Framework - Developer.com</A>
+                <DT><A HREF="http://junerockwell.com/how-to-make-an-ionic-app-on-the-terminal/" ADD_DATE="1552706822">June Rockwell, Developer and Designer for Websites, iOS &amp; Android</A>
+                <DT><A HREF="http://coenraets.org/blog/2014/02/sample-mobile-application-with-ionic-and-angularjs/" ADD_DATE="1552706822">Sample Mobile Application with Ionic and AngularJS | Christophe Coenraets</A>
+                <DT><A HREF="https://github.com/driftyco" ADD_DATE="1552706822">Ionic · GitHub</A>
+                <DT><A HREF="http://www.binpress.com/tutorial/a-simple-weather-forecast-app-with-ionic-framework-and-forecastio/107" ADD_DATE="1552706823">Crafting a weather app with Ionic framework and Forecast.io - Tutorial - Binpress</A>
+                <DT><A HREF="http://www.raymondcamden.com/2015/03/23/working-with-ibm-mobilefirst-and-the-ionic-framework" ADD_DATE="1552706823">Working with IBM MobileFirst and the Ionic Framework | Raymond Camden&#39;s Blog</A>
+                <DT><A HREF="http://blog.revivalx.com/2014/12/21/angularjs-ionic-mobile-app-development-tutorial-marketing-app-part-1/" ADD_DATE="1552706824">AngularJs Ionic Mobile App Development Tutorial – Marketing App – Part 1 | Nurdin Norazan S/W Engineer</A>
+                <DT><A HREF="https://www.airport-parking-shop.co.uk/blog/built-app-2-weeks-using-ionic-framework/" ADD_DATE="1552706824">How we built our app in 2 weeks using Ionic Framework - Airport Parking Shop Blog</A>
+                <DT><A HREF="https://www.firebase.com/blog/2014-07-25-ionic-simple-login.html" ADD_DATE="1552706824">Using Firebase Simple Login with Ionic and PhoneGap - Firebase</A>
+                <DT><A HREF="https://www.npmjs.com/package/ionic" ADD_DATE="1552706824">ionic</A>
+                <DT><A HREF="http://www.gajotres.net/building-a-native-mobile-app-with-cordova-and-ionic/" ADD_DATE="1552706825">Building a Native Mobile App with Cordova and Ionic</A>
+                <DT><A HREF="https://blog.nraboy.com/2014/09/install-android-cordova-ionic-framework-ubuntu/" ADD_DATE="1552706825">Install Android, Cordova, and Ionic Framework in Ubuntu</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706821">Angular</H3>
+            <DL><p>
+                <DT><A HREF="https://scotch.io/tag/react" ADD_DATE="1552706821">Tag Archive for &quot;react&quot; | Scotch</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706827">ReactJS</H3>
+            <DL><p>
+                <DT><A HREF="https://blog.risingstack.com/the-react-way-getting-started-tutorial/" ADD_DATE="1552706821">The React.js Way: Getting Started Tutorial | RisingStack</A>
+                <DT><A HREF="https://www.youtube.com/watch?v=-Dq2e7s8R7g" ADD_DATE="1552706821">👻 NPM Install ReactJS Tutorial 👻 - YouTube</A>
+                <DT><A HREF="https://www.tutorialspoint.com/reactjs/reactjs_environment_setup.htm" ADD_DATE="1552706821">ReactJS Environment Setup</A>
+                <DT><A HREF="https://www.codementor.io/tamizhvendan/beginner-guide-setup-reactjs-environment-npm-babel-6-webpack-du107r9zr" ADD_DATE="1552706822">Setting Up a React.js Environment Using Npm, Babel 6 and Webpack | Codementor</A>
+                <DT><A HREF="https://facebook.github.io/react/docs/installation.html" ADD_DATE="1552706822">Installation - React</A>
+                <DT><A HREF="https://hashnode.com/post/react-tutorial-using-mern-stack-ciiyus9m700qqge53mer0isxz" ADD_DATE="1552706823">React Tutorial using MERN stack - Hashnode</A>
+                <DT><A HREF="https://github.com/anthonydelgado?tab=repositories" ADD_DATE="1552706823">anthonydelgado (Anthony Delgado) / Repositories</A>
+                <DT><A HREF="https://www.youtube.com/watch?v=w5TupxbnnrM" ADD_DATE="1552706823">Getting Started With React, Babel and Webpack in 2017 - YouTube</A>
+                <DT><A HREF="https://www.codecademy.com/articles/react-setup-i" ADD_DATE="1552706823">React Setup, Part I: React and ReactDOM | Codecademy</A>
+                <DT><A HREF="https://github.com/vasanthk/react-bits" ADD_DATE="1552706824">vasanthk/react-bits: ✨ React patterns, techniques, tips and tricks ✨</A>
+                <DT><A HREF="https://dzone.com/refcardz/reactjs-essentials" ADD_DATE="1552706824">React.js Essentials - DZone - Refcardz</A>
+                <DT><A HREF="https://medium.com/@petehouston/how-i-learned-react-from-ground-up-or-how-to-get-started-with-react-development-with-care-491dfeff05a2" ADD_DATE="1552706824">How I learned React from ground-up or How to get started with React development with care</A>
+                <DT><A HREF="https://github.com/thanhtungdp/learn-react-how-to" ADD_DATE="1552706825">thanhtungdp/learn-react-how-to: learn react how to</A>
+                <DT><A HREF="http://tutorialzine.com/2017/04/learn-webpack-in-15-minutes/" ADD_DATE="1552706825">Learn Webpack in 15 Minutes | Tutorialzine</A>
+                <DT><A HREF="https://www.raywenderlich.com/126063/react-native-tutorial" ADD_DATE="1552706825">React Native Tutorial: Building Apps with JavaScript</A>
+                <DT><A HREF="https://www.fullstackreact.com/articles/" ADD_DATE="1552706825">Fullstack React: Fullstack React Articles</A>
+                <DT><A HREF="https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html" ADD_DATE="1552706825">Full-Stack Redux Tutorial</A>
+                <DT><A HREF="https://unbug.gitbooks.io/react-native-training/content/" ADD_DATE="1552706825">Introduction · react-native training</A>
+                <DT><A HREF="https://www.facebook.com/" ADD_DATE="1552706826" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAArUlEQVQ4jWN0yti8leH/fy8GcgAj4zYmsjUzMDAw/P/vxUS2ZihgIUYRDycrQ1aYNoOlnjgDLxcbw9yNNxiW77hNvAGZodoM7paycD4bC8LhRBlgrivOwMDAwNC96ALDzuNPGP7//0+aAYK8bAwMDAwMO449xpCjOBAZndI3/ccluXeGL1bxvqWXGLYefki+Cx6/+EKcC9Bd4pyxGUOO4jAYFgYwMm4jWzcj4zYA2mQtm7CTmFoAAAAASUVORK5CYII=">(1) Facebook</A>
+                <DT><A HREF="https://kipalog.com/posts/Webpack-series----gioi-thieu-tu-co-ban-den-cang-co--D--ep1" ADD_DATE="1552706826">Webpack series - giới thiệu từ cơ bản đến căng cơ :D (ep1)</A>
+                <DT><A HREF="https://www.youtube.com/playlist?list=PLWBrqglnjNl0tzkepfj3cmKTF09jbcN5E" ADD_DATE="1552706826">Tự học React.js - YouTube</A>
+                <DT><A HREF="https://www.youtube.com/playlist?list=PLj3F2JV3DCJCMfqhynsEDo7YRl_5vGYkM" ADD_DATE="1552706826">React Native cơ bản - YouTube</A>
+                <DT><A HREF="https://www.facebook.com/viettranx?hc_ref=NEWSFEED" ADD_DATE="1552706826">Viet Tran</A>
+                <DT><A HREF="https://www.youtube.com/watch?v=rXpYNuOUIhQ&list=PLWBrqglnjNl0tzkepfj3cmKTF09jbcN5E&index=1" ADD_DATE="1552706827">Tự học React.js-1-Giới thiệu về React và tạo dự án đầu tiên - YouTube</A>
+                <DT><A HREF="https://ant.design/components/calendar/" ADD_DATE="1552706827">Calendar - Ant Design</A>
+                <DT><A HREF="https://www.codehub.vn/Top-16-blog-hay-ve-React-React-Native?utm_source=reactvietnam&utm_medium=facebook&utm_campaign=blog&utm_term=react" ADD_DATE="1552706827">Top 16 blog hay về React/React Native</A>
+                <DT><A HREF="https://github.com/nguyenvanhoang26041994/dev-experiences/tree/master/React" ADD_DATE="1552706827">dev-experiences/React at master · nguyenvanhoang26041994/dev-experiences</A>
+                <DT><A HREF="https://www.youtube.com/watch?v=6ZnfsJ6mM5c" ADD_DATE="1552706827">React Native Tutorial for Beginners - Getting Started - YouTube</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706820">NodeJs</H3>
+            <DL><p>
+                <DT><A HREF="https://www.npmjs.com/" ADD_DATE="1552706820">npm</A>
+            </DL><p>
+            <DT><A HREF="http://infocenter.sybase.com/help/index.jsp?topic=/com.sybase.infocenter.dc01218.0200/doc/html/vhu1298933260609.html" ADD_DATE="1552706820">SyBooks Online</A>
+            <DT><A HREF="http://pic.dhe.ibm.com/infocenter/wchelp/v7r0m0/index.jsp?topic=%2Fcom.ibm.commerce.starterstores.doc%2Fconcepts%2Fcsmmobileapphybrida.htm" ADD_DATE="1552706820">Help - WebSphere Commerce Version 7.0.0.7</A>
+        </DL><p>
+        <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706820">UML</H3>
+        <DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706821">Andromda</H3>
+            <DL><p>
+                <DT><A HREF="http://galaxy.andromda.org/index.php?option=com_content&task=view&id=105&Itemid=89" ADD_DATE="1552706821">AndroMDA.org - Environment Setup</A>
+            </DL><p>
+            <DT><A HREF="http://www.javapassion.com/handsonlabs/nbeuml/" ADD_DATE="1552706820">LAB-8105 NetBeans Enterprise Pack: Basic UML Modeling</A>
+            <DT><A HREF="http://www.databaseanswers.org/data_models/" ADD_DATE="1552706820">Library of Free Data Models from DatabaseAnswers.org</A>
+            <DT><A HREF="http://galaxy.andromda.org/index.php?option=com_content&task=view&id=105&Itemid=89" ADD_DATE="1552706820">AndroMDA.org - Environment Setup</A>
+            <DT><A HREF="http://galaxy.andromda.org/docs/case-tools.html" ADD_DATE="1552706820">AndroMDA Model Driven Architecture Framework - CASE tools that have been tested for AndroMDA compatibility</A>
+            <DT><A HREF="http://wordpress.com/tag/uml/" ADD_DATE="1552706820">Uml « WordPress.com</A>
+            <DT><A HREF="http://blogs.sun.com/JavaFundamentals/entry/getting_to_know_sequence_diagrams" ADD_DATE="1552706820">Getting to Know Sequence Diagrams : Java Technology Fundamentals</A>
+            <DT><A HREF="http://blogs.sun.com/JavaFundamentals/entry/the_importance_of_using_unified" ADD_DATE="1552706820">The Importance of Using the Unified Modeling Language (UML) : Java Technology Fundamentals</A>
+            <DT><A HREF="http://www.sparxsystems.com/uml-tutorial.html" ADD_DATE="1552706820">UML Tutorial - UML Unified Modelling Language - Sparx Systems</A>
+            <DT><A HREF="http://www.conceptdraw.com/samples/business-process-diagrams-flow-charts" ADD_DATE="1552706820">ConceptDraw Samples | Business processes — Flow charts</A>
+            <DT><A HREF="https://www.google.com.vn/search?q=business+process+example&sa=X&tbm=isch&imgil=CeielmWDBfv2BM%253A%253BlSxo03eZs7E41M%253Bhttp%25253A%25252F%25252Fwww.conceptdraw.com%25252Fsamples%25252Fbusiness-process-diagrams&source=iu&pf=m&fir=CeielmWDBfv2BM%253A%252ClSxo03eZs7E41M%252C_&usg=__IAwB1Sei1hl0RuRXjaV1Uvckdek%3D&biw=1366&bih=648#imgrc=8C72CMN0S1qPCM:" ADD_DATE="1552706820">business process example - Google Search</A>
+        </DL><p>
+        <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706820">Server</H3>
+        <DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706829">Tomcat</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706832">SSL</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.thegeekstuff.com/2011/09/ssl-for-tomcat-server/" ADD_DATE="1552706829">2 Easy Steps to Enable SSL / HTTPS on Tomcat Server</A>
+                    <DT><A HREF="https://jamfnation.jamfsoftware.com/article.html?id=115" ADD_DATE="1552706830">Enabling SSL on Tomcat with a Public Certificate - JAMF Nation</A>
+                    <DT><A HREF="http://techtracer.com/2007/09/12/setting-up-ssl-on-tomcat-in-3-easy-steps/" ADD_DATE="1552706830">Setting Up SSL on Tomcat In 3 Easy Steps | Techtracer</A>
+                    <DT><A HREF="http://tomcat.apache.org/tomcat-3.3-doc/tomcat-ssl-howto.html" ADD_DATE="1552706830">Tomcat and SSL</A>
+                    <DT><A HREF="http://ecxsystems.com/blog/2011/02/tomcat-5-ssl-install-godaddy-wildcard-certificate-jks-pkcs12-what/" ADD_DATE="1552706831">Tomcat 5 SSL – Install GoDaddy Wildcard Certificate JKS / PKCS12 ? What? | ECXSystems Dev Blog</A>
+                    <DT><A HREF="http://www.mulesoft.com/tomcat-ssl" ADD_DATE="1552706831">A Simple, Step-By-Step Guide To Apache Tomcat SSL Configuration | MuleSoft</A>
+                    <DT><A HREF="http://tomcat.apache.org/tomcat-6.0-doc/ssl-howto.html" ADD_DATE="1552706831">Apache Tomcat 6.0 (6.0.37) - SSL Configuration HOW-TO</A>
+                    <DT><A HREF="http://www.startux.de/index.php/java/44-dealing-with-java-keystoresyvComment44" ADD_DATE="1552706831">Dealing with java keystores</A>
+                    <DT><A HREF="http://alexdorand.wordpress.com/2012/08/28/how-to-setup-tomcat-7-and-certificate-generated-by-openssl-in-linux/" ADD_DATE="1552706832">How to setup Tomcat 7 and certificate generated by OpenSSL in Linux | 127.0.0.1:8080/universe</A>
+                    <DT><A HREF="http://mircwiki.rsna.org/index.php?title=Configuring_Tomcat_to_Support_SSL" ADD_DATE="1552706832">Configuring Tomcat to Support SSL - MircWiki</A>
+                    <DT><A HREF="http://kahimyang.info/kauswagan/howto_blogs/1464-2_ways_to_setup_ssl_on_tomcat_7" ADD_DATE="1552706832">2 ways to setup SSL on Tomcat 7</A>
+                    <DT><A HREF="https://code.google.com/p/jianwikis/wiki/TomcatSSLWithAPR" ADD_DATE="1552706832">TomcatSSLWithAPR - jianwikis - Tomcat SSL with Apr. - Jian Fang&#39;s Wiki Pages - Google Project Hosting</A>
+                    <DT><A HREF="http://java.dzone.com/articles/java-security-tutorial-%E2%80%93-step?utm_source=feedly&utm_medium=feed&utm_campaign=Feed%3A+javalobby%2Ffrontpage+%28Javalobby+%2F+Java+Zone%29" ADD_DATE="1552706832">Java Security Tutorial – Step by Step Guide to Create SSL Connection and Certificates | Javalobby</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706833">Out Of Memory</H3>
+                <DL><p>
+                    <DT><A HREF="http://blog.saunderswebsolutions.com/tomcat6-on-ubuntu-heap-size-and-perm-gen-size/" ADD_DATE="1552706829">Tomcat6 on Ubuntu, heap size and perm gen size | Saunders Web Solutions Blog</A>
+                    <DT><A HREF="http://diegobenna.blogspot.co.uk/2011/02/how-to-increase-heap-size-in-tomcat-6.html" ADD_DATE="1552706830">Diego Benna&#39;s Blog: How to increase heap size in Tomcat 6</A>
+                    <DT><A HREF="http://scn.sap.com/thread/3470372" ADD_DATE="1552706830">JAVA Settigns for Tomcat .... | SCN</A>
+                    <DT><A HREF="http://www.tomcatexpert.com/blog/2011/11/22/performance-tuning-jvm-running-tomcat" ADD_DATE="1552706830">Performance Tuning the JVM for Running Apache Tomcat | TomcatExpert</A>
+                    <DT><A HREF="http://www.theserverside.com/discussions/thread.tss?thread_id=79323" ADD_DATE="1552706831">All java.lang.OutOfMemoryErrors explained, with examples and solution hints.</A>
+                    <DT><A HREF="https://crunchify.com/how-to-change-jvm-heap-setting-xms-xmx-of-tomcat/" ADD_DATE="1552706831">How to Change JVM Heap Setting (-Xms -Xmx) of Tomcat - Configure setenv.sh file - Run catalina.sh • Crunchify</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/12688778/increase-tomcat-memory-settings" ADD_DATE="1552706831">Increase Tomcat memory settings - Stack Overflow</A>
+                    <DT><A HREF="https://www.digitalocean.com/community/tutorials/how-to-optimize-your-tomcat-installation-on-ubuntu-14-04" ADD_DATE="1552706831">How To Optimize Your Tomcat Installation on Ubuntu 14.04 | DigitalOcean</A>
+                    <DT><A HREF="https://docs.openkm.com/kcenter/view/okm-6.3-com/configuring-tomcat-memory-utilization.html" ADD_DATE="1552706832">https://docs.openkm.com/kcenter/view/okm-6.3-com/configuring-tomcat-memory-utilization.html</A>
+                    <DT><A HREF="https://communities.ca.com/thread/241802440" ADD_DATE="1552706832">How to increase Tomcat Memory in Windows and Linux | CA Communities</A>
+                    <DT><A HREF="http://razuna-documentation.readthedocs.io/en/1.8/Razuna_FAQ/Adjust_memory/" ADD_DATE="1552706832">Adjusting Memory Settings for Tomcat - Razuna Documentation</A>
+                    <DT><A HREF="https://docs.bmc.com/docs/display/public/ars201401/Increasing+the+JVM+memory+allocation+and+thread+stack+size" ADD_DATE="1552706832">Increasing the JVM memory allocation and thread stack size - BMC Remedy Action Request System Remedy OnDemand 2014.01 - BMC Documentation</A>
+                    <DT><A HREF="http://blog.sokolenko.me/2014/11/javavm-options-production.html" ADD_DATE="1552706832">Java VM Options You Should Always Use in Production – Software Engineer Sandbox</A>
+                    <DT><A HREF="http://engineering.pivotal.io/post/tomcat-tuning/" ADD_DATE="1552706833">JVM Tuning for Apache Tomcat · Pivotal Engineering Journal</A>
+                    <DT><A HREF="https://github.com/Yash-777/LearnJava/wiki/Tomcat-Server" ADD_DATE="1552706833">Tomcat Server · Yash-777/LearnJava Wiki</A>
+                </DL><p>
+                <DT><A HREF="http://tomcat.apache.org/tomcat-4.1-doc/jndi-datasource-examples-howto.html" ADD_DATE="1552706822">Apache Tomcat 4 - JNDI Datasource HOW-TO</A>
+                <DT><A HREF="http://www.theserverside.com/discussions/thread.tss?thread_id=29795" ADD_DATE="1552706822">JNDI datasources in Tomcat 5</A>
+                <DT><A HREF="http://www.hibernate.org/114.html" ADD_DATE="1552706822">hibernate.org - Using Hibernate with Tomcat</A>
+                <DT><A HREF="http://tomcat.apache.org/tomcat-5.5-doc/appdev/index.html" ADD_DATE="1552706822">Application Developer&#39;s Guide - Table of Contents</A>
+                <DT><A HREF="http://tomcat.apache.org/tomcat-5.5-doc/jndi-resources-howto.html" ADD_DATE="1552706823">The Apache Tomcat 5.5 Servlet/JSP Container - JNDI Resources HOW-TO</A>
+                <DT><A HREF="http://tomcat.apache.org/tomcat-5.5-doc/config/context.html" ADD_DATE="1552706823">Apache Tomcat Configuration Reference - The Context Container</A>
+                <DT><A HREF="http://www.ibm.com/developerworks/websphere/library/techarticles/0808_jain/0808_jain.html" ADD_DATE="1552706824">Migrating from Apache Tomcat Version 6.0.x to WebSphere Application Server Community Edition V2.1</A>
+                <DT><A HREF="https://sec1.woopra.com/docs/balancer-howto.html" ADD_DATE="1552706824">Apache Tomcat 6.0 - Load Balancer HOW-TO</A>
+                <DT><A HREF="http://haitrieuphan.blogspot.com/2009/06/web-balancingfor-server-tomcat.html" ADD_DATE="1552706824">Blog Tiếng nói từ trái tim: web balancing....for server TOMCAT...</A>
+                <DT><A HREF="http://tomcat.apache.org/connectors-doc/generic_howto/loadbalancers.html" ADD_DATE="1552706824">The Apache Tomcat Connector - Generic HowTo - LoadBalancer HowTo</A>
+                <DT><A HREF="http://confluence.atlassian.com/display/DOC/Apache+and+Tomcat+load+balancing" ADD_DATE="1552706824">Apache and Tomcat load balancing - Confluence Docs 3.1 - Atlassian Documentation - Confluence</A>
+                <DT><A HREF="http://confluence.atlassian.com/display/DOC/Cluster+Troubleshooting" ADD_DATE="1552706825">Cluster Troubleshooting - Confluence Docs 3.1 - Atlassian Documentation - Confluence</A>
+                <DT><A HREF="http://raibledesigns.com/tomcat/" ADD_DATE="1552706825">Apache 2.x + Tomcat 4.x + Load Balancing (or Private JVMs)</A>
+                <DT><A HREF="http://www.cpworld2000.com/article/apachetomcatmysql-load-balancing-and-clustering/" ADD_DATE="1552706825">Apache+Tomcat+Mysql load balancing and clustering | Internet Resources | Cpworld2000.com</A>
+                <DT><A HREF="http://www.gesea.de/techdocs.htm?id=67606&page=0" ADD_DATE="1552706825">Tomcat Farm with Apache HTTP Server, Load Balancer configuration</A>
+                <DT><A HREF="http://www.easywayserver.com/implementation-tomcat-clustering.htm" ADD_DATE="1552706825">Implement steps of tomcat clustering</A>
+                <DT><A HREF="http://www.tutorialspoint.com/white-papers/load-balancing-and-scalability-via-tomcat-clusters.htm" ADD_DATE="1552706826">Load Balancing and Scalability via Tomcat Clusters</A>
+                <DT><A HREF="http://www.abcseo.com/tech/java/clustering-tomcat-apache" ADD_DATE="1552706826">Setting up Clustering on Apache/Tomcat using Jakarta mod_jk [ABCSEO.com]</A>
+                <DT><A HREF="https://sec1.woopra.com/docs/cluster-howto.html" ADD_DATE="1552706826">Apache Tomcat 6.0 - Clustering/Session Replication HOW-TO</A>
+                <DT><A HREF="http://www.zkoss.org/smalltalks/clusteringI/clusteringI.dsp" ADD_DATE="1552706826">ZK Small Talks - How to Run ZK on Apache + Tomcat clustering, Part I</A>
+                <DT><A HREF="http://www.coderanch.com/t/87422/Tomcat/increase-java-heap-size" ADD_DATE="1552706826">increase java heap size (Tomcat forum at JavaRanch)</A>
+                <DT><A HREF="http://www.zulutown.com/blog/tag/maxpermsize/" ADD_DATE="1552706827">maxpermsize » Web2.0 Tutorials</A>
+                <DT><A HREF="http://www.smartsoftwarebits.com/qaa/46-misc/81-howto-set-java-options-for-tomcat-on-windows" ADD_DATE="1552706827">How to set Java options for Tomcat on Windows</A>
+                <DT><A HREF="http://tomcat.10.n6.nabble.com/MaxPermSize-Tomcat-startup-trouble-td2144690.html" ADD_DATE="1552706827">Tomcat - User - MaxPermSize, Tomcat startup trouble</A>
+                <DT><A HREF="http://support.sas.com/documentation/cdl/en/citmblcg/64709/HTML/default/viewer.htm#n1hplivnigb4ptn1nbn5kixqja3m.htm" ADD_DATE="1552706827">Configuring the Java Memory Parameters on Application Servers :: Roambi ES for SAS(R) 9.2 and 9.3: Installation, Configuration, and Deployment Guide</A>
+                <DT><A HREF="http://server-demo-ec2.cloveretl.com/clover/docs/tomcat.html" ADD_DATE="1552706827">Apache Tomcat</A>
+                <DT><A HREF="http://www.gria.org/documentation/5.2/faq/tomcat-outofmemory-error-permgen-space" ADD_DATE="1552706827">Tomcat OutOfMemory Error: PermGen Space — GRIA</A>
+                <DT><A HREF="http://www.12robots.com/index.cfm/2010/10/8/Giving-more-memory-to-the-Tomcat-Service-in-Windows" ADD_DATE="1552706827">12Robots.com - Jason Dean: Giving more memory to the Tomcat Service in Windows</A>
+                <DT><A HREF="http://www.liferay.com/community/forums/-/message_boards/message/4019557" ADD_DATE="1552706827">Out of Space and Perm Gen Space on tomcat 6 server and liferay 5.2.3 - Forums - Liferay.com</A>
+                <DT><A HREF="http://www.iteraplan.de/wiki/display/iteraplan/Tomcat+Configuration" ADD_DATE="1552706828">Tomcat Configuration - iteraplan Documentation - Community</A>
+                <DT><A HREF="http://plavc.wordpress.com/2012/02/08/tomcat-service-on-windows/" ADD_DATE="1552706828">Tomcat Server running as Windows service « Memory leak</A>
+                <DT><A HREF="https://www.labkey.org/wiki/home/Documentation/page.view?name=configWebappMemory" ADD_DATE="1552706828">Configure Webapp Memory: /home/Documentation</A>
+                <DT><A HREF="http://wiki.vetview.org/display/LABS060/Configure+Tomcat+Memory+Settings" ADD_DATE="1552706828">Configure Tomcat Memory Settings - Labs User Guide 0.6 - VetView Wiki</A>
+                <DT><A HREF="http://bahadurbaniya.blogspot.com/2011/05/solving-permgen-space-out-of-memory.html" ADD_DATE="1552706828">Solving Permgen Space Out of Memory Problem in Standalone Tomcat Deployment | Bahadur Singh Baniya</A>
+                <DT><A HREF="http://umpteenchoices.blogspot.com/2011/05/tomcat-7-windows-service-memory.html" ADD_DATE="1552706828">Umpteen Choices: Tomcat 7 Windows Service memory management - a correction</A>
+                <DT><A HREF="http://devnet.logixml.com/rdPage.aspx?rdReport=Article&dnDocID=1179" ADD_DATE="1552706828">Java Server Configurations</A>
+                <DT><A HREF="http://grid.pd.infn.it/cream/field.php?n=Main.RelevantLogFiles" ADD_DATE="1552706828">Cream - Main - RelevantLogFiles</A>
+                <DT><A HREF="http://www.javavids.com/video/apache-tomcat-startup-shutdown-scripts.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+javavids+%28JavaVids%3A+Java+video+tutorials%29" ADD_DATE="1552706828">Apache Tomcat startup / shutdown scripts</A>
+                <DT><A HREF="http://www.ramkitech.com/2012/03/virtual-host-apache-httpd-server-tomcat.html" ADD_DATE="1552706828">Virtual Host + Apache httpd server + Tomcat + mod_jk connector ~ Ramki Java Blog</A>
+                <DT><A HREF="http://www.youtube.com/watch?v=Njx1V4ZW_g0" ADD_DATE="1552706828">Virtual Host + Apache httpd server + Tomcat + mod_jk connector - YouTube</A>
+                <DT><A HREF="http://www.javacodegeeks.com/2012/04/virtual-host-apache-httpd-server-tomcat.html" ADD_DATE="1552706828">Virtual Host + Apache httpd server + Tomcat + mod_jk connector | Java Code Geeks</A>
+                <DT><A HREF="http://www.proteios.org/trac/wiki/TomcatApacheSSLConfigurationHints" ADD_DATE="1552706828">TomcatApacheSSLConfigurationHints – Proteios SE</A>
+                <DT><A HREF="http://fijiaaron.wordpress.com/2008/07/30/configuring-an-apache-virtualhost-to-use-tomcat/" ADD_DATE="1552706828">Configuring an Apache VirtualHost to use Tomcat | Fijiaaron in Ecuador</A>
+                <DT><A HREF="http://www.datadisk.co.uk/html_docs/java_app/tomcat6/tomcat6_apache_server.htm" ADD_DATE="1552706828">Tomcat 6 - Apache HTTP Server</A>
+                <DT><A HREF="http://linux-sxs.org/internet_serving/c875.html" ADD_DATE="1552706828">Integrating Tomcat 5 and Apache 2</A>
+                <DT><A HREF="http://rguha.net/misc/apachetomcat.html" ADD_DATE="1552706828">Apache2, Axis &amp; Tomcat 5</A>
+                <DT><A HREF="http://www.raibledesigns.com/tomcat/" ADD_DATE="1552706828">Apache 2.x + Tomcat 4.x + Load Balancing (or Private JVMs)</A>
+                <DT><A HREF="http://andrius.miasnikovas.lt/2010/04/apache-http-server-ssl-tomcat-6-x-on-ubuntu-and-centos/" ADD_DATE="1552706828">Apache HTTP server (SSL) + Tomcat 6.x on Ubuntu and CentOS | Andrius Miasnikovas</A>
+                <DT><A HREF="http://www.javacodegeeks.com/2012/06/apache-http-server-with-tomcat-on-ssl.html" ADD_DATE="1552706829">Apache HTTP server with Tomcat on SSL | Java Code Geeks</A>
+                <DT><A HREF="http://infocenter.pentaho.com/help/index.jsp?topic=%2Fperformance_tuning_guide%2Ftask_apache_httpd_static.html" ADD_DATE="1552706829">Pentaho InfoCenter</A>
+                <DT><A HREF="http://raibledesigns.com/wiki/Wiki.jsp?page=ApacheSSL" ADD_DATE="1552706829">Raible&#39;s Wiki: ApacheSSL</A>
+                <DT><A HREF="http://mhashem.wordpress.com/2008/08/25/set-tomcat-memory-heap-size/" ADD_DATE="1552706829">Set tomcat memory heap size | Mostafa Hashem</A>
+                <DT><A HREF="http://obscuredclarity.blogspot.com/2009/11/set-tomcat-memory-heap-size.html" ADD_DATE="1552706829">Obscured Clarity: Set Tomcat Memory Heap Size</A>
+                <DT><A HREF="http://www.coderanch.com/t/85725/Tomcat/heap-space-setting-Tomcat-Linux" ADD_DATE="1552706829">heap space setting for Tomcat on Linux (Tomcat forum at JavaRanch)</A>
+                <DT><A HREF="http://diegobenna.blogspot.com/2011/02/how-to-increase-heap-size-in-tomcat-6.html" ADD_DATE="1552706829">Diego Benna&#39;s Blog: How to increase heap size in Tomcat 6</A>
+                <DT><A HREF="http://forums.hscripts.com/viewtopic.php?f=15&t=4058" ADD_DATE="1552706829">How to increase heap size for tomcat - Apache Webmaster Forum</A>
+                <DT><A HREF="http://blog.eapps.com/news/adjusting-java-memory-heap-size.html" ADD_DATE="1552706829">Adjusting Java Memory Heap Size « eApps Blog</A>
+                <DT><A HREF="http://www.turnkeylinux.org/forum/support/20100903/cannot-change-java-heap-size-allocation-tomcat" ADD_DATE="1552706829">Cannot change java heap size allocation for tomcat | TurnKey Linux Forum</A>
+                <DT><A HREF="http://www.tokiwinter.com/load-balance-tomcat-apache-httpd-mod_jk/" ADD_DATE="1552706829">Load balancing Tomcat with Apache HTTPD and mod_jk - Toki Winter</A>
+                <DT><A HREF="http://blog.silverbucket.net/post/31927044856/3-ways-to-configure-haproxy-for-websockets" ADD_DATE="1552706829">3 ways to configure HAProxy for WebSockets | silverbucket</A>
+                <DT><A HREF="http://www.mkyong.com/tomcat/tomcat-javalangoutofmemoryerror-permgen-space/" ADD_DATE="1552706829">Tomcat – java.lang.OutOfMemoryError: PermGen space</A>
+                <DT><A HREF="http://community.jaspersoft.com/wiki/configuring-tomcats-java-heap-size" ADD_DATE="1552706829">Configuring Tomcat&#39;s Java Heap Size | Jaspersoft Community</A>
+                <DT><A HREF="http://www.skill-guru.com/blog/2010/09/23/how-to-increase-heap-size-in-tomcat-6/" ADD_DATE="1552706829">Out of memory errors in Tomcat | Free practice test , mock test, driving test, interview questions</A>
+                <DT><A HREF="http://helpdeskgeek.com/how-to/increase-tomcat-memory-allocation/" ADD_DATE="1552706829">How to Increase Tomcat’s Memory Allocation - Help Desk Geek</A>
+                <DT><A HREF="http://pablotips.blogspot.com/p/installing-tomcat-and-pentaho.html" ADD_DATE="1552706829">Tips on Installing software: Installing Tomcat and Pentaho</A>
+                <DT><A HREF="http://www.gesea.de/techdocs.htm?id=67616&" ADD_DATE="1552706829">JKManager - Apache mod_jk load balancer status monitor | installation, configuration, start up</A>
+                <DT><A HREF="http://www.tomcatexpert.com/blog/2011/11/22/performance-tuning-jvm-running-tomcat" ADD_DATE="1552706829">Performance Tuning the JVM for Running Apache Tomcat | TomcatExpert</A>
+                <DT><A HREF="https://examples.javacodegeeks.com/enterprise-java/tomcat/apache-tomcat-load-balancing-tutorial/" ADD_DATE="1552706829">Apache Tomcat Load Balancing Tutorial | Examples Java Code Geeks - 2016</A>
+                <DT><A HREF="https://stackify.com/tomcat-performance-monitoring/" ADD_DATE="1552706829">A Step By Step Guide to Tomcat Performance Monitoring</A>
+                <DT><A HREF="https://stackoverflow.com/questions/36703856/access-tomcat-manager-app-from-different-host" ADD_DATE="1552706829">Access Tomcat Manager App from different host - Stack Overflow</A>
+                <DT><A HREF="https://www.digitalocean.com/community/questions/how-to-access-tomcat-8-admin-gui-from-different-host" ADD_DATE="1552706829">How to access Tomcat 8 admin gui from different host? | DigitalOcean</A>
+                <DT><A HREF="https://stackoverflow.com/questions/3381531/how-to-restrict-access-by-ip-address-with-tomcat" ADD_DATE="1552706829">apache - How to restrict access by IP address with Tomcat? - Stack Overflow</A>
+                <DT><A HREF="https://salehparsa.github.io/tomcat/security/linux/regex/2016/08/21/Allow-Deny-Access-to-Certain-IP-Address-in-Tomcat.html" ADD_DATE="1552706829">Allow/Deny Access to Certain IP Address in Tomcat</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706828">JBoss</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706831">Cluster</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.rosehosting.com/blog/how-to-install-and-configure-jboss-as-with-java-and-apache2-as-a-reverse-proxy/" ADD_DATE="1552706829">How to install and configure JBoss AS with Java and Apache2 as a reverse proxy | RoseHosting.com Linux VPS Hosting Blog</A>
+                    <DT><A HREF="https://community.jboss.org/thread/221341?start=0&tstart=0" ADD_DATE="1552706829">Tutorial domain clustering in JBoss 7 / EAP 6 | Community</A>
+                    <DT><A HREF="http://fabiobozzo.wordpress.com/2013/02/25/multiple-web-applications-with-jboss-and-apache/" ADD_DATE="1552706830">Multiple web applications with JBoss and Apache | Fabio Bozzo</A>
+                    <DT><A HREF="https://docs.jboss.org/author/display/AS72/AS7+Cluster+Howto" ADD_DATE="1552706830">AS7 Cluster Howto - JBoss AS 7.2 - Project Documentation Editor</A>
+                    <DT><A HREF="http://docs.jboss.org/jbossas/jboss4guide/r4/html/cluster.chapt.html" ADD_DATE="1552706830">Chapter 16. Clustering</A>
+                    <DT><A HREF="http://www.datadisk.co.uk/html_docs/java_app/jboss5/jboss5_clustering.htm" ADD_DATE="1552706831">JBoss 5 - Clustering</A>
+                    <DT><A HREF="https://community.jboss.org/wiki/JBossOnPort80" ADD_DATE="1552706831">JBossOnPort80 | Community</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706833">Virtual host</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.openscope.net/2010/01/17/virtual-hosting-with-jboss/" ADD_DATE="1552706829">Virtual hosting with Jboss 5.1</A>
+                    <DT><A HREF="http://www.oxxus.net/wiki/JBoss_virtual_hosts" ADD_DATE="1552706830">JBoss virtual hosts - Oxxus Wiki</A>
+                    <DT><A HREF="http://blog.egkv.me/2012/07/17/jboss-7-virtual-hosts/" ADD_DATE="1552706830">JBoss 7 virtual hosts | EG/KV</A>
+                    <DT><A HREF="http://www.fusioncube.net/index.php/hosting-multiple-domains-with-jboss" ADD_DATE="1552706830">Hosting Multiple Domains With JBoss - Fusioncube</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/9981510/jboss-7-virtual-host-getting-page-not-found" ADD_DATE="1552706830">virtualhost - JBoss 7 Virtual Host getting page not found - Stack Overflow</A>
+                    <DT><A HREF="http://www.mastertheboss.com/jboss-web-server/jboss-as-virtual-host-configuration" ADD_DATE="1552706831">JBoss AS Virtual Host configuration - jboss web server - JBoss application server tutorials</A>
+                    <DT><A HREF="https://community.jboss.org/wiki/VirtualHostsWithJBossAS7" ADD_DATE="1552706831">Virtual Hosts with JBoss AS 7 | Community</A>
+                    <DT><A HREF="http://www.fusioncube.net/index.php/coldfusion-on-jboss-with-apache-proxy" ADD_DATE="1552706831">ColdFusion on JBoss with Apache Proxy - Fusioncube</A>
+                    <DT><A HREF="http://httpd.apache.org/docs/2.2/vhosts/examples.html" ADD_DATE="1552706832">VirtualHost Examples - Apache HTTP Server</A>
+                    <DT><A HREF="http://www.thegeekstuff.com/2011/07/apache-virtual-host/" ADD_DATE="1552706832">How To Setup Apache Virtual Host Configuration (With Examples)</A>
+                    <DT><A HREF="http://www.debian-administration.org/articles/412" ADD_DATE="1552706832">Hosting multiple websites with Apache2</A>
+                    <DT><A HREF="http://foundationphp.com/tutorials/apache22_vhosts.php" ADD_DATE="1552706832">Virtual hosts on Apache 2.2</A>
+                    <DT><A HREF="http://en.kioskea.net/faq/8485-configuring-apache-and-windows-to-create-a-virtual-host" ADD_DATE="1552706832">Configuring Apache and Windows to create a virtual host</A>
+                    <DT><A HREF="http://www.laternastudio.com/blog/setting-up-an-apache-2-2-21-virtual-host-windows" ADD_DATE="1552706832">Setting up an Apache 2.2.21 Virtual Host on Windows 7 | Laterna Studio</A>
+                    <DT><A HREF="http://austinpassy.com/2012/setting-up-virtual-hosts-wordpress-multisite-with-xampp-on-windows-7/" ADD_DATE="1552706833">Setting up Virtual Hosts with XAMPP running on Windows 7</A>
+                    <DT><A HREF="https://community.jboss.org/thread/80674?start=0&tstart=0" ADD_DATE="1552706833">JBoss and Apache virtual host config- mod_jk | Community</A>
+                    <DT><A HREF="http://middlewaremagic.com/jboss/?tag=mod_jk" ADD_DATE="1552706833">mod_jk « JBoss</A>
+                    <DT><A HREF="http://middlewaremagic.com/jboss/?p=174" ADD_DATE="1552706833">Using mod_jk to access multiple applications « JBoss</A>
+                    <DT><A HREF="https://www.suse.com/communities/conversations/configuring-tomcat5-and-apache-22-virtual-hosts-using-modjk/" ADD_DATE="1552706833">Configuring Tomcat5 and Apache 2.2 with Virtual Hosts using mod_jk | SUSE ConversationsSUSE Conversations</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706834">Mod_JK</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.davemalpass.com/words/link-apache-to-jboss-with-mod_jk/" ADD_DATE="1552706829">Link Apache to Jboss with mod_jk » Dave Malpass&#39; Technology Blog</A>
+                    <DT><A HREF="https://thenewcircle.com/bookshelf/jboss_admin_tutorial/high_availability_and_scalability.html#_installing_literal_mod_jk_literal" ADD_DATE="1552706830">Jboss Admin Tutorial : High Availability And Scalability - NewCircle</A>
+                    <DT><A HREF="https://wiki.jasig.org/display/BWK37/BW+3.7+Fronting+JBoss+with+Apache" ADD_DATE="1552706830">BW 3.7 Fronting JBoss with Apache - Bedework 3.7 Manual - Jasig Wiki</A>
+                    <DT><A HREF="http://www.outjected.com/blog/2012/12/13/another-mod-proxy-jboss-how-to.html" ADD_DATE="1552706830">JBoss AS7 with Apache + SSL</A>
+                    <DT><A HREF="http://marakana.com/bookshelf/jboss_admin_tutorial/high_availability_and_scalability.html" ADD_DATE="1552706831">Jboss Admin Tutorial : High Availability And Scalability - Marakana</A>
+                    <DT><A HREF="http://lbconfig.appspot.com/" ADD_DATE="1552706831">Apache -&gt; JBoss Loadbalancing Configuration Generator</A>
+                    <DT><A HREF="http://www.junauza.com/2011/03/load-balancing-your-jboss-app-servers.html" ADD_DATE="1552706831">Load Balancing your JBoss App Servers with Apache | TechSource</A>
+                    <DT><A HREF="https://docs.jboss.org/author/display/AS71/Using+mod_jk+with+JBoss+AS7" ADD_DATE="1552706831">Using mod_jk with JBoss AS7 - JBoss AS 7.1 - Project Documentation Editor</A>
+                    <DT><A HREF="http://middlewaremagic.com/jboss/?p=120" ADD_DATE="1552706831">Configuring mod_jk to connect to JBoss « JBoss</A>
+                    <DT><A HREF="http://www.objis.com/formation-java/tutoriel-jboss-integration-apache-jboss-avec-mod-jk.html" ADD_DATE="1552706832">Tutoriel JBoss : intégration Apache / Jboss avec mod_jk</A>
+                    <DT><A HREF="http://blogs.encodo.ch/news/view_article.php?id=18" ADD_DATE="1552706832">Loadbalancing with mod_jk and Apache &gt; Tips and Tricks &gt; Encodo Blogs</A>
+                    <DT><A HREF="http://www.mulesoft.com/tomcat-clustering" ADD_DATE="1552706832">Tomcat Clustering - A Step By Step Guide | MuleSoft</A>
+                    <DT><A HREF="http://simpleans.blogspot.com/2012/11/configuring-jboss-cluster-using-apache.html" ADD_DATE="1552706832">Configuring Jboss Cluster using Apache JK Module: ~ Simple Solutions</A>
+                    <DT><A HREF="http://blog.rajeevsharma.in/2010/02/configure-modjk-with-apache-22-in.html" ADD_DATE="1552706832">Rajeev Sharma: Configure mod_jk with Apache 2.2 in Ubuntu</A>
+                    <DT><A HREF="http://rmohan.com/?p=443" ADD_DATE="1552706833">Setting up Clustering on Apache/Jboss/Tomcat using Jakarta mod_jk « Mohan</A>
+                    <DT><A HREF="http://simplesassim.wordpress.com/2013/08/27/how-to-setup-load-balancing-with-mod_jk-in-jboss-eap-6/" ADD_DATE="1552706833">How to Setup Load Balancing with mod_jk in JBoss EAP 6 | Simples Assim</A>
+                    <DT><A HREF="https://216.154.219.135/index.php?/Knowledgebase/Article/View/419" ADD_DATE="1552706833">User Guide - JBoss 7 Application Deployment using mod_jk or mod_proxy_ajp - Powered by Kayako Fusion Help Desk Software</A>
+                    <DT><A HREF="http://drvijayy2k2.blogspot.com/2012/08/red-hat-web-server-configuration-for.html" ADD_DATE="1552706833">Vijay&#39;s Blog: Red Hat web server configuration for Mod_jk</A>
+                    <DT><A HREF="http://serverfault.com/questions/291400/load-balancing-jboss-app-server-with-apache-using-mod-jk" ADD_DATE="1552706833">apache2 - Load Balancing JBoss App Server with Apache using mod_jk - Server Fault</A>
+                    <DT><A HREF="http://www.hannonhill.com/kb/Load-Balancing/" ADD_DATE="1552706834">Load Balancing - Cascade Knowledge Base by Hannon Hill</A>
+                    <DT><A HREF="http://www.itpile.com/r2049/configuring-apache-prefork-mod-jk-jboss" ADD_DATE="1552706834">Configuring apache prefork + mod_jk + jboss</A>
+                    <DT><A HREF="http://mudasblog.wordpress.com/2011/01/13/apache-2-2-3-with-mod_jk-1-2-31-configuration-example/" ADD_DATE="1552706834">Apache 2.2.3 with mod_jk (1.2.31) configuration example | mudas Blog</A>
+                    <DT><A HREF="http://docs.jboss.org/jbossclustering/cluster_guide/5.1/html/clustering-http.html" ADD_DATE="1552706834">Chapter 8. HTTP Services</A>
+                    <DT><A HREF="http://www.mastertheboss.com/jboss-cluster/jboss-http-session-replication" ADD_DATE="1552706834">JBoss HTTP Session replication - jboss cluster - JBoss application server tutorials</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/16396483/session-replication-on-eap-jboss-6-0" ADD_DATE="1552706834">struts2 - Session replication on EAP JBOSS 6.0 - Stack Overflow</A>
+                    <DT><A HREF="http://technicalmumbojumbo.wordpress.com/2009/04/21/configuring-http-and-https-on-jboss-server/" ADD_DATE="1552706834">Configuring HTTP and HTTPS clustering on JBoss Server | My Experiments with Technology</A>
+                    <DT><A HREF="http://coldshen.com/blog/index.cfm/2008/9/27/Load-Balancing-your-JBoss-AS-5-cluster-with-Apache-AJP" ADD_DATE="1552706834">coldshenBlog: Load Balancing your JBoss AS 5 cluster with Apache 2 and AJP</A>
+                    <DT><A HREF="http://wiki.axiossystems.com/assystWiki/index.php/JBoss_Clustering_-_Configuring_a_Load_Balancer" ADD_DATE="1552706834">JBoss Clustering - Configuring a Load Balancer - wiki.axiossystems.com</A>
+                    <DT><A HREF="https://access.redhat.com/site/documentation/en-US/JBoss_Enterprise_Web_Platform/5/html/Administration_And_Configuration_Guide/clustering-http.html" ADD_DATE="1552706834">Chapter 21. HTTP Services - Red Hat Customer Portal</A>
+                    <DT><A HREF="http://wangxiangblog.blogspot.com/2013/01/springmvc-replicates-sessions-in.html" ADD_DATE="1552706834">Wang Xiang&#39;s Blog: SpringMVC replicates sessions in cluster servers</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706834">Mode Cluster</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.openlogic.com/blog/bid/247607/JBoss-AS7-Clustering-Using-mod_cluster-and-http-2-4-Part-1" ADD_DATE="1552706829">JBoss AS7 Clustering Using mod_cluster and http 2.4 (Part 1)</A>
+                    <DT><A HREF="http://www.openlogic.com/blog/bid/256141/JBoss-AS7-Clustering-Using-mod_cluster-and-http-2-4-Part-2" ADD_DATE="1552706829">JBoss AS7 Clustering Using mod_cluster and http 2.4 (Part 2)</A>
+                    <DT><A HREF="https://gist.github.com/slok/1543449" ADD_DATE="1552706830">Setup for jboss 7 with apache and mod_cluster in ubuntu 11.10</A>
+                    <DT><A HREF="http://timtang.me/blog/2012/11/01/jbossas7-cluster-setup-with-modcluster/" ADD_DATE="1552706830">JBoss AS7 cluster with mod_cluster setup howto ← Ruby|Rails|Vim|Mac|Linux</A>
+                    <DT><A HREF="http://diffuse-appserver.blogspot.com/2013/05/courtesy-noorduin-i-have-been-on-and_2952.html" ADD_DATE="1552706830">Application Server cracks: Jboss- Apache mod_cluster and multiple virtual hosts</A>
+                    <DT><A HREF="http://middlewaremagic.com/jboss/?tag=apache" ADD_DATE="1552706831">Apache « JBoss</A>
+                    <DT><A HREF="http://achillecarette.blogspot.com/2011/03/jboss-apache-basical-apache-setup.html" ADD_DATE="1552706831">A hora H: JBoss &amp; Apache: Basical Apache Setup</A>
+                    <DT><A HREF="http://geeksinaction.blogspot.com/2013/05/jboss-as-7x-cluster-setup.html" ADD_DATE="1552706831">Geeks In Action: Jboss AS 7.x cluster setup</A>
+                    <DT><A HREF="http://magnus-k-karlsson.blogspot.com/2013/01/how-to-cluster-standalone-jboss-eap-6.html" ADD_DATE="1552706831">Magnus K Karlsson: How to Cluster Standalone JBoss EAP 6 and AS 7</A>
+                    <DT><A HREF="http://simplesassim.wordpress.com/2013/04/10/how-to-setup-load-balancing-with-mod_cluster-in-jboss-eap-6/" ADD_DATE="1552706832">How to Setup Load Balancing with mod_cluster in JBoss EAP 6 | Simples Assim</A>
+                    <DT><A HREF="http://hundredpercentapplicationuptime.blogspot.com/2013/01/jboss-7-cluster-configuration.html" ADD_DATE="1552706832">Jboss 7 cluster configuration | Weblogic and Jboss Administration</A>
+                    <DT><A HREF="http://rmohan.com/?p=1222" ADD_DATE="1552706832">Crazy way to do JBOSS and Tomcat Loadbalancing :) « Mohan</A>
+                    <DT><A HREF="http://blog.c2b2.co.uk/2013/02/setting-up-jboss-eap-6-cluster-with.html" ADD_DATE="1552706832">Setting up a JBoss EAP 6 cluster with Apache mod_cluster for load balancing and failover | C2B2 Blog</A>
+                    <DT><A HREF="http://coder36.blogspot.com/2012/11/sadly-setting-up-clustering-in-jboss-7.html" ADD_DATE="1552706833">Coder36: Setting up a Jboss 7.1 Cluster</A>
+                    <DT><A HREF="http://middlewaremagic.com/jboss/?p=2147" ADD_DATE="1552706833">Using mod_cluster with JBoss AS 7.1 cluster « JBoss</A>
+                    <DT><A HREF="http://monitis.sys-con.com/node/2344386/mobile" ADD_DATE="1552706833">Configuring JBoss 7 with Apache</A>
+                    <DT><A HREF="http://linuxbutler.com/jboss_7-1-x_and_httpd_with_mod_cluster/" ADD_DATE="1552706833">JBoss 7.1.x and httpd with mod_cluster | Linux Butler - At your service</A>
+                    <DT><A HREF="http://kura2gurun.blogspot.com/2011/03/mod-cluster-on-jboss-as-5.html" ADD_DATE="1552706833">Kura-Kura Gurun: Mod cluster on JBoss AS 5.x</A>
+                    <DT><A HREF="http://blog.akquinet.de/2012/06/21/clustering-in-jboss-as7eap-6/" ADD_DATE="1552706833">Clustering in JBoss AS7/EAP 6 | akquinet-blog</A>
+                    <DT><A HREF="http://immutant.org/documentation/1.0.1/production.html" ADD_DATE="1552706833">Production Setup</A>
+                    <DT><A HREF="http://jboss-as-7-abhishekmathur.blogspot.com/2013/05/session-replication-with-modcluster-in.html" ADD_DATE="1552706834">Jboss as-7: Session Replication with Mod_cluster in jboss as 7.1</A>
+                    <DT><A HREF="https://access.redhat.com/site/documentation/en-US/JBoss_Enterprise_Application_Platform/6/html/Administration_and_Configuration_Guide/Install_the_mod_cluster_Module_Into_Apache_HTTPD_or_Enterprise_Web_Server_HTTPD1.html" ADD_DATE="1552706834">13.3.3. Install the mod_cluster Module Into Apache HTTPD or Enterprise Web Server HTTPD - Red Hat Customer Portal</A>
+                    <DT><A HREF="http://www.devx.com/Java/Article/48086/0/page/3" ADD_DATE="1552706834">Implement a Dynamic Tomcat Cluster with Mod_Cluster : Page 3</A>
+                    <DT><A HREF="http://docs.jboss.org/mod_cluster/1.1.0/html/Quick_Start_Guide.html" ADD_DATE="1552706834">Chapter 2. Quick Start Guide</A>
+                    <DT><A HREF="http://everything-jboss.blogspot.com/2013/06/ways-of-connecting-to-as-7-using-jmx.html" ADD_DATE="1552706834">Everything JBoss: Ways of connecting to JBoss EAP/AS 7 using JMX</A>
+                    <DT><A HREF="http://www.jbossauthority.com/alfresco-on-jboss-eap-6-1/" ADD_DATE="1552706834">Alfresco on JBoss EAP 6.1 - JBoss Authority</A>
+                    <DT><A HREF="https://library.linode.com/web-servers/apache/proxy-configuration/proxy-and-clustering-services-ubuntu-12.04-precise-pangolin?format=print" ADD_DATE="1552706834">Using Apache for Proxy and Clustering Services on Ubuntu 12.04 (Precise Pangolin)</A>
+                    <DT><A HREF="http://www.onestopshack.com/2013/01/10/apache-httpd-with-jboss-as7-mod-cluster-virtual-host-setup" ADD_DATE="1552706834">Freeswitch Developer, Asterisk, Consultant Auckland | www.onestopshack.com</A>
+                    <DT><A HREF="https://confluence.atlassian.com/display/DOC/Using+Apache+with+virtual+hosts+and+mod_proxy" ADD_DATE="1552706834">Using Apache with virtual hosts and mod_proxy - Confluence Latest - Atlassian Documentation</A>
+                    <DT><A HREF="https://community.jboss.org/thread/162859" ADD_DATE="1552706834">mod_cluster and multiple virtual hosts | Community</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/13363588/mod-cluster-https-redirect-is-not-working-when-an-application-server-is-register" ADD_DATE="1552706834">jboss - mod_cluster https redirect is not working when an application server is registered - Stack Overflow</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/16112228/mod-cluster-virtual-hosts-and-jboss-root-context-in-jboss-eap-6" ADD_DATE="1552706834">jboss7.x - mod_cluster, virtual hosts, and jboss root context in JBoss EAP 6 - Stack Overflow</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706830">Change Port</H3>
+                <DL><p>
+                    <DT><A HREF="http://support.centinasystems.com/index.php?/Knowledgebase/Article/View/9/0/redirect-port-80-to-8080-using-iptables" ADD_DATE="1552706829">Redirect port 80 to 8080 using iptables - Powered by Kayako Resolve Help Desk Software</A>
+                    <DT><A HREF="https://community.jboss.org/wiki/RunningJBossOnPort80Or443" ADD_DATE="1552706829">Running JBoss on Port 80 or 443 | Community</A>
+                    <DT><A HREF="http://primalcortex.wordpress.com/2008/05/09/running-jboss-on-port-80-on-linux/" ADD_DATE="1552706830">Running Jboss on port 80 on Linux | Primal Cortex&#39;s Weblog</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706823" LAST_MODIFIED="1552706832">Service</H3>
+                <DL><p>
+                    <DT><A HREF="http://kousikraj.me/2012/01/22/jboss-as-7-as-service-jboss-as-7-in-silent-background-mode/" ADD_DATE="1552706829">JBOSS AS 7 as service (JBoss AS 7 in Silent [background] mode) | Kousik Rajendran</A>
+                    <DT><A HREF="http://www.blog.rogersit.net/simple-jboss-7-server-startup-script-linux/2012/01/19/" ADD_DATE="1552706829">Simple JBoss AS 7 Server Startup Script for Linux</A>
+                    <DT><A HREF="http://ranjankumar.in/2008/05/22/starting-jboss-as-a-service-on-linux/" ADD_DATE="1552706830">Starting JBoss as a Service on Linux | Ranjan Kumar</A>
+                    <DT><A HREF="https://community.jboss.org/wiki/HowToInstallJBossAS7AsALinuxService" ADD_DATE="1552706830">How to install JBoss AS 7 as a Linux service | Community</A>
+                    <DT><A HREF="https://community.jboss.org/wiki/RunningJbossAs7XAsAServiceLinux" ADD_DATE="1552706831">Running Jboss as 7.X as a Service (Linux) | Community</A>
+                    <DT><A HREF="http://www.mastertheboss.com/jboss-configuration/run-jboss-as-service-howto" ADD_DATE="1552706831">Run JBoss as Service HowTo - jboss configuration - JBoss application server tutorials</A>
+                    <DT><A HREF="http://middlewaremagic.com/jboss/?p=2294" ADD_DATE="1552706831">How to run multiple JBoss AS 7.1 as a service on single box in Linux « JBoss</A>
+                    <DT><A HREF="http://pastebin.com/sRmSya3P" ADD_DATE="1552706831">Start JBoss 7 as a service on Linux - Pastebin.com</A>
+                    <DT><A HREF="https://www.jorsol.com/2012/10/script-de-inicio-de-jboss-as7-para-ubuntu-1204" ADD_DATE="1552706832">Script de inicio de JBoss AS7 para Ubuntu 12.04 | JorSol Weblog</A>
+                    <DT><A HREF="http://www.mephistosoftware.com/jboss-gentoo" ADD_DATE="1552706832">JBOSS AS 7 on Gentoo | Mephisto Software</A>
+                </DL><p>
+                <DT><A HREF="http://docs.jboss.com/ejb3/app-server/reference/build/reference/en/html/partial_deployment_descriptors.html" ADD_DATE="1552706823">Chapter 7. JBoss EJB 3.0 partial deployment descriptors</A>
+                <DT><A HREF="http://jonas.objectweb.org/doc/howto/jboss2_4-to-jonas2_4/html/a185.html" ADD_DATE="1552706823">jboss.xml</A>
+                <DT><A HREF="http://www.jboss.ru/docs/JBoss-2002-11-26/ch05s22.html" ADD_DATE="1552706823">Web container configuration : use of jboss-web.xml</A>
+                <DT><A HREF="https://community.jboss.org/wiki/OutOfMemoryExceptions" ADD_DATE="1552706824">OutOfMemoryExceptions | JBoss Community</A>
+                <DT><A HREF="http://blog.meimberg.info/das-permgen-space-problem-untr-jboss/" ADD_DATE="1552706824">» Das permgen space-Problem unter JBoss</A>
+                <DT><A HREF="http://docs.oracle.com/cd/E14049_01/doc.9101/e14046/install_config_jboss.htm" ADD_DATE="1552706824">Installing and Configuring JBoss Application Server in Nonclustered Mode</A>
+                <DT><A HREF="http://docs.oracle.com/cd/E14899_01/doc.9102/e14761/tuningforappserver.htm" ADD_DATE="1552706825">Tuning Application Server Performance</A>
+                <DT><A HREF="http://www.mastertheboss.com/jboss-as-7/jboss-as-7-introduction" ADD_DATE="1552706825">JBoss AS 7 introduction - jboss as 7 - JBoss application server tutorials</A>
+                <DT><A HREF="http://www.techstacks.com/howto/" ADD_DATE="1552706825">HOWTO Guide Home - Techstacks HOWTO&#39;s</A>
+                <DT><A HREF="http://magnus-k-karlsson.blogspot.com/" ADD_DATE="1552706825">Magnus K Karlsson</A>
+                <DT><A HREF="http://www.openscope.net/2010/07/23/the-deploy-vs-deployers-directory-jboss-v5-x/" ADD_DATE="1552706825">The Deploy vs Deployers directory, JBoss v5.x</A>
+                <DT><A HREF="http://www.openscope.net/2011/08/10/jboss-as-7-configuring-data-sources/" ADD_DATE="1552706825">Configuring Data Sources, JBoss 7</A>
+                <DT><A HREF="http://middlewaremagic.com/jboss/?p=1458" ADD_DATE="1552706826">Application level log4j.xml and logging in JBoss AS7 « JBoss</A>
+                <DT><A HREF="https://community.jboss.org/message/624499" ADD_DATE="1552706826">Jboss 7 AS and log4j.xml | JBoss AS 7 | JBoss Community</A>
+                <DT><A HREF="https://community.jboss.org/message/755842" ADD_DATE="1552706826">Log4j setting when using JBoss as 7.1.1.Final | JBoss AS 7 | JBoss Community</A>
+                <DT><A HREF="https://docs.jboss.org/author/display/AS71/How+To#HowTo-HowdoIuselog4j.propertiesorlog4j.xmlinsteadofusingtheloggingsubsystemconfiguration%3F" ADD_DATE="1552706826">How To - JBoss AS 7.1 - Project Documentation Editor</A>
+                <DT><A HREF="http://www.scoop.it/t/jboss-tutorials" ADD_DATE="1552706826">JBoss tutorials | Scoop.it</A>
+                <DT><A HREF="http://www.vandorp.biz/2012/03/install-jboss-as-7-on-a-debian-6-vps/" ADD_DATE="1552706827">Install JBoss AS 7 on a Debian 6 VPS | Van Dorp IT</A>
+                <DT><A HREF="http://www.mastertheboss.com/jboss-as-7/install-jboss-7" ADD_DATE="1552706827">Install JBoss 7 - jboss as 7 - JBoss application server tutorials</A>
+                <DT><A HREF="http://linuxdrops.com/install-jboss-7-1-1-with-jdk-7-on-centos-rhel-fedora-debian-ubuntu/" ADD_DATE="1552706827">Install jboss 7.1.1 with jdk 7 on CentOS RHEL Fedora Debian Ubuntu</A>
+                <DT><A HREF="http://www.davidghedini.com/pg/entry/install_jboss_7_on_centos" ADD_DATE="1552706827">Install JBoss 7.1 on CentOS 6 : David Ghedini</A>
+                <DT><A HREF="http://davidghedini.blogspot.com/2011/03/install-jboss-51-on-centos.html" ADD_DATE="1552706827">David Ghedini&#39;s Blog: Install JBoss 5.1 on CentOS</A>
+                <DT><A HREF="http://www.opensourcearchitect.co/tutorials/installing-jboss-7-1-on-centos-6" ADD_DATE="1552706827">Installing JBoss 7.1.1.Final on CentOS 6.x - |opensourcearchitect|</A>
+                <DT><A HREF="http://www.liferay.com/documentation/liferay-portal/6.1/user-guide/-/ai/lp-6-1-ugen11-installing-liferay-on-jboss-7-0" ADD_DATE="1552706827">Installing Liferay on JBoss 7 - User Guide - Liferay.com</A>
+                <DT><A HREF="https://support.eapps.com/index.php?/Knowledgebase/Article/View/420/52/user-guide---jboss-7-application-deployment-in-standalone-mode-without-apache" ADD_DATE="1552706827">User Guide - JBoss 7 application deployment in Standalone mode (without Apache) - Powered by Kayako Fusion Help Desk Software</A>
+                <DT><A HREF="http://abh1sh3k.blogspot.com/2013/12/jmx-configuration-in-different-versions.html" ADD_DATE="1552706828">JMX configuration in different versions of JBoss | Knowledge sharing...</A>
+                <DT><A HREF="http://blog.dahanne.net/2009/08/12/jboss-and-java-lang-outofmemoryerror-permgen-space/" ADD_DATE="1552706828">Jboss and java.lang.OutOfMemoryError: PermGen space « Anthony Dahanne&#39;s blog</A>
+                <DT><A HREF="https://community.jboss.org/thread/154191?tstart=0" ADD_DATE="1552706828">JBoss 4.2.3 GA on 64bit JVM | Community</A>
+                <DT><A HREF="http://www.mastertheboss.com/jboss-web-services/how-to-change-the-default-web-service-deployment-port" ADD_DATE="1552706828">How to change the default Web Service deployment Port ? - jboss web services - JBoss application server tutorials</A>
+                <DT><A HREF="http://blog.beautaub.com/2012/08/what-happened-when-i-deleted-standalone-tmp-vfs.html" ADD_DATE="1552706828">Thoughts go here.: What happened when I deleted standalone/tmp/vfs/</A>
+                <DT><A HREF="https://access.redhat.com/site/solutions/270653" ADD_DATE="1552706828">Size of tmp directory is constantly increasing in EAP 6 - Red Hat Customer Portal</A>
+                <DT><A HREF="http://www.mastertheboss.com/jboss-configuration/jboss-as-storage-hints" ADD_DATE="1552706828">JBoss AS Storage Hints - jboss configuration - JBoss application server tutorials</A>
+                <DT><A HREF="https://community.jboss.org/thread/201817?_sscc=t" ADD_DATE="1552706828">Cleaning .../standalone/tmp/vfs | Community</A>
+                <DT><A HREF="https://www.openshift.com/forums/openshift/jboss-71-standalonetmpvfs-steadily-growing" ADD_DATE="1552706828">JBoss 7.1 standalone/tmp/vfs steadily growing | OpenShift by Red Hat</A>
+                <DT><A HREF="http://madvens.wordpress.com/tag/jboss-7-1-change-admin-password/" ADD_DATE="1552706828">jboss 7.1 change admin password | madvens</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706827">Websphere</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706830">Liberty</H3>
+                <DL><p>
+                    <DT><A HREF="http://www-01.ibm.com/support/knowledgecenter/SSAW57_8.5.5/com.ibm.websphere.wlp.nd.multiplatform.doc/ae/cwlp_arch.html" ADD_DATE="1552706829">IBM Knowledge Center - Architecture</A>
+                    <DT><A HREF="http://webspherejungle.blogspot.in/2014/02/creating-servers-using-websphere.html" ADD_DATE="1552706830">IBM WebSphere Application Server: creating servers using websphere application server liberty profile v 8.5.5 on windows (WebSphere Jungle)</A>
+                </DL><p>
+                <DT><A HREF="http://www.teamdev.com/quipukit/documentation/developersGuide/installation-and-configuration.html" ADD_DATE="1552706821">Installation and Configuration — QuipuKit documentation</A>
+                <DT><A HREF="http://greatwebguy.com/programming/java/urlrewritefilter-servlet-filter-problem-in-websphere-6105-and-greater/" ADD_DATE="1552706821">URLRewriteFilter Servlet Filter problem in WebSphere 6.1.0.5 and greater - GreatWebGuy</A>
+                <DT><A HREF="http://greatwebguy.com/search-engines/seo-friendly-urls-for-java-ee-frameworks/" ADD_DATE="1552706822">SEO Friendly URL’s for Java EE frameworks - GreatWebGuy</A>
+                <DT><A HREF="http://jira.atlassian.com/browse/JRA-12039" ADD_DATE="1552706822">[#JRA-12039] UrlRewriteFilter not working correctly on WebSphere 6.1.0.5 - Atlassian JIRA</A>
+                <DT><A HREF="http://readlist.com/lists/struts.apache.org/user/9/45133.html" ADD_DATE="1552706822">WebSphere 6.0 Sitemesh plugin issue - ReadList.com</A>
+                <DT><A HREF="http://forum.springframework.org/archive/index.php/t-44878.html" ADD_DATE="1552706823">URL /j_acegi_security_check NOT FOUND on Websphere 6.0 [Archive] - Spring Framework Support Forums</A>
+                <DT><A HREF="http://www.ibmdatabasemag.com/showArticle.jhtml?articleID=191600717" ADD_DATE="1552706823">Configuring DB2 9 with WebSphere Application Server 6.1</A>
+                <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/0303yu/0303yu.html" ADD_DATE="1552706824">Configuring a DataSource for the DB2 UDB Family in WebSphere Studio Version 5</A>
+                <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/dm-0504vohra/index.html" ADD_DATE="1552706824">Configure DB2 UDB with third-party application servers</A>
+                <DT><A HREF="http://www.ibm.com/developerworks/webservices/library/ws-clusterenv2/" ADD_DATE="1552706824">Configure platform messaging and Web Services Gateway for a clustered environment, Part 2: Web Services Gateway enhancements for WebSphere Application Server Version 6.1 on z/OS</A>
+                <DT><A HREF="http://publib.boulder.ibm.com/infocenter/wasinfo/v6r1/index.jsp?topic=/com.ibm.websphere.express.doc/info/exp/ae/twbs_confsvrltpaauthvalid.html" ADD_DATE="1552706824">IBM Information Center</A>
+                <DT><A HREF="http://blog.offbytwo.com/2007/08/21/working-with-lightweight-third-party-authentication-ltpa/" ADD_DATE="1552706824">Working with Lightweight Third Party Authentication (LTPA) « The Offbytwo Blog</A>
+                <DT><A HREF="http://publib.boulder.ibm.com/infocenter/iseries/v5r4/index.jsp?topic=/rzatz/51/sec/secsswas.htm" ADD_DATE="1552706825">http://publib.boulder.ibm.com/infocenter/iseries/v5r4/index.jsp?topic=/rzatz/51/sec/secsswas.htm</A>
+                <DT><A HREF="http://www.ibm.com/developerworks/websphere/techjournal/0612_birk/0612_birk.html" ADD_DATE="1552706825">IBM WebSphere Developer Technical Journal: SSL, certificate, and key management enhancements for even stronger security in WebSphere Application Server V6.1</A>
+                <DT><A HREF="http://www.ibm.com/developerworks/websphere/techjournal/0508_benantar/0508_benantar.html" ADD_DATE="1552706825">IBM WebSphere Developer Technical Journal: Advanced authentication in WebSphere Application Server</A>
+                <DT><A HREF="http://www.ibm.com/developerworks/tivoli/library/t-ldap02/" ADD_DATE="1552706825">Introduction to LDAP: Part 2: LDAP and WebSphere</A>
+                <DT><A HREF="http://www.ibm.com/developerworks/tivoli/library/t-tamtai/" ADD_DATE="1552706826">Tivoli Access Manager Trust Association Interceptor (TAI++)</A>
+                <DT><A HREF="http://publib.boulder.ibm.com/infocenter/wasinfo/v6r1/index.jsp?topic=/com.ibm.websphere.base.iseries.doc/info/iseries/ae/tsec_SPNEGO_tai_umapper.html" ADD_DATE="1552706826">IBM Information Center</A>
+                <DT><A HREF="https://www.ibm.com/support/knowledgecenter/en/SSHR6W/com.ibm.websphere.wdt.doc/topics/tcreateconfigresref.html" ADD_DATE="1552706826">IBM Knowledge Center - Creating and configuring resource references for Web 2.5, Web 3.0, Web 3.1, and Web 4.0</A>
+                <DT><A HREF="https://gybas.com/2013/websphere-jndi/" ADD_DATE="1552706826">JNDI resource lookups in WebSphere Application Server | gybas.com</A>
+                <DT><A HREF="https://stackoverflow.com/questions/7167212/how-do-i-connect-to-a-websphere-datasource-with-a-given-jndi-name" ADD_DATE="1552706826">java - How do I connect to a Websphere Datasource with a given JNDI name? - Stack Overflow</A>
+                <DT><A HREF="http://webspherecommunity.blogspot.com/2008/10/using-spring-framework-with-websphere.html" ADD_DATE="1552706826">WebSphere Community Blog: Using the Spring Framework with WebSphere Application Server v7.0</A>
+                <DT><A HREF="https://docs.parasoft.com/display/SOAVIRT9103/JDBC+Configuration+on+WebSphere+Application+Servers" ADD_DATE="1552706826">JDBC Configuration on WebSphere Application Servers</A>
+                <DT><A HREF="https://docops.ca.com/ca-advanced-authentication/8-1/EN/administrating/administrating-ca-strong-authentication/application-server-configuration/database-connection-pooling-configuration/create-a-jndi-based-database-operations-in-ibm-websphere" ADD_DATE="1552706827">Create a JNDI-based Database operations in IBM WebSphere - CA Advanced Authentication - 8.1 - CA Technologies Documentation</A>
+                <DT><A HREF="https://community.liferay.com/forums/-/message_boards/message/90421043" ADD_DATE="1552706827">Calling JNDI in WebSphere from a Spring MVC portlet in Liferay DXP SP3 - Forums - Liferay Community</A>
+                <DT><A HREF="https://wiki.crossview.com/display/PRODUCT44/44+-+Defining+environment+variables+using+WebSphere+Application+Server" ADD_DATE="1552706827">44 - Defining environment variables using WebSphere Application Server - PRODUCT44 - PFS Wiki</A>
+                <DT><A HREF="https://docs.jboss.org/seam/2.2.1.Final/reference/en-US/html/websphere.html" ADD_DATE="1552706827">Chapter 40. Seam on IBM&#39;s WebSphere AS v7</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706821">Glassfish</H3>
+            <DL><p>
+                <DT><A HREF="https://glassfish.dev.java.net/downloads/v2-b58g.html" ADD_DATE="1552706821">glassfish: GlassFish Project</A>
+                <DT><A HREF="https://glassfish-samples.dev.java.net/" ADD_DATE="1552706821">glassfish-samples: GlassFish Community</A>
+                <DT><A HREF="http://java.sun.com/developer/technicalArticles/glassfish/GFv2OpenforBusiness/" ADD_DATE="1552706821">GlassFish v2: Open for Business</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706823">WebSocket</H3>
+            <DL><p>
+                <DT><A HREF="http://code.google.com/p/smartsocket/" ADD_DATE="1552706820">smartsocket - SmartSocket - Java and PHP Extensible Socket Server Engines - Google Project Hosting</A>
+                <DT><A HREF="http://jsoapserver.sourceforge.net/site/" ADD_DATE="1552706821">http://jsoapserver.sourceforge.net/site/</A>
+                <DT><A HREF="http://kaazing.com/products/kaazing-websocket-gateway.html" ADD_DATE="1552706821">Kaazing WebSocket Gateway | Kaazing</A>
+                <DT><A HREF="http://jfarcand.wordpress.com/" ADD_DATE="1552706822">6312</A>
+                <DT><A HREF="http://jwebsocket.org/" ADD_DATE="1552706822">jWebSocket - The Open Source Java WebSocket Server</A>
+                <DT><A HREF="http://www.websocket.org/" ADD_DATE="1552706823">WebSocket.org -- A WebSocket Community</A>
+                <DT><A HREF="http://www.slideshare.net/bdcravens/websockets-11748788" ADD_DATE="1552706823">Websockets</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706821">Jetty</H3>
+            <DL><p>
+                <DT><A HREF="http://www.codeproject.com/Articles/128145/Run-Jetty-Web-Server-Within-Your-Application" ADD_DATE="1552706821">Run Jetty Web Server Within Your Application - CodeProject</A>
+                <DT><A HREF="https://app.assembla.com/wiki/show/liftweb/Fix_file_locking_problem_with_jettyrun" ADD_DATE="1552706821">Fix file locking problem with jettyrun | Lift Project | Assembla</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706825">WebLogic</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706834">Install</H3>
+                <DL><p>
+                    <DT><A HREF="https://oracle-base.com/articles/12c/weblogic-installation-on-oracle-linux-6-and-7-1221" ADD_DATE="1552706829">ORACLE-BASE - Oracle WebLogic Server (WLS) 12cR2 (12.2.1) Installation on Oracle Linux 6 and 7</A>
+                    <DT><A HREF="http://www.fabriziomarini.com/2015/12/how-to-install-jdk8-wls1221-otd-1221-on.html" ADD_DATE="1552706830">Fabrizio Marini: How to install JDK8, WLS12.2.1 &amp; OTD 12.2.1 on Oracle Linux</A>
+                    <DT><A HREF="http://middlewarelife.blogspot.com/2015/11/automating-oracle-webcenter-sites-12c_26.html" ADD_DATE="1552706830">Automating Oracle WebCenter Sites 12c Installation - Part 1 | Java Middleware</A>
+                    <DT><A HREF="https://blogs.oracle.com/blogbypuneeth/entry/steps_to_deinstall_oracle_weblogic" ADD_DATE="1552706830">Steps to DeInstall Oracle Weblogic Server 12.1.2.0.0... (Oracle Fusion Middleware )</A>
+                    <DT><A HREF="http://gjilevski.com/2012/02/02/installing-oracle-weblogic-server-owl-12c-12-1-1-on-microsoft-windows-vista-64-bit/" ADD_DATE="1552706830">Installing Oracle Weblogic Server (OWLS) 12c 12.1.1 on Microsoft Windows Vista 64 bit « Guenadi N Jilevski&#39;s Oracle BLOG</A>
+                    <DT><A HREF="https://programmaticponderings.wordpress.com/2013/06/11/wls-in-15-minutes-installing-weblogic-server-12c-on-windows-creating-and-deploying-to-a-new-domain-all-in-15-minutes/" ADD_DATE="1552706831">WebLogic Server: Installation to Deployment in 30 Minutes | Programmatic Ponderings</A>
+                    <DT><A HREF="http://docs.oracle.com/middleware/1221/core/WLSIG/GUID-207CA334-FEDD-4D35-9DCA-357E5FDFEB2E.htm#WLSIG417" ADD_DATE="1552706831">B Installing WebLogic Server for Developers</A>
+                    <DT><A HREF="http://docs.oracle.com/middleware/1221/core/WLSIG/GUID-207CA334-FEDD-4D35-9DCA-357E5FDFEB2E.htm#WLSIG421" ADD_DATE="1552706831">B Installing WebLogic Server for Developers</A>
+                    <DT><A HREF="http://www.snapdba.com/2013/04/weblogic-server-12c-12-1-1-installation/" ADD_DATE="1552706832">WebLogic Server 12c (12.1.1) installation using Oracle JDK7 | SnapDBA</A>
+                    <DT><A HREF="http://docs.oracle.com/middleware/1221/core/WLSIG/index.html" ADD_DATE="1552706832">Oracle® Fusion Middleware Installing and Configuring Oracle WebLogic Server and Coherence - Contents</A>
+                    <DT><A HREF="http://o7planning.org/vi/10365/huong-dan-cai-dat-va-cau-hinh-oracle-weblogic-server" ADD_DATE="1552706832">Hướng dẫn cài đặt và cấu hình Oracle WebLogic Server</A>
+                    <DT><A HREF="http://www.middlewareadmin.net/wla-zone/installation" ADD_DATE="1552706832">Installation WebLogic 12c on VirtualBox - weblogic | apache | unix | weblogic server | unix server | middleware | weblogic admin | weblogic administration | middleware admin | weblogic admin tips | websphere | webserver</A>
+                    <DT><A HREF="http://weblogic-tips.com/2012/01/15/weblogic-installation-guide/" ADD_DATE="1552706832">Weblogic installation guide - WEBLOGIC TIPS</A>
+                    <DT><A HREF="https://dbaportal.eu/2015/02/13/installing-standalone-oracle-http-server-12c-12-1-0-3-on-windows-2012-r2/" ADD_DATE="1552706833">Installing Standalone Oracle Http Server 12c (12.1.0.3) on Windows 2012 R2 | dbaportal.eu</A>
+                    <DT><A HREF="https://programmaticponderings.com/2013/06/11/wls-in-15-minutes-installing-weblogic-server-12c-on-windows-creating-and-deploying-to-a-new-domain-all-in-15-minutes/" ADD_DATE="1552706833">WebLogic Server: Installation to Deployment in 30 Minutes | Programmatic Ponderings</A>
+                    <DT><A HREF="http://www.slideshare.net/webservicesm/weblogic-12c-graphical-mode-installation-steps-in-windows" ADD_DATE="1552706833">Weblogic 12c Graphical Mode installation steps in Windows</A>
+                    <DT><A HREF="https://gjilevski.com/2012/02/02/installing-oracle-weblogic-server-owl-12c-12-1-1-on-microsoft-windows-vista-64-bit/" ADD_DATE="1552706833">Installing Oracle Weblogic Server (OWLS) 12c 12.1.1 on Microsoft Windows Vista 64 bit « Guenadi N Jilevski&#39;s Oracle BLOG</A>
+                    <DT><A HREF="https://oracle-base.com/articles/12c/weblogic-installation-on-oracle-linux-5-and-6-1212" ADD_DATE="1552706833">ORACLE-BASE - Oracle WebLogic Server (WLS) 12cR1 (12.1.2) Installation on Oracle Linux 5 and 6</A>
+                    <DT><A HREF="https://devilspace.org/2012/12/04/how-to-install-weblogic-12c-server-instance-as-an-window-service/" ADD_DATE="1552706833">How to install Weblogic 12C Server Instance as an window service on Window7 « Devil&#39; s Technology Factory</A>
+                    <DT><A HREF="https://docs.oracle.com/cd/E24902_01/doc.91/e23434/install_config_12_1_3.htm#EOHLU224" ADD_DATE="1552706834">Installing and Configuring Oracle WebLogic 12.1.3</A>
+                    <DT><A HREF="http://www.hhutzler.de/blog/weblogic-12-1-3-installation-and-first-steps/" ADD_DATE="1552706834">Weblogic 12.1.3 Installation and first steps | Helmut&#39;s RAC / JEE Blog</A>
+                    <DT><A HREF="https://weblogiccommunity.com/2014/09/12/oracle-weblogic-server-wls-12c-release-3-12-1-3-installation-on-oracle-linux-5-and-6-by-oracle-base/" ADD_DATE="1552706834">Oracle WebLogic Server (WLS) 12c Release 3 (12.1.3) Installation on Oracle Linux 5 and 6 by Oracle Base | WebLogic Community</A>
+                    <DT><A HREF="http://www.davidghedini.com/pg/entry/oracle_web_logic" ADD_DATE="1552706834">Oracle Weblogic 12c (12.1.1) Generic x64 on CentOS 6 : David Ghedini</A>
+                    <DT><A HREF="https://docs.oracle.com/cd/E24902_01/doc.91/e18840/install_config_12_1_3.htm#EOHWL224" ADD_DATE="1552706834">Installing and Configuring Oracle WebLogic 12.1.3</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706831">Deploy</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.oracle.com/webfolder/technetwork/tutorials/obe/fmw/wls/12c/03-DeployApps/deployapps.htm" ADD_DATE="1552706829">Oracle WebLogic Server 12c: Deploying and Undeploying Applications</A>
+                    <DT><A HREF="http://www.oracle.com/webfolder/technetwork/tutorials/obe/fmw/wls/12c/12_1_3/03/deployapps.html" ADD_DATE="1552706829">Oracle WebLogic Server 12c: Deploying and Undeploying Applications</A>
+                    <DT><A HREF="https://dotcms.com/docs/latest/deploy-as-a-war-in-weblogic-server-12-1-2" ADD_DATE="1552706830">Deploy as a WAR in Weblogic Server 12.1.2</A>
+                    <DT><A HREF="https://oracle-base.com/articles/12c/articles-12c" ADD_DATE="1552706830">ORACLE-BASE - Articles on Oracle 12c new features</A>
+                    <DT><A HREF="http://buttso.blogspot.com/2014/07/developing-with-jax-rs-20-for-weblogic.html" ADD_DATE="1552706831">The Buttso Blathers: Developing with JAX-RS 2.0 for WebLogic Server 12.1.3</A>
+                    <DT><A HREF="http://www.oracle.com/technetwork/articles/soa/oliveira-wls-rest-javafx-1723982.html" ADD_DATE="1552706831">Oracle WebLogic RESTful Management Services: From Command Line to JavaFX</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706829">Config</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.techpaste.com/2012/08/weblogic-monitors-servers-health-states/" ADD_DATE="1552706829">How managed server works in weblogic - TechPaste</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706832">Log4j</H3>
+                <DL><p>
+                    <DT><A HREF="http://oraclmiddleware.blogspot.com/2016/03/configuring-log4j-on-weblogic-server.html" ADD_DATE="1552706829">Oracle Fusion Middleware Blog: Configuring log4j on weblogic server for web applications.</A>
+                    <DT><A HREF="http://sudipverma.blogspot.com/2011/04/configure-log4j-in-weblogic103.html" ADD_DATE="1552706830">Techie Place: Configure log4j in Weblogic10.3</A>
+                    <DT><A HREF="http://gsmsengupta.blogspot.com/" ADD_DATE="1552706830">Java and Stuff</A>
+                    <DT><A HREF="https://www.hadoop.so/question/using-log4j-in-an-ear-under-weblogic-12c" ADD_DATE="1552706830">Using log4j in an ear under weblogic 12c - Article - scholar.live</A>
+                    <DT><A HREF="http://www.ibm.com/support/knowledgecenter/SSCTJ4_5.2.1/com.ibm.casemgmt.design.doc/acmta031.htm" ADD_DATE="1552706830">IBM Knowledge Center - Case Manager 5.2.1 - Configuring logging in WebLogic Server for Case Manager Builder and the API application</A>
+                    <DT><A HREF="http://www.captaindebug.com/2011/02/adding-log4j-to-weblogic-domain.html#.V8YzVih97Dd" ADD_DATE="1552706831">Captain Debug&#39;s Blog: Adding Log4j to a Weblogic Domain Configuration</A>
+                    <DT><A HREF="http://www.ibm.com/support/knowledgecenter/SSLVY3_9.5.0/com.ibm.inspinstall.doc/topics/t_inspinstall_configuring_weblogic_log4jlogging.html" ADD_DATE="1552706831">IBM Knowledge Center - Configuring log4j logging on WebLogic</A>
+                    <DT><A HREF="http://www.ca.com/us/support/ca-support-online/product-content/knowledgebase-articles/tec532533.aspx" ADD_DATE="1552706831">How to resolve a log4j class loading problem related to protected web services making use of Apache Log4j</A>
+                    <DT><A HREF="http://phillips4jc.blogspot.com/2012/01/configuring-web-logic-1035-and-log4j.html" ADD_DATE="1552706832">Jeffrey Phillips Blog: Configuring Web Logic 10.3.5 and log4j for your Java Application</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706830">Datasource</H3>
+                <DL><p>
+                    <DT><H3 ADD_DATE="1552706829" LAST_MODIFIED="1552706837">Tunning</H3>
+                    <DL><p>
+                        <DT><A HREF="http://www.tomecode.com/2010/10/30/oracle-weblogic-server-how-to-clear-pending-xa-transactionsoracle-thinxa-driver/" ADD_DATE="1552706836">Oracle WebLogic Server: How to clear pending XA transactions(Oracle Thin/XA Driver)? | TomeCode</A>
+                        <DT><A HREF="http://javaoraclesoa.blogspot.com/2012/11/dbadapter-connection-factories.html" ADD_DATE="1552706836">Oracle SOA / Java blog: DbAdapter, connection factories, connection pools and datasources</A>
+                        <DT><A HREF="http://www.javamonamour.org/2009/12/infamous-bea-000627.html" ADD_DATE="1552706836">Java mon amour: The infamous BEA-000627</A>
+                        <DT><A HREF="http://stackoverflow.com/questions/2676286/weblogic-jdbc-datasource-java-sql-sqlexception-cannot-obtain-xaconnection-weblo" ADD_DATE="1552706836">Weblogic JDBC datasource,java.sql.SQLException: Cannot obtain XAConnection weblogic.common.resourcepool.ResourceLimitException: No resources currently available in pool - Stack Overflow</A>
+                        <DT><A HREF="http://www.albinsblog.com/2012/10/resourcelimitexception-no-resources.html#.V-pD3Sh97Dc" ADD_DATE="1552706836">ResourceLimitException : No resources currently available in pool to allocate to applications – Oracle SOA 11g</A>
+                        <DT><A HREF="https://egherardini.wordpress.com/2011/04/27/oracle-soa-suite-11g-datasource-has-been-suspended/" ADD_DATE="1552706836">Oracle SOA Suite 11g: datasource has been suspended | Development breadcrumbs</A>
+                        <DT><A HREF="http://sachd.blogspot.com/2013/04/cannot-obtain-xaconnection.html" ADD_DATE="1552706836">Sach&#39;s Blog: Cannot obtain XAConnection weblogic.common.resourcepool.ResourceLimitException: No resources currently available in pool</A>
+                        <DT><A HREF="http://rajendraladkat1910.blogspot.com/2015/07/imaging-activity-is-causing-performance.html" ADD_DATE="1552706837">Imaging activity is causing performance issues in Production | JAVA PERFORMANCE TUNNING</A>
+                        <DT><A HREF="http://xn--b1acgqhrcbhlicn8c.xn--p1ai/common-resourcepool-resourcelimitexception.php" ADD_DATE="1552706837">Common resourcepool resourcelimitexception - More information</A>
+                        <DT><A HREF="https://community.oracle.com/thread/2171885" ADD_DATE="1552706837">Pool abc is Suspended, cannot allocate resource... | Oracle Community</A>
+                        <DT><A HREF="https://community.oracle.com/thread/2151253" ADD_DATE="1552706837">Cannot obtain XAConnection weblogic.common.reso... | Oracle Community</A>
+                        <DT><A HREF="http://middlewaremagic.com/weblogic/?p=586" ADD_DATE="1552706837">JDBC Tips « WebLogic</A>
+                        <DT><A HREF="http://danielveselka.blogspot.com/2010/11/connection-pool-overload-on-weblogic.html" ADD_DATE="1552706837">Java EE: Connection pool overload on Weblogic server - forcibly release inactive connection</A>
+                        <DT><A HREF="http://docs.oracle.com/cd/E13222_01/wls/docs100/jta/jtatxexp.html#wp1053782" ADD_DATE="1552706837">Coordinating XAResources with the WebLogic Server Transaction Manager</A>
+                    </DL><p>
+                    <DT><A HREF="https://docs.oracle.com/cd/E11035_01/wls100/jdbc_admin/jdbc_datasources.html" ADD_DATE="1552706829">Configuring JDBC Data Sources</A>
+                    <DT><A HREF="http://docs.oracle.com/cd/E23943_01/web.1111/e13737/third_party_drivers.htm#JDBCA235" ADD_DATE="1552706830">Using JDBC Drivers with WebLogic Server</A>
+                    <DT><A HREF="http://onlineappsdba.com/index.php/2008/11/06/weblogic-server-jdbc-for-database-connection-step-by-step/" ADD_DATE="1552706830">WebLogic Server JDBC for Database connection : Step by Step - Oracle Trainings for Apps &amp; Fusion DBA</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706823" LAST_MODIFIED="1552706832">StuckThreads</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.munzandmore.com/2012/ora/weblogic-stuck-threads-howto" ADD_DATE="1552706829">WebLogic Stuck Threads: Creating, Understanding and Dealing with them — munz &amp; more</A>
+                    <DT><A HREF="https://blogs.oracle.com/oem/entry/quickly_diagnose_the_root_cause1" ADD_DATE="1552706830">Quickly Diagnose the Root Cause of Stuck Threads using Oracle Enterprise Manager 12c JVM Diagnostics (Oracle Enterprise Manager and Oracle Management Cloud)</A>
+                    <DT><A HREF="http://oraclemiddlewareblog.com/2014/06/10/dealing-stuck-threads-weblogic/" ADD_DATE="1552706830">Dealing with Stuck Threads in WebLogic - Oracle Middleware Blog</A>
+                    <DT><A HREF="http://middlewaremagic.com/weblogic/?tag=stuck-thread" ADD_DATE="1552706830">Stuck Thread « WebLogic</A>
+                    <DT><A HREF="http://onlineappsdba.com/index.php/2010/04/10/weblogic-error-starting-managed-server-from-console-node-manager-associated-with-this-machine-is-not-reachable/" ADD_DATE="1552706830">WebLogic - Error starting managed server from Console : Node Manager associated with this machine is not reachable - Oracle Trainings for Apps &amp; Fusion DBA</A>
+                    <DT><A HREF="http://adfhowto.blogspot.com/2011/11/dealing-with-weblogic-stuck-threads.html" ADD_DATE="1552706831">ADF &amp; Weblogic How To: Dealing with Weblogic Stuck Threads</A>
+                    <DT><A HREF="https://dzone.com/articles/dealing-stuck-threads-weblogic" ADD_DATE="1552706831">Dealing with Stuck Threads on WebLogic - DZone Integration</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/28205890/whats-the-difference-between-stuck-thread-max-time-and-max-stuck-thread-time" ADD_DATE="1552706831">weblogic11g - What&#39;s the difference between &quot;Stuck Thread Max Time&quot; and &quot;Max Stuck Thread Time&quot; in Weblogic 10.3.x? - Stack Overflow</A>
+                    <DT><A HREF="http://javaoraclesoa.blogspot.com/2015/11/weblogic-server-analyzing-stuck-threads.html" ADD_DATE="1552706831">Oracle SOA / Java blog: WebLogic Server: Analyzing stuck threads</A>
+                    <DT><A HREF="http://docs.oracle.com/cd/E21764_01/apirefs.1111/e13952/taskhelp/tuning/TuningExecuteThreads.html" ADD_DATE="1552706832">Administration Console Online Help</A>
+                    <DT><A HREF="http://help.adobe.com/en_US/enterpriseplatform/10.0/InstallWebLogic/WS1a95df6a070ac5e3-42b8626f12fbf1e384a-7ffe.html" ADD_DATE="1552706832">Adobe Digital Enterprise Platform * 9.2 Increasing the WebLogic Server stuck thread time-out</A>
+                    <DT><A HREF="http://www.techpaste.com/2011/07/steps-tune-weblogic-stuckthreadmaxtime-parameters/" ADD_DATE="1552706832">How to increase stuckthreadmaxtime in weblogic - TechPaste.Com</A>
+                    <DT><A HREF="http://www.techpaste.com/2012/03/solving-java-net-socketexception-write-failed-broken-pipe-errors/" ADD_DATE="1552706832">Solving java.net.SocketException: Write failed: Broken pipe Errors | Weblogic - TechPaste.Com</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706823" LAST_MODIFIED="1552706830">Session</H3>
+                <DL><p>
+                    <DT><A HREF="http://oraclemiddlewareblog.com/2014/02/21/list-users-currently-logged-webcenter-spaces/" ADD_DATE="1552706829">List the Current User Sessions from Webcenter Spaces</A>
+                    <DT><A HREF="http://middlewaremagic.com/weblogic/?p=1610" ADD_DATE="1552706829">HttpSession Monitoring using « WebLogic</A>
+                    <DT><A HREF="http://docs.oracle.com/cd/E15523_01/web.1111/e13712/weblogic_xml.htm#WBAPP587" ADD_DATE="1552706830">B weblogic.xml Deployment Descriptor Elements</A>
+                </DL><p>
+                <DT><A HREF="https://docs.oracle.com/cd/E24329_01/doc.1211/e24492/jdk7.htm#WLSIG261" ADD_DATE="1552706823">D Using WebLogic Server with JDK 7</A>
+                <DT><A HREF="http://avi2.iteye.com/blog/658702" ADD_DATE="1552706823">weblogic with spring hibernate mappingDirectoryLocations error - avi2 - ITeye技术网站</A>
+                <DT><A HREF="http://middlewaremagic.com/weblogic/?p=408" ADD_DATE="1552706824">_wls_cls_gen.jar Issue « WebLogic</A>
+                <DT><H3 ADD_DATE="1552706824" LAST_MODIFIED="1552706833">Weblogic XML File</H3>
+                <DL><p>
+                    <DT><A HREF="http://docs.oracle.com/cd/E24329_01/web.1211/e21049/weblogic_xml.htm#WBAPP575" ADD_DATE="1552706829">B weblogic.xml Deployment Descriptor Elements</A>
+                    <DT><A HREF="https://www.liferay.com/community/wiki/-/wiki/Main/Weblogic+tips" ADD_DATE="1552706830">Weblogic tips - Wiki | Liferay</A>
+                    <DT><A HREF="https://github.com/jruby/jruby-rack/wiki/Deploying-with-WebLogic" ADD_DATE="1552706830">Deploying with WebLogic · jruby/jruby-rack Wiki · GitHub</A>
+                    <DT><A HREF="https://axis.apache.org/axis2/java/core/docs/app_server.html" ADD_DATE="1552706830">Apache Axis2 – Application Server Specific Configuration Guide</A>
+                    <DT><A HREF="https://wiki.jenkins-ci.org/display/JENKINS/Weblogic" ADD_DATE="1552706830">Weblogic - Jenkins - Jenkins Wiki</A>
+                    <DT><A HREF="https://docs.oracle.com/cd/E24329_01/web.1211/e21049/weblogic_xml.htm#WBAPP659" ADD_DATE="1552706831">B weblogic.xml Deployment Descriptor Elements</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/8166580/weblogic-configuration-prefer-web-inf-classes" ADD_DATE="1552706831">Weblogic Configuration - prefer-web-inf-classes - Stack Overflow</A>
+                    <DT><A HREF="http://nirajcorejava.blogspot.com/2014/07/weblogic-issues-order-of-jar-in.html" ADD_DATE="1552706831">Niraj - Core Java</A>
+                    <DT><A HREF="http://wiki.genexus.com/commwiki/servlet/wiki?27947,Setting+up+an+application+in+weblogic+server," ADD_DATE="1552706832">Setting up an application in weblogic server</A>
+                    <DT><A HREF="http://weblogic-wonders.com/weblogic/2010/11/30/deployment-issues-on-weblogic-server/" ADD_DATE="1552706832">common application deployment issues on oracle weblogic server</A>
+                    <DT><A HREF="http://germany.emc.com/collateral/white-papers/h12056-deploy-centerstage-best-practices-guide-wp.pdf" ADD_DATE="1552706832">Deploying EMC® Documentum® Center Stage Application – Best Practices Guide</A>
+                    <DT><A HREF="http://help.arcgis.com/EN/ARCGISSERVER/10.0/HELP/ARCGIS_SERVER_JAVA_HELP/index.html#//009200000088000000" ADD_DATE="1552706832">ArcGIS Server Java Help - Deploying the application to Oracle WebLogic Application Server</A>
+                    <DT><A HREF="http://www.hyfinity.net/wmforum/archive/index.php?thread-159.html" ADD_DATE="1552706832">WebMaker - SOA and Cloud Development Simplified - Application Server Considerations - IBM Websphere, Oracle Weblogic, JBOSS, etc.</A>
+                    <DT><A HREF="https://confluence.atlassian.com/plugins/servlet/mobile#content/view/214862501" ADD_DATE="1552706833">Confluence Mobile - Atlassian Documentation</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/9734503/prevent-weblogic-12c-from-using-systems-slf4j-binding" ADD_DATE="1552706833">Prevent Weblogic 12c from using system&#39;s slf4j binding - Stack Overflow</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706824" LAST_MODIFIED="1552706831">Weblogic JNDI</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.appeon.com/support/documents/appeon_online_help/1.5/server_configuration_guide_for_j2ee/ch03s03s01.html#setting_up_data_sources_for_WebLogic_11g_j2ee" ADD_DATE="1552706829">Setting up data source for WebLogic - - Appeon Server Configuration Guide for J2EE</A>
+                    <DT><A HREF="https://udayarocks.wordpress.com/2011/05/07/how-to-create-a-datasource-in-weblogic-server-11g-console/" ADD_DATE="1552706830">How to create a DataSource in WebLogic Server 11g console. | Udaya&#39;s Blog</A>
+                    <DT><A HREF="http://www.jinfonet.com/kbase/server9/userguide/HTML/config/config_cnct_case1.htm" ADD_DATE="1552706830">Example 1: Using JNDI data source connections of WebLogic Server</A>
+                    <DT><A HREF="http://community.jaspersoft.com/wiki/how-set-jndi-data-source-weblogic-application-server" ADD_DATE="1552706830">How to set up JNDI data source in WebLogic application server | Jaspersoft Community</A>
+                    <DT><A HREF="http://www.oracle.com/webfolder/technetwork/tutorials/obe/fmw/wls/12c/04-ConfigDataSource/configds.htm" ADD_DATE="1552706830">Oracle WebLogic Server 12c: Configuring a JDBC Data Source</A>
+                    <DT><A HREF="http://oracle.in.th/link/obe-10622-oracle-weblogic-server-12c-configuring-a-jdbc-data-source" ADD_DATE="1552706831">OBE#10622: Oracle WebLogic Server 12c: Configuring a JDBC Data Source | Oracle User Group in Thailand</A>
+                </DL><p>
+                <DT><A HREF="http://www.captaindebug.com/2011/09/deploying-applications-to-weblogic.html#.VwzHw2h97Dc" ADD_DATE="1552706825">Captain Debug&#39;s Blog: Deploying Applications to Weblogic Using Maven</A>
+                <DT><A HREF="https://wayneshare.wordpress.com/2011/09/01/weblogic-jdbc-wrapper-clob-error/" ADD_DATE="1552706825">weblogic.jdbc.wrapper.Clob…. error | WayneShare</A>
+                <DT><A HREF="https://weblogiccommunity.com/tag/weblogic-12-1-3/" ADD_DATE="1552706825">WebLogic 12.1.3 | WebLogic Community</A>
+                <DT><A HREF="https://blogs.oracle.com/cmsdk/entry/disable_jdbc_data_type_wrapping" ADD_DATE="1552706825">Disable JDBC data type wrapping in WLS (Oracle Content Management SDK)</A>
+                <DT><H3 ADD_DATE="1552706825" LAST_MODIFIED="1552706832">Memory</H3>
+                <DL><p>
+                    <DT><A HREF="https://plumbr.eu/outofmemoryerror/java-heap-space" ADD_DATE="1552706829">Java heap space – Plumbr</A>
+                    <DT><A HREF="http://blog.sysco.no/weblogic/WebLogic-JVM-setup-problems/" ADD_DATE="1552706829">WebLogic JVM Setup Problems and how to address them – Sysco Middleware Blog</A>
+                    <DT><A HREF="http://www.baigzeeshan.com/2012/01/how-to-set-different-jvm-heap-size-for.html" ADD_DATE="1552706830">Zeeshan Baig&#39;s Blog: How to set Different JVM Heap Sizes for Admin and Managed Servers in Weblogic</A>
+                    <DT><A HREF="https://itbitsolutions.wordpress.com/2010/08/22/increasing-the-heap-size-of-the-jvm/" ADD_DATE="1552706830">Increasing the Heap Size of the Weblogic JVM | Bits</A>
+                    <DT><A HREF="http://javaeesupportpatterns.blogspot.com/2011/11/outofmemoryerror-java-heap-space.html" ADD_DATE="1552706831">java.lang.outofmemoryerror: Java heap space - Analysis and resolution approach ~ Java EE Support Patterns</A>
+                    <DT><A HREF="https://oracle-base.com/articles/11g/weblogic-11g-changing-heap-size-and-other-server-start-arguments" ADD_DATE="1552706831">ORACLE-BASE - WebLogic Server 11g and 12c : Changing Heap Size and other Managed Server Start Arguments</A>
+                    <DT><A HREF="http://weblogic-wonders.com/weblogic/2010/12/30/different-out-of-memory-issues/" ADD_DATE="1552706831">out of memory exception on oracle weblogic server</A>
+                    <DT><A HREF="http://www.oraworld.co.uk/weblogic-managed-server-java-lang-outofmemoryerror-permgen-space/" ADD_DATE="1552706831">Weblogic: Managed Server: java.lang.OutOfMemoryError: PermGen space | OraWorld</A>
+                    <DT><A HREF="http://middlewaremagic.com/weblogic/?p=4464" ADD_DATE="1552706832">OutOfMemory Causes and First Aid Steps? « WebLogic</A>
+                </DL><p>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706824">Docker</H3>
+            <DL><p>
+                <DT><A HREF="http://howtodoinjava.com/docker/docker-hello-world-example/" ADD_DATE="1552706821">Docker Tutorial with Hello World Example - HowToDoInJava</A>
+                <DT><A HREF="http://goldmann.pl/blog/2013/10/07/wildfly-cluster-using-docker-on-fedora/" ADD_DATE="1552706821">Marek Goldmann | WildFly cluster using Docker on Fedora</A>
+                <DT><A HREF="http://courses.springframework.guru/courses/enrolled/169254" ADD_DATE="1552706821">Spring Framework Guru</A>
+                <DT><A HREF="https://medium.freecodecamp.org/docker-quick-start-video-tutorials-1dfc575522a0" ADD_DATE="1552706822">A fast and easy Docker tutorial for beginners (video series)</A>
+                <DT><A HREF="https://stackify.com/docker-tutorial/" ADD_DATE="1552706822">Docker Tutorial: Get Going From Scratch</A>
+                <DT><A HREF="https://docker-curriculum.com/" ADD_DATE="1552706822">A Docker Tutorial for Beginners</A>
+                <DT><A HREF="https://www.toptal.com/devops/getting-started-with-docker-simplifying-devops" ADD_DATE="1552706823">Introduction to Docker Tutorial | Toptal</A>
+                <DT><A HREF="https://jobs.evolable.asia/blog/huong-dan-su-dung-docker-co-ban/" ADD_DATE="1552706823">Hướng dẫn sử dụng Docker cơ bản | EVOLABLE ASIA</A>
+                <DT><A HREF="https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes" ADD_DATE="1552706823">How To Remove Docker Images, Containers, and Volumes | DigitalOcean</A>
+                <DT><A HREF="https://stackoverflow.com/questions/17665283/how-does-one-remove-an-image-in-docker" ADD_DATE="1552706824">How does one remove an image in Docker? - Stack Overflow</A>
+                <DT><A HREF="https://coderwall.com/p/uqp34w/install-rabbitmq-via-docker-in-os-x" ADD_DATE="1552706824">Install rabbitmq via docker in OS-X (Example)</A>
+            </DL><p>
+        </DL><p>
+        <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706820">Linux</H3>
+        <DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706826">Shell script</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706832">Script</H3>
+                <DL><p>
+                    <DT><A HREF="http://greatsingapore.wordpress.com/2011/10/05/java-process-start-stop-in-linux-using-shell-script/" ADD_DATE="1552706829">java process start /stop in linux using shell script « GreatSingapore – Jonnadula Nanaji</A>
+                    <DT><A HREF="http://www.techpaste.com/2011/07/shell-script-start-stop-query-status-jboss-server/" ADD_DATE="1552706830">Shell Script to start, stop, query status of JBoss server | Tech Paste</A>
+                    <DT><A HREF="http://suhothayan.blogspot.com/2010/06/shell-scrips-to-start-and-stop.html" ADD_DATE="1552706830">Shell scrips to start and stop background processes in Linux | Suhorish !</A>
+                    <DT><A HREF="http://forum.subsonic.org/forum/viewtopic.php?t=1546" ADD_DATE="1552706830">Subsonic Forum • View topic - Simple start/stop shell-script</A>
+                    <DT><A HREF="http://unix.stackexchange.com/questions/35303/run-a-sh-file-on-machine-boot-up" ADD_DATE="1552706830">startup - Run a sh file on machine boot up - Unix and Linux</A>
+                    <DT><A HREF="http://pebblesinthesand.wordpress.com/2008/05/22/a-srcipt-for-running-processes-in-parallel-in-bash/" ADD_DATE="1552706831">A srcipt for running processes in parallel in Bash « Pebbles in the Sand</A>
+                    <DT><A HREF="http://www.cyberciti.biz/faq/howto-display-process-pid-under-linux-unix/" ADD_DATE="1552706831">Linux / UNIX: Find out or determine if process pid is running</A>
+                    <DT><A HREF="http://saltnlight5.blogspot.com/2012/08/a-better-java-shell-script-wrapper.html" ADD_DATE="1552706831">A Programmer&#39;s Journal: A better java shell script wrapper</A>
+                    <DT><A HREF="http://www.thegeekstuff.com/2010/07/execute-shell-script/" ADD_DATE="1552706831">4 Ways of Executing a Shell Script in UNIX / Linux</A>
+                    <DT><A HREF="http://www.shamly.com/software-development/check-for-running-process-and-execute-program-shell-script-linux/" ADD_DATE="1552706832">Linux: Using shell script to check running process | Tech Notes on Web Development and Software Development Technology</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/12102270/run-java-jar-file-on-a-server-as-background-process" ADD_DATE="1552706832">shell - Run java jar file on a server as background process - Stack Overflow</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/13463250/shell-script-waits-for-java-jar-file-to-finish" ADD_DATE="1552706832">osx - shell script waits for java jar file to finish - Stack Overflow</A>
+                </DL><p>
+                <DT><A HREF="http://twit88.com/blog/2008/02/21/unix-shell-script-to-build-classpath-dynamically/" ADD_DATE="1552706821">Unix: Shell Script to build CLASSPATH Dynamically | twit88.com</A>
+                <DT><A HREF="http://sourceforge.net/projects/eclipsessgen/" ADD_DATE="1552706821">Eclipse Shell Script Export Plugin | Get Eclipse Shell Script Export Plugin at SourceForge.net</A>
+                <DT><A HREF="http://www.source-code.biz/snippets/java/7.htm" ADD_DATE="1552706822">How to run a Java Program as a daemon (service) on Linux (SUSE/openSUSE) using a shell script</A>
+                <DT><A HREF="http://shyarmal.blogspot.com/2011/08/run-java-main-method-from-shell-script.html" ADD_DATE="1552706822">Shyarmal&#39;s blog: Run Java main method from a shell script</A>
+                <DT><A HREF="http://tldp.org/LDP/abs/html/why-shell.html" ADD_DATE="1552706822">Shell Programming!</A>
+                <DT><A HREF="http://www.cyberciti.biz/tips/unix-linux-bash-shell-script-wrapper-examples.html" ADD_DATE="1552706823">Shell Script Wrapper Examples: Enhance the Ping and Host Commands</A>
+                <DT><A HREF="http://java.dzone.com/articles/better-java-shell-script" ADD_DATE="1552706823">A Better Java Shell Script Wrapper | Javalobby</A>
+                <DT><A HREF="http://techieidea.blogspot.com/2009/12/how-to-execute-shell-script-from-java.html" ADD_DATE="1552706823">Techie Pages: How to Execute Shell Script From Java</A>
+                <DT><A HREF="http://www.cs.sjsu.edu/web_mater/cs46b/cs46blab/shellScripting1.html" ADD_DATE="1552706824">Shell Scripting 1</A>
+                <DT><A HREF="http://obscuredclarity.blogspot.com/2011/07/executing-shell-script-from-java.html" ADD_DATE="1552706824">Obscured Clarity: Executing a Shell Script from Java</A>
+                <DT><A HREF="http://esudharaka.blogspot.com/2012/06/executing-shell-script-from-java-class.html" ADD_DATE="1552706824">Eshan Sudharaka&#39;s blog: Executing a Shell Script From a java Class</A>
+                <DT><A HREF="http://alvinalexander.com/blog/post/linux-unix/dynamically-build-java-classpath-in-bourne-shell-script" ADD_DATE="1552706824">Dynamic Java classpath - build your classpath in a shell script | alvinalexander.com</A>
+                <DT><A HREF="http://alvinalexander.com/scala/scala-shell-script-example-exec-syntax" ADD_DATE="1552706825">A Scala shell script example (and discussion) | alvinalexander.com</A>
+                <DT><A HREF="http://oak.cs.ucla.edu/cs144/projects/unix/shell.html" ADD_DATE="1552706825">How to Write a Basic Shell Script</A>
+                <DT><A HREF="https://coderwall.com/p/ssuaxa" ADD_DATE="1552706825">Paolo Di Tommaso : How to make a JAR file Linux executable</A>
+                <DT><A HREF="http://coderwall.blogspot.com/2012/09/how-to-execute-shell-script-using-java.html" ADD_DATE="1552706825">Coder Wall: How to execute shell script using java</A>
+                <DT><A HREF="http://alvinalexander.com/scala/script-create-sbt-directory-structure" ADD_DATE="1552706825">A shell script to build a Scala SBT project directory structure | alvinalexander.com</A>
+                <DT><A HREF="http://alvinalexander.com/blog/post/java/unix-shell-script-i-use-for-compiling-java-programs" ADD_DATE="1552706826">Java compile example - A Linux shell script | java compile | alvinalexander.com</A>
+                <DT><A HREF="http://viralpatel.net/blogs/writing-functions-in-shell-script/" ADD_DATE="1552706826">Writing Functions in Shell Script. Function in Shell Script Tutorial</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706822">Boost</H3>
+            <DL><p>
+                <DT><A HREF="http://www.boost.org/doc/libs/1_35_0/more/getting_started/windows.html" ADD_DATE="1552706821">Boost Getting Started on Windows</A>
+                <DT><A HREF="http://www.crystalclearsoftware.com/cgi-bin/boost_wiki/wiki.pl?InstallingBoost" ADD_DATE="1552706821">BOOST_USER: InstallingBoost</A>
+                <DT><A HREF="http://jlinx.de/blog/?p=293" ADD_DATE="1552706821">JLinX - Blog » Install Boost on Windows Using VS2005</A>
+                <DT><A HREF="http://wagjo.com/index.php?id=27" ADD_DATE="1552706822">Wagjo - Boost - Installation - Instal Boost libraries under Windows</A>
+            </DL><p>
+            <DT><A HREF="http://opensolaris.org/os/" ADD_DATE="1552706820">Home at OpenSolaris.org</A>
+            <DT><A HREF="http://linux.about.com/od/embedded/l/blnewbie_toc.htm" ADD_DATE="1552706820">Linux Newbie Administrator Guide</A>
+            <DT><A HREF="http://blog.taragana.com/" ADD_DATE="1552706820">Simple Thoughts: Java &amp; Web Technology Blog</A>
+            <DT><A HREF="http://www.pixelbeat.org/cmdline.html" ADD_DATE="1552706820">Linux Commands - A practical reference</A>
+            <DT><A HREF="http://www.howtoforge.com/useful_linux_commands" ADD_DATE="1552706820">Useful Commands For The Linux Command Line | HowtoForge - Linux Howtos and Tutorials</A>
+            <DT><A HREF="http://linux.about.com/od/commands/l/blcmdl1_top.htm" ADD_DATE="1552706820">top - Linux Command - Unix Command</A>
+            <DT><A HREF="http://www.cyberciti.biz/faq/show-all-running-processes-in-linux/" ADD_DATE="1552706820">Show All Running Processes in Linux</A>
+            <DT><A HREF="http://www.wikihow.com/Unzip-Files-in-Linux" ADD_DATE="1552706820">4 Ways to Unzip Files in Linux - wikiHow</A>
+            <DT><A HREF="http://www.tecmint.com/18-tar-command-examples-in-linux/" ADD_DATE="1552706820">18 Tar Command Examples in Linux</A>
+            <DT><A HREF="http://www.cyberciti.biz/tips/how-can-i-zipping-and-unzipping-files-under-linux.html" ADD_DATE="1552706820">Zipping and Unzipping Files under Linux</A>
+            <DT><A HREF="http://blog-xtraffic.pep.vn/yum-la-gi-nhung-lenh-co-ban-cua-yum/" ADD_DATE="1552706820">YUM là gì? Những lệnh cơ bản của YUM</A>
+            <DT><A HREF="http://www.gocit.vn/bai-viet/co-ban-ve-cai-dat-phan-mem-tren-linux/" ADD_DATE="1552706820">Cơ bản về “Cài đặt phần mềm trên Linux” | Góc IT</A>
+            <DT><A HREF="http://forum.gocit.vn/threads/cai-dat-rpm-tren-linux.167/" ADD_DATE="1552706820">Cài đặt RPM trên Linux | Diễn đàn Góc IT</A>
+            <DT><A HREF="https://moriator.wordpress.com/2007/11/13/cai-d%E1%BA%B7t-ph%E1%BA%A7n-m%E1%BB%81m-va-qu%E1%BA%A3n-ly-cac-goi-trong-ubuntu/" ADD_DATE="1552706820">Cài đặt phần mềm và quản lý các gói trong Ubuntu | Moriator - I can do it!</A>
+            <DT><A HREF="http://fossbytes.com/linux-lexicon-basic-linux-commands/" ADD_DATE="1552706820">Linux Lexicon: Basic Linux Commands</A>
+            <DT><A HREF="https://support.inet.vn/677410-M%E1%BB%99t-s%E1%BB%91-l%E1%BB%87nh-c%C6%A1-b%E1%BA%A3n-tr%C3%AAn-CentOS-cho-ng%C6%B0%E1%BB%9Di-m%E1%BB%9Bi-s%E1%BB%AD-d%E1%BB%A5ng-Linux" ADD_DATE="1552706820">Một số lệnh cơ bản trên CentOS cho người mới sử dụng Linux</A>
+            <DT><A HREF="https://nguyentuanhung.wordpress.com/2013/05/03/nhung-dong-lenh-linux-huu-ich-useful-linux-tools/" ADD_DATE="1552706820">Những dòng lệnh Linux hữu ích (Useful linux tools) – Hung&#39;s Blog</A>
+            <DT><A HREF="https://www.crazytut.com/29-cau-lenh-linux-ban-can-phai-biet/" ADD_DATE="1552706820">30 câu lệnh linux cơ bản bạn cần phải biết</A>
+            <DT><A HREF="https://nguyentieuhau.wordpress.com/2010/05/16/su-dung-giao-dien-dong-len-trong-ubuntu/" ADD_DATE="1552706820">Sử dụng giao diện dòng lệnh trong Ubuntu | nguyentieuhau&#39;s blog</A>
+            <DT><A HREF="https://kipalog.com/posts/Thay-doi-che-do-doc-ghi-len-dia-cung--io-scheduling--de-tang-toc-ubuntu" ADD_DATE="1552706820">Thay đổi chế độ đọc ghi lên đĩa cứng (io scheduling) để tăng tốc ubuntu</A>
+            <DT><A HREF="https://www.linux.com/blog/5-commands-check-memory-usage-linux" ADD_DATE="1552706820">5 commands to check memory usage on Linux | Linux.com | The source for Linux information</A>
+            <DT><A HREF="https://www.cyberciti.biz/faq/linux-check-memory-usage/" ADD_DATE="1552706820">Linux Check Memory Usage</A>
+            <DT><A HREF="https://www.cyberciti.biz/faq/checking-directory-size-in-linux-command/" ADD_DATE="1552706820">Linux: Find Out Directory Size Command</A>
+            <DT><A HREF="http://unix.stackexchange.com/questions/185764/how-do-i-get-the-size-of-a-directory-on-the-command-line" ADD_DATE="1552706820">ls - How do I get the size of a directory on the command line? - Unix &amp; Linux Stack Exchange</A>
+            <DT><A HREF="http://www.codecoffee.com/tipsforlinux/articles/22.html" ADD_DATE="1552706820">Tips For Linux - How to find - Size of a directory &amp; Free disk space</A>
+            <DT><A HREF="http://skillprogramming.com/images/pictuers/basic_linux_commands.png" ADD_DATE="1552706820">skillprogramming.com/images/pictuers/basic_linux_commands.png</A>
+        </DL><p>
