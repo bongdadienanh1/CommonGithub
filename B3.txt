@@ -1,0 +1,605 @@
+
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706828">Spring</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706831">Overview</H3>
+                <DL><p>
+                    <DT><A HREF="https://itphutran.com/dependency-injection-va-inversion-control-trong-spring-framework/" ADD_DATE="1552706829">Dependency Injection và Inversion of Control trong Spring Framework - Blog IT Phú Trần</A>
+                    <DT><A HREF="https://goweb.vn/kien-thuc-web-vi/thiet-ke-web/khai-niem-dependency-injection-va-inversion-of-control-1256.html" ADD_DATE="1552706830">khái niệm DEPENDENCY INJECTION VÀ INVERSION OF CONTROL</A>
+                    <DT><A HREF="https://toidicodedao.com/2015/11/03/dependency-injection-va-inversion-of-control-phan-1-dinh-nghia/" ADD_DATE="1552706830">Dependency Injection và Inversion of Control – Phần 1: Định nghĩa | Từ coder đến developer – Tôi đi code dạo</A>
+                    <DT><A HREF="https://viblo.asia/p/dependency-injection-va-di-containers-gGJ59YLG5X2" ADD_DATE="1552706830">Dependency Injection và DI Containers - Viblo</A>
+                    <DT><A HREF="https://codeaholicguy.com/2016/01/28/69-cau-hoi-phong-van-ve-spring-phan-1/" ADD_DATE="1552706831">69 câu hỏi phỏng vấn về Spring (Phần 1) – Codeaholicguy</A>
+                    <DT><A HREF="https://github.com/codelibs/fess" ADD_DATE="1552706831">codelibs/fess: Fess is very powerful and easily deployable Enterprise Search Server.</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706835">Spring Transactions</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.byteslounge.com/tutorials/spring-jdbc-transactions-example" ADD_DATE="1552706829">Spring JDBC transactions example</A>
+                    <DT><A HREF="http://www.simplespringtutorial.com/springDeclarativeTransactions.html" ADD_DATE="1552706829">Spring Declarative Transactions</A>
+                    <DT><A HREF="http://www.wideskills.com/spring/transaction-management-in-spring" ADD_DATE="1552706830">Transaction Management in Spring | Spring tutorial by Wideskills</A>
+                    <DT><A HREF="http://blog.jhades.org/how-does-spring-transactional-really-work/" ADD_DATE="1552706830">How does Spring @Transactional Really Work?</A>
+                    <DT><A HREF="http://www.javabeat.net/transaction-management-in-spring-framework/" ADD_DATE="1552706830">Transaction Management in Spring Framework</A>
+                    <DT><A HREF="http://www.dineshonjava.com/2012/12/declarative-transaction-management.html#.Vy1fp1h97Dc" ADD_DATE="1552706831">Declarative Transaction Management | DOJ Software Consultant | Dinesh on Java</A>
+                    <DT><A HREF="http://www.roytuts.com/declarative-transaction-management-example-in-spring/" ADD_DATE="1552706831">Declarative Transaction Management Example in Spring – Roy Tutorials</A>
+                    <DT><A HREF="http://backcountry.github.io/2015/02/20/Transaction-Management-Modes-with-Spring/" ADD_DATE="1552706831">Transaction Management Modes with Spring | Backcountry Engineering</A>
+                    <DT><A HREF="https://tech.lds.org/wiki/images/d/dc/TransactionManagement.pdf" ADD_DATE="1552706831">Slide 1</A>
+                    <DT><A HREF="https://www.javacodegeeks.com/2013/11/spring-transactions-visibility.html" ADD_DATE="1552706832">Spring Transactions Visibility</A>
+                    <DT><A HREF="http://docs.spring.io/autorepo/docs/spring/4.2.x/spring-framework-reference/html/transaction.html" ADD_DATE="1552706832">16. Transaction Management</A>
+                    <DT><A HREF="http://kim.saabye-pedersen.org/2013/05/spring-annotation-on-interface-or-class.html" ADD_DATE="1552706832">Kim Saabye Pedersen: Spring annotation on interface or class implementing the interface??</A>
+                    <DT><A HREF="https://resourcepool.io/2014/11/16/java-quickies-what-you-wish-you-knew-about-spring-transactional-annotation/" ADD_DATE="1552706832">Java Quickies – What you wish you knew about Spring @Transactional annotation | Resource Pool</A>
+                    <DT><A HREF="https://javasight.wordpress.com/2009/02/17/understanding-spring-transaction-management-with-checked-and-unchecked-exceptions/" ADD_DATE="1552706833">Understanding Spring Transaction management with Checked and Unchecked exceptions | Javasight&#39;s Weblog</A>
+                    <DT><A HREF="http://www.geeksforgeeks.org/checked-vs-unchecked-exceptions-in-java/" ADD_DATE="1552706833">Checked vs Unchecked Exceptions in Java - GeeksforGeeks</A>
+                    <DT><A HREF="http://www.tutorialspoint.com/spring/declarative_management.htm" ADD_DATE="1552706833">Spring Declarative Transaction Management</A>
+                    <DT><A HREF="http://javahonk.com/spring-declarative-transaction-management-annotation-based/" ADD_DATE="1552706833">Spring declarative transaction management Annotation based</A>
+                    <DT><A HREF="http://howtodoinjava.com/spring/spring-aop/spring-aop-aspectj-example-tutorial-using-annotation-config/" ADD_DATE="1552706833">Spring AOP – AspectJ Annotation Config Example – HowToDoInJava</A>
+                    <DT><A HREF="https://doanduyhai.wordpress.com/2011/11/20/spring-transactional-explained/" ADD_DATE="1552706833">Spring @Transactional explained | DuyHai&#39;s Java Blog</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/14313731/spring-aop-declarative-transaction-management-not-working" ADD_DATE="1552706834">Spring AOP Declarative Transaction Management Not Working - Stack Overflow</A>
+                    <DT><A HREF="https://www.ibm.com/support/knowledgecenter/SSAW57_7.0.0/com.ibm.websphere.nd.doc/info/ae/ae/cspr_data_access_tran1.html" ADD_DATE="1552706834">IBM Knowledge Center</A>
+                    <DT><A HREF="https://www.assembla.com/wiki/show/wjsc/Transaction_Management" ADD_DATE="1552706834">Transaction Management | WroclawJUG-Spring-Cert Project | Assembla</A>
+                    <DT><A HREF="http://www.brushupmyskill.com/2016/02/spring-aop-example.html" ADD_DATE="1552706834">Spring AOP Example ~ Brushup My Skill</A>
+                    <DT><A HREF="http://www.javaranch.com/journal/2008/04/spring-aop-proxies.html" ADD_DATE="1552706834">What It Means To Mock</A>
+                    <DT><A HREF="http://www.dineshonjava.com/2012/12/declarative-transaction-management.html#.Vy20XVh97Dd" ADD_DATE="1552706834">Declarative Transaction Management | DOJ Software Consultant | Dinesh on Java</A>
+                    <DT><A HREF="http://www.journaldev.com/2583/spring-aop-example-tutorial-aspect-advice-pointcut-joinpoint-annotations-xml-configuration" ADD_DATE="1552706834">Spring AOP Example Tutorial – Aspect, Advice, Pointcut, JoinPoint, Annotations, XML Configuration | JournalDev</A>
+                    <DT><A HREF="http://www.dineshonjava.com/2012/12/declarative-transaction-management.html#.Vy22TFh97Dc" ADD_DATE="1552706834">Declarative Transaction Management | DOJ Software Consultant | Dinesh on Java</A>
+                    <DT><A HREF="http://www.jmdoudoux.fr/java/dej/chap-spring_transactions.htm" ADD_DATE="1552706834">Développons en Java - La gestion des transactions avec Spring</A>
+                    <DT><A HREF="https://blog.espenberntsen.net/2010/03/20/aspectj-cheat-sheet/" ADD_DATE="1552706834">@AspectJ cheat sheet | Java and Spring development</A>
+                    <DT><A HREF="http://developer.ucsd.edu/develop/data-layer/jpa/transaction-management.html" ADD_DATE="1552706834">Transaction Management</A>
+                    <DT><A HREF="http://josiahgore.blogspot.com/2011/02/using-spring-aop-to-retry-failed.html" ADD_DATE="1552706834">stuff about software: Using Spring AOP to Retry Failed Idempotent Concurrent Operations</A>
+                    <DT><A HREF="http://learningviacode.blogspot.com/2012/10/springs-transactional-annotation.html" ADD_DATE="1552706834">Learning the code way: Spring&#39;s @Transactional annotation</A>
+                    <DT><A HREF="http://www.intertech.com/Blog/spring-transactions-and-the-element/" ADD_DATE="1552706834">Spring Transactions and the Element - Intertech Blog</A>
+                    <DT><A HREF="http://ashismo.github.io/java-spring/2015/05/25/Spring-AOP-Transaction-Management" ADD_DATE="1552706835">Spring Aop Transaction Management</A>
+                    <DT><A HREF="https://dzone.com/articles/spring-transaction-management" ADD_DATE="1552706835">Effective Spring Transaction Management - DZone Integration</A>
+                    <DT><A HREF="https://www.dineshonjava.com/declarative-transaction-management/" ADD_DATE="1552706835">Spring Declarative Transaction Management Example - Dinesh on Java</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706834">Spring JDBC</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.wideskills.com/spring/spring-jdbc" ADD_DATE="1552706829">Spring JDBC | Spring tutorial by Wideskills</A>
+                    <DT><A HREF="http://www.simplespringtutorial.com/springjdbc.html" ADD_DATE="1552706830">Spring JDBC tutorial</A>
+                    <DT><A HREF="http://www.dineshonjava.com/2012/12/using-namedparameterjdbctemplate-in.html#.Vy1cLFh97Dd" ADD_DATE="1552706830">Using NamedParameterJdbcTemplate in Spring with Example | DOJ Software Consultant | Dinesh on Java</A>
+                    <DT><A HREF="http://www.logicbig.com/tutorials/spring-framework/spring-data-access-with-jdbc/named-param-jdbc-template-example/" ADD_DATE="1552706830">Spring - NamedParameterJdbcTemplate Example</A>
+                    <DT><A HREF="http://javarticles.com/2015/02/example-of-spring-namedparameterjdbctemplate.html" ADD_DATE="1552706830">Example of spring NamedParameterJdbcTemplate</A>
+                    <DT><A HREF="https://docs.spring.io/spring/docs/current/spring-framework-reference/html/jdbc.html" ADD_DATE="1552706831">18. Data access with JDBC</A>
+                    <DT><A HREF="http://www.mkyong.com/spring/how-to-autowire-datasource-in-jdbcdaosupport/" ADD_DATE="1552706831">How to autowire DataSource in JdbcDaoSupport</A>
+                    <DT><A HREF="https://examples.javacodegeeks.com/enterprise-java/spring/jdbc/spring-jdbctemplate-example/" ADD_DATE="1552706831">Spring JdbcTemplate Example | Examples Java Code Geeks - 2016</A>
+                    <DT><A HREF="http://www.vogella.com/tutorials/SpringJDBC/article.html" ADD_DATE="1552706832">The Spring Jdbc Template for database access - Tutorial</A>
+                    <DT><A HREF="http://javarticles.com/2015/02/example-of-spring-callbacks-used-in-jdbctemplate.html" ADD_DATE="1552706832">Example of spring callbacks used in JdbcTemplate</A>
+                    <DT><A HREF="http://javatechig.com/java/spring/spring-jdbc-query-database-using-jdbctemplate" ADD_DATE="1552706832">Spring JDBC Query Database Using JdbcTemplate | Java Techig</A>
+                    <DT><A HREF="http://www.insaneprogramming.be/blog/2015/09/01/jdbi-a-spring-data-alternative/" ADD_DATE="1552706832">JDBI, a nice Spring JDBC alternative - InsaneProgramming</A>
+                    <DT><A HREF="http://www.leveluplunch.com/java/tutorials/027-map-resultset-domain-rowmapper-jdbctemplate-spring/" ADD_DATE="1552706832">Map jdbc resultset to java object with RowMapper | Level Up Lunch</A>
+                    <DT><A HREF="http://www.onlinetutorialspoint.com/spring/spring-jdbctemplate-crud-application.html" ADD_DATE="1552706833">Spring JdbcTemplate CRUD Example | Spring JDBC Example</A>
+                    <DT><A HREF="http://hmkcode.com/spring-framework-jdbc-jdbctemplate/" ADD_DATE="1552706833">Spring Framework JDBC (JdbcTemplate) | HMKCode</A>
+                    <DT><A HREF="http://sujitpal.blogspot.com/2007/03/spring-jdbctemplate-and-transactions.html" ADD_DATE="1552706833">Salmon Run: Spring, JdbcTemplate and Transactions</A>
+                    <DT><A HREF="http://www.beingjavaguys.com/2013/07/spring-jdbc-template-with-spring-mvc.html" ADD_DATE="1552706833">Spring JDBC Template with Spring MVC - Example Hello World Tutorial | Beingjavaguys.com</A>
+                    <DT><A HREF="http://www.logicbig.com/tutorials/spring-framework/spring-data-access-with-jdbc/" ADD_DATE="1552706833">Spring JDBC Tutorial</A>
+                    <DT><A HREF="http://krams915.blogspot.com/2010/12/spring-3-mvc-jdbc-integration-tutorial.html" ADD_DATE="1552706833">krams::: Spring 3 MVC - JDBC Integration Tutorial</A>
+                    <DT><A HREF="http://www.w3javaguide.info/spring/spring-named-parameter-jdbc-template.html" ADD_DATE="1552706833">Spring NamedParameterJdbcTemplate Tutorial</A>
+                    <DT><A HREF="https://justinjohnson.org/java/inserting-datetime-with-spring-jdbctemplate-and-namedparameterjdbctemplate/" ADD_DATE="1552706834">Inserting DATETIME’s with Spring’s JdbcTemplate and NamedParameterJdbcTemplate | Justin Johnson</A>
+                    <DT><A HREF="http://www.javachain.com/spring/spring-jdbc-connectivity/spring-namedparameterjdbctemplate/" ADD_DATE="1552706834">Spring NamedParameterJdbcTemplate - JavaChain.com</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706833">Spring Config</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.robinhowlett.com/blog/2013/02/13/spring-app-migration-from-xml-to-java-based-config/" ADD_DATE="1552706829">Spring app migration: from XML to Java-based config - The Boy Wonders</A>
+                    <DT><A HREF="http://techidiocy.com/annotation-config-vs-component-scan-spring-core/" ADD_DATE="1552706830">annotation-config vs component-scan - Spring Core</A>
+                    <DT><A HREF="https://www.luckyryan.com/2013/02/07/migrate-spring-mvc-servlet-xml-to-java-config/" ADD_DATE="1552706830">Migrate Spring MVC servlet.xml to WebMvcConfigurerAdapter</A>
+                    <DT><A HREF="http://www.cubearticle.com/articles/framework/spring/spring-bean-wiring;jsessionid=141700B0048434CED5B673E55152A90C" ADD_DATE="1552706830">Wiring Spring Beans</A>
+                    <DT><A HREF="http://websystique.com/spring/spring-dependency-injection-example-with-constructor-and-property-setter-xml-example/" ADD_DATE="1552706831">Spring Dependency Injection Example with Constructor and Property Setter (XML) - WebSystique</A>
+                    <DT><A HREF="http://www.mkyong.com/spring/spring-filtering-components-in-auto-scanning/" ADD_DATE="1552706831">Spring Filter components in auto scanning</A>
+                    <DT><A HREF="http://javainsimpleway.com/spring/spring-core/contextcomponent-scan/" ADD_DATE="1552706831">context:component- scan | Java Guide</A>
+                    <DT><A HREF="http://www.concretepage.com/spring/spring-component-scan-include-and-exclude-filter-example-using-javaconfig-and-xml-with-annotation-assignable-aspect-and-regex-filter-types" ADD_DATE="1552706831">Spring Component Scan Include and Exclude Filter Example using JavaConfig and XML with annotation, assignable, aspect and regex Filter Types</A>
+                    <DT><A HREF="http://www.hubberspot.com/2012/10/how-to-filter-components-in-spring.html" ADD_DATE="1552706832">How to filter components in Spring Framework using include-filter and exclude-filter tag ?. | Learn Java by Examples</A>
+                    <DT><A HREF="http://www.leveluplunch.com/blog/2014/08/30/exclude-filter-component-scan-spring/" ADD_DATE="1552706832">Spring component scan filter | Level Up Lunch</A>
+                    <DT><A HREF="http://www.javacodebook.com/2013/07/07/spring-book-chapter-4-configuration-styles-5/8/" ADD_DATE="1552706832">Configuration Styles in Spring Framework | Java CodeBook - Part 8</A>
+                    <DT><A HREF="http://memorynotfound.com/spring-filter-components-component-scanning/" ADD_DATE="1552706832">Spring Filter Components From Component Scanning</A>
+                    <DT><A HREF="http://www.developer.am/j2eetutorial/spring/?page=spring_filtering_components" ADD_DATE="1552706832">Developer.am - Maven 2 Tutorial spring_filtering_components</A>
+                    <DT><A HREF="http://www.javabeat.net/spring-classpath-scanning-managed-components/" ADD_DATE="1552706833">Spring Classpath Scanning &amp; Managed Components</A>
+                    <DT><A HREF="http://farenda.com/spring/spring-component-scan-exclude/" ADD_DATE="1552706833">Spring component scan exclude - Java Programming Tutorials</A>
+                    <DT><A HREF="http://javarticles.com/2016/01/spring-componentscan-annotation-example.html" ADD_DATE="1552706833">Spring @ComponentScan Annotation Example</A>
+                    <DT><A HREF="http://javarticles.com/2016/01/spring-component-annotation-example.html" ADD_DATE="1552706833">Spring @Component Annotation Example</A>
+                    <DT><A HREF="http://javarticles.com/2015/07/spring-scanning-components.html" ADD_DATE="1552706833">Spring Scanning Components</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706831">Spring Task Scheduled</H3>
+                <DL><p>
+                    <DT><A HREF="https://blog.synyx.de/2012/06/scheduling-and-asynchronous-execution-with-spring/" ADD_DATE="1552706829">How to make your methods scheduled or asynchronous executed in a few minutes | synyx - Blog</A>
+                    <DT><A HREF="https://voltdb.com/blog/using-spring-schedule-annotation" ADD_DATE="1552706830">Using the Spring @Schedule Annotation | VoltDB</A>
+                    <DT><A HREF="http://www.javabeat.net/task-execution-scheduling-spring/" ADD_DATE="1552706830">Task Execution and Scheduling in Spring</A>
+                    <DT><A HREF="http://dev.anyframejava.org/docs.en/anyframe/plugin/optional/scheduling/1.0.1/reference/html/ch01.html" ADD_DATE="1552706830">1.Spring Scheduling</A>
+                    <DT><A HREF="http://ourjavaknowledge.blogspot.com/2013/07/spring-task-execution-and-scheduling.html" ADD_DATE="1552706831">Java Knowledge: Spring Task Execution And Scheduling</A>
+                    <DT><A HREF="http://websystique.com/spring/spring-job-scheduling-using-xml-configuration/" ADD_DATE="1552706831">Spring Job Scheduling using TaskScheduler (XML Config) - WebSystique</A>
+                    <DT><A HREF="https://www.concretepage.com/spring/spring-task-scheduler-example-with-scheduled-annotation-using-xml-and-javaconfig" ADD_DATE="1552706831">Spring Task Scheduler Example with @Scheduled Annotation using XML and JavaConfig</A>
+                    <DT><A HREF="http://javasampleapproach.com/spring-framework/how-to-import-csv-data-to-postgresql-database-using-spring-batch-job" ADD_DATE="1552706831">How to import CSV data to PostgreSQL Database using Spring Batch Job - JavaSampleApproach</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706823" LAST_MODIFIED="1552706835">Spring Batch</H3>
+                <DL><p>
+                    <DT><H3 ADD_DATE="1552706829" LAST_MODIFIED="1552706836">Fix Error</H3>
+                    <DL><p>
+                        <DT><A HREF="http://stackoverflow.com/questions/22455739/spring-batch-a-job-instance-already-exists-jobinstancealreadycompleteexceptio" ADD_DATE="1552706836">java - Spring Batch - A job instance already exists: JobInstanceAlreadyCompleteException - Stack Overflow</A>
+                        <DT><A HREF="http://stackoverflow.com/questions/11559285/restart-a-new-instance-of-a-job-that-is-not-restartable" ADD_DATE="1552706836">java - Restart a new instance of a job that is not restartable - Stack Overflow</A>
+                        <DT><A HREF="http://stackoverflow.com/questions/22148117/spring-batch-error-a-job-instance-already-exists-and-runidincrementer-generate" ADD_DATE="1552706836">Spring Batch error (A Job Instance Already Exists) and RunIdIncrementer generates only once - Stack Overflow</A>
+                    </DL><p>
+                    <DT><A HREF="https://ice09.wordpress.com/2010/08/15/spring-batch-with-gmail-notification-using-velocity/" ADD_DATE="1552706830">Spring-batch with GMail-Notification using Velocity « ICE09 . playing with java, scala, groovy and spring .</A>
+                    <DT><A HREF="https://blog.codecentric.de/en/2011/09/email-sending-with-spring-batch/" ADD_DATE="1552706830">Email sending with Spring Batch - codecentric Blog : codecentric Blog</A>
+                    <DT><A HREF="http://www.codingpedia.org/ama/spring-batch-tutorial-with-spring-boot-and-java-configuration/" ADD_DATE="1552706830">Spring Batch Tutorial with Spring Boot and Java Configuration | Codingpedia.org</A>
+                    <DT><A HREF="https://keyholesoftware.com/2012/06/25/getting-started-with-spring-batch-part-two/" ADD_DATE="1552706830">Getting Started With Spring Batch, Part Two | Keyhole Software</A>
+                    <DT><A HREF="http://websystique.com/springbatch/spring-batch-read-from-mysql-database-and-write-to-a-csv-file/" ADD_DATE="1552706831">Spring Batch- Read From MySQL database &amp; write to CSV file - WebSystique</A>
+                    <DT><A HREF="http://www.intertech.com/Blog/spring-batch-admin-tutorial/" ADD_DATE="1552706831">Spring Batch Admin Tutorial - Intertech Blog</A>
+                    <DT><A HREF="http://briansjavablog.blogspot.com/2014/04/spring-batch-tutorial.html" ADD_DATE="1552706831">Brians Java Blog: Spring Batch Tutorial</A>
+                    <DT><A HREF="http://codingjam.it/primi-passi-con-spring-batch/" ADD_DATE="1552706832">codingjam.it/primi-passi-con-spring-batch/</A>
+                    <DT><A HREF="http://www.dineshonjava.com/2012/12/spring-batch-process-with-example.html#.VzNsdlh97Dd" ADD_DATE="1552706832">Spring Batch Tutorial - Spring Batch Process with Example : Chapter 40 | DOJ Software Consultant | Dinesh on Java</A>
+                    <DT><A HREF="http://www.petrikainulainen.net/programming/spring-framework/spring-batch-tutorial-reading-information-from-an-excel-file/" ADD_DATE="1552706832">Spring Batch Tutorial: Reading Information From an Excel File</A>
+                    <DT><A HREF="http://www.mkyong.com/spring-batch/spring-batch-hello-world-example/" ADD_DATE="1552706832">Spring Batch Hello World Example</A>
+                    <DT><A HREF="http://glenn-renfro-dev.blogspot.com/2012/02/adding-attachement-to-email-via-spring.html" ADD_DATE="1552706832">Glenn&#39;s Dev Blog: Sending Email Attachments using Spring Integration</A>
+                    <DT><A HREF="http://www.concretepage.com/spring-batch-3/" ADD_DATE="1552706833">Spring Batch 3 Tutorial with Examples</A>
+                    <DT><A HREF="http://www.desynit.com/dev-zone/our-guide-to-the-best-spring-batch-tutorials-and-how-to-use-them/" ADD_DATE="1552706833">A guide to the best Spring Batch tutorials and how to use them - Desynit</A>
+                    <DT><A HREF="http://krams915.blogspot.com/2012/02/spring-batch-tutorial-part-1.html" ADD_DATE="1552706833">krams::: Spring Batch Tutorial (Part 1)</A>
+                    <DT><A HREF="https://www.kifi.com/antonio-vidalgarc%C3%ADa/spring-batch" ADD_DATE="1552706833">Spring Batch by Antonio Vidal García • Kifi</A>
+                    <DT><A HREF="http://www.keepsnowballing.com/2013/06/using-spring-batch-with-spring.html" ADD_DATE="1552706833">Java / Spring Technology Tutorials and Articles: Spring Batch with Spring Scheduler in a real life like scenario.</A>
+                    <DT><A HREF="http://springbatchbyexample.blogspot.com/2014/09/step-partitioning.html" ADD_DATE="1552706833">Spring Batch: Step Partitioning</A>
+                    <DT><A HREF="http://malsolo.com/blog4java/?p=260" ADD_DATE="1552706834">Introduction to Spring Batch | Blog4Java</A>
+                    <DT><A HREF="http://rgordon.co.uk/blog/2012/02/02/passing-a-parameter-from-oddjob-to-spring-batch/" ADD_DATE="1552706834">Passing a Parameter from Oddjob to Spring Batch | Rob&#39;s Blog</A>
+                    <DT><A HREF="https://www.petrikainulainen.net/programming/spring-framework/spring-batch-tutorial-introduction/" ADD_DATE="1552706834">Spring Batch Tutorial: Introduction</A>
+                    <DT><A HREF="http://www.mkyong.com/spring-batch/spring-batch-and-spring-taskscheduler-example/" ADD_DATE="1552706834">Spring Batch + Spring TaskScheduler example</A>
+                    <DT><A HREF="https://www.tutorialspoint.com/spring_batch/index.htm" ADD_DATE="1552706834">Spring Batch Tutorial</A>
+                    <DT><A HREF="https://www.toptal.com/spring/spring-batch-tutorial" ADD_DATE="1552706834">Guide to Spring Batch Processing | Toptal</A>
+                    <DT><A HREF="http://www.baeldung.com/introduction-to-spring-batch" ADD_DATE="1552706834">Introduction to Spring Batch | Baeldung</A>
+                    <DT><A HREF="http://websystique.com/spring-batch-tutorial/" ADD_DATE="1552706834">Spring Batch Tutorial - WebSystique</A>
+                    <DT><A HREF="https://dzone.com/articles/spring-batch-csv-processing" ADD_DATE="1552706834">Spring Batch CSV Processing - DZone Java</A>
+                    <DT><A HREF="http://springbatchbyexample.blogspot.com/" ADD_DATE="1552706834">Spring Batch</A>
+                    <DT><A HREF="https://blog.csdn.net/caolaosanahnu/article/details/7380948" ADD_DATE="1552706834">Spring batch ItemReaders and ItemWriters - CSDN博客</A>
+                    <DT><A HREF="https://github.com/wbotelhos/spring-batch-fixed-length-token/blob/master/src/main/resources/applicationContext.xml" ADD_DATE="1552706834">spring-batch-fixed-length-token/applicationContext.xml at master · wbotelhos/spring-batch-fixed-length-token</A>
+                    <DT><A HREF="https://github.com/spring-projects/spring-batch/blob/master/spring-batch-samples/src/main/resources/jobs/beanWrapperMapperSampleJob.xml" ADD_DATE="1552706834">spring-batch/beanWrapperMapperSampleJob.xml at master · spring-projects/spring-batch</A>
+                    <DT><A HREF="https://github.com/codecentric/spring-boot-starter-batch-web/tree/master/src" ADD_DATE="1552706834">spring-boot-starter-batch-web/src at master · codecentric/spring-boot-starter-batch-web</A>
+                    <DT><A HREF="https://blog.trifork.com/2017/04/14/how-to-send-your-spring-batch-job-log-messages-to-a-separate-file/" ADD_DATE="1552706835">How to send your Spring Batch Job log messages to a separate file « Trifork Blog / Trifork: Enterprise Java, Open Source, software solutions</A>
+                    <DT><A HREF="https://github.com/arey/spring-batch-toolkit/tree/master/src/test/resources/com/javaetmoi/core/batch/test" ADD_DATE="1552706835">spring-batch-toolkit/src/test/resources/com/javaetmoi/core/batch/test at master · arey/spring-batch-toolkit</A>
+                    <DT><A HREF="http://apprize.info/javascript/spring/3.html" ADD_DATE="1552706835">Getting Started with Spring Batch Jobs - Spring Batch Essentials (2015)</A>
+                    <DT><A HREF="https://blog.codecentric.de/en/2012/03/transactions-in-spring-batch-part-3-skip-and-retry/" ADD_DATE="1552706835">Transactions in Spring Batch - Part 3: Skip and retry - codecentric AG Blog</A>
+                    <DT><A HREF="https://blog.codecentric.de/2014/03/skipping-asynchroner-batchverarbeitung/" ADD_DATE="1552706835">Skipping in asynchroner Batchverarbeitung - codecentric AG Blog</A>
+                    <DT><A HREF="https://github.com/oasp/oasp4j/wiki/guide-batch-layer" ADD_DATE="1552706835">guide batch layer · oasp/oasp4j Wiki</A>
+                    <DT><A HREF="https://terasoluna-batch.github.io/guideline/5.0.0.RELEASE/en/Ch06_ExceptionHandling.html#Ch06_ExceptionHandling_HowToUse_ExceptionHandling_Skip_Chunk_ItemWriter" ADD_DATE="1552706835">Exception handling</A>
+                    <DT><A HREF="https://jira.spring.io/browse/BATCH-2334" ADD_DATE="1552706835">[BATCH-2334] Writer.write(..) executed twice with same data on Exception - Spring JIRA</A>
+                    <DT><A HREF="https://github.com/mmonti/spring-batch-sftp/blob/master/src/main/resources/batch-config.xml" ADD_DATE="1552706835">spring-batch-sftp/batch-config.xml at master · mmonti/spring-batch-sftp</A>
+                    <DT><A HREF="http://www.ontheserverside.com/blog/2014/07/23/horizontal-and-vertical-scaling-strategies-for-batch-applications/" ADD_DATE="1552706835">Horizontal and vertical scaling strategies for batch applications - ontheserverside.com | Blog of Piotr Dyraga</A>
+                    <DT><A HREF="https://www.captechconsulting.com/blogs/spring-batch-multi-threaded-step" ADD_DATE="1552706835">Spring Batch Multi-Threaded-Step</A>
+                    <DT><A HREF="https://howtodoinjava.com/spring-batch/spring-batch-itemprocessor-example/" ADD_DATE="1552706835">Spring Batch ItemProcessor Example - HowToDoInJava</A>
+                    <DT><A HREF="https://howtodoinjava.com/spring-batch/delete-archive-files-after-read/" ADD_DATE="1552706835">Spring Batch Delete or Archive Files After Processing - HowToDoInJava</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706823" LAST_MODIFIED="1552706830">Spring Boot</H3>
+                <DL><p>
+                    <DT><A HREF="https://www.youtube.com/watch?v=sEvZf70qyv4&list=PLZV0a2jwt22tG2DEcsY7s3GJWIxlPo5bt" ADD_DATE="1552706829">Learn Spring Boot and start creating applications today. - YouTube</A>
+                    <DT><A HREF="https://springframework.guru/blog/page/3/" ADD_DATE="1552706830">Blog - Page 3 of 10 - Spring Framework Guru</A>
+                    <DT><A HREF="http://therealdanvega.com/blog/page/4" ADD_DATE="1552706830">Blog - Page 4 of 96 - The Real Dan Vega</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706823" LAST_MODIFIED="1552706835">Spring Log</H3>
+                <DL><p>
+                    <DT><A HREF="http://nthieu-java-research.blogspot.com/2013/11/spring-aop-aspectj-before-and-after.html?m=1" ADD_DATE="1552706829">Java General: Spring AOP + AspectJ: Before and After</A>
+                    <DT><A HREF="http://www.makeinjava.com/logging-aspect-restful-web-service-using-spring-aop-log-requests-responses/" ADD_DATE="1552706830">Logging aspect in RESTful service using spring aop (log requests)</A>
+                    <DT><A HREF="https://gist.github.com/jkuipers/24ffbf8a5ba26c0177629e9aba492bfa" ADD_DATE="1552706830">RestTemplate-interceptor that logs outgoing requests and resulting responses</A>
+                    <DT><A HREF="https://molchanoff.me/software-development/logging-spring-rest-template-requests/" ADD_DATE="1552706830">Logging Spring REST template requests - molchanoff.me</A>
+                    <DT><A HREF="https://github.com/4finance/micro-infra-spring" ADD_DATE="1552706830">4finance/micro-infra-spring: Repository containing default microservice infrastructure set up using Spring configuration</A>
+                    <DT><A HREF="http://blog.cacoveanu.com/2016/06/24/rest-template-logging.html" ADD_DATE="1552706831">Full logging with RestTemplate</A>
+                    <DT><A HREF="http://slackspace.de/articles/log-request-body-with-spring-boot/" ADD_DATE="1552706831">Log request body with Spring Boot | Slackspace</A>
+                    <DT><A HREF="https://gist.github.com/calo81/2071634" ADD_DATE="1552706831">Filter for reading and logging HttpServletRequest body, and resetting the input stream</A>
+                    <DT><A HREF="https://www.javaworld.com/article/2077666/web-app-frameworks/implement-crosscutting-concerns-using-spring-2-0-aop.html" ADD_DATE="1552706831">Implement crosscutting concerns using Spring 2.0 AOP | JavaWorld</A>
+                    <DT><A HREF="http://www.geekabyte.io/2014/04/configuring-aspect-with-spring-aop.html" ADD_DATE="1552706832">geekAbyte: Configuring Aspect With Spring AOP</A>
+                    <DT><A HREF="https://github.com/ariphidayat/springmvc-logging/blob/master/src/main/java/org/arip/logging/aop/LoggingAspect.java" ADD_DATE="1552706832">springmvc-logging/LoggingAspect.java at master · ariphidayat/springmvc-logging</A>
+                    <DT><A HREF="http://niels.nu/blog/2017/spring-boot-aop.html" ADD_DATE="1552706832">Aspect Oriented Programming with Spring Boot</A>
+                    <DT><A HREF="https://www.javacodegeeks.com/2014/07/auditing-infrastructure-for-your-app-using-spring-aop-custom-annotations-and-reflection.html" ADD_DATE="1552706832">Auditing infrastructure for your app using Spring AOP, Custom annotations and Reflection</A>
+                    <DT><A HREF="http://billcomer.blogspot.com/2011/07/auditing-using-aop-and-annotations-in.html" ADD_DATE="1552706833">Bill Comer&#39;s Blog: Auditing using AOP and annotations in Spring</A>
+                    <DT><A HREF="https://www.journaldev.com/2583/spring-aop-example-tutorial-aspect-advice-pointcut-joinpoint-annotations" ADD_DATE="1552706833">Spring AOP Example Tutorial - Aspect, Advice, Pointcut, JoinPoint, Annotations, XML Configuration - JournalDev</A>
+                    <DT><A HREF="http://www.byteslounge.com/tutorials/spring-aop-example" ADD_DATE="1552706833">Spring AOP example</A>
+                    <DT><A HREF="https://mprabhat.me/2012/08/04/audit-framework-with-spring-aop-and-jpa/" ADD_DATE="1552706833">Audit Framework with Spring AOP and JPA « Code Holic</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/7952154/spring-resttemplate-how-to-enable-full-debugging-logging-of-requests-responses" ADD_DATE="1552706833">java - Spring RestTemplate - how to enable full debugging/logging of requests/responses? - Stack Overflow</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/33744875/spring-boot-how-to-log-all-requests-and-responses-with-exceptions-in-single-pl" ADD_DATE="1552706833">java - Spring Boot - How to log all requests and responses with exceptions in single place? - Stack Overflow</A>
+                    <DT><A HREF="https://github.com/kziomek/spring-mvc-logger/blob/master/src/main/java/kziomek/filter/logging/MvcLoggingFilter.java" ADD_DATE="1552706834">spring-mvc-logger/MvcLoggingFilter.java at master · kziomek/spring-mvc-logger</A>
+                    <DT><A HREF="http://www.stevenlanders.com/2014/07/02/spring-aop-annotation.html" ADD_DATE="1552706834">Spring AOP - pointcut where method has a custom annotation</A>
+                    <DT><A HREF="http://tedone.typepad.com/blog/2011/05/using-aop-easily-with-aspectj-and-spring.html" ADD_DATE="1552706834">AOP made easy with AspectJ and Spring - Marco Tedone&#39;s blog</A>
+                    <DT><A HREF="https://github.com/sjkhullar/RequestLogging/blob/master/RequestLogging/src/main/java/org/learn/log/aspect/LoggingHandler.java" ADD_DATE="1552706834">RequestLogging/LoggingHandler.java at master · sjkhullar/RequestLogging</A>
+                    <DT><A HREF="https://dzone.com/articles/monitoring-performance-spring" ADD_DATE="1552706834">Monitoring Performance with Spring AOP - DZone Performance</A>
+                    <DT><A HREF="https://dzone.com/articles/aspect-oriented-programming-0" ADD_DATE="1552706834">Aspect Oriented Programming Using SpringAOP - DZone Java</A>
+                    <DT><A HREF="http://www.tutorialspoint.com/spring/aspectj_based_aop_appoach.htm" ADD_DATE="1552706834">@AspectJ Based AOP with Spring</A>
+                    <DT><A HREF="http://ashismo.github.io/java-spring/2015/05/24/Important-Concepts-of-the-Spring-AOP" ADD_DATE="1552706834">Important Concepts Of The Spring Aop</A>
+                    <DT><A HREF="https://www.eduonix.com/blog/java-programming-2/learn-implement-aop-spring-framework/" ADD_DATE="1552706834">Learn how to implement AOP in the Spring framework</A>
+                    <DT><A HREF="https://renewinkler.net/2017/02/03/logging-with-spring-aop/" ADD_DATE="1552706834">Logging Aspect with Spring AOP | René Winkler</A>
+                    <DT><A HREF="http://javainsimpleway.com/spring-aop/" ADD_DATE="1552706834">Spring AOP | Javainsimpleway</A>
+                    <DT><A HREF="http://javainsimpleway.com/spring-aop-with-aspectj-annotation-configuration-example/" ADD_DATE="1552706834">Spring AOP with AspectJ Annotation Configuration Example | Javainsimpleway</A>
+                    <DT><A HREF="https://www.concretepage.com/spring/spring-aop-aspectj-annotation-example-with-aspect-pointcut-before-after-around-afterreturning-afterthrowing-advice" ADD_DATE="1552706834">Spring AOP + @AspectJ Annotation Example with @Aspect, @Pointcut, @Before, @After, @Around, @AfterReturning, @AfterThrowing Advice</A>
+                    <DT><A HREF="http://sivalabs.blogspot.com/2011/01/aspect-oriented-programming-using.html" ADD_DATE="1552706834">SivaLabs : My Experiments on Technology: Aspect Oriented Programming using SpringAOP</A>
+                    <DT><A HREF="https://www.toptal.com/java/spring-boot-rest-api-error-handling" ADD_DATE="1552706835">Guide to Spring Boot REST API Error Handling | Toptal</A>
+                    <DT><A HREF="http://qiudeqing.com/java_web/2016/09/28/spring-profile-config.html" ADD_DATE="1552706835">spring Profile配置不同环境下的bean</A>
+                    <DT><A HREF="https://codereview.stackexchange.com/questions/145426/spring-aop-log4j-logger-example-improvement" ADD_DATE="1552706835">java - Spring AOP Log4j Logger example, improvement - Code Review Stack Exchange</A>
+                    <DT><A HREF="https://github.com/judasn/Basic-Multi-Module-SSM/blob/master/ssm-manage/ssm-manage-web/src/main/webapp/WEB-INF/web.xml" ADD_DATE="1552706835">Basic-Multi-Module-SSM/web.xml at master · judasn/Basic-Multi-Module-SSM</A>
+                    <DT><A HREF="http://www.dcalabresi.com/blog/java/automatic-logging-aop/" ADD_DATE="1552706835">Damian Calabresi - Automatic Logging with AOP</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706824" LAST_MODIFIED="1552706833">Spring Swagger</H3>
+                <DL><p>
+                    <DT><A HREF="https://jakubstas.com/spring-jersey-swagger-create-documentation/#.WnA0tIhub4Y" ADD_DATE="1552706829">Spring Rest API with Swagger – Creating documentation</A>
+                    <DT><A HREF="https://www.xoriant.com/blog/product-engineering/swagger-annotation-spring-configuration.html" ADD_DATE="1552706829">Swagger Annotation And Spring Configuration | Xoriant Blog</A>
+                    <DT><A HREF="https://unmesh.me/2017/01/01/adding-swagger-ui-support-to-spring-boot-rest-api-project/" ADD_DATE="1552706830">Adding Swagger UI support to Spring Boot REST API Project | TestO&#39;Matic</A>
+                    <DT><A HREF="https://blog.zenika.com/2013/07/11/documenting-a-rest-api-with-swagger-and-spring-mvc/" ADD_DATE="1552706830">Documenting a REST API with Swagger and Spring MVC</A>
+                    <DT><A HREF="https://reflectoring.io/documenting-spring-data-rest-api-with-springfox/" ADD_DATE="1552706831">Documenting a Spring Data REST API with Springfox and Swagger - Reflectoring</A>
+                    <DT><A HREF="https://indrabasak.wordpress.com/2016/04/07/swagger-2-integration-with-spring-rest/" ADD_DATE="1552706831">Swagger 2 Integration with Spring REST | One brick at a time...</A>
+                    <DT><A HREF="https://www.callicoder.com/documenting-spring-rest-apis-using-swagger/" ADD_DATE="1552706831">Documenting Spring Rest APIs using Swagger | CalliCoder</A>
+                    <DT><A HREF="http://www.baeldung.com/swagger-2-documentation-for-spring-rest-api" ADD_DATE="1552706831">Setting Up Swagger 2 with a Spring REST API | Baeldung</A>
+                    <DT><A HREF="https://dzone.com/articles/spring-boot-restful-api-documentation-with-swagger" ADD_DATE="1552706832">Spring Boot RESTful API Documentation With Swagger 2 - DZone Integration</A>
+                    <DT><A HREF="http://heidloff.net/article/usage-of-swagger-2-0-in-spring-boot-applications-to-document-apis/" ADD_DATE="1552706832">Usage of Swagger 2.0 in Spring Boot Applications to document APIs</A>
+                    <DT><A HREF="https://springframework.guru/spring-boot-restful-api-documentation-with-swagger-2/" ADD_DATE="1552706832">Spring Boot RESTful API Documentation with Swagger 2 - Spring Framework Guru</A>
+                    <DT><A HREF="https://github.com/springfox/springfox-demos/tree/master/spring-xml-swagger" ADD_DATE="1552706832">springfox-demos/spring-xml-swagger at master · springfox/springfox-demos</A>
+                    <DT><A HREF="https://www.concretepage.com/spring-4/spring-rest-swagger-2-integration-with-annotation-xml-example" ADD_DATE="1552706832">Spring REST + Swagger 2 Integration with Annotation + XML Example</A>
+                    <DT><A HREF="https://github.com/devdojobr/springboot-essentials/blob/master/src/main/java/br/com/devdojo/handler/RestExceptionHandler.java" ADD_DATE="1552706833">springboot-essentials/RestExceptionHandler.java at master · devdojobr/springboot-essentials</A>
+                    <DT><A HREF="https://springfox.github.io/springfox/docs/snapshot/" ADD_DATE="1552706833">Springfox Reference Documentation</A>
+                    <DT><A HREF="https://edwin.baculsoft.com/2016/09/integrating-swagger-2-and-spring-mvc-4/" ADD_DATE="1552706833">Integrating Swagger 2 and Spring MVC 4 | edwin&#39;s blog</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706824" LAST_MODIFIED="1552706832">Spring Intergation</H3>
+                <DL><p>
+                    <DT><A HREF="http://blog.excilys.com/2013/01/03/introduction-a-spring-batch/" ADD_DATE="1552706829">Blog Excilys » Introduction à Spring-Batch</A>
+                    <DT><A HREF="https://krishnasblog.com/tag/spring-integration/" ADD_DATE="1552706830">Spring Integration | Krishna&#39;s Blog</A>
+                    <DT><A HREF="http://kevin-ohara.github.io/code/2015/07/09/delete-a-remote-file-with-sftp-and-spring-integrations.html" ADD_DATE="1552706830">Delete a Remote File with SFTP and Spring Integrations</A>
+                    <DT><A HREF="http://blog.luventas-webdesign.de/2011/09/05/secure-data-sending-with-sftp-and-spring-batch/#codesyntax_7" ADD_DATE="1552706830">Secure data sending with sftp and spring batch | Luventas Web Design</A>
+                    <DT><A HREF="https://blog.pavelsklenar.com/spring-integration-sftp-upload-example/" ADD_DATE="1552706830">Spring Integration: SFTP Upload Example using Key-Based Authentication</A>
+                    <DT><A HREF="https://blog.jayway.com/2010/08/12/dynamic-ftp-client-using-apache-camel-and-spring/" ADD_DATE="1552706831">Dynamic FTP Client using Apache Camel and Spring - Jayway</A>
+                    <DT><A HREF="https://keyholesoftware.com/2017/07/10/using-spring-integration-in-conjunction-with-spring-batch/" ADD_DATE="1552706831">Using Spring Integration In Conjunction With Spring Batch | Keyhole Software</A>
+                    <DT><A HREF="https://blog.codecentric.de/en/2011/09/send-data-secure-with-sftp-and-spring-batch/" ADD_DATE="1552706831">Send data secure with sftp and spring batch - codecentric AG Blog</A>
+                    <DT><A HREF="https://github.com/creil/spring-batch-samples/tree/master/spring-batch-file/src/main/java/org/reil/example" ADD_DATE="1552706832">spring-batch-samples/spring-batch-file/src/main/java/org/reil/example at master · creil/spring-batch-samples</A>
+                    <DT><A HREF="https://blog.trifork.com/2010/07/21/connecting-to-ftp-server-with-spring-integration/" ADD_DATE="1552706832">Connecting to FTP server with Spring Integration « Trifork Blog / Trifork: Enterprise Java, Open Source, software solutions</A>
+                    <DT><A HREF="https://hybrismart.com/2017/08/13/spring-integration-in-hybris-cluster/" ADD_DATE="1552706832">Spring Integration in Hybris Cluster | hybrismart | SAP hybris under the hood</A>
+                    <DT><A HREF="https://github.com/rhudson/harpatec-samples/blob/master/springint-sftp-dist/src/main/java/com/harpatec/sftp_dist/repository/RemoteFileRepository.java" ADD_DATE="1552706832">harpatec-samples/RemoteFileRepository.java at master · rhudson/harpatec-samples</A>
+                    <DT><A HREF="https://github.com/spring-projects/spring-integration-samples/blob/master/basic/file/src/main/resources/META-INF/spring/integration/fileCopyDemo-file.xml" ADD_DATE="1552706832">spring-integration-samples/fileCopyDemo-file.xml at master · spring-projects/spring-integration-samples</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706824" LAST_MODIFIED="1552706831">Spring EncryptPassword</H3>
+                <DL><p>
+                    <DT><A HREF="http://visionjava1.appspot.com/content/spring-jdbc-with-password-encryption.html" ADD_DATE="1552706829">Spring jdbc with password encryption</A>
+                    <DT><A HREF="https://www.ricston.com/blog/encrypting-properties-in-spring-boot-with-jasypt-spring-boot/" ADD_DATE="1552706830">Encrypting properties with jasypt-spring-boot - Ricston Ltd</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/8933067/passing-encrypted-properties-to-spring-context" ADD_DATE="1552706830">encryption - Passing encrypted properties to spring context - Stack Overflow</A>
+                    <DT><A HREF="http://www.jasypt.org/encrypting-configuration.html" ADD_DATE="1552706830">Jasypt: Java simplified encryption - Encrypting application configuration files</A>
+                    <DT><A HREF="http://kayalvizhiameen.blogspot.in/2014/04/handling-obfuscated-property-values-in.html" ADD_DATE="1552706830">Handling Obfuscated Property Values in Spring</A>
+                    <DT><A HREF="http://www.technicalkeeda.com/spring-tutorials/how-to-encrypt-spring-configuration-datasource-password-credentials" ADD_DATE="1552706831">How to Encrypt or Secure Spring Hibernate Datasource Password Credentials</A>
+                    <DT><A HREF="http://javahonk.com/encrypt-spring-datasource-password/" ADD_DATE="1552706831">Encrypt Spring Datasource Password complete tutorial</A>
+                    <DT><A HREF="http://edeepakjain.blogspot.com/2013/05/spring-encrypt-spring-datasource.html" ADD_DATE="1552706831">Deepak Jain: Spring : Encrypt Spring Datasource Password Credentials</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706824" LAST_MODIFIED="1552706835">Spring DeferredResult</H3>
+                <DL><p>
+                    <DT><A HREF="http://niels.nu/blog/2016/spring-async-rest.html" ADD_DATE="1552706829">Asynchronous REST results in Spring</A>
+                    <DT><A HREF="https://spring.io/blog/2012/05/07/spring-mvc-3-2-preview-introducing-servlet-3-async-support" ADD_DATE="1552706830">Spring MVC 3.2 Preview: Introducing Servlet 3, Async Support</A>
+                    <DT><A HREF="https://www.nurkiewicz.com/2013/03/deferredresult-asynchronous-processing.html" ADD_DATE="1552706830">DeferredResult - asynchronous processing in Spring MVC</A>
+                    <DT><A HREF="https://dzone.com/articles/non-blocking-rest-services-with-spring" ADD_DATE="1552706830">Non-Blocking REST Services With Spring - DZone Integration</A>
+                    <DT><A HREF="https://medium.com/@husseinmoghnie/timing-asynchronous-restful-api-deferredresult-in-java-spring-mvc-72fd9e744915" ADD_DATE="1552706831">Timing Asynchronous RESTful API (DeferredResult) in Java / Spring MVC</A>
+                    <DT><A HREF="https://blog.jayway.com/2014/09/09/asynchronous-spring-service/" ADD_DATE="1552706831">Asynchronous Spring Service - Jayway</A>
+                    <DT><A HREF="https://blog.jayway.com/2014/05/16/async-servlets/" ADD_DATE="1552706831">Async Servlets - Jayway</A>
+                    <DT><A HREF="http://callistaenterprise.se/blogg/teknik/2014/04/22/c10k-developing-non-blocking-rest-services-with-spring-mvc/" ADD_DATE="1552706831">C10k: Developing non-blocking REST services with Spring MVC | Callista Enterprise</A>
+                    <DT><A HREF="https://github.com/callistaenterprise/blog-non-blocking-rest-service-with-spring-mvc/blob/master/spring-mvc-asynch/src/main/java/se/callista/springmvc/asynch/pattern/aggregator/nonblocking/callback/AggregatorNonBlockingCallbackController.java" ADD_DATE="1552706831">blog-non-blocking-rest-service-with-spring-mvc/AggregatorNonBlockingCallbackController.java at master · callistaenterprise/blog-non-blocking-rest-service-with-spring-mvc</A>
+                    <DT><A HREF="https://www.logicbig.com/tutorials/java-ee-tutorial/jax-rs/async-processing-with-timeout.html" ADD_DATE="1552706832">JAX-RS - Asynchronous Processing with Timeout Handler</A>
+                    <DT><A HREF="http://spiral-architect.pl/2016/04/25/asynchronous-processing-of-restful-web-services-requests-in-spring-and-java-ee-worlds-wrapped-in-docker-part-1-spring/" ADD_DATE="1552706832">Spiral Architect » Asynchronous processing of RESTful web services requests in Spring and Java EE worlds wrapped in Docker – part 1: Spring</A>
+                    <DT><A HREF="https://brightinventions.pl/blog/spring-mvc-thread-pool-timeouts/" ADD_DATE="1552706832">Request timeouts in Spring MVC | Bright Inventions</A>
+                    <DT><A HREF="https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-en/cn/part1/chapter13/server_asynchronous_response_processing.html" ADD_DATE="1552706832">Server Asynchronous Response Processing | RESTfu­l Java­ with ­JAX-­RS 2.0­</A>
+                    <DT><A HREF="https://www.jeejava.com/asynchronous-rest-service-with-timeout-using-jersey/amp/" ADD_DATE="1552706833">Asynchronous REST Service with Timeout using Jersey - JEE Tutorials</A>
+                    <DT><A HREF="https://dzone.com/articles/handling-time-outs-async" ADD_DATE="1552706833">Handling Time Outs in Async Requests in JAX-RS - DZone Java</A>
+                    <DT><A HREF="https://allegro.tech/2014/10/async-rest.html" ADD_DATE="1552706833">Asynchronous REST Services with JAX-RS and CompletableFuture · allegro.tech</A>
+                    <DT><A HREF="https://github.com/spring-projects/spring-boot/issues/4799" ADD_DATE="1552706833">Add workaround for containers&#39; handling of async timeouts and custom error pages · Issue #4799 · spring-projects/spring-boot</A>
+                    <DT><A HREF="https://miensol.pl/2017/11/28/spring-mvc-request-timeout.html" ADD_DATE="1552706833">Request timeouts in Spring MVC | Piotr Mionskowski’s Blog</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/27298640/how-spring-async-with-callable-work-and-what-i-do-not-understand" ADD_DATE="1552706833">java - How Spring async with Callable work and what I do not understand? - Stack Overflow</A>
+                    <DT><A HREF="http://www.baeldung.com/java-wait-and-sleep" ADD_DATE="1552706834">Difference Between Wait and Sleep in Java | Baeldung</A>
+                    <DT><A HREF="http://www.baeldung.com/spring-deferred-result" ADD_DATE="1552706834">Guide to DeferredResult in Spring | Baeldung</A>
+                    <DT><A HREF="https://www.logicbig.com/tutorials/spring-framework/spring-web-mvc/async-deferred.html" ADD_DATE="1552706834">Spring MVC - Asynchronous Request Processing using DeferredResult</A>
+                    <DT><A HREF="https://dzone.com/articles/long-polling-spring-32s" ADD_DATE="1552706834">Long Polling with Spring 3.2&#39;s DeferredResult - DZone Java</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/15357990/understanding-the-spring-mvcs-deferredresult-class-in-the-context-of-the-spring" ADD_DATE="1552706834">Understanding the Spring MVC&#39;s DeferredResult class in the context of the spring-mvc-chat github application - Stack Overflow</A>
+                    <DT><A HREF="https://github.com/spring-projects/spring-mvc-showcase/blob/master/src/main/java/org/springframework/samples/mvc/async/DeferredResultController.java" ADD_DATE="1552706834">spring-mvc-showcase/DeferredResultController.java at master · spring-projects/spring-mvc-showcase</A>
+                    <DT><A HREF="https://nickebbitt.github.io/blog/2017/03/22/async-web-service-using-completable-future" ADD_DATE="1552706834">Asynchronous web service using CompletableFuture | Nick Ebbitt | Software Engineer</A>
+                    <DT><A HREF="http://www.captaindebug.com/2013/09/long-polling-with-spring-32s.html?m=1" ADD_DATE="1552706834">Captain Debug&#39;s Blog: Long Polling with Spring 3.2’s DeferredResult</A>
+                    <DT><A HREF="https://qiita.com/SHUAI/items/205fc5e3064a70f1c22e" ADD_DATE="1552706834">[Spring MVC] Callable vs DeferredResult - Qiita</A>
+                    <DT><A HREF="https://www.cnblogs.com/aheizi/p/5659030.html" ADD_DATE="1552706834">Understanding Callable and Spring DeferredResult (translation) - aheizi - blog</A>
+                    <DT><A HREF="http://www.deadcoderising.com/java8-writing-asynchronous-code-with-completablefuture/" ADD_DATE="1552706834">Java: Writing asynchronous code with CompletableFuture</A>
+                    <DT><A HREF="https://www.clianz.com/2016/02/24/configuring-spring-mvc-async-threads/" ADD_DATE="1552706834">Configuring Spring MVC Async Threads</A>
+                    <DT><A HREF="https://www.javacodegeeks.com/2015/07/understanding-callable-and-spring-deferredresult.html" ADD_DATE="1552706834">Understanding Callable and Spring DeferredResult | Java Code Geeks - 2018</A>
+                    <DT><A HREF="https://www.nurkiewicz.com/2013/05/java-8-definitive-guide-to.html" ADD_DATE="1552706835">Java 8: Definitive guide to CompletableFuture</A>
+                    <DT><A HREF="http://www.marccarre.com/2016/05/08/java-8-concurrency-completablefuture-in-practice.html" ADD_DATE="1552706835">Java 8 Concurrency - CompletableFuture in practice</A>
+                    <DT><A HREF="https://community.oracle.com/docs/DOC-995305" ADD_DATE="1552706835">CompletableFuture for Asynchronous Programming ... | Oracle Community</A>
+                    <DT><A HREF="https://www.callicoder.com/java-8-completablefuture-tutorial/" ADD_DATE="1552706835">Java 8 CompletableFuture Tutorial | CalliCoder</A>
+                    <DT><A HREF="https://thepracticaldeveloper.com/2018/02/24/differences-between-completablefuture-future-and-streams/" ADD_DATE="1552706835">Introductory Guide to CompletableFuture - The Practical Developer</A>
+                    <DT><A HREF="https://medium.com/@sergeykuptsov/how-it-works-in-java-completablefuture-3031dbbca66d" ADD_DATE="1552706835">How it works in java. CompletableFuture. – Sergey Kuptsov – Medium</A>
+                    <DT><A HREF="https://github.com/atomix/copycat/issues/75" ADD_DATE="1552706835">CompletableFuture might complete in unexpected thread - Copycat gets unreliable · Issue #75 · atomix/copycat</A>
+                    <DT><A HREF="https://dempkow.ski/blog/java-completablefuture-exception-handling/" ADD_DATE="1552706835">Java&#39;s CompleteableFuture exception handling: whenComplete vs. handle</A>
+                    <DT><A HREF="https://blog.krecan.net/2013/12/25/completablefutures-why-to-use-async-methods/" ADD_DATE="1552706835">Java crumbs » Blog Archive » CompletableFutures – why to use async methods?</A>
+                    <DT><A HREF="https://deepakvadgama.com/blog/completable-future-internals/" ADD_DATE="1552706835">Deepak Vadgama blog – Java CompletableFuture internals</A>
+                    <DT><A HREF="https://blog.softwaremill.com/synchronous-or-asynchronous-and-why-wrestle-with-wrappers-2c5667eb7acf" ADD_DATE="1552706835">Synchronous or asynchronous, and why wrestle with wrappers?</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706825" LAST_MODIFIED="1552706833">Spring Security</H3>
+                <DL><p>
+                    <DT><H3 ADD_DATE="1552706829" LAST_MODIFIED="1552706837">Dynamic Roles</H3>
+                    <DL><p>
+                        <DT><A HREF="https://github.com/rodrigovz/spring-security-dynamic-roles/blob/master/src/main/groovy/py/com/example/controllers/MainController.groovy" ADD_DATE="1552706836">spring-security-dynamic-roles/MainController.groovy at master · rodrigovz/spring-security-dynamic-roles</A>
+                        <DT><A HREF="https://www.baeldung.com/role-and-privilege-for-spring-security-registration" ADD_DATE="1552706836">Spring Security - Roles and Privileges | Baeldung</A>
+                        <DT><A HREF="https://blog.lukaspradel.com/user-role-permission-security-rbac-in-spring-security-4/" ADD_DATE="1552706836">User-Role-Permission security pattern (RBAC) in Spring Security 4</A>
+                        <DT><A HREF="http://www.studytrails.com/frameworks/spring/spring-security-using-db/" ADD_DATE="1552706836">Spring Security: Authentication and Authorization Using Database - StudyTrails</A>
+                        <DT><A HREF="https://stackoverflow.com/questions/23072619/implementation-of-roles-and-permissions-in-spring-security-update-error-relat" ADD_DATE="1552706836">java - Implementation of Roles and Permissions in Spring Security - update: error related to hasPermission method - Stack Overflow</A>
+                        <DT><A HREF="http://en.tekstenuitleg.net/blog/spring-security-with-roles-and-rights" ADD_DATE="1552706836">Spring 3(+) Security - authorization with roles and rights</A>
+                        <DT><A HREF="http://www.mkyong.com/spring-security/spring-security-form-login-using-database/" ADD_DATE="1552706836">Spring Security form login using database – Mkyong.com</A>
+                        <DT><A HREF="https://www.baeldung.com/spring-security-expressions-basic" ADD_DATE="1552706837">Spring Security Expressions - hasRole Example | Baeldung</A>
+                        <DT><A HREF="https://stackoverflow.com/questions/3021200/how-to-check-hasrole-in-java-code-with-spring-security" ADD_DATE="1552706837">How to check &quot;hasRole&quot; in Java Code with Spring Security? - Stack Overflow</A>
+                        <DT><A HREF="https://medium.com/@trevormydata/week-3-spring-security-under-the-hood-from-a-spring-boot-mvc-point-of-view-c5497060d11d" ADD_DATE="1552706837">Spring Security under-the-hood, from a Spring Boot / MVC point of view</A>
+                        <DT><A HREF="https://www.oodlestechnologies.com/blogs/How-to-Perform-Activity-Based-Authorization-Using-Spring-Security" ADD_DATE="1552706837">How to Perform Activity Based Authorization Using Spring Security</A>
+                        <DT><A HREF="http://springinpractice.com/2010/10/27/quick-tip-spring-security-role-based-authorization-and-permissions/" ADD_DATE="1552706837">Quick tip: Spring Security role-based authorization and permissions - Spring in Practice</A>
+                        <DT><A HREF="https://stackoverflow.com/questions/21128806/spring-security-how-to-restrict-user-access-certain-resources-based-on-dynamic" ADD_DATE="1552706837">Spring security, how to restrict user access certain resources based on dynamic roles? - Stack Overflow</A>
+                        <DT><A HREF="https://www.mscharhag.com/grails/using-spring-security-method-security" ADD_DATE="1552706837">Getting Started with method security in Grails using Spring Security</A>
+                        <DT><A HREF="https://medium.com/sfl-newsroom/spring-security-expression-based-access-control-56411a60ab3b" ADD_DATE="1552706837">Spring Security: Expression-Based Access Control – SFL Newsroom – Medium</A>
+                        <DT><A HREF="https://stackoverflow.com/questions/9766800/how-to-show-all-controllers-and-mappings-in-a-view" ADD_DATE="1552706837">spring - How to show all controllers and mappings in a view - Stack Overflow</A>
+                        <DT><A HREF="https://github.com/stormpath/stormpath-spring-security/wiki#wiki-pages-box" ADD_DATE="1552706837">Home · stormpath/stormpath-spring-security Wiki</A>
+                        <DT><A HREF="https://www.cnblogs.com/aljy/p/9543914.html" ADD_DATE="1552706837">Spring boot security权限管理集成cas单点登录 - alex-zp - 博客园</A>
+                    </DL><p>
+                    <DT><A HREF="https://www.journaldev.com/8748/spring-security-role-based-access-authorization-example" ADD_DATE="1552706830">Spring Security Role Based Access Authorization Example - JournalDev</A>
+                    <DT><A HREF="http://websystique.com/spring-security/spring-security-4-role-based-login-example/" ADD_DATE="1552706830">Spring Security 4 Role Based Login Example - WebSystique</A>
+                    <DT><A HREF="http://itshrine.com/dynamically-secure-methods-by-spring-security/" ADD_DATE="1552706830">Dynamically Securing Method Execution with Spring Security - ITShrine</A>
+                    <DT><A HREF="http://forum.spring.io/forum/spring-projects/security/88229-dynamic-role-names-and-dynamic-urls" ADD_DATE="1552706831">Dynamic role names and dynamic URLs - Spring Forum</A>
+                    <DT><A HREF="http://terasolunaorg.github.io/guideline/5.3.1.RELEASE/en/Security/SecureLoginDemo.html#password-generation" ADD_DATE="1552706831">9.9. Implementation Example of Typical Security Requirements — TERASOLUNA Server Framework for Java (5.x) Development Guideline 5.3.1.RELEASE documentation</A>
+                    <DT><A HREF="http://terasolunaorg.github.io/guideline/5.3.1.RELEASE/en/Tutorial/TutorialSecurity.html" ADD_DATE="1552706831">10.4. Spring Security Tutorial — TERASOLUNA Server Framework for Java (5.x) Development Guideline 5.3.1.RELEASE documentation</A>
+                    <DT><A HREF="http://terasolunaorg.github.io/guideline/5.3.1.RELEASE/en/Security/Authentication.html#form-login" ADD_DATE="1552706831">9.2. Authentication — TERASOLUNA Server Framework for Java (5.x) Development Guideline 5.3.1.RELEASE documentation</A>
+                    <DT><A HREF="https://github.com/terasolunaorg/tutorial-apps/tree/release/5.3.1.RELEASE" ADD_DATE="1552706832">terasolunaorg/tutorial-apps at release/5.3.1.RELEASE</A>
+                    <DT><A HREF="https://www.theserverside.com/tip/-Spring-Security-Customizing-Your-User-and-Authorization-in" ADD_DATE="1552706832">Spring Security: Customizing the User Authorization Process</A>
+                    <DT><A HREF="https://docs.openkm.com/kcenter/view/okm-6.3-com/change-default-role-names.html" ADD_DATE="1552706832">https://docs.openkm.com/kcenter/view/okm-6.3-com/change-default-role-names.html</A>
+                    <DT><A HREF="https://blog.sonatype.com/2008/04/how-to-share-resources-across-projects-in-maven/" ADD_DATE="1552706832">How to share resources across projects in Maven</A>
+                    <DT><A HREF="https://www.javacodegeeks.com/2013/11/spring-security-behind-the-scenes.html" ADD_DATE="1552706832">Spring Security - Behind the scenes</A>
+                    <DT><A HREF="https://www.greptips.com/posts/858/" ADD_DATE="1552706833">Spring Boot + Spring Security使用時のCSRFとSessionTimeoutの問題 - grep Tips *</A>
+                    <DT><A HREF="http://www.codingdict.com/sources/java/org.springframework.security.web/75569.html" ADD_DATE="1552706833">Java类org.springframework.security.web.csrf.MissingCsrfTokenException的实例源码 - 编程字典</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/27654206/session-timeout-leads-to-access-denied-in-spring-mvc-when-csrf-integration-with" ADD_DATE="1552706833">Session timeout leads to Access Denied in Spring MVC when CSRF integration with Spring Security - Stack Overflow</A>
+                    <DT><A HREF="http://qaru.site/questions/705949/session-timeout-leads-to-access-denied-in-spring-mvc-when-csrf-integration-with-spring-security" ADD_DATE="1552706833">spring - Тайм-аут сеанса приводит к отключению доступа в Spring MVC при интеграции CSRF с Spring Security - Qaru</A>
+                    <DT><A HREF="https://stackoverrun.com/ja/q/7591417" ADD_DATE="1552706833">Spring SecurityとのCSRF統合時にセッションのタイムアウトにより、Spring MVCでのアクセスが拒否される</A>
+                    <DT><A HREF="https://www.nurkiewicz.com/2015/07/writing-download-server-part-vi.html" ADD_DATE="1552706833">Writing a download server. Part VI: Describe what you send (Content-type, et.al.)</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706825" LAST_MODIFIED="1552706832">Spring MVC</H3>
+                <DL><p>
+                    <DT><A HREF="https://www.mkyong.com/spring-mvc/spring-mvc-form-errors-tag-example/" ADD_DATE="1552706829">Spring MVC form errors tag example – Mkyong.com</A>
+                    <DT><H3 ADD_DATE="1552706830" LAST_MODIFIED="1552706837">Spring Exception</H3>
+                    <DL><p>
+                        <DT><A HREF="https://www.petrikainulainen.net/programming/spring-framework/spring-from-the-trenches-adding-validation-to-a-rest-api/" ADD_DATE="1552706836">Spring From the Trenches: Adding Validation to a REST API</A>
+                        <DT><A HREF="http://www.springboottutorial.com/spring-boot-validation-for-rest-services" ADD_DATE="1552706836">Implementing Validation for RESTful Services with Spring Boot – Spring Boot Tutorial</A>
+                        <DT><A HREF="https://www.baeldung.com/spring-data-rest-validators" ADD_DATE="1552706836">Guide to Spring Data REST Validators | Baeldung</A>
+                        <DT><A HREF="http://www.bbenson.co/post/spring-validations-with-examples/" ADD_DATE="1552706836">Spring Validation Example</A>
+                        <DT><A HREF="https://lmonkiewicz.com/programming/get-noticed-2017/spring-boot-rest-request-validation/" ADD_DATE="1552706836">Spring Boot REST – request validation – DEVelopments</A>
+                        <DT><A HREF="https://www.boraji.com/spring-4-mvc-jquery-ajax-form-submit-example" ADD_DATE="1552706836">Spring MVC 4 - JQuery Ajax form submit example | BORAJI.COM</A>
+                        <DT><A HREF="https://blog.codeleak.pl/2013/09/request-body-validation-in-spring-mvc-3.2.html?m=1" ADD_DATE="1552706836">Codeleak.pl: Different ways of validating @RequestBody in Spring MVC with @Valid annotation</A>
+                        <DT><A HREF="https://github.com/novotnyr/spring-jsonschema-validation" ADD_DATE="1552706837">novotnyr/spring-jsonschema-validation: Adds support for JSON Schema validation in Spring MVC Controllers</A>
+                        <DT><A HREF="https://blog.codecentric.de/en/2017/11/dynamic-validation-spring-boot-validation/" ADD_DATE="1552706837">Dynamic Validation with Spring Boot Validation - codecentric AG Blog</A>
+                        <DT><A HREF="https://www.leveluplunch.com/java/tutorials/017-validate-spring-rest-webservice-request/" ADD_DATE="1552706837">Validate a RESTful web service request in spring | Level Up Lunch</A>
+                        <DT><A HREF="https://stormpath.com/blog/spring-mvc-rest-exception-handling-best-practices-part-2" ADD_DATE="1552706837">Spring MVC REST Exception Handling Best Practices (part 2)</A>
+                    </DL><p>
+                    <DT><A HREF="https://stackoverflow.com/questions/614729/how-is-the-spring-mvc-springbind-tag-working-and-what-are-the-meanings-of-statu/6359784" ADD_DATE="1552706830">How is the Spring MVC spring:bind tag working and what are the meanings of status.expression and status.value? - Stack Overflow</A>
+                    <DT><A HREF="http://www.mkyong.com/spring-mvc/spring-mvc-form-handling-example/" ADD_DATE="1552706830">Spring MVC form handling example – Mkyong.com</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/6589215/spring-form-errors-custom-html" ADD_DATE="1552706831">Spring form errors custom html - Stack Overflow</A>
+                    <DT><A HREF="https://www.mkyong.com/spring-mvc/spring-mvc-form-check-if-a-field-has-an-error/" ADD_DATE="1552706831">Spring MVC Form – Check if a field has an error – Mkyong.com</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/1653438/spring-forms-how-to-check-for-error-on-specific-path" ADD_DATE="1552706831">jsp - Spring Forms - How to Check for Error on Specific Path - Stack Overflow</A>
+                    <DT><A HREF="https://code-examples.net/en/q/14681b3" ADD_DATE="1552706831">Spring Security 3.2 CSRF support for multipart requests [spring-security] [spring-mvc] | CODE Examples [English]</A>
+                    <DT><A HREF="http://qaru.site/questions/23903/file-upload-in-struts2-along-with-the-spring-csrf-token" ADD_DATE="1552706832">spring - Загрузка файла в Struts2 вместе с токеном Spring CSRF - Qaru</A>
+                    <DT><A HREF="https://howtodoinjava.com/spring-mvc/spring-mvc-multi-file-upload-example/" ADD_DATE="1552706832">Spring MVC Multiple File Upload Example - HowToDoInJava</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706825" LAST_MODIFIED="1552706833">Spring Upload</H3>
+                <DL><p>
+                    <DT><A HREF="https://viralpatel.net/blogs/spring-mvc-multiple-file-upload-example/" ADD_DATE="1552706829">Spring MVC Multiple File Upload tutorial. Spring Multiple File upload example</A>
+                    <DT><A HREF="http://www.mkyong.com/spring-boot/spring-boot-file-upload-example/" ADD_DATE="1552706830">Spring Boot file upload example – Mkyong.com</A>
+                    <DT><A HREF="https://www.mkyong.com/spring-boot/spring-boot-file-upload-example-ajax-and-rest/" ADD_DATE="1552706830">Spring Boot file upload example – Ajax and REST – Mkyong.com</A>
+                    <DT><A HREF="https://www.jackrutorial.com/2018/05/spring-mvc-multipart-file-upload-example.html" ADD_DATE="1552706830">Spring MVC Multipart file upload Example with Validator - Spring MVC Tutorial - Learning to Write code for Beginners with Tutorials</A>
+                    <DT><A HREF="http://javainsimpleway.com/spring-mvc-file-upload-with-validation/" ADD_DATE="1552706831">Spring MVC file upload with Validation | Javainsimpleway</A>
+                    <DT><A HREF="https://www.javadevjournal.com/spring/spring-rest-api-validation/" ADD_DATE="1552706831">Spring REST API Validation | Java Development Journal</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/48051177/content-type-multipart-form-databoundary-charset-utf-8-not-supported" ADD_DATE="1552706831">java - Content type &#39;multipart/form-data;boundary=----...;charset=UTF-8&#39; not supported - Stack Overflow</A>
+                    <DT><A HREF="https://github.com/rbraeunlich/spring-boot-additional-validation/blob/master/src/main/java/de/codecentric/spring/additionalvalidation/controller/ValidationController.java" ADD_DATE="1552706831">spring-boot-additional-validation/ValidationController.java at master · rbraeunlich/spring-boot-additional-validation</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/18646121/an-errors-bindingresult-argument-is-expected-to-be-declared-immediately-after-th" ADD_DATE="1552706832">java - An Errors/BindingResult argument is expected to be declared immediately after the model attribute, the @RequestBody or the @RequestPart arguments - Stack Overflow</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/23533355/spring-controller-requestbody-with-file-upload-is-it-possible/23533738" ADD_DATE="1552706832">Spring Controller @RequestBody with file upload is it possible? - Stack Overflow</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/46517583/spring-cannot-process-multipart-form-data-post-request-error-400-bad-request/46520597" ADD_DATE="1552706832">java - Spring cannot process “multipart/form-data” POST request (error 400 “Bad request”) - Stack Overflow</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/23533355/spring-controller-requestbody-with-file-upload-is-it-possible" ADD_DATE="1552706832">Spring Controller @RequestBody with file upload is it possible? - Stack Overflow</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/32160197/how-to-validate-file-type-size-while-uploading-in-rest-in-spring" ADD_DATE="1552706832">java - How to validate file type, size while uploading in Rest in Spring? - Stack Overflow</A>
+                    <DT><A HREF="http://hmkcode.com/spring-mvc-jquery-file-upload-multiple-dragdrop-progress/" ADD_DATE="1552706833">Spring MVC + jQuery File Upload (multiple, drag&amp;drop, progress…) | HMKCode</A>
+                    <DT><A HREF="http://consistentcoder.com/spring-4-mvc-multiple-file-upload-example" ADD_DATE="1552706833">Spring 4 MVC Multiple File Upload Example</A>
+                    <DT><A HREF="https://grokonez.com/spring-framework/spring-boot/multipartfile-create-spring-ajax-multipartfile-application-downloadupload-files-springboot-jquery-ajax-bootstrap" ADD_DATE="1552706833">SpringBoot - Upload/Download MultipartFile to FileSystem - Bootstrap 4 + JQuery Ajax - grokonez</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/41655235/loop-of-objects-in-arraylists-of-multi-level-menu-java" ADD_DATE="1552706833">Loop of objects in ArrayLists of multi-level menu (Java) - Stack Overflow</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706825" LAST_MODIFIED="1552706835">Spring Metrics </H3>
+                <DL><p>
+                    <DT><A HREF="https://ivanursul.com/monitoring-your-spring-application-using-dropwizard-metrics-module" ADD_DATE="1552706829">Monitoring your Spring application using Dropwizard metrics module | ivanursul</A>
+                    <DT><A HREF="https://dzone.com/articles/codahale-metrics-and-spring" ADD_DATE="1552706830">Codahale Metrics and Spring - DZone Performance</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/34409734/how-to-implement-statistics-using-dropwizard-metrics-and-spring-mvc" ADD_DATE="1552706830">How to implement statistics using dropwizard metrics and spring-mvc - Stack Overflow</A>
+                    <DT><A HREF="https://github.com/ryantenney/metrics-spring" ADD_DATE="1552706830">ryantenney/metrics-spring: Spring integration for Metrics</A>
+                    <DT><A HREF="https://metrics.dropwizard.io/4.0.0/" ADD_DATE="1552706830">Home | Metrics</A>
+                    <DT><A HREF="https://metrics.dropwizard.io/2.2.0/manual/spring/" ADD_DATE="1552706831">Spring Integration | Metrics</A>
+                    <DT><A HREF="http://metrics.ryantenney.com/" ADD_DATE="1552706831">metrics-spring by ryantenney</A>
+                    <DT><A HREF="https://craftsmen.nl/application-monitoring-with-graphite-an-example-how-to-integrate-dropwizard-metrics-in-a-spring-boot-application/" ADD_DATE="1552706831">Application monitoring with Graphite: an example how to integrate Dropwizard Metrics in a Spring Boot application | Craftsmen</A>
+                    <DT><A HREF="https://www.moskito.org/" ADD_DATE="1552706831">Health and Performance Monitoring for Java Applications | MoSKito</A>
+                    <DT><A HREF="https://github.com/javamelody/javamelody/wiki" ADD_DATE="1552706832">Home · javamelody/javamelody Wiki</A>
+                    <DT><A HREF="https://stackify.com/syslog-101/" ADD_DATE="1552706832">Syslog Tutorial: Features, Code Examples, Tutorials &amp; More</A>
+                    <DT><A HREF="https://github.com/netdata/netdata" ADD_DATE="1552706832">netdata/netdata: Real-time performance monitoring, done right! https://my-netdata.io/</A>
+                    <DT><A HREF="https://stackify.com/tomcat-performance-monitoring/amp/" ADD_DATE="1552706832">A Step By Step Guide to Tomcat Performance Monitoring</A>
+                    <DT><A HREF="https://blog.takipi.com/java-performance-monitoring-5-open-source-tools-you-should-know/" ADD_DATE="1552706833">Java Performance Monitoring: 5 Open Source APM Tools You Should Know | OverOps Blog</A>
+                    <DT><A HREF="https://github.com/iamDemo/spring-boot-dropwizard-metrics-demo" ADD_DATE="1552706833">iamDemo/spring-boot-dropwizard-metrics-demo: interact dropwizard metrics with spring boot</A>
+                    <DT><A HREF="http://qaru.site/questions/1238918/how-to-implement-statistics-using-dropwizard-metrics-and-spring-mvc" ADD_DATE="1552706833">spring-mvc - Как реализовать статистику с помощью показателей dropwizard и spring -mvc - Qaru</A>
+                    <DT><A HREF="https://www.baeldung.com/dropwizard-metrics" ADD_DATE="1552706833">Intro to Dropwizard Metrics | Baeldung</A>
+                    <DT><A HREF="https://blog.csdn.net/webhaifeng/article/details/50365794" ADD_DATE="1552706833">Metrics3.0集成SpringMVC - webhaifeng - CSDN博客</A>
+                    <DT><A HREF="https://github.com/prometheus/client_java/issues/101" ADD_DATE="1552706833">Dropwizard metrics integration · Issue #101 · prometheus/client_java</A>
+                    <DT><A HREF="https://www.programcreek.com/java-api-examples/index.php?api=com.codahale.metrics.jvm.BufferPoolMetricSet" ADD_DATE="1552706833">Java Code Examples com.codahale.metrics.jvm.BufferPoolMetricSet</A>
+                    <DT><A HREF="https://github.com/clescot/metrics-example/blob/master/src/main/webapp/WEB-INF/web.xml" ADD_DATE="1552706834">metrics-example/web.xml at master · clescot/metrics-example</A>
+                    <DT><A HREF="https://github.com/addthis/metrics-reporter-config/blob/master/reporter-config3/src/main/java/com/addthis/metrics3/reporter/config/PrometheusReporter.java" ADD_DATE="1552706834">metrics-reporter-config/PrometheusReporter.java at master · addthis/metrics-reporter-config</A>
+                    <DT><A HREF="https://www.programcreek.com/java-api-examples/?api=io.prometheus.client.dropwizard.DropwizardExports" ADD_DATE="1552706834">Java Code Examples io.prometheus.client.dropwizard.DropwizardExports</A>
+                    <DT><A HREF="https://murphyswork.wordpress.com/2015/07/30/application-metrics-with-spring-boot-actuator/" ADD_DATE="1552706834">Application Metrics With Spring Boot Actuator | Engineer The App.</A>
+                    <DT><A HREF="https://github.com/ryantenney/metrics-spring/issues/153" ADD_DATE="1552706834">@Metered not working on Spring MVC Controller · Issue #153 · ryantenney/metrics-spring</A>
+                    <DT><A HREF="https://medium.com/@aloksinghal/monitoring-spring-boot-api-response-times-with-prometheus-4101bbb80305" ADD_DATE="1552706834">Monitoring Spring Boot API response times with Prometheus</A>
+                    <DT><A HREF="https://github.com/iamDemo/spring-boot-dropwizard-metrics-demo/blob/master/src/main/java/com/niatpaceya/demo/controller/GreetingController.java" ADD_DATE="1552706834">spring-boot-dropwizard-metrics-demo/GreetingController.java at master · iamDemo/spring-boot-dropwizard-metrics-demo</A>
+                    <DT><A HREF="https://karollotkowski.wordpress.com/2015/10/19/api-endpoint-in-one-minute-with-dropwizard/" ADD_DATE="1552706834">API endpoint in one minute with Dropwizard – Karol Lotkowski</A>
+                    <DT><A HREF="https://www.nurkiewicz.com/2018/01/monitoring-and-measuring-reactive.html" ADD_DATE="1552706834">Monitoring and measuring reactive application with Dropwizard Metrics</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/30987757/dropwizard-metrics-meters-vs-timers" ADD_DATE="1552706834">java - DropWizard Metrics Meters vs Timers - Stack Overflow</A>
+                    <DT><A HREF="https://www.codota.com/web/assistant/code/rs/5a27b51f2b4d5d000e0b6b6a#L230" ADD_DATE="1552706834">https://www.codota.com/web/assistant/code/rs/5a27b51f2b4d5d000e0b6b6a#L230</A>
+                    <DT><A HREF="https://www.nurkiewicz.com/2018/01/spring-boot-2-migrating-from-dropwizard.html" ADD_DATE="1552706834">Spring Boot 2: Migrating from Dropwizard metrics to Micrometer</A>
+                    <DT><A HREF="https://github.com/monkey-codes/spring-batch-metrics" ADD_DATE="1552706834">monkey-codes/spring-batch-metrics</A>
+                    <DT><A HREF="https://blog.monkey.codes/how-to-gather-performance-metrics-in-spring-batch/" ADD_DATE="1552706835">How to Gather Performance Metrics in Spring Batch</A>
+                    <DT><A HREF="https://www.ibm.com/support/knowledgecenter/en/SSEQTP_liberty/com.ibm.websphere.wlp.doc/ae/cwlp_mp_metrics_api.html" ADD_DATE="1552706835">IBM Knowledge Center - MicroProfile metrics instrumentation API</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706825" LAST_MODIFIED="1552706833">Spring Cache</H3>
+                <DL><p>
+                    <DT><H3 ADD_DATE="1552706829" LAST_MODIFIED="1552706837">Ehcache3</H3>
+                    <DL><p>
+                        <DT><A HREF="https://blog.csdn.net/Al_assad/article/details/79302387" ADD_DATE="1552706836">Ehcache 3.x for quick use - Al_assad&#39;s blog - CSDN Blog</A>
+                        <DT><A HREF="http://www.ehcache.org/documentation/3.0/getting-started.html#user-managed-cache" ADD_DATE="1552706836">Ehcache 3.0 Documentation</A>
+                        <DT><A HREF="http://www.ehcache.org/documentation/3.4/thread-pools.html" ADD_DATE="1552706836">Thread Pools</A>
+                        <DT><A HREF="https://dzone.com/articles/spring-boot-with-ehcache-3-and-jsr-107" ADD_DATE="1552706836">Spring Boot With Ehcache 3 and JSR-107 - DZone Java</A>
+                        <DT><A HREF="https://stackoverflow.com/questions/53929804/converting-ehcache-cachemanager-v-3-x-to-spring-cachemanager-without-xml-confi" ADD_DATE="1552706836">java - Converting Ehcache CacheManager (v 3.x) to Spring CacheManager without XML configuration - Stack Overflow</A>
+                        <DT><A HREF="https://github.com/jhipster/jhipster-sample-app-oauth2/blob/master/src/main/java/io/github/jhipster/sample/config/CacheConfiguration.java" ADD_DATE="1552706836">jhipster-sample-app-oauth2/CacheConfiguration.java at master · jhipster/jhipster-sample-app-oauth2</A>
+                        <DT><A HREF="https://tw.saowen.com/a/596cd8fc9bf58fb2e78d23503c23ab69f339666dfeff21f4e6bd76f8d99d190d" ADD_DATE="1552706836">Spring Boot With Ehcache 3 and JSR-107 - SAOWEN</A>
+                        <DT><A HREF="https://myshittycode.com/2017/04/11/spring-ehcache-xml-less-spring-configuration-for-ehcache-2-x-vs-ehcache-3-x/" ADD_DATE="1552706837">Spring + Ehcache: XML-less Spring Configuration for Ehcache 2.x vs Ehcache 3.x | My Shitty Code</A>
+                        <DT><A HREF="https://www.programcreek.com/java-api-examples/?code=micrometer-metrics/micrometer/micrometer-master/micrometer-core/src/test/java/io/micrometer/core/instrument/binder/cache/JCacheMetricsTest.java" ADD_DATE="1552706837">JCacheMetricsTest Java Source Code</A>
+                        <DT><A HREF="http://www.ehcache.org/documentation/3.3/getting-started.html" ADD_DATE="1552706837">Ehcache 3.3 Documentation</A>
+                        <DT><A HREF="http://www.ehcache.org/documentation/3.3/107.html" ADD_DATE="1552706837">The Ehcache 3.x JSR-107 Provider</A>
+                        <DT><A HREF="https://stackoverflow.com/questions/8658789/using-spring-cache-annotation-in-multiple-modules" ADD_DATE="1552706837">caching - Using Spring cache annotation in multiple modules - Stack Overflow</A>
+                        <DT><A HREF="https://github.com/isaolmez/spring-mvc-ratelimiting/blob/master/src/main/java/com/isa/ws/rate/config/GeneralCacheConfiguration.java" ADD_DATE="1552706837">spring-mvc-ratelimiting/GeneralCacheConfiguration.java at master · isaolmez/spring-mvc-ratelimiting</A>
+                        <DT><A HREF="https://github.com/bongdadienanh1/spring-mvc-ratelimiting" ADD_DATE="1552706837">bongdadienanh1/spring-mvc-ratelimiting: Spring MVC request rate limiting example</A>
+                        <DT><A HREF="https://imasters.com.br/back-end/java-ee-8-utilizando-o-jcache-para-suas-aplicacoes" ADD_DATE="1552706837">Java EE 8 – Utilizando o JCache para suas aplicações | iMasters</A>
+                        <DT><A HREF="http://demeranville.com/how-to-set-up-method-level-caching-with-annotations-using-javax-cache-jcache-jsr-107-and-guice/" ADD_DATE="1552706837">How to set up method level caching with annotations using javax.cache / JCache / JSR-107 &amp; Guice | Programming and pottery</A>
+                        <DT><A HREF="https://stackoverflow.com/questions/11462662/getting-an-ehcache-instance-with-spring-intelligently" ADD_DATE="1552706837">Getting an EhCache instance with Spring... intelligently - Stack Overflow</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706830" LAST_MODIFIED="1552706837">Infinispan</H3>
+                    <DL><p>
+                        <DT><A HREF="http://infinispan.org/docs/stable/user_guide/user_guide.html#tx_locking" ADD_DATE="1552706836">Infinispan 9.4 User Guide</A>
+                        <DT><A HREF="http://infinispan.org/docs/stable/getting_started/getting_started.html" ADD_DATE="1552706836">Getting Started with Infinispan 9.4</A>
+                        <DT><A HREF="https://github.com/infinispan/infinispan-simple-tutorials/tree/master/spring/src/main/java/org/infinispan/tutorial/simple/spring/embedded" ADD_DATE="1552706836">infinispan-simple-tutorials/spring/src/main/java/org/infinispan/tutorial/simple/spring/embedded at master · infinispan/infinispan-simple-tutorials</A>
+                        <DT><A HREF="https://www.madbit.org/blog/programming/1238/caching-with-infinispam/" ADD_DATE="1552706836">Caching with JBoss Infinispan | MadBit.org</A>
+                        <DT><A HREF="http://azagorneanu.blogspot.com/2011/07/how-to-register-infinispan-listeners-in.html" ADD_DATE="1552706836">Thinking about IT: How to register Infinispan listeners in Spring when using Infinispan as 2LC for Hibernate</A>
+                        <DT><A HREF="http://hantsy.blogspot.com/2015/03/caching-with-infinispan.html" ADD_DATE="1552706836">Caching with Infinispan</A>
+                        <DT><A HREF="https://www.slideshare.net/jbugkorea/jbug10th-infinispan-datagridplatformv08-28199873" ADD_DATE="1552706836">Infinispan Data Grid Platform</A>
+                        <DT><A HREF="https://grokonez.com/spring-framework/spring-data/infinispan-cache-solution-spring-cache-spring-boot" ADD_DATE="1552706837">Infinispan Cache Solution | Spring Cache | Spring Boot - grokonez</A>
+                        <DT><A HREF="https://www.javacodegeeks.com/2016/02/setting-distributed-infinispan-cache-hibernate-spring.html" ADD_DATE="1552706837">Setting Up Distributed Infinispan Cache with Hibernate and Spring | Java Code Geeks - 2019</A>
+                        <DT><A HREF="http://www.mastertheboss.com/jboss-frameworks/infinispan/infinispan-tutorial-part-1" ADD_DATE="1552706837">Getting Started with Infinispan - Part 1</A>
+                        <DT><A HREF="https://labs.consol.de/java-caches/part-4-4-client-server-with-infinispan/index.html" ADD_DATE="1552706837">Part 4.4: Client-server with Infinispan - ConSol Labs</A>
+                        <DT><A HREF="https://dzone.com/articles/basic-api-rate-limiting" ADD_DATE="1552706837">Basic API Rate-Limiting - DZone Integration</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706830" LAST_MODIFIED="1552706838">Hazelcast</H3>
+                    <DL><p>
+                        <DT><A HREF="https://piotrminkowski.wordpress.com/2017/05/08/jpa-caching-with-hazelcast-hibernate-and-spring-boot/" ADD_DATE="1552706836">JPA caching with Hazelcast, Hibernate and Spring Boot – Piotr&#39;s TechBlog</A>
+                        <DT><A HREF="https://grokonez.com/spring-framework/spring-data/springboot-hazelcast-cache-postgresql-backend" ADD_DATE="1552706836">SpringBoot Hazelcast cache with PostgreSQL backend - grokonez</A>
+                        <DT><A HREF="https://medium.com/@igorkosandyak/spring-boot-with-hazelcast-b04d13927745" ADD_DATE="1552706836">Spring Boot with Hazelcast – Igor Kosandyak – Medium</A>
+                        <DT><A HREF="https://groups.google.com/forum/#!topic/hazelcast/0XRkqY54dXA" ADD_DATE="1552706836">Setting up HazelCast client and Spring CacheManager. - Google Groups</A>
+                        <DT><A HREF="https://dzone.com/articles/configuring-hazelcast-within" ADD_DATE="1552706836">Configuring Hazelcast within Spring Context - DZone Database</A>
+                        <DT><A HREF="https://github.com/hazelcast/hazelcast-code-samples/blob/master/hazelcast-integration/spring-jcache/src/main/resources/applicationContext.xml" ADD_DATE="1552706836">hazelcast-code-samples/applicationContext.xml at master · hazelcast/hazelcast-code-samples</A>
+                        <DT><A HREF="https://github.com/hazelcast/hazelcast/blob/master/hazelcast-spring/src/test/resources/com/hazelcast/spring/cache/simple-config.xml" ADD_DATE="1552706836">hazelcast/simple-config.xml at master · hazelcast/hazelcast</A>
+                        <DT><A HREF="https://stackoverflow.com/questions/45346543/hazelcast-client-spring-configuration" ADD_DATE="1552706837">Hazelcast client spring configuration - Stack Overflow</A>
+                        <DT><A HREF="https://opencredo.com/blogs/spring-booting-hazelcast/" ADD_DATE="1552706837">(Spring) Booting Hazelcast</A>
+                        <DT><A HREF="http://pappanyn.me/blog/2017/02/16/a-run-around-with-hazelcast/" ADD_DATE="1552706837">Hazelcast, JCache and Spring Boot - Ideas, Solutions, Work in progress</A>
+                        <DT><A HREF="https://github.com/hazelcast/hazelcast-code-samples/blob/master/hazelcast-integration/spring-transaction-manager/src/main/resources/applicationContext.xml" ADD_DATE="1552706837">hazelcast-code-samples/applicationContext.xml at master · hazelcast/hazelcast-code-samples</A>
+                        <DT><A HREF="https://github.com/hazelcast/hazelcast-code-samples/tree/master/hazelcast-integration/spring-hibernate-2ndlevel-cache/src/main/resources" ADD_DATE="1552706837">hazelcast-code-samples/hazelcast-integration/spring-hibernate-2ndlevel-cache/src/main/resources at master · hazelcast/hazelcast-code-samples</A>
+                        <DT><A HREF="https://github.com/hazelcast/hazelcast-code-samples/blob/master/hazelcast-integration/spring-hibernate-2ndlevel-cache/src/main/resources/applicationContext-hazelcast.xml" ADD_DATE="1552706837">hazelcast-code-samples/applicationContext-hazelcast.xml at master · hazelcast/hazelcast-code-samples</A>
+                        <DT><A HREF="https://docs.hazelcast.org/docs/3.11.1/manual/html-single/index.html#getting-started" ADD_DATE="1552706837">Hazelcast IMDG Reference Manual</A>
+                        <DT><A HREF="https://github.com/Abdennebi/spring-boot-bucket4j-hazelcast-demo/blob/master/src/main/java/com/abddennebi/demo/config/HazelcastConfiguration.java" ADD_DATE="1552706837">spring-boot-bucket4j-hazelcast-demo/HazelcastConfiguration.java at master · Abdennebi/spring-boot-bucket4j-hazelcast-demo</A>
+                        <DT><A HREF="https://blog.csdn.net/zhongzunfa/article/details/80551753" ADD_DATE="1552706837">Spring Boot Hazelcast Caching 使用和配置 - zhongzunfa的专栏 - CSDN博客</A>
+                        <DT><A HREF="https://www.oschina.net/question/170607_25598" ADD_DATE="1552706837">Hazelcast与Spring集成问题 - 开源中国</A>
+                        <DT><A HREF="https://www.jb51.net/article/146996.htm" ADD_DATE="1552706837">Spring Boot和Hazelcast使用详解_java_脚本之家</A>
+                        <DT><A HREF="https://www.cnblogs.com/garfieldcgf/p/6393579.html" ADD_DATE="1552706837">hazelcast初探 - 夏虫而已 - 博客园</A>
+                        <DT><A HREF="https://zouzhirong.iteye.com/blog/2214084" ADD_DATE="1552706837">Hazelcast集成Spring，解析hazelcast定义出错 - - ITeye博客</A>
+                        <DT><A HREF="https://www.jianshu.com/p/3a0eb8af48fd" ADD_DATE="1552706837">spring中集成hazelcast - 简书</A>
+                        <DT><A HREF="https://github.com/jhipster/jhipster-sample-app-microservice/blob/master/src/main/java/io/github/jhipster/sample/config/CacheConfiguration.java" ADD_DATE="1552706838">jhipster-sample-app-microservice/CacheConfiguration.java at master · jhipster/jhipster-sample-app-microservice</A>
+                        <DT><A HREF="https://github.com/jhipster/jhipster-sample-app-gateway/blob/master/src/main/java/io/github/jhipster/sample/config/CacheConfiguration.java" ADD_DATE="1552706838">jhipster-sample-app-gateway/CacheConfiguration.java at master · jhipster/jhipster-sample-app-gateway</A>
+                    </DL><p>
+                    <DT><H3 ADD_DATE="1552706830" LAST_MODIFIED="1552706836">Redis Cache</H3>
+                    <DL><p>
+                        <DT><A HREF="https://www.concretepage.com/spring-5/spring-data-redis-cache" ADD_DATE="1552706836">Spring Data Redis Cache</A>
+                        <DT><A HREF="https://dzone.com/articles/implementation-of-redis-in-micro-servicespring-boo" ADD_DATE="1552706836">Implementation of Redis in a Microservice/Spring Boot Application - DZone Microservices</A>
+                    </DL><p>
+                    <DT><A HREF="https://imhoratiu.wordpress.com/2017/01/26/spring-4-with-ehcache-3-how-to/" ADD_DATE="1552706830">Spring 4+ with Ehcache 3 – how to « Kaizen Driven Development</A>
+                    <DT><A HREF="http://codedevstuff.blogspot.com/2015/07/add-guava-cache-to-spring-boot-to-cache.html" ADD_DATE="1552706831">Coding. Development. Solutions. Other Stuff.: Add Guava Cache to Spring Boot to Cache Method Calls</A>
+                    <DT><A HREF="http://javaboutique.internet.com/tutorials/ehcache/" ADD_DATE="1552706831">Java(TM) Boutique - Tutorial - Add Object Caching Using Spring, AOP, and Ehcache</A>
+                    <DT><A HREF="http://cse-mjmcl.cse.bris.ac.uk/blog/2006/03/16/1142542174056.html" ADD_DATE="1552706831">Feed caching using EHCache, Spring and ROME FeedFetcher - Mark McLaren&#39;s Weblog</A>
+                    <DT><A HREF="https://www.baeldung.com/spring-cache-tutorial" ADD_DATE="1552706831">A Guide To Caching in Spring | Baeldung</A>
+                    <DT><A HREF="https://www.foreach.be/blog/spring-cache-annotations-some-tips-tricks" ADD_DATE="1552706832">Spring cache annotations: some tips &amp; tricks</A>
+                    <DT><A HREF="https://labs.consol.de/java-caches/index.html" ADD_DATE="1552706832">Java Caches: Ehcache, Hazelcast, Infinispan - ConSol Labs</A>
+                    <DT><A HREF="https://www.mkyong.com/spring/spring-caching-and-ehcache-example/" ADD_DATE="1552706832">Spring Caching and Ehcache example – Mkyong.com</A>
+                    <DT><A HREF="http://websystique.com/spring/spring-4-cache-tutorial-with-ehcache/" ADD_DATE="1552706832">Spring 4 Cache Tutorial with EhCache - WebSystique</A>
+                    <DT><A HREF="https://www.toptal.com/spring/caching-in-spring-with-ehcache-annotations" ADD_DATE="1552706833">An EhCache Spring Annotations Tutorial | Toptal</A>
+                    <DT><A HREF="https://hk.saowen.com/a/596cd8fc9bf58fb2e78d23503c23ab69f339666dfeff21f4e6bd76f8d99d190d" ADD_DATE="1552706833">Spring Boot With Ehcache 3 and JSR-107 - SAOWEN</A>
+                    <DT><A HREF="https://www.concretepage.com/spring-4/spring-4-ehcache-configuration-example-with-cacheable-annotation" ADD_DATE="1552706833">Spring 4 Ehcache Configuration Example with @Cacheable Annotation</A>
+                    <DT><A HREF="https://mifosforge.jira.com/wiki/spaces/projects/pages/43876365/Plugging+in+different+cache+managers+to+spring+cache+storage#Pluggingindifferentcachemanagerstospringcachestorage-Configurationparameterdetails" ADD_DATE="1552706833">Plugging in different cache managers to spring cache storage - Projects - Project Wiki</A>
+                    <DT><A HREF="https://github.com/isaolmez/spring-cache-samples" ADD_DATE="1552706833">isaolmez/spring-cache-samples: Spring cache examples</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706826" LAST_MODIFIED="1552706835">Spring Session</H3>
+                <DL><p>
+                    <DT><A HREF="https://www.baeldung.com/spring-security-track-logged-in-users" ADD_DATE="1552706829">Track Logged In Users with Spring Security | Baeldung</A>
+                    <DT><A HREF="http://forum.spring.io/forum/spring-projects/security/92952-find-all-logged-in-users" ADD_DATE="1552706830">Find all logged in users - Spring Forum</A>
+                    <DT><A HREF="http://forum.spring.io/forum/spring-projects/security/92972-logged-in-users-place" ADD_DATE="1552706830">logged in users place - Spring Forum</A>
+                    <DT><A HREF="https://blog.trifork.com/2016/04/08/spring-session-concurrent-session-control/" ADD_DATE="1552706830">Using Spring Session for concurrent session control in a clustered environment – Trifork Blog</A>
+                    <DT><A HREF="https://docs.spring.io/spring-security/site/docs/3.0.x/reference/session-mgmt.html" ADD_DATE="1552706831">11. Session Management</A>
+                    <DT><A HREF="https://spring.io/blog/2013/07/11/spring-security-java-config-preview-readability/" ADD_DATE="1552706831">Spring Security Java Config Preview: Readability</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/30465618/spring-security-invalid-session-redirect" ADD_DATE="1552706831">Spring security invalid session redirect - Stack Overflow</A>
+                    <DT><A HREF="https://www.waitingforcode.com/spring-security/handling-of-expired-sessions-in-spring-security/read" ADD_DATE="1552706831">Handling of expired sessions in Spring Security on waitingforcode.com - articles about Spring security</A>
+                    <DT><A HREF="https://stackjava.com/spring/code-vi-du-spring-security-max-session.html/amp" ADD_DATE="1552706832">Code ví dụ Spring Security Concurrent Session Control/ Max Session</A>
+                    <DT><A HREF="https://code.i-harness.com/en/q/146e3bf" ADD_DATE="1552706832">navigating to spring security login page redirects to invalid-session-url - CODE Q&amp;A Solved</A>
+                    <DT><A HREF="https://www.concretepage.com/spring/spring-security/session-management-in-spring-security" ADD_DATE="1552706832">Session Management in Spring Security</A>
+                    <DT><A HREF="http://opengl-8080.hatenablog.com/entry/2017/04/22/172055" ADD_DATE="1552706832">6.3.3 Session Management - 舞台裏</A>
+                    <DT><A HREF="https://elim.iteye.com/blog/2208429" ADD_DATE="1552706832">Spring Security（13）——session管理 - Elim的博客 - ITeye博客</A>
+                    <DT><A HREF="http://www.itdaan.com/blog/2014/01/24/f1dfc6766e89b2a36ec767fb98b74399.html" ADD_DATE="1552706833">Spring Security教程（14）---- Logout和SessionManager - 开发者知识库</A>
+                    <DT><A HREF="https://blog.trifork.com/2014/02/28/session-timeout-and-concurrent-session-control-with-spring-security-and-spring-mvc/" ADD_DATE="1552706833">Session Timeout and Concurrent Session Control with Spring Security and Spring-MVC – Trifork Blog</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/22370819/how-to-log-a-user-out-programmatically-using-spring-security" ADD_DATE="1552706833">java - how to log a user out programmatically using spring security - Stack Overflow</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/5727380/how-to-manually-log-out-a-user-with-spring-security/5727444" ADD_DATE="1552706833">How to manually log out a user with spring security? - Stack Overflow</A>
+                    <DT><A HREF="https://code.i-harness.com/en/q/576494" ADD_DATE="1552706833">How to manually log out a user with spring security? [spring-security] [logout] - CODE Q&amp;A Solved</A>
+                    <DT><A HREF="https://mtyurt.net/post/spring-expiring-all-sessions-of-a-user.html" ADD_DATE="1552706833">Spring - Expiring all Sessions of a User - M. Tarık Yurt</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/33990260/spring-session-redis-and-spring-security-how-to-update-user-session" ADD_DATE="1552706834">Spring Session Redis and Spring Security how to update user session? - Stack Overflow</A>
+                    <DT><A HREF="https://raibledesigns.com/rd/entry/implementing_ajax_authentication_using_jquery" ADD_DATE="1552706834">Raible Designs | Implementing Ajax Authentication using jQuery, Spring Security and HTTPS</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/23901950/spring-security-ajax-session-timeout-issue" ADD_DATE="1552706834">Spring security + Ajax session timeout issue - Stack Overflow</A>
+                    <DT><A HREF="https://gist.github.com/banterCZ/5160269" ADD_DATE="1552706834">InvalidSessionStrategy when session expired and ajax request is done.</A>
+                    <DT><A HREF="https://javatalks.ru/topics/18633" ADD_DATE="1552706834">javatalks.ru / Spring security 3 + ajax + session timeout</A>
+                    <DT><A HREF="http://cyriltech.blogspot.com/2015/04/spring-custom-session-timeout-for-ajax.html?m=1" ADD_DATE="1552706834">cyriltech.blogspot.com</A>
+                    <DT><A HREF="http://www.sureshpw.com/2014/09/spring-security-and-ajax-session-expiry.html?m=1" ADD_DATE="1552706834">Technical Notes: Spring Security and Ajax Session Expiry</A>
+                    <DT><A HREF="https://www.greptips.com/posts/847/" ADD_DATE="1552706834">Spring Boot + Spring Security使用時のSessionTimeout対応 - grep Tips *</A>
+                    <DT><A HREF="https://blog.zvestov.cz/software%20development/2013/04/04/jsf-spring-security-ajax-session-expired" ADD_DATE="1552706834">JSF, Spring Security, Ajax Session Expired</A>
+                    <DT><A HREF="https://lng1982.tistory.com/m/170" ADD_DATE="1552706834">spring security ajax session timeout 체크 방법</A>
+                    <DT><A HREF="https://medium.com/@nhancv/user-login-management-using-sessionregistry-of-spring-security-570f7b363562" ADD_DATE="1552706834">User login management using SessionRegistry of Spring security in Dhis2 (v2.20)</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/11271449/how-can-i-have-list-of-all-users-logged-in-via-spring-security-my-web-applicat" ADD_DATE="1552706834">How can I have list of all users logged in (via spring security) my web application - Stack Overflow</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/3886256/how-do-i-get-the-spring-security-sessionregistry" ADD_DATE="1552706834">java - How do I get the Spring Security SessionRegistry? - Stack Overflow</A>
+                    <DT><A HREF="https://dzone.com/articles/using-spring-session-for-concurrent-session-contro" ADD_DATE="1552706834">Using Spring Session for Concurrent Session Control in a Clustered Environment - DZone Java</A>
+                    <DT><A HREF="http://m.codesenior.com/en/tutorial/Spring-Security-Concurrent-Session-Implementation-With-Custom-Form-Login-Filter" ADD_DATE="1552706835">Spring Security Concurrent Session Implementation With Custom Form Login Filter | CodeSenior.COM</A>
+                    <DT><A HREF="https://code.i-harness.com/en/q/abfd19" ADD_DATE="1552706835">How can I have list of all users logged in (via spring security) my web application [web-applications] [login] - CODE Q&amp;A Solved</A>
+                    <DT><A HREF="https://insource.io/blog/articles/custom-authentication-with-spring-boot.html" ADD_DATE="1552706835">Custom Authentication with Spring Boot | InSource Software</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/3670991/spring-security-form-login-and-concurrent-sessions" ADD_DATE="1552706835">java - Spring Security, Form Login, and Concurrent Sessions - Stack Overflow</A>
+                    <DT><A HREF="https://jaesonchen.iteye.com/blog/2296632" ADD_DATE="1552706835">rememberme关闭浏览器时重新登录应用时无法登录 - jaesonchen - ITeye博客</A>
+                    <DT><A HREF="https://github.com/Baeldung/spring-security-registration/blob/master/src/main/java/org/baeldung/security/google2fa/CustomWebAuthenticationDetailsSource.java" ADD_DATE="1552706835">spring-security-registration/CustomWebAuthenticationDetailsSource.java at master · Baeldung/spring-security-registration</A>
+                    <DT><A HREF="https://github.com/ksokol/spring-sandbox/blob/master/spring-mvc/src/main/resources/security.xml" ADD_DATE="1552706835">spring-sandbox/security.xml at master · ksokol/spring-sandbox</A>
+                    <DT><A HREF="https://sivalabs.in/2018/02/session-management-using-spring-session-jdbc-datastore/" ADD_DATE="1552706835">Session Management using Spring Session with JDBC DataStore - SivaLabs</A>
+                    <DT><A HREF="http://codehustler.org/blog/spring-security-tutorial-form-login/" ADD_DATE="1552706835">Spring Security Tutorial: Form Login</A>
+                    <DT><A HREF="https://blog.pepese.com/entry/2017/03/10/165608" ADD_DATE="1552706835">Spring Security / Spring Session入門 - ぺーぺーSEのブログ</A>
+                    <DT><A HREF="http://www.doanduyhai.com/blog/?p=950" ADD_DATE="1552706835">Spring Security part VI : Session Timeout handling for Ajax calls | DOAN DuyHai&#39;s blog</A>
+                    <DT><A HREF="http://cyriltech.blogspot.com/2015/04/spring-custom-session-timeout-for-ajax.html" ADD_DATE="1552706835">Spring - Custom session Timeout for Ajax request | Cyril&#39;s Blog</A>
+                    <DT><A HREF="https://leaks.wanari.com/2017/11/28/how-to-make-custom-usernamepasswordauthenticationfilter-with-spring-security/" ADD_DATE="1552706835">UsernamePasswordAuthenticationFilter &amp; Spring Security how to</A>
+                    <DT><A HREF="https://github.com/spring-projects/spring-session/issues/281" ADD_DATE="1552706835">HttpSession timeout Is NOT working when using Spring Security and Websocket · Issue #281 · spring-projects/spring-session</A>
+                    <DT><A HREF="https://www.waitingforcode.com/spring-security/custom-filter-in-spring-security/read" ADD_DATE="1552706835">Custom filter in Spring Security on waitingforcode.com - articles about Spring security</A>
+                    <DT><A HREF="https://use-the-index-luke.com/sql/anatomy/the-leaf-nodes" ADD_DATE="1552706835">The Leaf Nodes of an SQL Index</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706826" LAST_MODIFIED="1552706832">Spring Google Map</H3>
+                <DL><p>
+                    <DT><A HREF="https://codeboje.de/spring-boot-google-sheet-api-tutorial-app/" ADD_DATE="1552706829">Tutorial: Building a simple web app with Spring Boot and using a Google Sheet as the database - codeboje</A>
+                    <DT><A HREF="http://nabedge.mixer2.org/2013/09/google-maps-api-and-mixer2.html" ADD_DATE="1552706830">Google Maps API with Mixer2, SpringMVC</A>
+                    <DT><A HREF="http://gurkanyesilyurt.blogspot.com/2015/10/spring-mvc-ile-google-maps-api-mongodb.html" ADD_DATE="1552706830">Gurkan&#39; nın Blogu: Spring MVC ile Google Maps API MongoDB Uygulaması</A>
+                    <DT><A HREF="https://github.com/nandafirdaus/SpringGMaps" ADD_DATE="1552706830">nandafirdaus/SpringGMaps: Implement Google Maps in Spring MVC. You can see the tutorial from here: http://www.mkyong.com/spring-mvc/spring-mvc-find-location-using-ip-address-jquery-google-map/</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/30336306/display-markers-on-google-map-using-spring-mvc" ADD_DATE="1552706830">javascript - Display markers on Google Map using Spring MVC - Stack Overflow</A>
+                    <DT><A HREF="https://www.mkyong.com/spring-mvc/spring-mvc-find-location-using-ip-address-jquery-google-map/" ADD_DATE="1552706831">Spring MVC – find location using IP Address (jQuery + Google Map) – Mkyong.com</A>
+                    <DT><A HREF="https://www.reddit.com/r/webdev/comments/2vh01s/adding_google_maps_to_webpage_using_ajax_and/" ADD_DATE="1552706831">Adding Google Maps to webpage using Ajax and Spring MVC : webdev</A>
+                    <DT><A HREF="https://viralpatel.net/blogs/introduction-to-google-maps/" ADD_DATE="1552706831">Introduction to Google Maps. Google maps tutorial,api,how to use google api.</A>
+                    <DT><A HREF="https://www.javacodegeeks.com/2011/12/spring-mvc-and-rest-at-google-app.html" ADD_DATE="1552706832">Spring MVC and REST at Google App Engine | Java Code Geeks - 2019</A>
+                </DL><p>
+                <DT><A HREF="https://virgo47.wordpress.com/2014/07/27/restful-spring-security-with-authentication-token/" ADD_DATE="1552706826">RESTful Spring Security with Authentication Token | Virgo&#39;s Naive Stories</A>
+                <DT><A HREF="https://kipalog.com/posts/69-cau-hoi-phong-van-ve-Spring--Phan-1" ADD_DATE="1552706826">69 câu hỏi phỏng vấn về Spring (Phần 1)</A>
+                <DT><A HREF="https://techmaster.vn/posts/33914/11-ly-do-su-dung-spring" ADD_DATE="1552706826">11 lý do sử dụng Spring Framework</A>
+                <DT><A HREF="https://huongdanjava.com/hieu-ve-dependency-injection.html" ADD_DATE="1552706826">Hiểu về Dependency Injection - Hướng Dẫn Java</A>
+                <DT><A HREF="https://kipalog.com/posts/Spring--Ky-1---Dependency-Injection-trong-Spring" ADD_DATE="1552706827">[Spring] Kỳ 1 : Dependency Injection trong Spring</A>
+                <DT><A HREF="https://springframework.guru/spring-framework-annotations/" ADD_DATE="1552706827">Spring Framework Annotations - Spring Framework Guru</A>
+                <DT><A HREF="https://viblo.asia/p/spring-ioc-inversion-of-control-trong-spring-4P856gJaKY3" ADD_DATE="1552706827">Spring IoC , Inversion of Control trong Spring - Viblo</A>
+                <DT><A HREF="https://viblo.asia/p/spring-dependency-injection-07LKXOy45V4" ADD_DATE="1552706827">Spring Dependency Injection - Viblo</A>
+                <DT><A HREF="https://viblo.asia/p/tong-quan-ve-spring-framework-YWOZryEyKQ0" ADD_DATE="1552706827">Tổng quan về Spring Framework - Viblo</A>
+                <DT><A HREF="https://www.dineshonjava.com/spring-restful-web-services-xml-crud-example/" ADD_DATE="1552706827">Spring Restful Web Services XML CRUD Example - Dinesh on Java</A>
+                <DT><A HREF="https://www.concretepage.com/spring/spring-mvc/spring-rest-client-resttemplate-consume-restful-web-service-example-xml-json" ADD_DATE="1552706827">Spring REST Client with RestTemplate: Consume RESTful Web Service Example for XML and JSON</A>
+                <DT><A HREF="https://objectcomputing.com/resources/publications/sett/november-2010-build-a-restful-web-service-using-spring-3-xml-optional/" ADD_DATE="1552706828">November 2010: Build a RESTful Web Service Using Spring 3, XML Optional :: OCI</A>
+                <DT><A HREF="https://www.journaldev.com/3358/spring-requestmapping-requestparam-pathvariable-example" ADD_DATE="1552706828">Spring @RequestMapping @RequestParam @PathVariable Example</A>
+                <DT><A HREF="https://stackoverflow.com/questions/13715811/requestparam-vs-pathvariable" ADD_DATE="1552706828">java - @RequestParam vs @PathVariable - Stack Overflow</A>
+                <DT><A HREF="http://www.baeldung.com/spring-requestmapping" ADD_DATE="1552706828">Spring @RequestMapping | Baeldung</A>
+                <DT><A HREF="https://viblo.asia/p/aop-la-gi-uu-nhuoc-diem-cua-aop-aspect-oriented-programming-trong-java-3P0lPk2oZox" ADD_DATE="1552706828">AOP là gì? Ưu nhược điểm của AOP, Aspect Oriented Programming trong Java - Viblo</A>
+                <DT><A HREF="http://scaramoche.blogspot.com/2013/05/inject-value-in-static-field-using.html" ADD_DATE="1552706828">caught Somewhere In Time = true;: inject a value in a static field using spring</A>
+                <DT><A HREF="http://blog.rizvn.com/2013/01/spring-dependency-injection-into-static.html" ADD_DATE="1552706828">Code and Stuff: Spring Dependency Injection into Static (Class) Variables</A>
+                <DT><A HREF="https://github.com/baomidou/mybatis-plus" ADD_DATE="1552706828">baomidou/mybatis-plus: An enhanced toolkit of Mybatis to simplify development</A>
+                <DT><A HREF="https://gitee.com/baomidou/kisso/attach_files" ADD_DATE="1552706828">Project attachment · baomidou/kisso - Gitee</A>
+                <DT><A HREF="https://howtodoinjava.com/spring/spring-mvc/contextloaderlistener-vs-dispatcherservlet/" ADD_DATE="1552706828">ContextLoaderListener vs DispatcherServlet - HowToDoInJava</A>
+                <DT><A HREF="http://www.baeldung.com/running-setup-logic-on-startup-in-spring" ADD_DATE="1552706828">Guide To Running Logic on Startup in Spring | Baeldung</A>
+                <DT><A HREF="http://www.codesenior.com/en/tutorial/Spring-Generic-DAO-and-Generic-Service-Implementation" ADD_DATE="1552706828">Spring Generic DAO And Generic Service Implementation | CodeSenior.COM</A>
+                <DT><A HREF="http://www.cnblogs.com/softidea/p/6344041.html" ADD_DATE="1552706828">Spring Boot Hikari - 沧海一滴 - 博客园</A>
+                <DT><A HREF="https://www.oschina.net/project/lang/19/java" ADD_DATE="1552706828">Java开源软件 - 开源中国社区</A>
+                <DT><A HREF="https://gitee.com/thinkgem/jeesite4/tree/master/web/src/main/resources/cache" ADD_DATE="1552706828">web/src/main/resources/cache · ThinkGem/JeeSite 4.0 - 码云 - 开源中国</A>
+                <DT><A HREF="https://gitee.com/dataact/jeeweb-mybatis/blob/master/src/main/resources/spring-config-mybatis.xml" ADD_DATE="1552706828">src/main/resources/spring-config-mybatis.xml · JeeWeb敏捷开发平台/jeeweb-mybatis - Gitee</A>
+                <DT><A HREF="https://www.jdev.it/encrypting-passwords-in-tomcat/" ADD_DATE="1552706828">Encrypting passwords in Tomcat – JDev</A>
+                <DT><A HREF="https://github.com/Baeldung/spring-security-registration/tree/master/src/main/resources" ADD_DATE="1552706828">spring-security-registration/src/main/resources at master · Baeldung/spring-security-registration</A>
+                <DT><A HREF="https://github.com/cncounter/cncounter/blob/master/cncounter-web/src/main/java/com/cncounter/cncounter/mvc/controller/tools/QRCodeController.java" ADD_DATE="1552706828">cncounter/QRCodeController.java at master · cncounter/cncounter</A>
+            </DL><p>
