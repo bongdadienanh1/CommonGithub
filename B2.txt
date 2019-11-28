@@ -1,0 +1,1045 @@
+
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706822">Page</H3>
+            <DL><p>
+                <DT><A HREF="http://www.devx.com/Java/Article/21383" ADD_DATE="1552706821">Paging in J2EE: Manage Large Result Sets Efficiently</A>
+                <DT><A HREF="http://www.hibernate.org/314.html" ADD_DATE="1552706821">hibernate.org - Pagination</A>
+                <DT><A HREF="http://www.hibernate.org/248.html" ADD_DATE="1552706821">hibernate.org - paginationCode</A>
+                <DT><A HREF="http://valuelist.sourceforge.net/" ADD_DATE="1552706822">ValueList - About</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706829">Quartz</H3>
+            <DL><p>
+                <DT><A HREF="http://www.mkyong.com/tutorials/quartz-scheduler-tutorial/" ADD_DATE="1552706821">Quartz Scheduler Tutorial</A>
+                <DT><A HREF="http://oreilly.com/java/archive/quartz.html" ADD_DATE="1552706821">Job Scheduling in Java - O&#39;Reilly Media</A>
+                <DT><A HREF="http://www.drdobbs.com/jvm/quartz-20-for-java/229401312" ADD_DATE="1552706821">Quartz 2.0 for Java | Dr Dobb&#39;s</A>
+                <DT><A HREF="http://java-x.blogspot.com/2006/11/scheduling-with-quartz.html" ADD_DATE="1552706822">Abhi On Java: Scheduling with Quartz</A>
+                <DT><A HREF="http://briansjavablog.blogspot.com/2012/09/spring-quartz-tutorial.html" ADD_DATE="1552706822">Brians Java Blog: Spring Quartz Tutorial</A>
+                <DT><A HREF="http://shivasoft.in/blog/java/quartz-framework-tutorial-with-example-schedule-job-in-java/" ADD_DATE="1552706822">Quartz framework tutorial with example - Schedule job in Java | Shiva Blog</A>
+                <DT><A HREF="http://ivetic.wordpress.com/2008/12/08/5-minutes-tutorial-integrating-quartz-in-a-j2ee-application/" ADD_DATE="1552706823">5-Minutes Tutorial: Integrating Quartz in a J2EE application « ivetic.net – My Java/J2EE blog</A>
+                <DT><A HREF="http://javaeenotes.blogspot.com/2011/09/kick-start-quartz-2-tutorial.html" ADD_DATE="1552706823">Java EE Notes: Kick-start Quartz 2 Tutorial</A>
+                <DT><A HREF="http://www.mastertheboss.com/jboss-quartz/jboss-quartz-tutorial" ADD_DATE="1552706823">JBoss Quartz tutorial - jboss quartz - JBoss application server tutorials</A>
+                <DT><A HREF="http://www.javacodegeeks.com/2012/07/quartz-2-scheduler-example.html" ADD_DATE="1552706824">Quartz 2 Scheduler example | Java Code Geeks</A>
+                <DT><A HREF="http://www.ibm.com/developerworks/java/library/j-quartz/" ADD_DATE="1552706824">Job scheduling with Quartz</A>
+                <DT><A HREF="http://blog.teamextension.com/quick-quartz-2-0-tutorial-350" ADD_DATE="1552706824">Quick Quartz 2.0 Tutorial | Java Blog</A>
+                <DT><A HREF="http://www.roseindia.net/quartz/" ADD_DATE="1552706824">Quartz Tutorial, Quartz Scheduler, Quartz Job Scheduler</A>
+                <DT><A HREF="https://devcenter.heroku.com/articles/scheduled-jobs-custom-clock-processes-java-quartz-rabbitmq" ADD_DATE="1552706825">Scheduled Jobs with Custom Clock Processes in Java with Quartz and RabbitMQ | Heroku Dev Center</A>
+                <DT><A HREF="http://www.jroller.com/gmazza/entry/quartz_scheduled_soap_calls" ADD_DATE="1552706825">Using the Quartz Scheduler to make recurring SOAP calls | Glen Mazza&#39;s Weblog</A>
+                <DT><A HREF="http://www.sivalabs.in/2011/05/spring-quartz-javamail-integration.html" ADD_DATE="1552706825">SivaLabs : My Experiments on Technology: Spring + Quartz + JavaMail Integration Tutorial</A>
+                <DT><A HREF="http://k2java.blogspot.com/2011/04/quartz.html" ADD_DATE="1552706825">Java Jazzle: Quartz example</A>
+                <DT><A HREF="http://www.javaxp.com/2011/11/java-simple-example-using-quartz-plug.html" ADD_DATE="1552706825">JavaXp.com | Java Experts Blog | Java Examples | API | Errors | Exceptions: Java : Simple example using Quartz Plug-Ins</A>
+                <DT><A HREF="http://www.quartz-scheduler.org/documentation/quartz-2.x/examples" ADD_DATE="1552706826">Quartz Scheduler | Documentation | Quartz 2.0.x: Examples</A>
+                <DT><A HREF="http://www.quartz-scheduler.org/documentation/quartz-2.x/tutorials/crontrigger" ADD_DATE="1552706826">Quartz Scheduler | Documentation | CronTrigger Tutorial</A>
+                <DT><A HREF="http://terracotta.org/documentation/quartz-scheduler/quartz-scheduler-where" ADD_DATE="1552706826">Terracotta | Documentation | Quartz Scheduler | Quartz Scheduler Where</A>
+                <DT><A HREF="http://www.quartz-scheduler.org/documentation/quartz-2.1.x/cookbook" ADD_DATE="1552706826">Quartz Scheduler | Documentation | Quartz 2.1.x Cookbook: index</A>
+                <DT><A HREF="http://www.quartz-scheduler.org/documentation/quartz-2.1.x/configuration/" ADD_DATE="1552706826">Quartz Scheduler | Documentation | Quartz 2.1.x: Configuration Reference</A>
+                <DT><A HREF="http://rajkrrsingh.blogspot.com/2012/08/quartz-tutorail-configure-quartz-in-web.html" ADD_DATE="1552706827">Java J2EE Struts Spring Hibernate Oracle MySQL Maven Ant NoSQL MongoDb Blog::: JvmNotFoundException: Quartz Tutorial : Configure Quartz in web Application</A>
+                <DT><A HREF="http://karlagius.com/2009/12/02/scheduling-tasks-with-quartz/" ADD_DATE="1552706827">Scheduling tasks with Quartz | The Simple Part</A>
+                <DT><A HREF="http://nurkiewicz.blogspot.com/2012/04/configuring-quartz-with-jdbcjobstore-in.html" ADD_DATE="1552706827">Configuring Quartz with JDBCJobStore in Spring | NoBlogDefFound</A>
+                <DT><A HREF="http://fahdshariff.blogspot.com/2010/12/automatically-retry-failed-jobs-in.html" ADD_DATE="1552706827">fahd.blog: Automatically Retry Failed Jobs in Quartz</A>
+                <DT><A HREF="http://thetechiehouse.blogspot.com/2012/10/clustreing-in-quartz-scheduler.html" ADD_DATE="1552706827">The Techie House: Quartz Scheduler advanced features</A>
+                <DT><A HREF="http://forums.terracotta.org/forums/posts/list/6054.page" ADD_DATE="1552706827">Reschedule failed job to run 5 more times in 5 min intervals</A>
+                <DT><A HREF="http://stackoverflow.com/questions/4408858/quartz-retry-when-failure" ADD_DATE="1552706827">java - Quartz retry when failure - Stack Overflow</A>
+                <DT><A HREF="http://www.experts-exchange.com/Programming/Languages/Java/Q_27647794.html" ADD_DATE="1552706828">Forcing Quartz Scheduler to maintain jobs in “job store” even in the case of failed jobs and having them re-run at the specified interval: Java, quartz scheduler</A>
+                <DT><A HREF="http://code.google.com/p/myschedule/" ADD_DATE="1552706828">myschedule - A Web Application For Managing Quartz Schedulers - Google Project Hosting</A>
+                <DT><A HREF="http://amithmit.blogspot.com/2011/01/integrating-quartz-scheduler-with-j2ee.html" ADD_DATE="1552706828">Voicestreams blog: Integrating Quartz Scheduler with J2EE Web Applications.</A>
+                <DT><A HREF="https://deveshsharma.info/2013/10/31/how-to-schedule-a-job-using-quartz-in-java/" ADD_DATE="1552706828">How to schedule a job using Quartz in Java | Devesh Sharma</A>
+                <DT><A HREF="http://www.technologist-work.com/2014/10/quartz-scheduler1/" ADD_DATE="1552706828">Working with Quartz Scheduler Part 1 – Technologists Work Collaboration</A>
+                <DT><A HREF="http://www.tangentlabs.co.uk/blog/post/quartz-scheduling-spring-hibernate-and-clustering-here-be-dragons" ADD_DATE="1552706828">Quartz Scheduling, Spring, Hibernate and Clustering - here be dragons! – Blog :Tangent Labs</A>
+                <DT><A HREF="http://www.artofsolving.com/node/54.html" ADD_DATE="1552706828">A simple Quartz Scheduler facade | Art of Solving</A>
+                <DT><A HREF="http://www.evoketechnologies.com/blog/dynamic-job-scheduling-quartz-scheduler/" ADD_DATE="1552706828">Dynamic Job Scheduling Using Quartz Scheduler and RRule</A>
+                <DT><A HREF="http://sloanseaman.com/wordpress/2011/06/06/spring-and-quartz-and-persistence/" ADD_DATE="1552706828">Spring, Quartz, and Persistence | Waiting for Wit</A>
+                <DT><A HREF="http://codrspace.com/Khovansa/spring-quartz-with-a-database/" ADD_DATE="1552706828">Codrspace - Spring 4 + Quartz with a Database by Khovansa</A>
+                <DT><A HREF="http://xkcb.blogspot.com/2013/08/how-to-use-quartz-22-with-spring-32x-on.html" ADD_DATE="1552706828">How to use Quartz 2.2 with Spring 3.2.x on WebSphere AS | Mad Prophet</A>
+                <DT><A HREF="http://www.cronmaker.com/" ADD_DATE="1552706828">CronMaker</A>
+                <DT><A HREF="http://crontab-generator.org/" ADD_DATE="1552706828">Crontab Generator - Generate crontab syntax</A>
+                <DT><A HREF="http://cronexpressiondescriptor.azurewebsites.net/?Language=en-US&DayOfWeekStartIndexOne=false&Use24HourFormat=false&VerboseDescription=false&Expression=0+0%2F5+*+*+*+%3F" ADD_DATE="1552706828">Cron Expression Descriptor</A>
+                <DT><A HREF="http://www.quartz-scheduler.org/documentation/quartz-2.x/tutorials/crontrigger.html" ADD_DATE="1552706828">Cron Trigger Tutorial</A>
+                <DT><A HREF="https://hotcodeshare.com/content/notice-when-using-quartz-weblogic" ADD_DATE="1552706828">Notice when using Quartz in Weblogic | Hot code share</A>
+                <DT><A HREF="https://blogs.oracle.com/jamesbayer/a-simple-job-scheduler-example-weblogic-server-clustered-timer" ADD_DATE="1552706828">A Simple Job Scheduler Example - WebLogic Server Clustered Timer | Oracle I am jambay - James Bayer&#39;s Blog</A>
+                <DT><A HREF="http://www.simplecodestuffs.com/quartz-scheduler-scheduling-job-java-via-quartz-scheduler/" ADD_DATE="1552706828">Quartz Scheduler - Scheduling Job in Java via Quartz Scheduler|SimpleCodeStuffs</A>
+                <DT><A HREF="http://www.baeldung.com/quartz" ADD_DATE="1552706828">Introduction to Quartz | Baeldung</A>
+                <DT><A HREF="https://www.freeformatter.com/cron-expression-generator-quartz.html" ADD_DATE="1552706828">Free Online Cron Expression Generator and Describer - FreeFormatter.com</A>
+                <DT><A HREF="https://www.baeldung.com/cron-expressions" ADD_DATE="1552706829">A Guide To Cron Expressions | Baeldung</A>
+                <DT><A HREF="http://corntab.com/" ADD_DATE="1552706829">Corntab - the crontab GUI</A>
+                <DT><A HREF="https://www.easycron.com/" ADD_DATE="1552706829">Online Cron Service | Webcron - EasyCron.com</A>
+                <DT><A HREF="http://cron.schlitt.info/" ADD_DATE="1552706829">CRON tester - Test your CRON definition</A>
+                <DT><A HREF="http://mbcoder.com/dynamic-task-scheduling-with-spring/" ADD_DATE="1552706829">Dynamic Task Scheduling with Spring - MBcoder</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706826">Regular expression</H3>
+            <DL><p>
+                <DT><A HREF="http://livedocs.adobe.com/coldfusion/6.1/htmldocs/regexp21.htm" ADD_DATE="1552706821">Regular expression examples</A>
+                <DT><A HREF="http://java.sun.com/developer/technicalArticles/releases/1.4regex/" ADD_DATE="1552706821">Regular Expressions and the Java Programming Language</A>
+                <DT><A HREF="http://java.sun.com/j2se/1.4.2/docs/api/java/util/regex/Pattern.html" ADD_DATE="1552706821">Pattern (Java 2 Platform SE v1.4.2)</A>
+                <DT><A HREF="http://www.regular-expressions.info/java.html" ADD_DATE="1552706822">Using Regular Expressions in Java</A>
+                <DT><A HREF="http://www.regexlib.com/Search.aspx?k=email" ADD_DATE="1552706822">Regular Expression Library</A>
+                <DT><A HREF="http://www.regular-expressions.info/creditcard.html" ADD_DATE="1552706822">Finding or Verifying Credit Card Numbers</A>
+                <DT><A HREF="http://www.ocpsoft.org/opensource/guide-to-regular-expressions-in-java-part-1/" ADD_DATE="1552706823">How-To: Regular Expressions in Java (Part 1) - Tutorial | Examples | OCPsoft</A>
+                <DT><A HREF="http://www.javatpoint.com/java-regex" ADD_DATE="1552706823">Java Regex | Regular Expression - javatpoint</A>
+                <DT><A HREF="http://stackoverflow.com/questions/15111420/how-to-check-if-a-string-contains-only-digits-in-java" ADD_DATE="1552706824">How to check if a string contains only digits in Java - Stack Overflow</A>
+                <DT><A HREF="http://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html" ADD_DATE="1552706824">Pattern (Java Platform SE 7 )</A>
+                <DT><A HREF="http://www.vogella.com/tutorials/JavaRegularExpressions/article.html" ADD_DATE="1552706824">Java Regex - Tutorial</A>
+                <DT><A HREF="http://www.w3schools.com/jsref/jsref_obj_regexp.asp" ADD_DATE="1552706824">JavaScript RegExp Reference</A>
+                <DT><A HREF="https://msdn.microsoft.com/en-us/library/az24scfc(v=vs.110).aspx" ADD_DATE="1552706824">Regular Expression Language - Quick Reference</A>
+                <DT><A HREF="https://regex101.com/" ADD_DATE="1552706825">Online regex tester and debugger: JavaScript, Python, PHP, and PCRE</A>
+                <DT><A HREF="http://www.zytrax.com/tech/web/regex.htm" ADD_DATE="1552706825">Tech Stuff - Regular Expressions - A Gentle User Guide and Tutorial</A>
+                <DT><A HREF="http://regexr.com/" ADD_DATE="1552706825">RegExr: Learn, Build, &amp; Test RegEx</A>
+                <DT><A HREF="http://regexstorm.net/tester" ADD_DATE="1552706825">.NET Regex Tester - Regex Storm</A>
+                <DT><A HREF="http://www.regexpal.com/" ADD_DATE="1552706826">Regex Tester - Javascript, PCRE, PHP</A>
+                <DT><A HREF="http://www.regexplanet.com/advanced/java/index.html" ADD_DATE="1552706826">RegexPlanet: online regular expression testing for Java</A>
+                <DT><A HREF="https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Regular_Expressions" ADD_DATE="1552706826">Regular Expressions - JavaScript | MDN</A>
+                <DT><A HREF="https://viblo.asia/soi020392/posts/DKBvdwbPkdX" ADD_DATE="1552706826">Regular Expression trong PHP | Viblo</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706828">Reports</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706832">Excel</H3>
+                <DL><p>
+                    <DT><A HREF="http://forum.java.sun.com/thread.jspa?threadID=636281&messageID=3708792" ADD_DATE="1552706829">Java Forums - how to export a jtable in excel format</A>
+                    <DT><A HREF="http://jakarta.apache.org/poi/hssf/quick-guide.html" ADD_DATE="1552706829">Busy Developers&#39; Guide to HSSF Features</A>
+                    <DT><A HREF="http://www.javaworld.com/javaforums/showflat.php?Cat=&Board=Enterprisejava&Number=30272&page=0&view=collapsed&sb=5&o=" ADD_DATE="1552706830">1.java --&gt;export excel; 2.excel file include chart</A>
+                    <DT><A HREF="http://jakarta.apache.org/poi/hssf/how-to.html" ADD_DATE="1552706830">The New Halloween Document</A>
+                    <DT><A HREF="http://www-128.ibm.com/developerworks/db2/library/techarticle/0302bhogal/0302bhogal.html" ADD_DATE="1552706830">&quot;Excel&quot;lerating DB2 Universal Database: Transferring DB2 Data to a Spreadsheet</A>
+                    <DT><A HREF="http://www.javaworld.com/javaworld/jw-03-2004/jw-0322-poi.html" ADD_DATE="1552706831">Excelling in Excel with Java</A>
+                    <DT><A HREF="http://www.andykhan.com/jexcelapi/index.html" ADD_DATE="1552706831">A Java API to read, write and modify Excel spreadsheets</A>
+                    <DT><A HREF="http://www-128.ibm.com/developerworks/db2/library/techarticle/dm-0402bhogal/" ADD_DATE="1552706831">Empowering DB2 with your Excel spreadsheets using Apache&#39;s POI and HSSF</A>
+                    <DT><A HREF="http://www.apache.org/dist/jakarta/poi/release/bin/" ADD_DATE="1552706832">http://www.andykhan.com/jexcelapi/technotes.html</A>
+                    <DT><A HREF="http://ostermiller.org/utils/doc/com/Ostermiller/util/CSVParser.html" ADD_DATE="1552706832">CSVParser</A>
+                    <DT><A HREF="http://opencsv.sourceforge.net/" ADD_DATE="1552706832">opencsv - an open source csv parser for Java</A>
+                </DL><p>
+                <DT><A HREF="http://www.javafree.org/javabb/viewtopic.jbb?t=3154" ADD_DATE="1552706821">Tutorial de IREPORT :: Java Free.org</A>
+                <DT><A HREF="http://www.studentimaster.usilu.net/derino/web/tutorials/JavaReporting/JavaReportingTutorial.htm" ADD_DATE="1552706821">A Tutorial on JasperReports, iReport and JFreeChart</A>
+                <DT><A HREF="http://jasperreports.sourceforge.net/samples/index.html" ADD_DATE="1552706822">JasperReports - Samples</A>
+                <DT><A HREF="http://jasperreports.sourceforge.net/tutorial/index.html#expressions" ADD_DATE="1552706822">JasperReports - Tutorial</A>
+                <DT><A HREF="http://jasperreports.sourceforge.net/documentation.html" ADD_DATE="1552706822">JasperReports - Documentation</A>
+                <DT><A HREF="http://xmlgraphics.apache.org/fop/compliance.html" ADD_DATE="1552706823">Apache FOP Compliance Page</A>
+                <DT><A HREF="http://xmlgraphics.apache.org/fop/resources.html" ADD_DATE="1552706823">FOP: Other Resources</A>
+                <DT><A HREF="http://xmlgraphics.apache.org/fop/0.20.5/output.html" ADD_DATE="1552706823">FOP Output Options</A>
+                <DT><A HREF="http://www.darkhorse.to/xmldemo.php" ADD_DATE="1552706824">XML demonstration : Dark Horse Consulting</A>
+                <DT><A HREF="http://www.stylusstudio.com/xsl_fo_processing.html" ADD_DATE="1552706824">XSL:FO Editor</A>
+                <DT><A HREF="http://www.devx.com/xml/Article/16430/0/page/2" ADD_DATE="1552706824">http://www.javavietnam.org/javavn/mvnforum/viewthread?thread=1345#7011</A>
+                <DT><A HREF="http://xml.sys-con.com/read/40480.htm" ADD_DATE="1552706824">Generate PDF Files with XML,XSL-FO, and FOP @ XML JOURNAL</A>
+                <DT><A HREF="http://www.devx.com/xml/Article/16430/0/page/2" ADD_DATE="1552706825">Generate PDF Files Dynamically Using XSL-FO</A>
+                <DT><A HREF="http://itextdocs.lowagie.com/tutorial/" ADD_DATE="1552706825">iText Tutorial: Table of Contents</A>
+                <DT><A HREF="http://www-128.ibm.com/developerworks/web/library/x-ospdf/" ADD_DATE="1552706825">Dynamically generate internationalized PDFs in Web applications</A>
+                <DT><A HREF="http://xmlgraphics.apache.org/fop/dev/design/index.html" ADD_DATE="1552706825">FOP Design: Introduction</A>
+                <DT><A HREF="http://www-128.ibm.com/developerworks/search/searchResults.jsp?source=google&searchType=1&searchSite=dW&searchScope=dW&query=Generate+PDF+Files+Dynamically+Using+XSL-FO" ADD_DATE="1552706825">IBM developerWorks &gt; Search results</A>
+                <DT><A HREF="http://www-128.ibm.com/developerworks/web/library/x-ospdf/#code2" ADD_DATE="1552706826">Dynamically generate internationalized PDFs in Web applications</A>
+                <DT><A HREF="http://www.jfree.org/jfreechart/javadoc/index.html" ADD_DATE="1552706826">JFreeChart Class Library (version 1.0.0-rc2)</A>
+                <DT><A HREF="http://www.jfree.org/phpBB2/viewtopic.php?p=45687&highlight=&sid=3a76fa5b9208f18579a873343ee447ed" ADD_DATE="1552706826">www.jfree.org :: View topic - JFreeChart + Struts</A>
+                <DT><A HREF="http://www.informit.com/guides/content.asp?g=java&seqNum=74" ADD_DATE="1552706826">Java Reference Guide &gt; Graphs and Charts</A>
+                <DT><A HREF="http://www.informit.com/guides/content.asp?g=java&seqNum=75" ADD_DATE="1552706826">Java Reference Guide &gt; Time Series Charts</A>
+                <DT><A HREF="http://www.informit.com/guides/content.asp?g=java&seqNum=76" ADD_DATE="1552706826">Java Reference Guide &gt; Price Volume Chart</A>
+                <DT><A HREF="http://www-128.ibm.com/developerworks/xml/library/x-tippgbk/" ADD_DATE="1552706827">Tip: Use XSL-FO for page breaks and tables</A>
+                <DT><A HREF="http://www-128.ibm.com/developerworks/xml/library/x-xslfo/" ADD_DATE="1552706827">Using XSL-FO to create printable documents</A>
+                <DT><A HREF="http://www-128.ibm.com/developerworks/xml/library/x-xslfo2app/" ADD_DATE="1552706827">HTML to Formatting Objects (FO) conversion guide</A>
+                <DT><A HREF="http://www-128.ibm.com/developerworks/xml/library/x-ospdf/" ADD_DATE="1552706827">Dynamically generate internationalized PDFs in Web applications</A>
+                <DT><A HREF="http://javaboutique.internet.com/tutorials/FOP/index-4.html" ADD_DATE="1552706827">Java(TM) Boutique - Using FOP with Java - Page 4</A>
+                <DT><A HREF="http://www.onjava.com/pub/a/onjava/2002/10/16/fop.html?page=2" ADD_DATE="1552706827">ONJava.com -- XML to PDF? Oh, FOP It.</A>
+                <DT><A HREF="http://www-128.ibm.com/developerworks/xml/library/x-dbrep/index.html" ADD_DATE="1552706828">Portable database reporting using Java and XML</A>
+                <DT><A HREF="http://www.artofsolving.com/opensource/jodconverter" ADD_DATE="1552706828">JODConverter | Art of Solving</A>
+                <DT><A HREF="http://www.jpedal.org/" ADD_DATE="1552706828">JPedal, the Java PDF Viewer with PDF Text Extraction and PDF workflow tools</A>
+                <DT><A HREF="http://supercsv.sourceforge.net/" ADD_DATE="1552706828">Super Csv - A super CSV reader/writer...</A>
+                <DT><A HREF="http://flatpack.sourceforge.net/" ADD_DATE="1552706828">FlatPack - Introduction</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706829">Server Socket</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706834">Netty</H3>
+                <DL><p>
+                    <DT><H3 ADD_DATE="1552706829" LAST_MODIFIED="1552706836">Reconnect</H3>
+                    <DL><p>
+                        <DT><A HREF="http://stackoverflow.com/questions/9873237/netty-clientbootstrap-connect-retries" ADD_DATE="1552706836">java - Netty: ClientBootstrap connect retries - Stack Overflow</A>
+                        <DT><A HREF="http://stackoverflow.com/questions/3726696/setting-socket-timeout-on-netty-channel" ADD_DATE="1552706836">Setting socket timeout on netty channel - Stack Overflow</A>
+                        <DT><A HREF="http://stackoverflow.com/questions/10988727/netty-clientbootstrap-reconnect-to-another-server" ADD_DATE="1552706836">Netty ClientBootstrap RECONNECT to another server - Stack Overflow</A>
+                        <DT><A HREF="http://stackoverflow.com/questions/7895964/how-does-the-netty-threading-model-work-in-the-case-of-many-client-connections" ADD_DATE="1552706836">java - How does the Netty threading model work in the case of many client connections? - Stack Overflow</A>
+                        <DT><A HREF="http://stackoverflow.com/questions/8442166/how-to-allow-more-concurrent-client-connections-with-netty" ADD_DATE="1552706836">concurrency - How to allow more concurrent client connections with Netty? - Stack Overflow</A>
+                    </DL><p>
+                    <DT><A HREF="http://biasedbit.com/handshaking-tutorial-with-netty/" ADD_DATE="1552706830">Handshaking tutorial with Netty</A>
+                    <DT><A HREF="http://www.znetdevelopment.com/blogs/2009/04/21/netty-using-handlers/" ADD_DATE="1552706830">Netty: Using Handlers » Nicholas Hagen</A>
+                    <DT><A HREF="http://www.slideshare.net/danbim/zerocopy-eventdriven-servers-with-netty" ADD_DATE="1552706830">Zero-Copy Event-Driven Servers with Netty</A>
+                    <DT><A HREF="http://www.mastertheboss.com/netty/jboss-netty-tutorial/page-2" ADD_DATE="1552706831">JBoss Netty tutorial - netty - Page 2 - JBoss application server tutorials</A>
+                    <DT><A HREF="http://seeallhearall.blogspot.com/2012/05/netty-tutorial-part-1-introduction-to.html" ADD_DATE="1552706831">See All. Hear All.: Netty Tutorial Part 1: Introduction to Netty</A>
+                    <DT><A HREF="https://community.jboss.org/wiki/NettyDiffie-HellmanKeyExchangeServer" ADD_DATE="1552706831">Netty Diffie-Hellman Key Exchange Server | Netty Project | JBoss Community</A>
+                    <DT><A HREF="http://www.smartjava.org/content/using-spdy-and-http-transparently-using-netty" ADD_DATE="1552706831">Using SPDY and HTTP transparently using Netty | Smartjava.org</A>
+                    <DT><A HREF="https://github.com/mrniko/netty-socketio/tree/master/src/main/java/com/corundumstudio/socketio" ADD_DATE="1552706831">netty-socketio/src/main/java/com/corundumstudio/socketio at master · mrniko/netty-socketio · GitHub</A>
+                    <DT><A HREF="http://www.slideshare.net/zaubersoftware/non-blocking-io-with-netty#btnNext" ADD_DATE="1552706832">Non blocking io with netty</A>
+                    <DT><A HREF="http://lists.jboss.org/pipermail/netty-users/2008-December/000129.html" ADD_DATE="1552706832">Non-Netty client - Any help please, nearly there!</A>
+                    <DT><A HREF="http://sockoweb.org/2012/06/19/spdy-netty.html" ADD_DATE="1552706832">How we got SPDY working with Netty 3.5 for Socko</A>
+                    <DT><A HREF="http://kevinwebber.ca/blog/2011/11/2/multiplayer-tic-tac-toe-in-java-using-the-websocket-api-nett.html" ADD_DATE="1552706832">Multiplayer tic-tac-toe in Java using the WebSocket API, Netty (NIO), and jQuery - Blog - Kevin Webber</A>
+                    <DT><A HREF="http://static.netty.io/3.6/guide/#start.6" ADD_DATE="1552706833">The Netty Project 3.x User Guide</A>
+                    <DT><A HREF="https://github.com/menacher/java-game-server" ADD_DATE="1552706833">menacher/java-game-server: Jetserver is a high speed nio socket based multiplayer java game server written using Netty and Mike Rettig&#39;s Jetlang.It is specifically tuned for network based multiplayer games and supports TCP and UDP network protocols.</A>
+                    <DT><A HREF="http://shengwangi.blogspot.com/2016/03/netty-tutorial-hello-world-example.html" ADD_DATE="1552706833">Netty tutorial - hello world example | Code Breeze !</A>
+                    <DT><A HREF="http://cpjsjxy.iteye.com/blog/1587601" ADD_DATE="1552706833">使用netty+spring搭建游戏框架 - IT老兵 - ITeye技术网站</A>
+                    <DT><A HREF="https://blog.ik.am/entries/354" ADD_DATE="1552706833">How to use the TCP client provided by Spring Framework (Part 1/2) - BLOG.IK.AM</A>
+                    <DT><A HREF="https://github.com/yunlzheng/spring-with-netty/tree/master/src/main/java/com/moo/springnetty" ADD_DATE="1552706833">spring-with-netty/src/main/java/com/moo/springnetty at master · yunlzheng/spring-with-netty</A>
+                    <DT><A HREF="https://github.com/DanielThomas/spring-boot-starter-netty" ADD_DATE="1552706833">DanielThomas/spring-boot-starter-netty: Netty Container for Spring Boot</A>
+                    <DT><A HREF="http://aoruqjfu.fun25.co.kr/index.php/post/576" ADD_DATE="1552706834">spring과 netty – 머루의개발블로그</A>
+                    <DT><A HREF="http://docs.jboss.org/netty/3.2/guide/html/start.html" ADD_DATE="1552706834">Chapter 1. Getting Started</A>
+                    <DT><A HREF="https://netty.io/4.0/api/io/netty/channel/ChannelFuture.html" ADD_DATE="1552706834">ChannelFuture (Netty API Reference (4.0.48.Final))</A>
+                    <DT><A HREF="http://biasedbit.com/blog/handshaking-tutorial-with-netty" ADD_DATE="1552706834">BiasedBit :: Handshaking tutorial with Netty</A>
+                    <DT><A HREF="https://github.com/biasedbit/netty-tutorials/tree/master/handshake/src/main/java/com/biasedbit/nettytutorials/handshake" ADD_DATE="1552706834">netty-tutorials/handshake/src/main/java/com/biasedbit/nettytutorials/handshake at master · biasedbit/netty-tutorials</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706831">Mina</H3>
+                <DL><p>
+                    <DT><A HREF="http://mina.apache.org/sample-tcp-server.html" ADD_DATE="1552706829">Apache MINA - Sample TCP Server</A>
+                    <DT><A HREF="http://phpicalendar.net/phpicalendar/day.php" ADD_DATE="1552706830">Biology Seminars, Home 1234, OtherNM, Stargate Atlantis, US Holidays, Call list, Jim Hu, bugtest - Saturday, March 10</A>
+                    <DT><A HREF="http://www.barelyfitz.com/blog/archives/2006/03/09/232/" ADD_DATE="1552706830">BarelyBlogging » Blog Archive » Eliminating redisplay flashes in JavaScript</A>
+                    <DT><A HREF="http://www.techbrainwave.com/?p=912" ADD_DATE="1552706830">Apache Mina – Simple client/Server Application | Tech Brainwave</A>
+                    <DT><A HREF="http://www.giantflyingsaucer.com/blog/?p=205" ADD_DATE="1552706831">Tutorial: Building a Flash socket server with Java in five minutes | Giant Flying Saucer</A>
+                    <DT><A HREF="http://www.ashishpaliwal.com/blog/2008/10/implementing-udp-server-using-apache-mina/" ADD_DATE="1552706831">Implementing UDP Server using Apache MINA | Thread.currentThread().join()</A>
+                    <DT><A HREF="http://www.codeproject.com/Articles/35088/Network-Application-Framework-with-Java" ADD_DATE="1552706831">Network Application Framework with Java - CodeProject</A>
+                    <DT><A HREF="http://www.tutorgig.net/t/Apache+MINA" ADD_DATE="1552706831">Apache MINA in tutorials</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706829">XSocket</H3>
+                <DL><p>
+                    <DT><A HREF="http://xsocket.org/" ADD_DATE="1552706829">xsocket</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706830">Grizzly</H3>
+                <DL><p>
+                    <DT><A HREF="http://grizzly.java.net/nonav/docs/docbkx2.0/html/dependencies.html" ADD_DATE="1552706829">Chapter 11. Dependencies</A>
+                    <DT><A HREF="http://grizzly.java.net/nonav/docs/docbkx2.2/html/grizzly-docs.html" ADD_DATE="1552706830">Grizzly 2.2.19 User&#39;s Guide</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706829">jSch</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.programmerclubhouse.com/reading-and-writing-linux-files-using-jsch-java/" ADD_DATE="1552706829">Reading and Writing Linux Files Using JSCH (Java) | Programmer Clubhouse</A>
+                    <DT><A HREF="http://www.programcreek.com/java-api-examples/index.php?api=com.jcraft.jsch.JSch" ADD_DATE="1552706829">Java Code Example for com.jcraft.jsch.JSch</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706823" LAST_MODIFIED="1552706832">Thread Pool</H3>
+                <DL><p>
+                    <DT><A HREF="http://dailyjavatips.com/2011/10/15/build-a-web-server/" ADD_DATE="1552706829">DailyJavaTips: Web Server With Thread Pooling - Part 1</A>
+                    <DT><A HREF="http://biese.wordpress.com/2009/06/14/how-to-create-a-simple-java-socket-thread-server/" ADD_DATE="1552706830">How to create a simple Java socket thread server « When IE meets SE…</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/java/library/j-jtp0730/index.html" ADD_DATE="1552706830">Java theory and practice: Thread pools and work queues</A>
+                    <DT><A HREF="https://sakai.rutgers.edu/wiki/site/e07619c5-a492-4ebe-8771-179dfe450ae4/echo%20server%20tutorial.html" ADD_DATE="1552706830">Echo Server Tutorial</A>
+                    <DT><A HREF="https://sakai.rutgers.edu/wiki/site/e07619c5-a492-4ebe-8771-179dfe450ae4/thread%20pool%20echo%20server%20tutorial.html" ADD_DATE="1552706831">Thread Pool Echo Server Tutorial</A>
+                    <DT><A HREF="http://www.javaworld.com/jw-05-1999/jw-05-toolbox.html" ADD_DATE="1552706831">Programming Java threads in the real world, Part 8 - JavaWorld</A>
+                    <DT><A HREF="http://www.ioncannon.net/java/30/thread-pooling-with-java-concurrency-utilities-new-java-15-and-old-utilconcurrent/" ADD_DATE="1552706831">Thread pooling with Java concurrency utilities new (java 1.5) and old (util.concurrent)</A>
+                    <DT><A HREF="http://www.google.com.vn/search?q=java+serversocket+thread+pool&aq=0&oq=java+server+socket+thread+pool&sugexp=chrome,mod=12&sourceid=chrome&ie=UTF-8#q=java+serversocket+thread+pool&hl=vi&tbo=d&ei=fpblUMviEO3ImQXG4oCADw&start=10&sa=N&bav=on.2,or.r_gc.r_pw.r_qf.&bvm=bv.1355534169,d.dGY&fp=42fdb6a51fe82aa7&bpcl=40096503&biw=1280&bih=687" ADD_DATE="1552706831">java serversocket thread pool - Tìm với Google</A>
+                    <DT><A HREF="http://www.baeldung.com/thread-pool-java-and-guava" ADD_DATE="1552706832">Introduction to Thread Pools in Java | Baeldung</A>
+                    <DT><A HREF="https://www.javacodegeeks.com/2016/08/remembering-reset-thread-context-class-loader.html" ADD_DATE="1552706832">Remembering to Reset Thread Context Class Loader | Java Code Geeks - 2016</A>
+                    <DT><A HREF="https://www.javacodegeeks.com/2016/08/the-java-syncrhonisers.html" ADD_DATE="1552706832">The Java Syncrhonisers | Java Code Geeks - 2016</A>
+                </DL><p>
+                <DT><A HREF="http://whatwouldnickdo.com/wordpress/216/java-echoserver-example/" ADD_DATE="1552706823">Java EchoServer Example | /home/nick</A>
+                <DT><A HREF="http://www.cordinc.com/blog/2010/08/java-nio-server-example.html" ADD_DATE="1552706823">Java NIO server example - Cordinc Blog</A>
+                <DT><A HREF="http://systembash.com/content/a-simple-java-tcp-server-and-tcp-client/" ADD_DATE="1552706823">A Simple Java TCP Server and TCP Client | systemBash</A>
+                <DT><A HREF="http://systembash.com/content/a-simple-java-udp-server-and-udp-client/" ADD_DATE="1552706824">A Simple Java UDP Server and UDP Client | systemBash</A>
+                <DT><A HREF="http://ashishmyles.com/tutorials/tcpchat/index.html" ADD_DATE="1552706824">Java TCP Sockets and Swing Tutorial</A>
+                <DT><A HREF="http://stilius.net/java/java_ssl.php" ADD_DATE="1552706824">JAVA + SSL Tutorial</A>
+                <DT><A HREF="http://www.prasannatech.net/2008/07/socket-programming-tutorial.html" ADD_DATE="1552706825">Socket Programming tutorial</A>
+                <DT><A HREF="http://darksleep.com/player/SocketExample/" ADD_DATE="1552706825">Simple Socket Examples.</A>
+                <DT><A HREF="http://www.cafeaulait.org/slides/sd2003west/sockets/Java_Socket_Programming.html" ADD_DATE="1552706825">Java Socket Programming</A>
+                <DT><A HREF="http://jcs.mobile-utopia.com/jcs/1014_SocketServer.java" ADD_DATE="1552706825">SocketServer.java (Example)</A>
+                <DT><A HREF="http://www.kieser.net/linux/java_server.html" ADD_DATE="1552706825">A multi-threaded socket-based Java server</A>
+                <DT><A HREF="http://simplesocket.zcage.com/" ADD_DATE="1552706825">Java Simple Socket: How to create a Simple Communications Socket</A>
+                <DT><A HREF="http://www.cs.uic.edu/~troy/spring05/cs450/sockets/socket.html" ADD_DATE="1552706826">Socket Examples</A>
+                <DT><A HREF="http://edn.embarcadero.com/article/31995" ADD_DATE="1552706826">Sockets: Basic Client-Server Programming in Java - By Rick Proctor</A>
+                <DT><A HREF="http://www.cise.ufl.edu/~amyles/tutorials/tcpchat/" ADD_DATE="1552706826">Java TCP Sockets and Swing Tutorial</A>
+                <DT><A HREF="http://pirate.shu.edu/~wachsmut/Teaching/CSAS2214/Virtual/Lectures/chat-client-server.html" ADD_DATE="1552706826">Creating a simple Chat Client/Server Solution</A>
+                <DT><A HREF="http://www.ase.md/~aursu/ClientServerThreads.html" ADD_DATE="1552706826">Multi-threaded Client/Server Applications</A>
+                <DT><A HREF="http://inetjava.sourceforge.net/lectures/part1_sockets/InetJava-1.9-Chat-Client-Server-Example.html" ADD_DATE="1552706827">Chat Client/Server Example</A>
+                <DT><A HREF="http://www.binarytides.com/java-socket-programming-tutorial/" ADD_DATE="1552706827">Java socket programming tutorial | Binary Tides</A>
+                <DT><A HREF="http://www.computing.dcu.ie/~cpahl/teach/ca597/Material/SocketsStreams.html" ADD_DATE="1552706827">Client/Server System using Sockets and Data Streams</A>
+                <DT><A HREF="http://lombokcyber.com/2012/a-simple-send-serialized-object-between-server-and-client-via-socket-tcp-ip/" ADD_DATE="1552706827">A Simple Send Serialized Object Between Server and Client Via Socket Tcp Ip in Java » LombokCyber.Com</A>
+                <DT><A HREF="http://introcs.cs.princeton.edu/java/84network/" ADD_DATE="1552706827">Networking</A>
+                <DT><A HREF="http://juliusdavies.ca/commons-ssl/ssl.html" ADD_DATE="1552706827">Java Examples for Creating SSL/TLS Sockets</A>
+                <DT><A HREF="http://www.avajava.com/tutorials/lessons/how-do-i-write-a-server-socket-that-can-handle-input-and-output.html" ADD_DATE="1552706827">How do I write a server socket that can handle input and output? - Web Tutorials - avajava.com</A>
+                <DT><A HREF="http://content.gpwiki.org/index.php/Java:Tutorials:Simple_TCP_Networking" ADD_DATE="1552706827">Java:Tutorials:Simple TCP Networking - GPWiki</A>
+                <DT><A HREF="http://cs.baylor.edu/~donahoo/practical/JavaSockets/textcode.html" ADD_DATE="1552706828">TCP/IP Sockets in Java: Practical Guide for Programmers</A>
+                <DT><A HREF="http://www.cs.umd.edu/~shankar/417-F01/Slides/chapter2b-aus/sld019.htm" ADD_DATE="1552706828">Example: Java server (TCP), cont</A>
+                <DT><A HREF="http://www.dreamincode.net/code/snippet1917.htm" ADD_DATE="1552706828">TCP/IP Client and Server - Java - Source Code | DreamInCode.net</A>
+                <DT><A HREF="http://www.lauridmeyer.com/2012/04/simple-arduino-tcp-server-using-the-ethernetshield-and-a-java-client/" ADD_DATE="1552706828">simple Arduino TCP Server using the Ethernetshield and a Java Client | Laurid Meyer.com</A>
+                <DT><A HREF="http://www.wellho.net/resources/ex.php4?item=j808/Leanne.java" ADD_DATE="1552706828">Multithreaded tcp/ip server in Java - Java example</A>
+                <DT><A HREF="http://pguides.net/java-tutorial/java-tcp-clientserver-chat/" ADD_DATE="1552706828">JAVA TCP Client/Server Chat | pguides.net</A>
+                <DT><A HREF="http://www.eztcp.com/en/download/sample_code.php" ADD_DATE="1552706828">ezTCP - Sample Codes</A>
+                <DT><A HREF="http://www.go4expert.com/forums/showthread.php?t=21100" ADD_DATE="1552706828">Complete Java Networking Explained with Simple Examples</A>
+                <DT><A HREF="http://lycog.com/distributed-systems/tcp-programming-java/" ADD_DATE="1552706828">TCP Programming with Java - LYCOG</A>
+                <DT><A HREF="http://www.dailyfreecode.com/code/socket-multi-client-chat-server-1252.aspx" ADD_DATE="1552706828">Socket program of multi client chat server - Java Examples and Tutorials</A>
+                <DT><A HREF="http://sourcecodemania.com/sockets-and-network-programming-in-java/" ADD_DATE="1552706828">Sockets and Network Programming in Java | Java Programming Resources | Source Code Mania.COM</A>
+                <DT><A HREF="http://homepages.uel.ac.uk/2795l/pages/javaapps.htm" ADD_DATE="1552706828">dpBasics : Java Socket Programming</A>
+                <DT><A HREF="http://zerioh.tripod.com/ressources/sockets.html" ADD_DATE="1552706828">Java Socket Programming Example</A>
+                <DT><A HREF="http://alvinalexander.com/blog/post/java/simple-java-socket-client-class-program" ADD_DATE="1552706828">A Java socket client class (Java socket example class) | alvinalexander.com</A>
+                <DT><A HREF="http://www.javaworld.com/jw-12-1996/jw-12-sockets.html?page=2" ADD_DATE="1552706828">Sockets programming in Java: A tutorial - JavaWorld</A>
+                <DT><A HREF="https://www.cordinc.com/blog/2010/08/java-nio-server-example.html" ADD_DATE="1552706828">Java NIO server example</A>
+                <DT><A HREF="http://www.cs.bu.edu/fac/matta/Teaching/CS552/F99/proj4/" ADD_DATE="1552706828">Multi-Threaded Web Server in Java</A>
+                <DT><A HREF="http://www.bogotobogo.com/Java/tutorials/tcp_socket_server_client.php" ADD_DATE="1552706828">Java Tutorial: TCP Socket Server/Client - 2017</A>
+                <DT><A HREF="https://www.cise.ufl.edu/~amyles/tutorials/tcpchat/" ADD_DATE="1552706829">Java TCP Sockets and Swing Tutorial</A>
+                <DT><A HREF="https://www.cs.uic.edu/~troy/spring05/cs450/sockets/socket.html" ADD_DATE="1552706829">Socket Examples</A>
+                <DT><A HREF="http://etutorials.org/Programming/Java+performance+tuning/Chapter+10.+Threading/10.8+Load+Balancing/" ADD_DATE="1552706829">10.8 Load Balancing :: Chapter 10. Threading :: Java performance tuning :: Programming :: eTutorials.org</A>
+                <DT><A HREF="http://zgking.com:8080/home/donghui/teaching/multithread_socket/" ADD_DATE="1552706829">Multithreaded Socket Programming in Java</A>
+                <DT><A HREF="http://ee402.eeng.dcu.ie/introduction/chapter-8---threads-and-networking/8-4-a-multi-threaded-client-server-application" ADD_DATE="1552706829">8.4 A Multi-Threaded Client/Server Application - EE402 - Object-oriented Programming with Embedded Systems</A>
+                <DT><A HREF="http://iharder.sourceforge.net/current/java/servers/" ADD_DATE="1552706829">Efficient, thread-safe, UDP, TCP, and NIO Java servers in the Public Domain</A>
+                <DT><A HREF="http://www.wellho.net/solutions/java-a-multithreaded-server-in-java.html" ADD_DATE="1552706829">A multithreaded server in Java</A>
+                <DT><A HREF="http://www.quickserver.org/download.html" ADD_DATE="1552706829">.:: QuickServer ::. Download</A>
+                <DT><A HREF="https://www.eduonix.com/blog/java-programming-2/learn-create-multi-threaded-server-java/" ADD_DATE="1552706829">Learn How to create a multi-threaded Server in Java?</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706821">SSH</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706833">Remote</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.cleondris.ch/en/opensource-ssh2.php" ADD_DATE="1552706829">Cleondris | Open Source Software</A>
+                    <DT><A HREF="http://www.lag.net/paramiko/java/" ADD_DATE="1552706830">jaramiko: ssh2 protocol for java</A>
+                    <DT><A HREF="https://code.google.com/p/sshxcute/downloads/list" ADD_DATE="1552706830">Downloads - sshxcute - sshxcute is a framework designed to let engineers to use Java call to execute command/script on remote Linux/UNIX system through SSH connection way - Google Project Hosting</A>
+                    <DT><A HREF="http://www.sshtools.com/blog" ADD_DATE="1552706830">SSHTOOLS Limited | Java SSH APIs for the Enterprise</A>
+                    <DT><A HREF="http://sshtools.sourceforge.net/#documentation" ADD_DATE="1552706831">Welcome to SSHTools — SSHTools documentation</A>
+                    <DT><A HREF="http://sshadmincontrol.com/documentation" ADD_DATE="1552706831">Documentation and Tutorials</A>
+                    <DT><A HREF="http://canseverayberk.blogspot.com/2011/10/ssh-client-connection-example-with.html" ADD_DATE="1552706831">Ayberk Cansever - Java Blog: SSH client connection example with JCraft&#39;s Java Secure Channel (JSch)</A>
+                    <DT><A HREF="http://www.codeproject.com/Articles/46891/Remote-interactive-SSH-command-in-Java" ADD_DATE="1552706831">Remote interactive SSH command in Java - CodeProject</A>
+                    <DT><A HREF="http://www.examplesample.com/java/execute-command-over-ssh" ADD_DATE="1552706831">Execute a Command over SSH - Java Example</A>
+                    <DT><A HREF="http://andrius.miasnikovas.lt/2009/07/ssh-with-java/" ADD_DATE="1552706832">SSH with Java | Andrius Miasnikovas</A>
+                    <DT><A HREF="http://linuxmafia.com/ssh/java.html" ADD_DATE="1552706832">SSH for Java</A>
+                    <DT><A HREF="http://itsiastic.wordpress.com/2012/11/07/how-to-create-a-java-ssh-server-mock/" ADD_DATE="1552706832">How to create a java ssh server mock | ITsiastic</A>
+                    <DT><A HREF="http://www.codeproject.com/Articles/3518/Executing-programs-remotely-in-Windows-NT-2000-XP" ADD_DATE="1552706832">Executing programs remotely in Windows NT/2000/XP - CodeProject</A>
+                    <DT><A HREF="http://kahimyang.info/kauswagan/code-blogs/1337/ssh-tunneling-with-java-a-database-connection-example" ADD_DATE="1552706833">SSH tunneling with Java, a database connection example</A>
+                    <DT><A HREF="http://anujktyagi.blogspot.com/2012/07/java-ssh-client.html" ADD_DATE="1552706833">Java SSH Client | Anuj Kumar Tyagi - Blog</A>
+                    <DT><A HREF="http://www.jcraft.com/jsch/examples/" ADD_DATE="1552706833">JSch - Examples</A>
+                </DL><p>
+                <DT><A HREF="http://www.cs.newpaltz.edu/~pletcha/db2_connectivity.html" ADD_DATE="1552706821">Connecting to the DB2 Server</A>
+                <DT><A HREF="http://www.ibm.com/developerworks/db2/library/techarticle/dm-0704patil/" ADD_DATE="1552706821">Technical tip: Secure DB2 communications using OpenSSH tunneling</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706824">Validator URL</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706832">Framework</H3>
+                <DL><p>
+                    <DT><A HREF="http://beanvalidation.org/" ADD_DATE="1552706829">Bean Validation: Bean Validation</A>
+                    <DT><A HREF="http://jodd.org/doc/vtor/" ADD_DATE="1552706830">Jodd | VTor</A>
+                    <DT><A HREF="https://code.google.com/p/easy-java-validation/" ADD_DATE="1552706830">easy-java-validation - XML Based Validation framework (Java validation made too easy) - Google Project Hosting</A>
+                    <DT><A HREF="http://www.ninjaframework.org/documentation/validation.html" ADD_DATE="1552706830">Ninja - full stack web framework for Java -</A>
+                    <DT><A HREF="http://www.javaworld.com/article/2076272/java-se/validation-with-pure-java.html" ADD_DATE="1552706830">Validation with pure Java | JavaWorld</A>
+                    <DT><A HREF="http://commons.apache.org/proper/commons-validator/" ADD_DATE="1552706831">Validator - Commons Validator</A>
+                    <DT><A HREF="http://oval.sourceforge.net/" ADD_DATE="1552706831">OVal - the object validation framework for Java™ 5 or later -</A>
+                    <DT><A HREF="http://javalite.io/validations" ADD_DATE="1552706831">JavaLite: Validation framework</A>
+                    <DT><A HREF="http://www.codeproject.com/Articles/365590/Simple-client-and-server-side-validation-framework" ADD_DATE="1552706831">Simple client and server side validation framework in Java - CodeProject</A>
+                    <DT><A HREF="https://code.google.com/p/agimatec-validation/wiki/GettingStarted" ADD_DATE="1552706832">GettingStarted - agimatec-validation - Getting started with agimatec-validation framework - Java bean-validation framework implementing JSR 303 - Google Project Hosting</A>
+                    <DT><A HREF="http://www.psidev.info/validator-tutorial-0" ADD_DATE="1552706832">Validator Tutorial: Introduction | HUPO Proteomics Standards Initiative</A>
+                </DL><p>
+                <DT><A HREF="http://java.sun.com/developer/JDCTechTips/2003/tt0422.html" ADD_DATE="1552706821">Validating URL Links and Reusing Exceptions</A>
+                <DT><A HREF="http://forum.java.sun.com/thread.jspa?threadID=449810&messageID=2043208" ADD_DATE="1552706821">Java Technology Forums - check www connection?</A>
+                <DT><A HREF="http://forum.java.sun.com/thread.jspa?threadID=616840&messageID=3438413" ADD_DATE="1552706822">Java Technology Forums - Check url</A>
+                <DT><A HREF="http://www.javaworld.com/javaworld/javatips/jw-javatip96.html" ADD_DATE="1552706822">Java Tip 96: Use HTTPS in your Java client code</A>
+                <DT><A HREF="http://kickjava.com/425.htm" ADD_DATE="1552706823">[Doc] java.net.URLConnection _ Java API By Example, From Geeks To Geeks.</A>
+                <DT><A HREF="http://java.sun.com/j2se/1.4.2/docs/api/java/net/ConnectException.html" ADD_DATE="1552706823">ConnectException (Java 2 Platform SE v1.4.2)</A>
+                <DT><A HREF="http://forum.java.sun.com/thread.jspa?threadID=736757&messageID=4231857" ADD_DATE="1552706823">Java Technology Forums - How do I validate URL</A>
+                <DT><A HREF="http://jakarta.apache.org/commons/validator/apidocs/org/apache/commons/validator/UrlValidator.html" ADD_DATE="1552706824">Validator 1.3.0 API: Class UrlValidator</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706823">Lucene</H3>
+            <DL><p>
+                <DT><A HREF="http://lucene.apache.org/java/1_9_0/gettingstarted.html" ADD_DATE="1552706821">Apache Lucene - Apache Lucene - Getting Started Guide</A>
+                <DT><A HREF="http://www.vogella.de/articles/Lucene/ar01s04.html" ADD_DATE="1552706821">4. Links and Literature</A>
+                <DT><A HREF="http://www.ibm.com/developerworks/library/wa-lucene2/index.html?S_TACT=105AGX44&S_CMP=EDU" ADD_DATE="1552706821">Beef up Web search applications with Lucene</A>
+                <DT><A HREF="http://www.ibm.com/developerworks/library/j-solr1/index.html?S_TACT=105AGX44&S_CMP=EDU" ADD_DATE="1552706822">Search smarter with Apache Solr, Part 1: Essential features and the Solr schema</A>
+                <DT><A HREF="http://www.ibm.com/developerworks/library/wa-lucene/index.html?S_TACT=105AGX44&S_CMP=EDU" ADD_DATE="1552706822">Delve inside the Lucene indexing mechanism</A>
+                <DT><A HREF="http://www.ibm.com/developerworks/library/j-solr2/index.html?S_TACT=105AGX44&S_CMP=EDU" ADD_DATE="1552706823">Search smarter with Apache Solr, Part 2: Solr for the enterprise</A>
+                <DT><A HREF="http://www.ibm.com/developerworks/java/library/j-lucene/" ADD_DATE="1552706823">Parsing, indexing, and searching XML with Digester and Lucene</A>
+                <DT><A HREF="http://blog.sematext.com/page/2/" ADD_DATE="1552706823">Sematext Blog</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706820">Voice</H3>
+            <DL><p>
+                <DT><A HREF="http://freetts.sourceforge.net/docs/index.php" ADD_DATE="1552706820">FreeTTS 1.2 - A speech synthesizer written entirely in the Java(TM) programming language</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706824">Read File</H3>
+            <DL><p>
+                <DT><A HREF="http://www.roseindia.net/java/beginners/java-read-file-line-by-line.shtml" ADD_DATE="1552706821">Java Read File Line By Line,How to Read File Line By Line in Java</A>
+                <DT><A HREF="http://www.codeodor.com/index.cfm/2007/5/14/Re-Sorting-really-BIG-files---the-Java-source-code/1208" ADD_DATE="1552706821">Re Sorting really BIG files the Java source code</A>
+                <DT><A HREF="http://nadeausoftware.com/articles/2008/02/java_tip_how_read_files_quickly#FileReaderandBufferedReader" ADD_DATE="1552706821">Java tip: How to read files quickly | Nadeau Software</A>
+                <DT><A HREF="http://www.kegel.com/java/wp-javaio.html" ADD_DATE="1552706822">Java I/O Performance Tuning</A>
+                <DT><A HREF="http://java.sun.com/developer/technicalArticles/Programming/PerfTuning/" ADD_DATE="1552706822">Articles: Tuning Java I/O Performance</A>
+                <DT><A HREF="http://tutorials.pip.vn/code/java/file/fileinputstream/reading-into-a-large-buffer-through-filechannel.html" ADD_DATE="1552706822">Reading into a Large Buffer through FileChannel - FileInputStream - File - Java -</A>
+                <DT><A HREF="http://examples.javacodegeeks.com/core-java/io/datainputstream/read-byte-array-from-file-with-datainputstream/" ADD_DATE="1552706823">Read byte array from file with DataInputStream | Examples Java Code Geeks</A>
+                <DT><A HREF="http://www.mkyong.com/java/how-to-read-file-from-java-bufferedinputstream-example/" ADD_DATE="1552706823">How to read file in Java – BufferedInputStream</A>
+                <DT><A HREF="http://www.java-tips.org/java-se-tips/java.io/how-to-read-file-in-java.html" ADD_DATE="1552706823">Java Tips - How to Read File in Java</A>
+                <DT><A HREF="http://www.lcse.umn.edu/specs/java/tutorial/java/io/dataIO.html" ADD_DATE="1552706824">Using DataInputStream and DataOutputStream</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706824">XStream</H3>
+            <DL><p>
+                <DT><A HREF="http://www.ibm.com/developerworks/library/x-xstream/index.html" ADD_DATE="1552706820">Use XStream to serialize Java objects into XML</A>
+                <DT><A HREF="http://rathinasaba.wordpress.com/2010/12/21/convertion-of-object-to-xml-and-xml-to-object-using-xstream-jar/" ADD_DATE="1552706821">Serializing and Deserializing Object using XStream « My Tech Blog</A>
+                <DT><A HREF="http://xstream.codehaus.org/converter-tutorial.html" ADD_DATE="1552706821">XStream - Converter Tutorial</A>
+                <DT><A HREF="http://www.devx.com/xml/Article/30068/0/page/2" ADD_DATE="1552706822">Get Moving with Java-XML Serialization Using XStream : Page 2</A>
+                <DT><A HREF="http://www.sw-engineering-candies.com/blog-1/howtoserializeobjectstoxmlandbackagainwithxstream" ADD_DATE="1552706822">Tutorial - How to Serialize Objects to XML and Back Again with XStream? - Software Engineering Candies</A>
+                <DT><A HREF="http://www.xml.com/pub/a/2004/08/18/xstream.html" ADD_DATE="1552706823">XML.com: Serializing Java Objects with XStream</A>
+                <DT><A HREF="http://xstream.codehaus.org/tutorial.html" ADD_DATE="1552706823">XStream - Two Minute Tutorial</A>
+                <DT><A HREF="http://developmentality.wordpress.com/2010/07/13/xstream-introduction-and-java-collections-serialization-problem-workaround/" ADD_DATE="1552706823">XStream introduction and Java Collections serialization problem workaround « Developmentality</A>
+                <DT><A HREF="http://www.openscope.net/2010/01/22/java-xml-and-xstream/" ADD_DATE="1552706823">Java, XML and XStream</A>
+                <DT><A HREF="http://makble.com/the-self-closing-tag-problem-of-javaxxmltransform-package-dom-to-source" ADD_DATE="1552706824">The self closing tag problem of javax.xml.transform package DOM to source - Java - makble</A>
+                <DT><A HREF="https://stackoverflow.com/questions/13860041/java-xml-self-closing-tags" ADD_DATE="1552706824">Java xml self-closing tags - Stack Overflow</A>
+                <DT><A HREF="https://stackoverflow.com/questions/1687203/java-remove-empty-xml-tags" ADD_DATE="1552706824">Java Remove empty XML tags - Stack Overflow</A>
+                <DT><A HREF="https://stackoverflow.com/questions/3751753/how-to-prevent-xml-transformer-to-transform-empty-tags-into-single-tag" ADD_DATE="1552706824">java - How to prevent xml transformer to transform empty tags into single tag - Stack Overflow</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706821">Blog Java</H3>
+            <DL><p>
+                <DT><A HREF="http://fahdshariff.blogspot.com/search?updated-max=2010-08-25T22:19:00%2B01:00&max-results=5&start=95&by-date=false" ADD_DATE="1552706821">fahd.blog</A>
+                <DT><A HREF="http://goldenpackagebyanuj.blogspot.in/search/label/Core%20Java?max-results=10" ADD_DATE="1552706821">Core Java,J2EE,Spring,Hibernate,JAX-RS,Php Tutorials: Core Java</A>
+                <DT><A HREF="http://javarevisited.blogspot.sg/search?updated-max=2012-10-29T07:14:00-07:00&max-results=3&start=60&by-date=false" ADD_DATE="1552706821">Javarevisited: FIX Protocol, tibco,unix and java tutorial with example</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706826">Queue</H3>
+            <DL><p>
+                <DT><A HREF="http://www.vivekmehtaonline.com/technical-articles/java-queue-example" ADD_DATE="1552706821">Java Queue Example - vivekmain</A>
+                <DT><A HREF="http://www.mycstutorials.com/articles/data_structures/queues" ADD_DATE="1552706821">A tutorial on Queues (with examples and Java code)</A>
+                <DT><A HREF="http://javaevangelist.blogspot.com/2011/05/threaded-queue-example.html" ADD_DATE="1552706821">Java Evangelist John Yeary&#39;s Blog: Threaded Queue Example - ConcurrentLinkedQueue</A>
+                <DT><A HREF="http://algs4.cs.princeton.edu/13stacks/Queue.java.html" ADD_DATE="1552706822">Queue.java</A>
+                <DT><A HREF="http://www.javacodegeeks.com/2012/04/using-delayed-queues-in-practice.html" ADD_DATE="1552706822">Using Delayed queues in practice | Java Code Geeks</A>
+                <DT><A HREF="http://examples.javacodegeeks.com/core-java/util/concurrent/synchronous-queue-example-to-execute-commands/" ADD_DATE="1552706823">Synchronous Queue example to execute commands | Examples Java Code Geeks</A>
+                <DT><A HREF="http://www.fromdev.com/2009/06/how-can-i-leverage-javautilconcurrent.html" ADD_DATE="1552706823">How to leverage Java BlockingQueue from java.util.concurrent</A>
+                <DT><A HREF="http://code.google.com/p/simple-mq/" ADD_DATE="1552706823">simple-mq - A simple Java message queue - Google Project Hosting</A>
+                <DT><A HREF="http://www.vogella.com/articles/JavaConcurrency/article.html" ADD_DATE="1552706823">Java Concurrency / Multithreading - Tutorial</A>
+                <DT><A HREF="http://howtodoinjava.com/2012/10/20/how-to-use-blockingqueue-and-threadpoolexecutor-in-java/" ADD_DATE="1552706824">How to use BlockingQueue and ThreadPoolExecutor in java | How to do in JAVA</A>
+                <DT><A HREF="http://java67.blogspot.com/2012/12/producer-consumer-problem-with-wait-and-notify-example.html" ADD_DATE="1552706824">Producer Consumer Problem with Wait and Notify Example | Java67 - Java Program Example Tutorial Blog</A>
+                <DT><H3 ADD_DATE="1552706824" LAST_MODIFIED="1552706832">Thread Queue</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.journaldev.com/1069/java-thread-pool-example-using-executors-and-threadpoolexecutor" ADD_DATE="1552706829">Java Thread Pool Example using Executors and ThreadPoolExecutor</A>
+                    <DT><A HREF="http://www.drdobbs.com/parallel/java-concurrency-queue-processing-part-2/232900063" ADD_DATE="1552706829">Java Concurrency: Queue Processing, Part 2 | Dr Dobb&#39;s</A>
+                    <DT><A HREF="http://meteorfox.wordpress.com/2010/09/10/how-to-write-a-blocking-thread-safe-queue-in-java/" ADD_DATE="1552706830">How to write a blocking thread-safe Queue in Java | meteorfox project</A>
+                    <DT><A HREF="http://mrbool.com/how-to-implement-concurrent-queue-linked-in-java/26640" ADD_DATE="1552706830">How to implement Concurrent Queue Linked in Java</A>
+                    <DT><A HREF="http://www.developer.com/java/ent/article.php/3645111/Java-5s-BlockingQueue.htm" ADD_DATE="1552706831">Java 5&#39;s BlockingQueue - Developer.com - Developer.com</A>
+                    <DT><A HREF="https://www.dbtsai.com/blog/java-concurrent-dynamic-object-pool-for-non-thread-safe-objects-using-blocking-queue/" ADD_DATE="1552706831">Java Concurrent Dynamic Object Pool for non Thread Safe Objects using Blocking Queue | DB Tsai</A>
+                    <DT><A HREF="http://www.javaroots.com/2013/02/my-custom-thread-pool-executor-in-java.html" ADD_DATE="1552706831">JavaRoots: My Custom Thread Pool Executor in Java</A>
+                    <DT><A HREF="http://mkorytin.blogspot.com/2012/03/priority-queues-in-java-part-2.html" ADD_DATE="1552706831">Maxim&#39;s blog: Priority Queues in Java Part II. PriorityBlockingQueue and Executors.</A>
+                    <DT><A HREF="http://ajeetsingh.org/2013/08/29/thread-design-pattern/" ADD_DATE="1552706832">Thread Pool Design pattern « Ajeet Singh</A>
+                    <DT><A HREF="http://www.javamex.com/tutorials/blockingqueue_example.shtml" ADD_DATE="1552706832">BlockingQueue example: a background logger thread</A>
+                </DL><p>
+                <DT><A HREF="http://www.javamex.com/tutorials/blockingqueue_example.shtml" ADD_DATE="1552706824">BlockingQueue example: a background logger thread</A>
+                <DT><A HREF="https://www.cs.duke.edu/csed/poop/huff/spring05/code/PriorityQueue.java" ADD_DATE="1552706825">https://www.cs.duke.edu/csed/poop/huff/spring05/code/PriorityQueue.java</A>
+                <DT><A HREF="http://cs.lmu.edu/~ray/notes/queues/" ADD_DATE="1552706825">Queues</A>
+                <DT><A HREF="http://www.phil.uu.nl/~oostrom/java/99-00/Queue/Queue.java" ADD_DATE="1552706825">www.phil.uu.nl/~oostrom/java/99-00/Queue/Queue.java</A>
+                <DT><A HREF="http://eddmann.com/posts/implementing-a-queue-in-java-using-arrays-and-linked-lists/" ADD_DATE="1552706825">Implementing a Queue in Java using Arrays and Linked Lists • edd mann</A>
+                <DT><A HREF="http://www.cs.utsa.edu/~wagner/CS2213/queue/queue.html" ADD_DATE="1552706825">A queue</A>
+                <DT><A HREF="http://www.dreamincode.net/forums/topic/273811-queues-arrays-and-linked-lists/" ADD_DATE="1552706826">Queues- Arrays And Linked Lists - Java Tutorials | Dream.In.Code</A>
+                <DT><A HREF="http://algs4.cs.princeton.edu/43mst/Queue.java.html" ADD_DATE="1552706826">Queue.java</A>
+                <DT><A HREF="http://javarticles.com/2016/11/linkedblockingqueue-example.html" ADD_DATE="1552706826">LinkedBlockingQueue Example</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706825">Captcha</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706831">Net</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.c-sharpcorner.com/UploadFile/14d00d/creating-captcha-code-in-Asp-Net/" ADD_DATE="1552706829">Creating Captcha Code in ASP.NET</A>
+                    <DT><A HREF="http://www.c-sharpcorner.com/uploadfile/dhavalweb30/captcha-in-Asp-Net/" ADD_DATE="1552706829">Captcha in ASP.Net</A>
+                    <DT><A HREF="http://www.c-sharpcorner.com/UploadFile/satyapriyanayak/fghdfghdh/" ADD_DATE="1552706830">Registration Form using Captcha Image Implementation in VB.NET</A>
+                    <DT><A HREF="http://www.codeproject.com/Articles/9178/The-Captcha-Web-Service" ADD_DATE="1552706830">The Captcha Web Service - CodeProject</A>
+                    <DT><A HREF="http://www.codeguru.com/csharp/article.php/c19013/Creating-and-Using-a-CAPTCHA-in-ASPNET-MVC.htm" ADD_DATE="1552706831">Creating and Using a CAPTCHA in ASP.NET MVC</A>
+                    <DT><A HREF="http://www.asp.net/web-pages/tutorials/security/using-a-catpcha-to-prevent-automated-programs-(bots)-from-using-your-aspnet-web-site" ADD_DATE="1552706831">Using a CAPTCHA to Prevent Automated Programs (Bots) from Using Your ASP.NET Web Site : The Official Microsoft ASP.NET Site</A>
+                    <DT><A HREF="http://www.webhostingbillboard.com/development/12-best-captcha-resources-for-your-website/" ADD_DATE="1552706831">12 Best CAPTCHA Resources For Your Website - Web Hosting Billboard</A>
+                    <DT><A HREF="http://tympanus.net/codrops/2009/09/22/21-free-captcha-sources/" ADD_DATE="1552706831">21 Free CAPTCHA Sources | Codrops</A>
+                </DL><p>
+                <DT><A HREF="https://code.google.com/p/icaptcha/" ADD_DATE="1552706821">icaptcha - Open Source Java Captcha with Internalization - Google Project Hosting</A>
+                <DT><A HREF="http://www.roseindia.net/struts/struts2/captcha/java-captcha-example.shtml" ADD_DATE="1552706821">Java Captcha Example, Java Captcha In Struts 2</A>
+                <DT><A HREF="http://www.brasee.com/displayPost.htm?postId=34" ADD_DATE="1552706822">How to write a simple CAPTCHA in Java - Brasee.com</A>
+                <DT><A HREF="http://www.javaworld.com/javaworld/jw-03-2005/jw-0307-captcha.html" ADD_DATE="1552706822">Create an anonymous authentication module - JavaWorld</A>
+                <DT><A HREF="https://jcaptcha.atlassian.net/wiki/display/general/Home" ADD_DATE="1552706822">Home - JCaptcha - Confluence</A>
+                <DT><A HREF="https://www.owasp.org/index.php/Captchas_in_Java" ADD_DATE="1552706823">Captchas in Java - OWASP</A>
+                <DT><A HREF="http://docs.nucaptcha.com/languages/java/1.0/examples" ADD_DATE="1552706823">Captcha API Installation Guide for Java | 1.0 | Examples</A>
+                <DT><A HREF="http://captchas.net/" ADD_DATE="1552706823">captchas.net</A>
+                <DT><A HREF="http://simplecaptcha.sourceforge.net/samples.html" ADD_DATE="1552706824">SimpleCaptcha - Running the Example Applications</A>
+                <DT><A HREF="http://zetcode.com/tutorials/jeetutorials/captcha/" ADD_DATE="1552706824">Creating a captcha in a Servlet</A>
+                <DT><A HREF="http://blog.datispars.com/436/" ADD_DATE="1552706824">Simplest Captcha in Java | datispars blog</A>
+                <DT><A HREF="http://www.javacodegeeks.com/2010/06/add-captcha-gwt-application.html" ADD_DATE="1552706824">Adding CAPTCHA to your GWT application | Java Code Geeks</A>
+                <DT><A HREF="http://woork.blogspot.com/2009/02/10-free-captcha-scripts-and-services.html" ADD_DATE="1552706825">10 Free CAPTCHA scripts and services for websites</A>
+                <DT><A HREF="http://oracle.anilpassi.com/oa-framework-with-captcha-webservice-2.html" ADD_DATE="1552706825">Apps - OA Framework with Captcha Webservice</A>
+                <DT><A HREF="http://www.opencaptcha.com/" ADD_DATE="1552706825">OpenCaptcha by Virante, Inc: The Free &amp; Open Captcha Web Service</A>
+                <DT><A HREF="http://tau-itw.wikidot.com/project:3-d-captcha" ADD_DATE="1552706825">3-D CAPTCHA - Internet Technologies Workshop</A>
+                <DT><A HREF="http://www.script-tutorials.com/collection-of-captchas-for-your-website-and-more-about-security/" ADD_DATE="1552706825">Collection of Free Captcha’s for your Website</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706826">JMeter</H3>
+            <DL><p>
+                <DT><A HREF="http://blog.milamberspace.net/index.php/jmeter-pages/jmeter-test-de-charges-dun-site-web-mode-demploi" ADD_DATE="1552706820">MilamberSpace – JMeter » JMeter – Test de charges</A>
+                <DT><A HREF="http://jmeter-expert.blogspot.com/2010/03/testing-performance-of-web-page-with.html" ADD_DATE="1552706821">JMeter Expert: Testing performance of web page with Apache JMeter</A>
+                <DT><A HREF="http://resources.infosecinstitute.com/apache-jmeter-part-3/" ADD_DATE="1552706821">InfoSec Institute Resources – Apache JMeter Part 3: Testing Website Performance</A>
+                <DT><A HREF="http://www.anujgakhar.com/2010/06/23/stress-testing-your-website-with-apache-jmeter/" ADD_DATE="1552706822">Stress Testing your website with Apache jMeter | Anuj Gakhar</A>
+                <DT><A HREF="http://jmeter.apache.org/usermanual/build-web-test-plan.html" ADD_DATE="1552706822">Apache JMeter - User&#39;s Manual: Building a Web Test Plan</A>
+                <DT><A HREF="http://robert.penz.name/106/mini-howto-for-jmeter-a-open-source-web-load-testing-tool/" ADD_DATE="1552706822">Mini Howto for JMeter, an open source web load testing tool | Robert Penz Blog</A>
+                <DT><A HREF="http://sqa.stackexchange.com/questions/2546/where-can-i-find-good-jmeter-tutorials" ADD_DATE="1552706823">performance - Where can I find good JMeter tutorials? - Software Quality Assurance &amp; Testing Stack Exchange</A>
+                <DT><A HREF="http://aravindamadusanka.blogspot.com/2012/08/how-to-use-apache-jmeter-for-web.html" ADD_DATE="1552706823">Aravinda&#39;s Tech Blog: How to Use Apache JMeter for Web Services Testing...</A>
+                <DT><A HREF="http://lincolnloop.com/blog/load-testing-jmeter-part-1-getting-started/" ADD_DATE="1552706823">Load Testing with JMeter: Part 1 - Getting Started | Blog | Django Development | Lincoln Loop</A>
+                <DT><A HREF="https://www.digitalocean.com/community/tutorials/how-to-use-apache-jmeter-to-perform-load-testing-on-a-web-server" ADD_DATE="1552706824">How To Use Apache JMeter To Perform Load Testing on a Web Server | DigitalOcean</A>
+                <DT><A HREF="http://community.jaspersoft.com/wiki/performance-testing-jmeter" ADD_DATE="1552706824">Performance Testing with JMeter | Jaspersoft Community</A>
+                <DT><A HREF="http://www.oracle.com/technetwork/articles/entarch/jmeter-performance-testing3-096246.html" ADD_DATE="1552706824">jmeter-performance-testing3.html</A>
+                <DT><A HREF="http://jmeter-expert.blogspot.com/" ADD_DATE="1552706825">JMeter Expert</A>
+                <DT><A HREF="http://blog.datasection.com.vn/2014/04/21/cai-dat-va-su-dung-jmeter-test-hieu-nang-website/" ADD_DATE="1552706825">Cài đặt và sử dụng Jmeter – test hiệu năng website | Blog Datasection</A>
+                <DT><A HREF="http://www.ubik-ingenierie.com/blog/jmeter_control_percentage_of_sampler/" ADD_DATE="1552706825">JMeter : SwitchControler or How to run a sampler with a certain percentage | UBIK LOAD PACK Blog</A>
+                <DT><A HREF="http://hoidapit.com.vn/Questions/ViewQuestions/2564/load-testing-s%E1%BB%AD-d%E1%BB%A5ng-jmeter.html" ADD_DATE="1552706825">LOAD TESTING SỬ DỤNG JMETER</A>
+                <DT><A HREF="http://www.guru99.com/jmeter-performance-testing.html" ADD_DATE="1552706825">Performance Testing using Jmeter</A>
+                <DT><A HREF="http://blog.nerdability.com/2014/02/distributed-performance-testing-with.html" ADD_DATE="1552706826">NerdAbility.com Blog: Distributed Performance Testing With Maven JMeter and Jenkins</A>
+                <DT><A HREF="http://www.softwaretestingclass.com/learn-jmeter-performance-testing-jmeter-tutorial-series/" ADD_DATE="1552706826">JMeter Tutorials Series – Performance testing using JMeter in 11 days | Software Testing Class</A>
+                <DT><A HREF="https://www.youtube.com/channel/UCISe6e_phEMAvQMhjd7TJ8Q" ADD_DATE="1552706826">JMeter Tutorials - YouTube</A>
+                <DT><A HREF="http://www.testingminded.com/2009/02/tutorial-on-functional-testing-with_3033.html" ADD_DATE="1552706826">Tutorial: functional testing with JMeter ~ TestingMinded</A>
+                <DT><A HREF="http://examples.javacodegeeks.com/enterprise-java/apache-jmeter/jmeter-throughput-example/" ADD_DATE="1552706826">JMeter Throughput Example | Examples Java Code Geeks</A>
+                <DT><A HREF="http://blog.disy.net/jmeter-tutorial/" ADD_DATE="1552706826">JMeter Tutorial</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706824">JSON</H3>
+            <DL><p>
+                <DT><A HREF="http://www.journaldev.com/2315/java-json-processing-api-example-tutorial" ADD_DATE="1552706821">Java JSON Processing API Example Tutorial | JournalDev</A>
+                <DT><A HREF="http://tech24salt.blogspot.com/2013/05/jsonsimple-examples.html" ADD_DATE="1552706821">Java Techwars: JSON.simple Example</A>
+                <DT><A HREF="http://www.studytrails.com/java/json/java-json-simple.jsp" ADD_DATE="1552706821">Java - Json Simple</A>
+                <DT><A HREF="http://liuweipingblog.cn/java/simple-java-json-encoding-example/" ADD_DATE="1552706822">Simple Example of Java JSON Encoding in Servlet » Xrigher</A>
+                <DT><A HREF="http://crunchify.com/json-manipulation-in-java-examples/" ADD_DATE="1552706822">JSON Manipulation in Java - Examples • Crunchify</A>
+                <DT><A HREF="http://javapostsforlearning.blogspot.in/2013/11/jsonsimple-example-read-and-write-json.html" ADD_DATE="1552706822">JSON.simple example – Read and write JSON | Java tutorial for beginners</A>
+                <DT><A HREF="http://www.mkyong.com/java/json-simple-example-read-and-write-json/" ADD_DATE="1552706823">JSON.simple example – Read and write JSON</A>
+                <DT><A HREF="https://code.google.com/p/json-simple/" ADD_DATE="1552706823">json-simple - JSON.simple - A simple Java toolkit for JSON - Google Project Hosting</A>
+                <DT><A HREF="http://viralpatel.net/blogs/creating-parsing-json-data-with-java-servlet-struts-jsp-json/" ADD_DATE="1552706823">Creating &amp; Parsing JSON data with Java Servlet/Struts/JSP</A>
+                <DT><A HREF="http://jsonformatter.curiousconcept.com/" ADD_DATE="1552706824">JSON Formatter &amp; Validator</A>
+                <DT><H3 ADD_DATE="1552706824" LAST_MODIFIED="1552706833">Jackson</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.java67.com/2015/02/how-to-parse-json-tofrom-java-object.html" ADD_DATE="1552706829">How to Parse JSON to/from Java Object using Jackson Example | Java67</A>
+                    <DT><A HREF="http://www.java2blog.com/2015/10/jackson-example-read-and-write-json.html" ADD_DATE="1552706830">Jackson example – Read and write JSON - Java tutorial for beginners</A>
+                    <DT><A HREF="http://www.ngdata.com/parsing-a-large-json-file-efficiently-and-easily/" ADD_DATE="1552706830">Parsing a large JSON file efficiently &amp; easily - NGData</A>
+                    <DT><A HREF="http://www.concretepage.com/jackson-api/read-write-json-using-jackson-objectmapper-jsonparser-jsongenerator-example" ADD_DATE="1552706830">Read/Write JSON Using Jackson ObjectMapper, JsonParser and JsonGenerator Example</A>
+                    <DT><A HREF="http://www.journaldev.com/2324/jackson-json-java-parser-api-example-tutorial" ADD_DATE="1552706831">Jackson JSON Java Parser API Example Tutorial - JournalDev</A>
+                    <DT><A HREF="http://tutorials.jenkov.com/java-json/jackson-objectmapper.html" ADD_DATE="1552706831">Jackson - ObjectMapper</A>
+                    <DT><A HREF="https://shinesolutions.com/2011/12/23/processing-huge-json-files-with-jackson/" ADD_DATE="1552706831">Processing Huge JSON Files with Jackson – Shine Solutions Group Pty Ltd</A>
+                    <DT><A HREF="http://blog.takipi.com/the-ultimate-json-library-json-simple-vs-gson-vs-jackson-vs-json/" ADD_DATE="1552706831">The Ultimate JSON Library: JSON.simple vs GSON vs Jackson vs JSONP | Takipi Blog</A>
+                    <DT><A HREF="http://blog-en.openalfa.com/how-to-process-large-json-documents-in-java" ADD_DATE="1552706832">How to process large JSON documents in Java » OpenAlfa Blog</A>
+                    <DT><A HREF="http://www.acuriousanimal.com/2015/10/23/reading-json-file-in-stream-mode-with-gson.html" ADD_DATE="1552706832">Reading very big JSON files in stream mode with GSON</A>
+                    <DT><A HREF="http://javarevisited.blogspot.com/2015/03/parsing-large-json-files-using-jackson.html" ADD_DATE="1552706832">Parsing Large JSON Files using Jackson Streaming API Example</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/18230744/json-parser-read-an-entry-by-entry-from-large-json-file" ADD_DATE="1552706832">java - JSON parser read an entry by entry from large JSON file - Stack Overflow</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/9390368/java-best-approach-to-parse-huge-extra-large-json-file" ADD_DATE="1552706832">JAVA - Best approach to parse huge (extra large) JSON file - Stack Overflow</A>
+                    <DT><A HREF="http://javahash.com/read-write-json-jackson-streaming-api/" ADD_DATE="1552706833">Read and Write JSON - Jackson Streaming API</A>
+                    <DT><A HREF="http://rick-hightower.blogspot.com/2013/11/benchmark-for-json-parsing-boon-scores.html" ADD_DATE="1552706833">Sleepless Dev: Benchmark for JSON parsing: Boon scores a home run! (Boon JSON parser now fastest on JVM and part of Groovy 2.3)</A>
+                </DL><p>
+                <DT><A HREF="https://github.com/joelittlejohn/jsonschema2pojo" ADD_DATE="1552706824">joelittlejohn/jsonschema2pojo: Generate Java types from JSON or JSON Schema and annotates those types for data-binding with Jackson, Gson, etc</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706826">Encryption</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706832">From File</H3>
+                <DL><p>
+                    <DT><A HREF="https://www.digitalocean.com/community/tutorials/java-keytool-essentials-working-with-java-keystores" ADD_DATE="1552706829">Java Keytool Essentials: Working with Java Keystores | DigitalOcean</A>
+                    <DT><A HREF="http://www.cis.upenn.edu/~bcpierce/courses/629/jdkdocs/tooldocs/win32/javakey.html" ADD_DATE="1552706829">javakey-The Java Security Tool</A>
+                    <DT><A HREF="http://www.shodor.org/~jmorrell/interactivate/org/shodor/encryption/RSAEncryptUtil.java" ADD_DATE="1552706830">www.shodor.org/~jmorrell/interactivate/org/shodor/encryption/RSAEncryptUtil.java</A>
+                    <DT><A HREF="http://www.mysamplecode.com/2011/08/java-rsa-encrypt-string-using-bouncy.html" ADD_DATE="1552706830">JAVA RSA encrypt string with public key using bouncy castle Crypto APIs</A>
+                    <DT><A HREF="https://javadigest.wordpress.com/2012/08/26/rsa-encryption-example/" ADD_DATE="1552706830">RSA Encryption Example | JavaDigest</A>
+                    <DT><A HREF="http://www.reindel.com/asymmetric-public-key-encryption-using-rsa-java-openssl/" ADD_DATE="1552706831">Brian Reindel | Asymmetric (Public-key) Encryption Using RSA, Java and OpenSSL</A>
+                    <DT><A HREF="https://www.owasp.org/index.php/Digital_Signature_Implementation_in_Java" ADD_DATE="1552706831">Digital Signature Implementation in Java - OWASP</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/11410770/load-rsa-public-key-from-file" ADD_DATE="1552706831">java - Load RSA public key from file - Stack Overflow</A>
+                    <DT><A HREF="http://www.macs.hw.ac.uk/~ml355/lore/FileEncryption.java" ADD_DATE="1552706831">www.macs.hw.ac.uk/~ml355/lore/FileEncryption.java</A>
+                    <DT><A HREF="http://www.txedo.me/blog/java-generate-rsa-keys-write-pem-file/" ADD_DATE="1552706832">Generate RSA keys and write to a PEM file in Java - txedo.me</A>
+                    <DT><A HREF="http://introcs.cs.princeton.edu/java/78crypto/RSA.java.html" ADD_DATE="1552706832">RSA.java</A>
+                    <DT><A HREF="http://laihaomi.com/questions/148382/java-load-rsa-public-key-from-file" ADD_DATE="1552706832">java - load RSA public Key From File</A>
+                    <DT><A HREF="http://www.herongyang.com/JDK/Digital-Signature-JcaVerify-Signature-Verification-Program.html" ADD_DATE="1552706832">JcaVerify.java - Signature Verification Sample Program</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706832">Digital Signature </H3>
+                <DL><p>
+                    <DT><A HREF="http://hasini-gunasinghe.blogspot.com/2012/08/digital-signature-by-example.html" ADD_DATE="1552706829">Hasini&#39;s Views: Digital Signature by Example</A>
+                    <DT><A HREF="http://docstore.mik.ua/orelly/java-ent/security/ch12_01.htm" ADD_DATE="1552706830">Digital Signatures (Java Security)</A>
+                    <DT><A HREF="http://www.xinotes.net/notes/note/1900/" ADD_DATE="1552706830">Generate and verify RSA signature in Java | Xinotes</A>
+                    <DT><A HREF="https://www.flexiprovider.de/download.html" ADD_DATE="1552706830">Download</A>
+                    <DT><A HREF="http://www.programcreek.com/java-api-examples/index.php?api=java.security.Signature" ADD_DATE="1552706830">Java Code Example for java.security.Signature</A>
+                    <DT><A HREF="http://www.java2s.com/Tutorial/Java/0490__Security/SimpleDigitalSignatureExample.htm" ADD_DATE="1552706831">Simple Digital Signature Example : RSA algorithm « Security « Java Tutorial</A>
+                    <DT><A HREF="http://journals.ecs.soton.ac.uk/java/tutorial/security1.1/api/index.html" ADD_DATE="1552706831">Using the Security API to Generate and Verify a Signature</A>
+                    <DT><A HREF="http://www.ibm.com/developerworks/java/tutorials/j-sec1/j-sec1.html" ADD_DATE="1552706831">Java security: Java security, Part 1: Crypto basics</A>
+                    <DT><A HREF="http://kodejava.org/how-to-create-a-digital-signature-and-sign-data/" ADD_DATE="1552706831">How to create a digital signature and sign data? | Java Examples</A>
+                    <DT><A HREF="http://jexp.ru/index.php/Java_Tutorial/Security/RSA_algorithm" ADD_DATE="1552706832">Java Tutorial/Security/RSA algorithm — Java эксперт</A>
+                    <DT><A HREF="http://databasefaq.com/index.php/answer/76664/java-android-rsa-digital-signature-public-key-encryption-signing-and-verifying-with-java-android" ADD_DATE="1552706832">java,android,rsa,digital-signature,public-key-encryption , Signing and verifying with java android</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706831">Generate key</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.mysamplecode.com/2011/08/java-generate-rsa-key-pair-using-bouncy.html" ADD_DATE="1552706829">JAVA generate RSA Public and Private Key Pairs using bouncy castle Crypto APIs</A>
+                    <DT><A HREF="https://gist.github.com/manzke/1068441" ADD_DATE="1552706830">How to generate the PublicKey from a RSA PrivateKey · GitHub</A>
+                    <DT><A HREF="http://examples.javacodegeeks.com/core-java/security/generate-public-private-key-pairs-for-dsa-dh-rsa-algorithm-example/" ADD_DATE="1552706830">Generate Public/Private key pairs for DSA DH RSA algorithm example | Examples Java Code Geeks</A>
+                    <DT><A HREF="http://www.javafaq.nu/java-example-code-189.html" ADD_DATE="1552706830">Generate Public/Private Key Pairs Java code example - Click here to copy -&gt;&gt;&gt;</A>
+                    <DT><A HREF="http://www.java2s.com/Tutorial/Java/0490__Security/Createsa1024bitRSAkeypairandstoresittothefilesystemastwofiles.htm" ADD_DATE="1552706831">Creates a 1024 bit RSA key pair and stores it to the filesystem as two files : RSA algorithm « Security « Java Tutorial</A>
+                    <DT><A HREF="http://docstore.mik.ua/orelly/java-ent/dist/ch05_04.htm" ADD_DATE="1552706831">Keys: Public, Private, and Secret (Java Distributed Computing)</A>
+                    <DT><A HREF="http://www.code4copy.com/java/post/generate-publicprivate-key-pair-in-java" ADD_DATE="1552706831">Generate Public/Private Key Pair in Java</A>
+                    <DT><A HREF="http://www.programcreek.com/java-api-examples/index.php?api=java.security.PublicKey" ADD_DATE="1552706831">Java Code Example for java.security.PublicKey</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706833">Keystore</H3>
+                <DL><p>
+                    <DT><A HREF="http://docs.oracle.com/javase/1.5.0/docs/guide/plugin/developer_guide/rsa_signing.html" ADD_DATE="1552706829">How to Sign Applets Using RSA Signed Certificates</A>
+                    <DT><A HREF="http://alvinalexander.com/java/java-using-keytool-import-certificate-keystore" ADD_DATE="1552706830">keytool import - import a certificate into a keystore file | public key from certificate | alvinalexander.com</A>
+                    <DT><A HREF="http://www.coderanch.com/t/134353/Security/Importing-certificate-keystore" ADD_DATE="1552706830">Importing certificate into keystore. (Security forum at Coderanch)</A>
+                    <DT><A HREF="http://wpollock.com/AJava/SignedCodeDemo/" ADD_DATE="1552706830">Code Signing a Java Applet - Demo and Tutorial</A>
+                    <DT><A HREF="https://support.comodo.com/index.php?/Default/Knowledgebase/Article/View/638/37/certificate-installation-java-based-web-servers-tomcat-using-keytool" ADD_DATE="1552706830">Certificate Installation: Java Based Web Servers (Tomcat) using keytool - Powered by Kayako Help Desk Software</A>
+                    <DT><A HREF="http://javarevisited.blogspot.com/2012/03/add-list-certficates-java-keystore.html" ADD_DATE="1552706831">How to add or list certificates from keystore or trustStore in Java - Keytool Example</A>
+                    <DT><A HREF="http://www.cloudera.com/documentation/enterprise/5-2-x/topics/cm_sg_create_key_trust.html" ADD_DATE="1552706831">Creating Java Keystores and Truststores</A>
+                    <DT><A HREF="https://azure.microsoft.com/en-us/documentation/articles/java-add-certificate-ca-store/" ADD_DATE="1552706831">Add a certificate to the Java CA store | Microsoft Azure</A>
+                    <DT><A HREF="https://www.digicert.com/ssl-certificate-installation-java.htm" ADD_DATE="1552706831">SSL Certificate Installation - Java Based Web Servers</A>
+                    <DT><A HREF="https://support.quovadisglobal.com/kb/a273/how-do-i-install-an-ssl-certificate-into-tomcat.aspx" ADD_DATE="1552706832">How do I install an SSL Certificate into Tomcat? - QuoVadis Customer Support</A>
+                    <DT><A HREF="https://support.globalsign.com/customer/en/portal/articles/2121490-java-keytool---create-keystore" ADD_DATE="1552706832">Java Keytool - Create Keystore</A>
+                    <DT><A HREF="https://docs.oracle.com/javase/tutorial/security/toolsign/rstep2.html" ADD_DATE="1552706832">Import the Certificate as a Trusted Certificate (The Java™ Tutorials &gt; Security Features in Java SE &gt; Signing Code and Granting It Permissions)</A>
+                    <DT><A HREF="https://knowledge.symantec.com/support/code-signing-support/index?page=content&id=INFO185&actp=LIST&viewlocale=en_US" ADD_DATE="1552706832">Code Signing Certificate for Sun Java | Symantec</A>
+                    <DT><A HREF="http://www.webfarmr.eu/2010/04/import-pkcs12-private-keys-into-jks-keystores-using-java-keytool/" ADD_DATE="1552706833">Import PKCS12 private keys into JKS keystores using Java Keytool | Harvesting web technologies</A>
+                    <DT><A HREF="https://helpx.adobe.com/coldfusion/kb/import-certificates-certificate-stores-coldfusion.html" ADD_DATE="1552706833">Import certificates to Adobe ColdFusion&#39;s truststore</A>
+                    <DT><A HREF="http://support.sas.com/rnd/javadoc/93/Components/com/sas/net/ssl/doc-files/ssl_import_server_certificate_to_truststore.html" ADD_DATE="1552706833">support.sas.com/rnd/javadoc/93/Components/com/sas/net/ssl/doc-files/ssl_import_server_certificate_to_truststore.html</A>
+                    <DT><A HREF="http://www.pramati.com/docstore/1230006/help/ops/importcertificate_jdk.htm" ADD_DATE="1552706833">Import Certs Using Java Keytool</A>
+                    <DT><A HREF="http://support.attachmate.com/techdocs/2680.html" ADD_DATE="1552706833">Using Java Keytool to Obtain a CA Certificate and How to Install the Certificate to Tomcat - Tech Note 2680</A>
+                    <DT><A HREF="https://pubs.vmware.com/continuent/tungsten-replicator-2.2/deployment-ssl-stores.html" ADD_DATE="1552706833">7.3.1. Creating the Truststore and Keystore</A>
+                    <DT><A HREF="https://pubs.vmware.com/vcd-55/index.jsp?topic=%2Fcom.vmware.vcloud.install.doc_55%2FGUID-89437328-EE0A-40D3-A939-EB8DD70DC1E3.html" ADD_DATE="1552706833">VMware vCloud Director 5.5 Documentation Center</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706822" LAST_MODIFIED="1552706831">Policy</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.codejava.net/java-se/applet/how-to-sign-a-java-applet?showall=&start=1" ADD_DATE="1552706829">How to sign a Java applet</A>
+                    <DT><A HREF="http://mindprod.com/jgloss/policyfile.html" ADD_DATE="1552706830">policy : Java Glossary</A>
+                    <DT><A HREF="http://www.informit.com/articles/article.aspx?p=433382&seqNum=2" ADD_DATE="1552706830">Java Applet Security | Java 2 Platform Security | InformIT</A>
+                    <DT><A HREF="http://pawlan.com/monica/articles/signedapps/" ADD_DATE="1552706830">Signed Applets, Browsers, and File Access</A>
+                    <DT><A HREF="http://www-personal.umich.edu/~lsiden/tutorials/signed-applet/signed-applet.html" ADD_DATE="1552706830">Signed Applet Tutorial</A>
+                    <DT><A HREF="http://www.javaworld.com/article/2076262/core-java/java-security-evolution-and-concepts--part-3--applet-security.html?page=3" ADD_DATE="1552706831">Java security evolution and concepts, Part 3: Applet security | JavaWorld</A>
+                    <DT><A HREF="http://www.ccp4.ac.uk/jwc/image_applet/Policy_file_examps_ccp4.html" ADD_DATE="1552706831">Policy files enabling Applet access to user files</A>
+                    <DT><A HREF="http://docs.oracle.com/javase/7/docs/technotes/guides/security/PolicyFiles.html" ADD_DATE="1552706831">Default Policy Implementation and Policy File Syntax</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706823" LAST_MODIFIED="1552706832">Sign</H3>
+                <DL><p>
+                    <DT><A HREF="https://www.duckware.com/tech/java-security-sandbox-tricked-into-granting-full-computer-access-to-applet.html" ADD_DATE="1552706829">Java security sandbox tricked into granting full computer access to Applet</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/19399944/warning-on-permissions-attribute-when-running-an-applet-with-jre-7u45" ADD_DATE="1552706830">java - Warning on Permissions attribute when running an applet with JRE 7u45 - Stack Overflow</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/19564481/what-does-the-java-applet-security-warning-jar-file-manifest-does-not-contain-t" ADD_DATE="1552706830">What does the Java Applet security warning &quot;JAR file manifest does not contain the Permissions attribute&quot;mean? - Stack Overflow</A>
+                    <DT><A HREF="https://docs.oracle.com/javase/8/docs/technotes/guides/deploy/manifest.html" ADD_DATE="1552706830">JAR File Manifest Attributes for Security</A>
+                    <DT><A HREF="http://www.asjava.com/java-applet/java-7-applet-is-blocked-and-warning-on-security-permissions/" ADD_DATE="1552706830">Java 7 Applet is Blocked and Warning on Security Permissions</A>
+                    <DT><A HREF="https://kbdeveloper.qoppa.com/?p=73" ADD_DATE="1552706831">Signing Java Applet | Knowledge Base for Qoppa&#39;s Java PDF Library / SDK / API and Server Products</A>
+                    <DT><A HREF="http://doc.bccnsoft.com/docs/jdk7-docs/technotes/tools/solaris/jarsigner.html" ADD_DATE="1552706831">jarsigner-JAR Signing and Verification Tool</A>
+                    <DT><A HREF="https://www.digicert.com/code-signing/java-code-signing-guide.htm" ADD_DATE="1552706831">Java Code Signing Certificate Guide | DigiCert.com</A>
+                    <DT><A HREF="http://www.papercut.com/products/ng/manual/common/topics/tools-ssl-key-generation.html" ADD_DATE="1552706831">SSL/HTTPS Key Generation</A>
+                    <DT><A HREF="https://gist.github.com/nielsutrecht/855f3bef0cf559d8d23e94e2aecd4ede" ADD_DATE="1552706832">Example of RSA generation, sign, verify, encryption, decryption and keystores in Java</A>
+                    <DT><A HREF="http://niels.nu/blog/2016/java-rsa.html" ADD_DATE="1552706832">RSA Signing and Encryption in Java</A>
+                    <DT><A HREF="http://tutorials.jenkov.com/java-cryptography/signature.html" ADD_DATE="1552706832">Java Signature</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1552706823" LAST_MODIFIED="1552706831">Security</H3>
+                <DL><p>
+                    <DT><A HREF="https://examples.javacodegeeks.com/core-java/security/enable-the-security-manager-example/" ADD_DATE="1552706829">Enable the security manager example | Examples Java Code Geeks - 2016</A>
+                    <DT><A HREF="http://examples.oreilly.com/9780596008734/CDROM/extras/docs/SecurityManager.htm" ADD_DATE="1552706830">The Security Manager</A>
+                    <DT><A HREF="http://mishadoff.com/blog/java-magic-part-5-securitymanager/" ADD_DATE="1552706830">Java Magic. Part 5: SecurityManager</A>
+                    <DT><A HREF="http://www.jayway.com/2014/06/13/sandboxing-plugins-in-java/" ADD_DATE="1552706830">Sandboxing plugins in Java - Jayway</A>
+                    <DT><A HREF="http://javapapers.com/core-java/is-your-java-code-privileged/" ADD_DATE="1552706830">Is Your Java Code Privileged? - Java Tutorial Blog</A>
+                    <DT><A HREF="http://docs.oracle.com/javase/6/docs/api/java/security/AccessController.html" ADD_DATE="1552706831">AccessController (Java Platform SE 6)</A>
+                    <DT><A HREF="http://www.securingjava.com/chapter-three/chapter-three-7.html" ADD_DATE="1552706831">New Security Mechanisms in Sun&#39;s Java 2 (Ch. 3, Sec. 7) [Securing Java]</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/852453/accesscontroller-doprivileged" ADD_DATE="1552706831">java - AccessController.doPrivileged - Stack Overflow</A>
+                </DL><p>
+                <DT><A HREF="https://github.com/j2kun/rsa" ADD_DATE="1552706823">j2kun/rsa · GitHub</A>
+                <DT><A HREF="http://liguoliang.com/2013/java-rsa-key-generationencryptiondecryption-rsa/" ADD_DATE="1552706823">Java RSA Key Generation/Encryption/Decryption RSA秘钥生成/加密/解密 | Li Guoliang</A>
+                <DT><A HREF="http://javadigest.wordpress.com/2012/08/26/rsa-encryption-example/" ADD_DATE="1552706824">RSA Encryption Example | JavaDigest</A>
+                <DT><A HREF="http://goldenpackagebyanuj.blogspot.com/2013/10/RSA-Encryption-Descryption-algorithm-in-java.html" ADD_DATE="1552706824">RSA Public Key Encryption and Private Key Decryption using Java ~ Core Java,J2EE,Spring,Hibernate,JAX-RS,EJB Tutorials</A>
+                <DT><A HREF="http://www.macs.hw.ac.uk/~ml355/lore/pkencryption.htm" ADD_DATE="1552706824">Encrypting files with Public Key Encryption in Java</A>
+                <DT><A HREF="https://tspycher.com/2012/10/rsa-encryption-in-java/" ADD_DATE="1552706824">RSA Encryption in Java | Thomas Spycher</A>
+                <DT><A HREF="http://javaprogramming.language-tutorial.com/2012/09/implementing-rsa-in-java.html" ADD_DATE="1552706825">Implementing RSA in JAVA | Java Programs and Examples with Output</A>
+                <DT><A HREF="http://www.richard-persen.no/java-and-rsa-public-private-keys.html" ADD_DATE="1552706825">Java: RSA public/private keys // A site about life, the universe and everything (and some useful things to)</A>
+                <DT><A HREF="http://www.giuseppeurso.eu/en/asymmetric-rsa-encryption-in-java/" ADD_DATE="1552706825">Asymmetric RSA encryption in Java - Giuseppe Urso</A>
+                <DT><A HREF="http://www.rohitab.com/discuss/topic/40391-q-how-to-generate-a-private-key2048-bit-rsa-encryption/" ADD_DATE="1552706825">[Q] How To Generate A Private Key(2048 Bit) ? Rsa Encryption ... - Programming - rohitab.com - Forums</A>
+                <DT><A HREF="http://docs.oracle.com/javase/6/docs/technotes/tools/windows/jarsigner.html" ADD_DATE="1552706825">jarsigner-JAR Signing and Verification Tool</A>
+                <DT><A HREF="https://support.comodo.com/index.php?/Default/Knowledgebase/Article/View/531/7/" ADD_DATE="1552706826">Signing JAR Files - Powered by Kayako Help Desk Software</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706826">URL Connection</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706831">Post Servlet</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.javaquizplayer.com/blogposts/blogpost11.html" ADD_DATE="1552706829">Servlet: Transfer FIle to Desktop App</A>
+                    <DT><A HREF="http://www.journaldev.com/7148/java-httpurlconnection-example-to-send-http-getpost-requests" ADD_DATE="1552706829">Java HttpURLConnection Example to send HTTP GET/POST Requests | JournalDev</A>
+                    <DT><A HREF="http://www.mkyong.com/java/how-to-send-http-request-getpost-in-java/" ADD_DATE="1552706830">How to send HTTP request GET/POST in Java</A>
+                    <DT><A HREF="http://www.javaworld.com/article/2077329/java-web-development/clients-can-invoke-servlets-too.html" ADD_DATE="1552706830">Clients can invoke servlets too | JavaWorld</A>
+                    <DT><A HREF="http://www.coderanch.com/t/534333/java-io/java/Uploading-Image-Java-Desktop-App" ADD_DATE="1552706830">Uploading Image from Java Desktop App to Server [Solved] (I/O and Streams forum at Coderanch)</A>
+                    <DT><A HREF="http://thegeekyway.com/filetransfer/" ADD_DATE="1552706831">Create your own Simple File Transfer App over LAN (with Source code in JAVA) | The Geeky Way</A>
+                </DL><p>
+                <DT><A HREF="http://nadeausoftware.com/articles/2008/01/java_tip_how_get_web_page" ADD_DATE="1552706821">Java tip: How to get a web page | Nadeau Software</A>
+                <DT><A HREF="http://www.tutorialspoint.com/java/java_url_processing.htm" ADD_DATE="1552706821">Java - URL Processing</A>
+                <DT><A HREF="http://www.mkyong.com/java/how-to-automate-login-a-website-java-example/" ADD_DATE="1552706822">How to automate login a website – Java example</A>
+                <DT><A HREF="http://www.mkyong.com/java/apache-httpclient-examples/" ADD_DATE="1552706822">Apache HttpClient Examples</A>
+                <DT><A HREF="http://www.vogella.com/tutorials/ApacheHttpClient/article.html" ADD_DATE="1552706823">Apache HttpClient - Tutorial</A>
+                <DT><A HREF="http://javabeanz.wordpress.com/2010/07/30/httpclient-apache-commons-code-sample/" ADD_DATE="1552706823">HttpClient (Apache commons) code sample | a cup of java</A>
+                <DT><A HREF="https://developer.salesforce.com/page/DemoREST.java" ADD_DATE="1552706823">DemoREST.java - developer.force.com</A>
+                <DT><A HREF="http://www.mysamplecode.com/2011/08/java-http-post-with-parameters-using.html" ADD_DATE="1552706824">Java HTTP post with parameters using org.apache.commons.httpclient</A>
+                <DT><A HREF="http://javasolutionsonline.blogspot.com/2013/09/understanding-commons-httpclient-with.html#.U74THJSSw9Y" ADD_DATE="1552706824">Understanding commons HttpClient with example. | Java World</A>
+                <DT><A HREF="http://www.javaexample.net/2011/12/23/bypass-self-signed-certificate-on-httpclient/" ADD_DATE="1552706824">Bypass self-signed certificate on httpclient | JavaExample.net</A>
+                <DT><A HREF="http://www.zoho.com/crm/help/api/uploadfile.html" ADD_DATE="1552706824">uploadFile Method | Developer Help - Zoho CRM</A>
+                <DT><A HREF="https://community.jivesoftware.com/docs/DOC-29500" ADD_DATE="1552706825">Document Publishing with REST - Simple Example | Jive Community</A>
+                <DT><A HREF="http://www.geonetwork-opensource.org/manuals/2.8.0/eng/developer/xml_services/java_xml_services.html" ADD_DATE="1552706825">Java development with XML services — GeoNetwork v2.8.1-SNAPSHOT Developer Manual</A>
+                <DT><A HREF="http://magicmonster.com/kb/prg/java/net/apache_httpclient.html" ADD_DATE="1552706825">Using Apache Commons HttpClient to download HTTP data</A>
+                <DT><A HREF="http://blog.teamextension.com/migrating-from-httpclient-3-1-to-4-0-34" ADD_DATE="1552706825">Migrating from HttpClient 3.1 to HttpClient 4.0 | Java Blog | blog.teamextension.com</A>
+                <DT><A HREF="http://www.alexanderinteractive.com/blog/2011/04/simple-java-rest-client-with-commons-htttpclient/" ADD_DATE="1552706825">A Simple Java REST Client with Apache Commons HttpClient - Alexander Interactive</A>
+                <DT><A HREF="http://rathinasaba.wordpress.com/tag/org-apache-commons-httpclient-httpconnection/" ADD_DATE="1552706825">org.apache.commons.httpclient.HttpConnection | My Tech Blog</A>
+                <DT><A HREF="http://drumcoder.co.uk/blog/2011/mar/30/httpclient-self-signed-certificates/" ADD_DATE="1552706826">HttpClient to Self Signed Certificates - drumcoder.co.uk</A>
+                <DT><A HREF="http://www.baeldung.com/httpclient4" ADD_DATE="1552706826">HttpClient 4 Cookbook</A>
+                <DT><A HREF="http://onsen.io/" ADD_DATE="1552706826">Onsen UI - A Custom Elements-Based HTML5 UI Framework | Onsen UI</A>
+                <DT><H3 ADD_DATE="1552706826" LAST_MODIFIED="1552706832">SSL</H3>
+                <DL><p>
+                    <DT><A HREF="http://www.rgagnon.com/javadetails/java-fix-certificate-problem-in-HTTPS.html" ADD_DATE="1552706829">Fix certificate problem in HTTPS - Real&#39;s Java How-to</A>
+                    <DT><A HREF="http://blog.crazybob.org/2010/02/android-trusting-ssl-certificates.html" ADD_DATE="1552706830">crazybob.org: Android: Trusting SSL certificates</A>
+                    <DT><A HREF="http://sanjeewamalalgoda.blogspot.com/2014/07/trust-all-hosts-when-send-https-request.html" ADD_DATE="1552706830">Sanjeewa Malalgoda&#39;s Blog: Trust all hosts when send https request – How to avoid SSL error when we connect https service</A>
+                    <DT><A HREF="http://linuxism.tistory.com/1175" ADD_DATE="1552706830">linuxism :: Android - HTTPS</A>
+                    <DT><A HREF="http://mudchobo.tistory.com/487" ADD_DATE="1552706831">머드초보의 블로그 :: [Android/Java] 어디선가 검색해서 주워온 https요청 코드-_-</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/13022717/java-and-https-url-connection-without-downloading-certificate" ADD_DATE="1552706831">ssl - Java and HTTPS url connection without downloading certificate - Stack Overflow</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/1201048/allowing-java-to-use-an-untrusted-certificate-for-ssl-https-connection" ADD_DATE="1552706831">security - Allowing Java to use an untrusted certificate for SSL/HTTPS connection - Stack Overflow</A>
+                    <DT><A HREF="http://web.archive.org/web/20121022013056/http://exampledepot.com/egs/javax.net.ssl/TrustAll.html" ADD_DATE="1552706831">Disabling Certificate Validation in an HTTPS Connection | Example Depot</A>
+                    <DT><A HREF="http://www.javased.com/?api=javax.net.ssl.SSLContext" ADD_DATE="1552706831">Java Code Examples of javax.net.ssl.SSLContext</A>
+                    <DT><A HREF="http://www.programcreek.com/java-api-examples/javax.net.ssl.HttpsURLConnection" ADD_DATE="1552706832">Java Code Example javax.net.ssl.HttpsURLConnection</A>
+                    <DT><A HREF="https://github.com/eugenp/tutorials/issues/329" ADD_DATE="1552706832">How to allow connection SSL Sites without cert - insure way using RestTemplate? · Issue #329 · eugenp/tutorials · GitHub</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/995514/https-connection-android" ADD_DATE="1552706832">java - Https Connection Android - Stack Overflow</A>
+                    <DT><A HREF="http://www.programcreek.com/java-api-examples/index.php?class=javax.net.ssl.HttpsURLConnection&method=setHostnameVerifier" ADD_DATE="1552706832">Java Code Example</A>
+                </DL><p>
+                <DT><A HREF="http://bootsnipp.com/resources" ADD_DATE="1552706826">List of Twitter Bootstrap Resources and plugins | Bootsnipp.com</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706828">HttpClient</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706832">Call Webservice</H3>
+                <DL><p>
+                    <DT><A HREF="http://rathinasaba.wordpress.com/2013/02/01/call-webservice-wsdl-based-using-apache-httpconnection/" ADD_DATE="1552706829">How to Call WebService ( WSDL Based ) using Apache HttpConnection | My Tech Blog</A>
+                    <DT><A HREF="http://polimetla.com/2011/04/27/consuming-web-service-using-apache-httpclient-and-soap-message/" ADD_DATE="1552706830">Consuming web service using Apache HTTPClient and SOAP message | Peace be with you</A>
+                    <DT><A HREF="http://devtrigger.blogspot.com/2012/11/httphttps-connection-with-httpclient-in.html" ADD_DATE="1552706830">Dev Trigger: Sample http/https connection with Apache HttpComponents in java</A>
+                    <DT><A HREF="http://www.java-only.com/LoadTutorial.javaonly?id=63" ADD_DATE="1552706830">Java-Only | Working with HTTPS and HttpClient</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/5206010/using-apache-httpclient-for-https" ADD_DATE="1552706830">java - Using Apache httpclient for https - Stack Overflow</A>
+                    <DT><A HREF="http://www.javanna.net/2011/08/how-to-ssl-with-http-client-and-spring-ws/" ADD_DATE="1552706831">How to SSL with Http Client and Spring WS - javanna.net</A>
+                    <DT><A HREF="http://alexmg.com/post/2009/04/07/Introduction-to-the-HttpClient.aspx" ADD_DATE="1552706831">Introduction to the HttpClient</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/12561503/how-to-call-a-soap-webservice-with-a-simple-string-xml-in-string-format" ADD_DATE="1552706831">java - How to call a SOAP webservice with a simple String (xml in string format) - Stack Overflow</A>
+                    <DT><A HREF="http://www.vogella.com/articles/ApacheHttpClient/article.html" ADD_DATE="1552706832">Apache HttpClient - Tutorial</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/2642777/trusting-all-certificates-using-httpclient-over-https" ADD_DATE="1552706832">java - Trusting all certificates using HttpClient over HTTPS - Stack Overflow</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/1828775/how-to-handle-invalid-ssl-certificates-with-apache-httpclient" ADD_DATE="1552706832">java - How to handle invalid SSL certificates with Apache HttpClient? - Stack Overflow</A>
+                    <DT><A HREF="http://www.androidhive.info/2011/11/android-xml-parsing-tutorial/" ADD_DATE="1552706832">Android XML Parsing Tutorial</A>
+                    <DT><A HREF="http://www.globalgiving.org/api/java-example.html" ADD_DATE="1552706832">Java Example</A>
+                </DL><p>
+                <DT><A HREF="http://sourceforge.net/project/showfiles.php?group_id=49522" ADD_DATE="1552706821">SourceForge.net: Files</A>
+                <DT><A HREF="http://curl.haxx.se/libcurl/competitors.html" ADD_DATE="1552706821">libcurl - available free alternatives</A>
+                <DT><A HREF="http://curl.haxx.se/" ADD_DATE="1552706822">cURL and libcurl</A>
+                <DT><A HREF="http://http-fetcher.sourceforge.net/Install.html" ADD_DATE="1552706822">http-fetcher</A>
+                <DT><A HREF="http://cephas.net/blog/2007/11/14/java-commons-http-client-and-http-proxies/" ADD_DATE="1552706822">Aaron Johnson – Java, Commons HTTP Client and HTTP proxies</A>
+                <DT><A HREF="http://www.nsftools.com/tips/JavaFtp.htm" ADD_DATE="1552706823">nsftools - Java FTP Tips</A>
+                <DT><A HREF="http://www.sauronsoftware.it/projects/ftp4j/" ADD_DATE="1552706823">ftp4j - a pure Java FTP client library</A>
+                <DT><A HREF="http://www.jibble.org/simpleftp/" ADD_DATE="1552706823">SimpleFTP Java FTP Client Package</A>
+                <DT><A HREF="http://www.enterprisedt.com/products/edtftpj/" ADD_DATE="1552706824">Free Java FTP library</A>
+                <DT><A HREF="http://www.javaworld.com/javaworld/jw-04-2003/jw-0404-ftp.html" ADD_DATE="1552706824">Java FTP client libraries reviewed - JavaWorld</A>
+                <DT><A HREF="http://www.dailyfreecode.com/code/ftp-client-server-1250.aspx" ADD_DATE="1552706824">Program of FTP client and server - Java Examples and Tutorials</A>
+                <DT><A HREF="http://www.java2s.com/Code/Java/Network-Protocol/UsetheFTPClientserverfiletransfer.htm" ADD_DATE="1552706824">Use the FTPClient: server file transfer : Ftp « Network Protocol « Java</A>
+                <DT><A HREF="http://www.mysamplecode.com/2012/03/apache-commons-ftpclient-java-example_16.html" ADD_DATE="1552706825">Apache commons FTPClient Java example - Download files from server</A>
+                <DT><A HREF="http://www.cellspark.com/ftpserver.html" ADD_DATE="1552706825">FtpGoServer - A Java FTP server</A>
+                <DT><A HREF="http://www.zehon.com/FTPs_tutorial.htm" ADD_DATE="1552706825">zehon.com: FTP/SSL Tutorial</A>
+                <DT><A HREF="http://amoebacode.com/ftp/" ADD_DATE="1552706825">amoebacode: FTPClient</A>
+                <DT><A HREF="http://megasnippets.com/source-codes/java/upload_file_ftp_server_java.net.urlconnection" ADD_DATE="1552706825">Java Upload a file to an FTP server via java.net.URLConnection | MegaSnippets</A>
+                <DT><A HREF="http://www.codejava.net/java-se/networking/ftp/change-working-directory-on-a-ftp-server" ADD_DATE="1552706826">Change working directory on a FTP server</A>
+                <DT><A HREF="http://www.enterprisedt.com/" ADD_DATE="1552706826">Secure file transfer (FTP/FTPS/SFTP/SCP) for Java, .NET (C#/VB.NET) and JavaScript/HTML</A>
+                <DT><A HREF="http://www.developer.com/java/web/5-leading-java-file-upload-solutions.html" ADD_DATE="1552706826">5 Leading Java File Upload Solutions, Page 2 - Developer.com</A>
+                <DT><A HREF="http://www.ajaxapp.com/2009/02/21/a-simple-java-ftp-connection-file-download-and-upload/" ADD_DATE="1552706826">A simple Java FTP connection + file download and upload | AjaxApp.com</A>
+                <DT><A HREF="http://www.codejava.net/java-se/networking/ftp/upload-files-to-a-ftp-server" ADD_DATE="1552706826">Upload files to a FTP server</A>
+                <DT><A HREF="http://dnhome.wordpress.com/2012/06/25/java-upload-file-to-sftp-server/" ADD_DATE="1552706827">Java – Upload file to SFTP Server « dnhome</A>
+                <DT><A HREF="http://www.hiteshagrawal.com/java/ftp-upload-in-java" ADD_DATE="1552706827">FTP Upload in Java</A>
+                <DT><A HREF="http://www.javaworld.com/javaworld/jw-04-2003/jw-0404-ftp.html?page=3" ADD_DATE="1552706827">Java FTP client libraries reviewed - JavaWorld</A>
+                <DT><A HREF="http://www.javabeat.net/2007/10/file-upload-and-download-using-java/" ADD_DATE="1552706827">File Upload and Download using Java</A>
+                <DT><A HREF="http://www.kodejava.org/examples/356.html" ADD_DATE="1552706827">How do I upload file to FTP server? - Learn Java by Examples</A>
+                <DT><A HREF="http://www.example-code.com/java/sftp.asp" ADD_DATE="1552706827">Java SFTP Example Source Code</A>
+                <DT><A HREF="http://www.example-code.com/java/sftp_streamingDownload.asp" ADD_DATE="1552706827">Java Streaming SFTP Download</A>
+                <DT><A HREF="http://www.jcraft.com/jsch/examples/" ADD_DATE="1552706827">JSch - Examples</A>
+                <DT><A HREF="http://www.2min2code.com/articles/apache_http_client_intro/setting_timeout_get" ADD_DATE="1552706828">Apache Commons Http Client - Tutorial : Setting timeout : How to set conenction timeout and read time out</A>
+                <DT><A HREF="http://brian.olore.net/wp/2009/08/apache-httpclient-timeout/" ADD_DATE="1552706828">The Brian Olore Story » Proper timeout handling with Apache HttpClient</A>
+                <DT><A HREF="http://techdive.in/java/ftp4j-file-upload-listener" ADD_DATE="1552706828">Java – FTP4j - File Upload with Listeners | TechDive</A>
+                <DT><A HREF="http://developpef.blogspot.com/2010/09/javajsch-un-client-ssh-pour-java.html" ADD_DATE="1552706828">Developpef: [JAVA/JsCh] Un client SSH pour Java</A>
+                <DT><A HREF="http://square.github.io/okhttp/" ADD_DATE="1552706828">OkHttp</A>
+                <DT><A HREF="http://tutorialzine.com/2016/09/30-learning-resources-for-mastering-angular-2/" ADD_DATE="1552706828">30 Learning Resources For Mastering Angular 2 | Tutorialzine</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706822">JavaMonitor</H3>
+            <DL><p>
+                <DT><A HREF="http://java-monitor.com/forum/livedemohost.php?host=146c6dd2-28e0-4509-aa44-f7659efbd33e" ADD_DATE="1552706821">Java-Monitor - Monitoring Made Easy</A>
+                <DT><A HREF="http://javamonitor.net/" ADD_DATE="1552706821">Tomcat monitoring, Jboss monitoring, java profiling</A>
+                <DT><A HREF="http://jvmmonitor.org/screenshots/index.html" ADD_DATE="1552706821">JVM Monitor screenshots</A>
+                <DT><A HREF="http://newrelic.com/java" ADD_DATE="1552706822">Java Monitoring Made Easy | New Relic</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706823">Date</H3>
+            <DL><p>
+                <DT><A HREF="http://www.mkyong.com/java/how-to-check-if-date-is-within-a-certain-range-in-java/" ADD_DATE="1552706821">How to check if Date is within a certain range in Java?</A>
+                <DT><A HREF="http://jexp.ru/index.php/Java_Tutorial/Data_Type/Date_Calculation" ADD_DATE="1552706821">Java Tutorial/Data Type/Date Calculation — Java эксперт</A>
+                <DT><A HREF="http://www.mkyong.com/java/java-date-and-calendar-examples/" ADD_DATE="1552706821">Java Date and Calendar examples</A>
+                <DT><A HREF="http://stackoverflow.com/questions/4637238/how-to-check-if-its-saturday-sunday" ADD_DATE="1552706822">java - How to check if it&#39;s Saturday/Sunday? - Stack Overflow</A>
+                <DT><A HREF="http://stackoverflow.com/questions/2689379/how-to-get-a-list-of-dates-between-two-dates-in-java" ADD_DATE="1552706822">how to get a list of dates between two dates in java - Stack Overflow</A>
+                <DT><A HREF="http://beginnersbook.com/2014/01/how-to-get-current-day-month-year-day-of-weekmonthyear-in-java/" ADD_DATE="1552706823">How to get current day, month, year, day of week/month/year in java</A>
+                <DT><A HREF="http://sameh-nassar.blogspot.com/2014/10/dealing-with-dates-in-java.html" ADD_DATE="1552706823">Sameh Nassar: Dealing With Dates in Java</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706829">LDAP</H3>
+            <DL><p>
+                <DT><A HREF="http://www.stefan-seelmann.de/media/presentations/JUGM2008_JavaUndLDAP.pdf" ADD_DATE="1552706821">Java und LDAP</A>
+                <DT><A HREF="http://www.novell.com/documentation/developer/jldap/jldapenu/data/a90352e.html" ADD_DATE="1552706821">Novell Doc: NDK: LDAP Classes for Java - Searching the Directory</A>
+                <DT><A HREF="http://www.programming-free.com/2012/09/query-active-directory-from-java-using.html" ADD_DATE="1552706821">Query Active Directory from Java using JNDI | ProgrammingFree</A>
+                <DT><A HREF="https://www.cs.ucsb.edu/~pconrad/cs56/examples/ldap/SimpleQuery/SimpleQuery.java" ADD_DATE="1552706822">https://www.cs.ucsb.edu/~pconrad/cs56/examples/ldap/SimpleQuery/SimpleQuery.java</A>
+                <DT><A HREF="http://www.cs.ait.ac.th/~on/O/oreilly/java-ent/jenut/ch06_12.htm" ADD_DATE="1552706822">Searching a Directory (Java Enterprise in a Nutshell)</A>
+                <DT><A HREF="https://rosettacode.org/wiki/Active_Directory/Search_for_a_user" ADD_DATE="1552706822">Active Directory/Search for a user - Rosetta Code</A>
+                <DT><A HREF="http://java2db.com/jndi-ldap-programming/select-an-entry-from-ldap-using-java-jndi" ADD_DATE="1552706823">Select an entry from LDAP using java JNDI</A>
+                <DT><A HREF="http://grepcode.com/file/repo1.maven.org/maven2/com.unboundid/unboundid-ldapsdk/2.3.1/com/unboundid/ldap/sdk/examples/LDAPSearch.java" ADD_DATE="1552706823">GC: LDAPSearch - com.unboundid.ldap.sdk.examples.LDAPSearch (.java) - GrepCode Class Source</A>
+                <DT><A HREF="http://www.stonemind.net/blog/2008/01/23/a-simple-ldap-query-program-in-java/" ADD_DATE="1552706823">stonemind consulting » A Simple LDAP Query Program in Java.</A>
+                <DT><A HREF="http://alvinalexander.com/java/jwarehouse/jakarta-jmeter-2.0.1/src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler/LdapClient.java.shtml" ADD_DATE="1552706824">Java example - LdapClient.java</A>
+                <DT><A HREF="http://www.openldap.org/jldap/overview.html" ADD_DATE="1552706824">OpenLDAP, Java LDAP Overview</A>
+                <DT><A HREF="http://www.deepakgaikwad.net/index.php/2009/09/24/retrieve-basic-user-attributes-from-active-directory-using-ldap-in-java.html" ADD_DATE="1552706824">LDAP Query: Retrieve Basic User Attributes in Java - DeepakGaikwad.net</A>
+                <DT><A HREF="http://iubio.bio.indiana.edu/grid/directories/ldapsearch.java" ADD_DATE="1552706825">iubio.bio.indiana.edu/grid/directories/ldapsearch.java</A>
+                <DT><A HREF="http://www.idevelopment.info/data/Programming/java/ldap/netscape/LDAPSearchExample.java" ADD_DATE="1552706825">www.idevelopment.info/data/Programming/java/ldap/netscape/LDAPSearchExample.java</A>
+                <DT><A HREF="https://www.ibm.com/support/knowledgecenter/SSKTXQ_9.0.0/admin/config/config_chat_ldap_java_people.dita" ADD_DATE="1552706825">IBM Knowledge Center - Example: Writing a Java class to filter searches for people and groups</A>
+                <DT><A HREF="http://myjeeva.com/querying-active-directory-using-java.html" ADD_DATE="1552706825">Querying Active Directory using Java | myjeeva blog</A>
+                <DT><A HREF="http://www.java2s.com/Code/Java/JNDI-LDAP/LDAPSearch.htm" ADD_DATE="1552706825">LDAP Search : Search « JNDI LDAP « Java</A>
+                <DT><A HREF="http://www.adamretter.org.uk/blog/entries/LDAPTest.java" ADD_DATE="1552706825">www.adamretter.org.uk/blog/entries/LDAPTest.java</A>
+                <DT><A HREF="http://stackoverflow.com/questions/2172831/how-do-a-ldap-search-authenticate-against-this-ldap-in-java" ADD_DATE="1552706826">How do a LDAP search/authenticate against this LDAP in Java - Stack Overflow</A>
+                <DT><A HREF="https://docs.oracle.com/javase/tutorial/jndi/ops/lookup.html" ADD_DATE="1552706826">Lookup an Object (The Java™ Tutorials &gt; Java Naming and Directory Interface &gt; Naming and Directory Operations)</A>
+                <DT><A HREF="https://docs.oracle.com/cd/E19528-01/819-0997/gdxpo/index.html" ADD_DATE="1552706826">LDAP Search Filters (Sun Java System Directory Server Enterprise Edition 6.0 Reference)</A>
+                <DT><A HREF="http://www.javaworld.com/article/2076073/java-web-development/ldap-and-jndi--together-forever.html" ADD_DATE="1552706826">LDAP and JNDI: Together forever | JavaWorld</A>
+                <DT><A HREF="http://www.javaworld.com/article/2077729/open-source-tools/simplify-directory-access-with-spring-ldap.html" ADD_DATE="1552706826">Simplify directory access with Spring LDAP | JavaWorld</A>
+                <DT><A HREF="http://docs.spring.io/spring-ldap/docs/current/reference/" ADD_DATE="1552706827">Spring LDAP Reference</A>
+                <DT><A HREF="https://gist.github.com/jbarber/2909828" ADD_DATE="1552706827">LDAP example for searching and simple binding (authentication) · GitHub</A>
+                <DT><A HREF="https://blogs.msdn.microsoft.com/alextch/2007/06/18/sample-java-application-that-retrieves-group-membership-of-an-active-directory-user-account/" ADD_DATE="1552706827">Sample Java application that retrieves group membership of an Active Directory user account. | Alex Tcherniakhovski – Security</A>
+                <DT><A HREF="https://docs.ldap.com/ldap-sdk/docs/examples/" ADD_DATE="1552706827">UnboundID LDAP SDK for Java Documentation</A>
+                <DT><A HREF="http://www.programcreek.com/java-api-examples/index.php?api=javax.naming.ldap.LdapContext" ADD_DATE="1552706827">Java Code Example javax.naming.ldap.LdapContext</A>
+                <DT><A HREF="http://www.developerscrappad.com/963/java/jndi/java-jndi-ldap-windows-active-directory-authentication-organizational-unit-group-and-other-information-access/" ADD_DATE="1552706827">Java JNDI/LDAP: Windows Active Directory Authentication, Organizational Unit, Group &amp; Other Information Access — Developers&#39; ScrapPad</A>
+                <DT><A HREF="http://www.giuseppeurso.eu/en/alfresco-ldap-integration-two-examples-netscape-ds-and-active-directory/" ADD_DATE="1552706827">Alfresco LDAP Integration, Two Examples: Netscape Directory Server And Active Directory. - Giuseppe Urso</A>
+                <DT><A HREF="http://www.zytrax.com/books/ldap/ch2/" ADD_DATE="1552706827">Chapter 2 LDAP Concepts &amp; Overview</A>
+                <DT><A HREF="https://technet.microsoft.com/en-us/library/aa996205(v=exchg.65).aspx" ADD_DATE="1552706828">LDAP Query Basics</A>
+                <DT><A HREF="https://blogs.technet.microsoft.com/heyscriptingguy/2010/12/01/use-powershell-to-query-active-directory-from-the-console/" ADD_DATE="1552706828">Use PowerShell to Query Active Directory from the Console | Hey, Scripting Guy! Blog</A>
+                <DT><A HREF="https://ldapwiki.willeke.com/wiki/LDAP%20Query%20Examples%20for%20AD" ADD_DATE="1552706828">Ldapwiki: LDAP Query Examples for AD</A>
+                <DT><A HREF="http://www.systemtools.com/HyenaHelp/queries.htm" ADD_DATE="1552706828">Customizing Active Directory Queries</A>
+                <DT><A HREF="http://www.zytrax.com/books/ldap/apa/search.html" ADD_DATE="1552706828">Appendix A: LDAP: Text Search Filter</A>
+                <DT><A HREF="https://www.centos.org/docs/5/html/CDS/ag/8.0/Finding_Directory_Entries-LDAP_Search_Filters.html" ADD_DATE="1552706828">B.3. LDAP Search Filters</A>
+                <DT><A HREF="http://devnet.logianalytics.com/rdPage.aspx?rdReport=Article&dnDocID=1229" ADD_DATE="1552706828">DataLayer.LDAP</A>
+                <DT><A HREF="http://www.rlmueller.net/ADOSearchTips.htm" ADD_DATE="1552706828">ADO Search Tips</A>
+                <DT><A HREF="https://pear.php.net/manual/en/package.networking.net-ldap.filter.php" ADD_DATE="1552706828">Manual :: Introduction to and usage of LDAP filters</A>
+                <DT><A HREF="https://www.google.com/support/enterprise/static/postini/docs/admin/en/dss_admin/prep_ldap.html" ADD_DATE="1552706828">LDAP Queries</A>
+                <DT><A HREF="https://confluence.atlassian.com/kb/how-to-write-ldap-search-filters-792496933.html" ADD_DATE="1552706828">How to write LDAP search filters - Atlassian Documentation</A>
+                <DT><A HREF="http://stackoverflow.com/questions/15806519/how-to-query-ldap-to-get-users-attributes-in-result-and-use-it-in-auto-fill-in" ADD_DATE="1552706828">java - How to query Ldap to get user&#39;s attributes in result and use it in auto fill in JSF2.0 form - Stack Overflow</A>
+                <DT><A HREF="http://www.codeproject.com/Articles/653337/Java-Retrieving-User-Informatio" ADD_DATE="1552706828">Java: Retrieving User Information, Such As Email Addresses, from Active Directory - CodeProject</A>
+                <DT><A HREF="http://jeftek.com/222/using-java-code-with-active-directory/" ADD_DATE="1552706828">Using JAVA code with Active Directory - JefTek.com</A>
+                <DT><A HREF="http://www.javaxt.com/tutorials/windows/how_to_authenticate_users_with_active_directory" ADD_DATE="1552706828">How To Authenticate Users With Active Directory</A>
+                <DT><A HREF="https://docs.oracle.com/cd/E19509-01/820-3399/6neuffbul/index.html" ADD_DATE="1552706828">Chapter 1 Using LDAP with Java CAPS (Using LDAP with Java CAPS)</A>
+                <DT><A HREF="https://docs.oracle.com/javase/tutorial/jndi/software/content.html" ADD_DATE="1552706828">LDAP Setup (The Java™ Tutorials &gt; Java Naming and Directory Interface &gt; Software Setup)</A>
+                <DT><A HREF="http://www.sghaida.com/active-directory-search-using-java/" ADD_DATE="1552706828">Active Directory Search using JAVA | Saddam Abu Ghaida</A>
+                <DT><A HREF="http://www.itjungle.com/fhg/fhg061505-story01.html" ADD_DATE="1552706828">Four Hundred Guru--Query Active Directory from the iSeries</A>
+                <DT><A HREF="http://blogs.artinsoft.net/Mrojas/archive/2007/05/14/Active-Directory-LDAP-and-Java.aspx" ADD_DATE="1552706829">Active Directory LDAP and Java</A>
+                <DT><A HREF="http://www.coderanch.com/t/329533/java/java/Connecting-Active-Directory-LDAP" ADD_DATE="1552706829">Connecting to Active Directory using LDAP (Java in General forum at Coderanch)</A>
+                <DT><A HREF="https://github.com/googlegsa/activedirectory/blob/master/src/com/google/enterprise/adaptor/ad/AdServer.java" ADD_DATE="1552706829">activedirectory/AdServer.java at master · googlegsa/activedirectory · GitHub</A>
+                <DT><A HREF="http://fm4dd.com/programming/java/ad_ldaptest_java.htm" ADD_DATE="1552706829">ad_ldaptest.java - tests connecting to a Active Directory LDAP server</A>
+                <DT><A HREF="http://www.tilion.org.uk/2011/12/java-authentication-ldap-and-active-directory/" ADD_DATE="1552706829">Java Authentication – LDAP and Active Directory | Tilion</A>
+                <DT><A HREF="https://dzone.com/articles/programming-ldap-groovy" ADD_DATE="1552706829">Programming LDAP with Groovy - DZone Java</A>
+                <DT><A HREF="http://www.thetekblog.com/2010/06/active-directory-with-ldap-retrieving-all-members-of-a-group/" ADD_DATE="1552706829">Active directory with Ldap – Retrieving all members of a group. | The TEK Blog</A>
+                <DT><A HREF="http://community.brocade.com/t5/vADC-Docs/Authenticating-users-with-Active-Directory-and-Stingray-Java/ta-p/73770" ADD_DATE="1552706829">Authenticating users with Active Directory and Stingray Java Extensions - Brocade Community Forums - 73770</A>
+                <DT><A HREF="https://pubs.vmware.com/vsphere-50/index.jsp?topic=%2Fcom.vmware.vsphere.vco_appliance.doc_42%2FGUIDDACF074A-3FBE-445B-8B35-15F5CD8C20F3.html" ADD_DATE="1552706829">vSphere Documentation Center</A>
+                <DT><A HREF="http://ldapwiki.willeke.com/wiki/LDAP%20Browsers" ADD_DATE="1552706829">Ldapwiki: LDAP Browsers</A>
+                <DT><A HREF="http://www.selfadsi.org/extended-ad/search-group-members.htm" ADD_DATE="1552706829">SelfADSI : How to find all members of an Active Directory group</A>
+                <DT><A HREF="https://community.jivesoftware.com/docs/DOC-4622" ADD_DATE="1552706829">Guide to Troubleshooting LDAP/Active Directory ... | Jive Community</A>
+                <DT><A HREF="http://www.mzan.com/article/36139514-ldap-query-accessing-a-slow-response-attribute-from-java-employeeid.shtml" ADD_DATE="1552706829">LDAP Query Accessing a Slow Response Attribute from Java (employeeID) - codes fans</A>
+                <DT><A HREF="http://extendit.us/ldap-search-and-pagination-in-java" ADD_DATE="1552706829">LDAP Search and Pagination in java | eXtendIT.us</A>
+                <DT><A HREF="http://www.quepublishing.com/articles/article.aspx?p=26231&seqNum=5" ADD_DATE="1552706829">LDAP Classes and Attributes | JNDI—Java Naming and Directory Interface | Que</A>
+                <DT><A HREF="http://www.javaproblemstips.info/139061/" ADD_DATE="1552706829">JAVA to access LDAP confusion - Web Develop - Java Problems Tips</A>
+                <DT><A HREF="http://www.indented.co.uk/2009/08/27/building-ldap-filters-for-date-based-attributes/" ADD_DATE="1552706829">Building LDAP filters for date based attributes | Indented!</A>
+                <DT><A HREF="http://blog.scottlowe.org/2006/10/11/finding-recently-created-active-directory-accounts/" ADD_DATE="1552706829">Finding Recently Created Active Directory Accounts · Scott&#39;s Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing</A>
+                <DT><A HREF="https://morgansimonsen.com/2008/08/12/how-to-use-the-whencreated-and-whenchanged-attributes-to-search-for-objects-in-active-directory/" ADD_DATE="1552706829">How to use the whenCreated and whenChanged attributes to search for objects in Active Directory | Morgan Simonsen&#39;s Blog</A>
+                <DT><A HREF="http://www.selfadsi.org/ldap-filter.htm" ADD_DATE="1552706829">SelfADSI : LDAP Filter</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706827">BigDecimal</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1552706821" LAST_MODIFIED="1552706833">Validate Number</H3>
+                <DL><p>
+                    <DT><A HREF="http://codereview.stackexchange.com/questions/11786/checking-whether-a-string-is-a-valid-number" ADD_DATE="1552706829">java - Checking whether a string is a valid number - Code Review Stack Exchange</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/10372862/java-string-remove-all-non-numeric-characters" ADD_DATE="1552706830">Java String remove all non numeric characters - Stack Overflow</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/1102891/how-to-check-if-a-string-is-numeric-in-java" ADD_DATE="1552706830">How to check if a String is numeric in Java - Stack Overflow</A>
+                    <DT><A HREF="https://coderanch.com/t/401142/java/java/check-String-numeric" ADD_DATE="1552706830">How to check if String() value is numeric (Beginning Java forum at Coderanch)</A>
+                    <DT><A HREF="https://rosettacode.org/wiki/Determine_if_a_string_is_numeric#Java" ADD_DATE="1552706830">Determine if a string is numeric - Rosetta Code</A>
+                    <DT><A HREF="http://www.java2s.com/Code/Java/Regular-Expressions/Checkifgivenstringisnumberwithdotseparatorandtwodecimals.htm" ADD_DATE="1552706831">Check if given string is number with dot separator and two decimals : Digit Number « Regular Expressions « Java</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/308122/simple-regular-expression-for-a-decimal-with-a-precision-of-2" ADD_DATE="1552706831">regex - Simple regular expression for a decimal with a precision of 2 - Stack Overflow</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/7810446/regex-validation-of-numeric-with-up-to-4-decimal-places" ADD_DATE="1552706831">Regex - Validation of numeric with up to 4 decimal places - Stack Overflow</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/17804887/java-validate-price-with-comma-or-dot-and-two-decimal-value" ADD_DATE="1552706832">regex - Java validate price with comma or dot and two decimal value - Stack Overflow</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/2811031/decimal-or-numeric-values-in-regular-expression-validation" ADD_DATE="1552706832">regex - Decimal or numeric values in regular expression validation - Stack Overflow</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/18084104/accept-only-numbers-and-a-dot-in-java-textfield" ADD_DATE="1552706832">swing - Accept only numbers and a dot in Java TextField - Stack Overflow</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/14215847/jtextfield-validation-for-numbers-and-one-decimal-point" ADD_DATE="1552706832">java - jTextField validation for numbers and one decimal point? - Stack Overflow</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/1313390/is-there-any-way-to-accept-only-numeric-values-in-a-jtextfield" ADD_DATE="1552706832">java - Is there any way to accept only numeric values in a JTextField? - Stack Overflow</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/26470914/java-validating-input-in-a-basic-calculator-program" ADD_DATE="1552706833">arrays - Java Validating Input in a Basic Calculator Program - Stack Overflow</A>
+                    <DT><A HREF="http://stackoverflow.com/questions/34092084/validating-mathematical-operators-in-simple-calculator" ADD_DATE="1552706833">java - Validating mathematical operators in simple calculator - Stack Overflow</A>
+                </DL><p>
+                <DT><A HREF="http://www.javaworld.com/article/2073176/caution--double-to-bigdecimal-in-java.html" ADD_DATE="1552706821">Caution: Double to BigDecimal in Java | JavaWorld</A>
+                <DT><A HREF="http://www.stichlberger.com/software/java-bigdecimal-gotchas/" ADD_DATE="1552706821">Java BigDecimal Gotchas | Sti&#39;s blog</A>
+                <DT><A HREF="http://stackoverflow.com/questions/12395281/convert-double-to-bigdecimal-and-set-bigdecimal-precision" ADD_DATE="1552706822">java - Convert double to BigDecimal and set BigDecimal Precision - Stack Overflow</A>
+                <DT><A HREF="http://resolvethis.com/compare-two-bigdecimals-java/" ADD_DATE="1552706822">How to compare two BigDecimals in Java.</A>
+                <DT><A HREF="http://icu-project.org/apiref/icu4j/com/ibm/icu/math/BigDecimal.html" ADD_DATE="1552706822">BigDecimal (ICU4J 57.1)</A>
+                <DT><A HREF="http://jroller.com/eu/entry/operation_overloading_in_java" ADD_DATE="1552706823">Euxx</A>
+                <DT><A HREF="http://www.opentaps.org/docs/index.php/How_to_Use_Java_BigDecimal:_A_Tutorial" ADD_DATE="1552706823">How to Use Java BigDecimal: A Tutorial - Opentaps Wiki</A>
+                <DT><A HREF="https://www.tutorialspoint.com/java/math/java_math_bigdecimal.htm" ADD_DATE="1552706823">Java.math.BigDecimal Class</A>
+                <DT><A HREF="https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html" ADD_DATE="1552706824">Primitive Data Types (The Java™ Tutorials &gt; Learning the Java Language &gt; Language Basics)</A>
+                <DT><A HREF="http://www.javaworld.com/article/2075315/core-java/make-cents-with-bigdecimal.html" ADD_DATE="1552706824">Make cents with BigDecimal | JavaWorld</A>
+                <DT><A HREF="https://www.cis.upenn.edu/~bcpierce/courses/629/jdkdocs/api/java.math.BigDecimal.html" ADD_DATE="1552706824">Class java.math.BigDecimal</A>
+                <DT><A HREF="http://stackoverflow.com/questions/15963895/how-to-check-if-a-double-value-has-no-decimal-part" ADD_DATE="1552706824">java - How to check if a double value has no decimal part - Stack Overflow</A>
+                <DT><A HREF="http://voidexception.weebly.com/java-bigdecimal---dealing-with-high-precision-calculations.html" ADD_DATE="1552706825">Java BigDecimal Example - How to use Big Decimal - Java Tutorials - voidException</A>
+                <DT><A HREF="http://java-performance.info/bigdecimal-vs-double-in-financial-calculations/" ADD_DATE="1552706825">Using double/long vs BigDecimal for monetary calculations</A>
+                <DT><A HREF="http://araklefeistel.blogspot.com/2011/06/javamathbigdecimal-difference-between.html" ADD_DATE="1552706825">Useful things: java.math.BigDecimal the difference between setScale and round</A>
+                <DT><A HREF="https://lustforge.com/2011/07/14/comparing-bigdecimals-with-round-and-setscale/" ADD_DATE="1552706825">Comparing BigDecimals with Round and SetScale · Joseph Lust</A>
+                <DT><A HREF="http://javabeat.net/precise-rounding-of-decimals-using-rounding-mode-enumeration/" ADD_DATE="1552706825">Precise rounding of decimals using Rounding Mode Enumeration</A>
+                <DT><A HREF="http://piotrnowicki.com/2011/02/precision-and-scale-in-bigdecimal-and-mathcontext/" ADD_DATE="1552706826">Piotr Nowicki</A>
+                <DT><A HREF="https://dzone.com/articles/why" ADD_DATE="1552706826">Why Math.round (0.499999999999999917) rounds to 1 on Java 6 - DZone Java</A>
+                <DT><A HREF="https://jaydeepm.wordpress.com/2009/06/04/bigdecimal-and-non-terminating-decimal-expansion-error/" ADD_DATE="1552706826">BigDecimal and “java.lang.ArithmeticException: Non-terminating decimal expansion” | Lost In Transition</A>
+                <DT><A HREF="http://stackoverflow.com/questions/4591206/arithmeticexception-non-terminating-decimal-expansion-no-exact-representable" ADD_DATE="1552706826">java - ArithmeticException: &quot;Non-terminating decimal expansion; no exact representable decimal result&quot; - Stack Overflow</A>
+                <DT><A HREF="http://www.massapi.com/class/ma/MathContext.html" ADD_DATE="1552706826">Examples of MathContext | massapi.com</A>
+                <DT><A HREF="http://stackoverflow.com/questions/2808535/round-a-double-to-2-decimal-places" ADD_DATE="1552706827">java - Round a double to 2 decimal places - Stack Overflow</A>
+                <DT><A HREF="https://android.googlesource.com/platform/libcore/+/9edf43dfcc35c761d97eb9156ac4254152ddbc55/harmony-tests/src/test/java/tests/api/java/math/BigDecimalTest.java" ADD_DATE="1552706827">harmony-tests/src/test/java/tests/api/java/math/BigDecimalTest.java - platform/libcore - Git at Google</A>
+                <DT><A HREF="https://svn.apache.org/repos/asf/harmony/enhanced/java/trunk/classlib/modules/math/src/test/java/tests/api/java/math/BigDecimalTest.java" ADD_DATE="1552706827">https://svn.apache.org/repos/asf/harmony/enhanced/java/trunk/classlib/modules/math/src/test/java/tests/api/java/math/BigDecimalTest.java</A>
+                <DT><A HREF="http://www.concretepage.com/java/java-bigdecimal-tutorial-with-example" ADD_DATE="1552706827">Java BigDecimal Tutorial with Example</A>
+                <DT><A HREF="http://www.concretepage.com/java/jdk-8/java-8-bigdecimal-sum-example" ADD_DATE="1552706827">Java 8 BigDecimal Sum Example</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706827">Algorithm</H3>
+            <DL><p>
+                <DT><A HREF="https://en.wikipedia.org/wiki/Shunting-yard_algorithm" ADD_DATE="1552706821">Shunting-yard algorithm - Wikipedia, the free encyclopedia</A>
+                <DT><A HREF="http://www.java2blog.com/2016/09/implement-stack-using-linked-list-in-java.html" ADD_DATE="1552706821">Implement stack using Linked List in java - Java tutorial for beginners</A>
+                <DT><A HREF="http://codereview.stackexchange.com/questions/104461/simple-calculation-in-java" ADD_DATE="1552706821">beginner - Simple calculation in Java - Code Review Stack Exchange</A>
+                <DT><A HREF="https://stackoverflow.com/questions/444296/how-to-efficiently-build-a-tree-from-a-flat-structure" ADD_DATE="1552706822">algorithm - How to efficiently build a tree from a flat structure? - Stack Overflow</A>
+                <DT><A HREF="https://gist.github.com/davidallsopp/aad6fbc16d305d19b22c" ADD_DATE="1552706822">Build a tree from a list of pairs of (parent, child) identifiers.</A>
+                <DT><A HREF="https://stackoverflow.com/questions/45611663/how-to-get-all-child-of-a-parent-and-their-children-using-recursion/45612226" ADD_DATE="1552706822">java - How to get all child of a parent and their children using recursion - Stack Overflow</A>
+                <DT><A HREF="https://stackoverflow.com/questions/23932519/java-recursion-example" ADD_DATE="1552706823">Java Recursion: Example - Stack Overflow</A>
+                <DT><A HREF="https://java2blog.com/binary-tree-in-java/" ADD_DATE="1552706823">Binary tree in java - Java2Blog</A>
+                <DT><A HREF="https://gist.github.com/alonronin/2592a6a81db67804db1f" ADD_DATE="1552706823">Create recursive tree from json using lodash transform without recursion. Can have unlimited nesting.</A>
+                <DT><A HREF="https://stackoverflow.com/questions/2549320/looping-through-an-object-tree-recursively" ADD_DATE="1552706824">javascript - looping through an object (tree) recursively - Stack Overflow</A>
+                <DT><A HREF="https://stackoverflow.com/questions/35409769/recursive-method-to-create-json-object" ADD_DATE="1552706824">java - Recursive Method to create Json object - Stack Overflow</A>
+                <DT><A HREF="http://oskarhane.com/create-a-nested-array-recursively-in-javascript/" ADD_DATE="1552706824">Create a nested array recursively in Javascript | oskarhane</A>
+                <DT><A HREF="https://blog.wax-o.com/2014/01/how-to-find-deep-and-get-parent-in-javascript-nested-objects-with-recursive-functions-and-the-reference-concept-level-beginner/" ADD_DATE="1552706825">How to « find deep » and « get parent » in JavaScript nested objects with recursive functions and the reference concept (level beginner) - Waxo</A>
+                <DT><A HREF="https://www.quora.com/How-do-you-loop-through-a-complex-JSON-tree-of-objects-and-arrays-in-JavaScript" ADD_DATE="1552706825">How do you loop through a complex JSON tree of objects and arrays in JavaScript? - Quora</A>
+                <DT><A HREF="https://www.java-success.com/00-%E2%99%A6-creating-tree-list-flattening-back-list-java/" ADD_DATE="1552706825">00: Creating a Tree from a list &amp; flattening it back to a list in Java |  Java-Success.com</A>
+                <DT><A HREF="https://www.javagists.com/java-tree-data-structure" ADD_DATE="1552706825">Java Tree Data Structure - Java Code Gists</A>
+                <DT><A HREF="https://stackoverflow.com/questions/30570146/convert-java-arraylist-of-parent-child-relation-into-tree" ADD_DATE="1552706825">Convert java arrayList of Parent/child relation into tree? - Stack Overflow</A>
+                <DT><A HREF="https://stackoverflow.com/questions/44100552/construct-n-ary-tree-from-arraylist-in-java" ADD_DATE="1552706826">Construct N-ary tree from ArrayList in java - Stack Overflow</A>
+                <DT><A HREF="https://programtalk.com/java/java-tree-implementation/" ADD_DATE="1552706826">Java Tree implementation - Program Talk</A>
+                <DT><A HREF="http://sujitpal.blogspot.com/2006/05/java-data-structure-generic-tree.html" ADD_DATE="1552706826">Salmon Run: Java Data Structure: A Generic Tree</A>
+                <DT><A HREF="https://stackoverflow.com/questions/3522454/java-tree-data-structure" ADD_DATE="1552706826">Java tree data-structure? - Stack Overflow</A>
+                <DT><A HREF="https://www.lavivienpost.com/build-hierarchy-tree/" ADD_DATE="1552706826">Build hierarchy tree - Code - La Vivien Post</A>
+                <DT><A HREF="https://programming4interviews.wordpress.com/2012/07/16/form-a-tree-from-given-child-parent-pairs/" ADD_DATE="1552706826">Form a tree from given child-parent pairs | Programming 4 Interviews</A>
+                <DT><A HREF="https://codereview.stackexchange.com/questions/19994/recursion-and-iteration-how-can-i-optimize-this-code" ADD_DATE="1552706827">java - Recursion and iteration how can i optimize this code - Code Review Stack Exchange</A>
+                <DT><A HREF="https://stackoverflow.com/questions/20218350/build-ul-list-recursively" ADD_DATE="1552706827">java - Build &lt;ul&gt; list recursively - Stack Overflow</A>
+                <DT><A HREF="https://lizdouglass.wordpress.com/2010/01/11/part-3-recursive-menu-building/" ADD_DATE="1552706827">Part 3: Recursive menu building | Liz Douglass</A>
+                <DT><A HREF="https://www.niceonecode.com/Blog/DotNet/CSharp/Generating-Multi-Level-Menu-through-Recursion-in-CSharp/40" ADD_DATE="1552706827">Generating Multi Level Menu through Recursion in C# | NiceOneCode</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706825">Shunting Yard Algorithm</H3>
+            <DL><p>
+                <DT><A HREF="https://unnikked.ga/the-shunting-yard-algorithm/" ADD_DATE="1552706820">The Shunting Yard Algorithm - unnikked</A>
+                <DT><A HREF="http://www.sanfoundry.com/java-program-shunting-yard-algorithm/" ADD_DATE="1552706821">Java Program to Implement Shunting Yard Algorithm - Sanfoundry</A>
+                <DT><A HREF="http://stackoverflow.com/questions/13798557/java-expression-parser-calculator-shunting-yard-algorithm" ADD_DATE="1552706821">Java Expression Parser &amp; Calculator Shunting Yard Algorithm - Stack Overflow</A>
+                <DT><A HREF="https://gist.github.com/DmitrySoshnikov/1239097" ADD_DATE="1552706822">Shunting yard algorithm</A>
+                <DT><A HREF="https://www.thepolyglotdeveloper.com/2015/03/parse-with-the-shunting-yard-algorithm-using-javascript/" ADD_DATE="1552706822">Parse With The Shunting Yard Algorithm Using JavaScript</A>
+                <DT><A HREF="https://rosettacode.org/wiki/Parsing/Shunting-yard_algorithm" ADD_DATE="1552706822">Parsing/Shunting-yard algorithm - Rosetta Code</A>
+                <DT><A HREF="http://eddmann.com/posts/implementing-the-shunting-yard-algorithm-in-javascript/" ADD_DATE="1552706823">Implementing the Shunting Yard algorithm in JavaScript · Edd Mann</A>
+                <DT><A HREF="http://eddmann.com/posts/shunting-yard-implementation-in-java/" ADD_DATE="1552706823">Shunting Yard Implementation in Java · Edd Mann</A>
+                <DT><A HREF="http://www.concretepage.com/java/java-biginteger-tutorial-with-example" ADD_DATE="1552706823">Java BigInteger Tutorial with Example</A>
+                <DT><A HREF="http://www.technical-recipes.com/2011/a-mathematical-expression-parser-in-java-and-cpp/" ADD_DATE="1552706824">Mathematical Expression Parser in Java and C++ | technical-recipes.com</A>
+                <DT><A HREF="http://jsfiddle.net/7jh9f/2/" ADD_DATE="1552706824">Shunting-yard and RPN algorithm visualization - JSFiddle</A>
+                <DT><A HREF="https://igor.io/2013/12/03/stack-machines-shunting-yard.html" ADD_DATE="1552706824">Stack Machines: Shunting-yard</A>
+                <DT><A HREF="https://www.klittlepage.com/2013/12/22/twelve-days-2013-shunting-yard-algorithm/" ADD_DATE="1552706824">Twelve Days 2013: Shunting-Yard Algorithm - Kelly Littlepage</A>
+                <DT><A HREF="https://odieweblog.wordpress.com/tag/shunting-yard-algorithm/" ADD_DATE="1552706825">shunting-yard algorithm | Odie&#39;s Oracle Blog</A>
+                <DT><A HREF="https://github.com/brettshollenberger/shunting-yard-algorithm" ADD_DATE="1552706825">brettshollenberger/shunting-yard-algorithm: Shunting Yard Infix-to-Postfix Parser</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706824">CrossDomain</H3>
+            <DL><p>
+                <DT><A HREF="https://jvaneyck.wordpress.com/2014/01/07/cross-domain-requests-in-javascript/" ADD_DATE="1552706821">Cross-Domain requests in Javascript | jvaneyck</A>
+                <DT><A HREF="https://www.leggetter.co.uk/2010/03/12/making-cross-domain-javascript-requests-using-xmlhttprequest-or-xdomainrequest.html" ADD_DATE="1552706821">Making cross domain JavaScript requests using XMLHttpRequest or XDomainRequest - Phil Leggetter - Real-Time Web Software &amp; Developer Evangelist</A>
+                <DT><A HREF="http://www.html5rocks.com/en/tutorials/cors/" ADD_DATE="1552706821">Using CORS - HTML5 Rocks</A>
+                <DT><A HREF="http://www.codingpedia.org/ama/how-to-add-cors-support-on-the-server-side-in-java-with-jersey/" ADD_DATE="1552706822">How to add CORS support on the server side in Java with Jersey – CodingpediaOrg</A>
+                <DT><A HREF="http://crunchify.com/what-is-cross-origin-resource-sharing-cors-how-to-add-it-to-your-java-jersey-web-server/" ADD_DATE="1552706822">What is Cross-Origin Resource Sharing (CORS) - How to add it to your Java Jersey Web Server? • Crunchify</A>
+                <DT><A HREF="http://www.adobe.com/devnet/articles/crossdomain_policy_file_spec.html" ADD_DATE="1552706823">Cross-domain policy file specification | Adobe Developer Connection</A>
+                <DT><A HREF="http://www.mysamplecode.com/2012/02/access-control-origin-not-allowed.html" ADD_DATE="1552706823">Java Servlet to solve Origin not allowed by Access-Control-Allow-Origin issue</A>
+                <DT><A HREF="http://www.developmentshack.com/allowing-cross-domain-ajax-with-a-java-servlet/61" ADD_DATE="1552706823">Allowing Cross-Domain AJAX with a Java Servlet</A>
+                <DT><A HREF="http://software.dzhuvinov.com/cors-filter.html" ADD_DATE="1552706823">CORS Filter : Cross-Origin Resource Sharing for Your Java Web Apps</A>
+                <DT><A HREF="http://aptjava.blogspot.com/2013/08/cross-domain-request-using-jquery-and.html" ADD_DATE="1552706824">aptjava: Cross domain Request using jQuery and Java</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706828">JAXB</H3>
+            <DL><p>
+                <DT><A HREF="https://www.ibm.com/developerworks/rational/library/resolve-jaxb-cycle-errors/index.html" ADD_DATE="1552706821">Mapping JPA entities to successfully transcode them using XML</A>
+                <DT><A HREF="https://github.com/FasterXML/jackson-dataformat-xml/issues/89" ADD_DATE="1552706821">Handling XMLElement nillable like JAXB · Issue #89 · FasterXML/jackson-dataformat-xml</A>
+                <DT><A HREF="https://stackoverflow.com/questions/17366054/represent-null-value-as-empty-element-in-xml-jaxb" ADD_DATE="1552706821">java - Represent null value as empty element in xml jaxb - Stack Overflow</A>
+                <DT><A HREF="http://blog.bdoughan.com/2012/12/jaxb-representing-null-and-empty.html?m=1" ADD_DATE="1552706822">Java XML and JSON Binding: JAXB - Representing Null and Empty Collections</A>
+                <DT><A HREF="https://dzone.com/articles/jaxb-representing-null-and" ADD_DATE="1552706822">JAXB - Representing Null and Empty Collections - DZone Java</A>
+                <DT><A HREF="http://javaoraclesoa.blogspot.com/2014/02/jaxb-and-xml-generation-missing-elements.html?m=1" ADD_DATE="1552706823">Oracle SOA / Java blog: JAXB and XML generation; missing elements</A>
+                <DT><A HREF="https://dzone.com/articles/java-and-xml-part-3-jaxb" ADD_DATE="1552706823">Java and XML - Part 3 (JAXB) - DZone Java</A>
+                <DT><A HREF="http://blog.bdoughan.com/2010/11/jaxb-and-inheritance-using-substitution.html?m=1" ADD_DATE="1552706823">Java XML and JSON Binding: JAXB and Inheritance - Using Substitution Groups</A>
+                <DT><A HREF="http://blog.bdoughan.com/2010/12/represent-string-values-as-element.html?m=1" ADD_DATE="1552706823">Java XML and JSON Binding: Represent String Values as Element Names with JAXB (&quot;foo&quot; as &lt;foo/&gt;)</A>
+                <DT><A HREF="https://stackoverflow.com/questions/26959343/convert-java-object-to-xml-string" ADD_DATE="1552706824">Convert Java object to XML string - Stack Overflow</A>
+                <DT><A HREF="https://www.intertech.com/Blog/jaxb-tutorial-how-to-marshal-and-unmarshal-xml/" ADD_DATE="1552706824">JAXB Tutorial: How to Marshal and Unmarshal XML - Intertech Blog</A>
+                <DT><A HREF="https://blogs.sap.com/2015/02/23/way-to-parse-xml-using-jaxb-and-convert-xml-into-java-object/" ADD_DATE="1552706824">Way to parse XML using JAXB and convert XML into Java object | SAP Blogs</A>
+                <DT><A HREF="https://stackoverflow.com/questions/12634577/conversion-of-java-object-into-xml-and-parse-it-using-dom-sax" ADD_DATE="1552706824">json - Conversion of Java object into XML and parse it using DOM/SAX - Stack Overflow</A>
+                <DT><A HREF="http://www.mkyong.com/java/jaxb-hello-world-example/" ADD_DATE="1552706825">JAXB hello world example</A>
+                <DT><A HREF="https://www.mkyong.com/java/how-to-read-xml-file-in-java-sax-parser/" ADD_DATE="1552706825">How to read XML file in Java – (SAX Parser)</A>
+                <DT><A HREF="https://www.journaldev.com/1237/java-convert-string-to-xml-document-and-xml-document-to-string" ADD_DATE="1552706825">Java Convert String to XML Document and XML Document to String - JournalDev</A>
+                <DT><A HREF="http://javarevisited.blogspot.com/2015/06/how-to-converts-java-object-to-xml-jaxb.html" ADD_DATE="1552706825">How to converts Java Object to XML - JAXB Example</A>
+                <DT><A HREF="http://www.hostettler.net/blog/2012/05/24/moxy/" ADD_DATE="1552706826">Object-XML Mapping With JAXB &amp; MOXy - Steve Hostettler</A>
+                <DT><A HREF="http://www.alex-arriaga.com/how-to-add-attributes-in-xml-elements-using-jaxb-in-dynamic-web-application-for-java-ee/" ADD_DATE="1552706826">How to add attributes in XML elements using JAXB in dynamic web application for Java EE – Alex Arriaga</A>
+                <DT><A HREF="http://www.baeldung.com/jaxb" ADD_DATE="1552706826">Guide to JAXB | Baeldung</A>
+                <DT><A HREF="https://www.javatpoint.com/jaxb-tutorial" ADD_DATE="1552706826">JAXB Tutorial - javatpoint</A>
+                <DT><A HREF="https://www.javacodegeeks.com/2014/12/jaxb-tutorial-xml-binding.html" ADD_DATE="1552706826">JAXB Tutorial for Java XML Binding – The ULTIMATE Guide (PDF Download)</A>
+                <DT><A HREF="https://www.tutorialspoint.com/java/xml/javax_xml_bind_jaxbcontext.htm" ADD_DATE="1552706826">Javax.xml.Bind.JAXBContext Class</A>
+                <DT><A HREF="http://www.vogella.com/tutorials/JAXB/article.html" ADD_DATE="1552706826">JAXB - Tutorial</A>
+                <DT><A HREF="https://www.mysoftkey.com/java/jaxb-nested-list-of-java-object-example/" ADD_DATE="1552706827">JAXB: Example of Nested List of XML Element | mySoftKey</A>
+                <DT><A HREF="http://blog.bdoughan.com/2010/10/jaxb-and-xsd-choice-xmlelements.html" ADD_DATE="1552706827">Java XML and JSON Binding: JAXB and XSD Choice: @XmlElements</A>
+                <DT><A HREF="https://stackoverflow.com/questions/20782283/jaxb-xmlelements-order" ADD_DATE="1552706827">java - JAXB @XmlElements Order - Stack Overflow</A>
+                <DT><A HREF="http://www.techferry.com/articles/jaxb-annotations.html" ADD_DATE="1552706827">JAXB Annotations</A>
+                <DT><A HREF="https://stackify.com/java-xml-jackson/" ADD_DATE="1552706827">Solving the XML Problem with Jackson</A>
+                <DT><A HREF="http://actimem.com/java/jaxb-annotations/" ADD_DATE="1552706827">JAXB Annotations Reference</A>
+                <DT><H3 ADD_DATE="1552706828" LAST_MODIFIED="1552706832">Performance</H3>
+                <DL><p>
+                    <DT><A HREF="http://www-01.ibm.com/support/docview.wss?uid=swg21641260" ADD_DATE="1552706829">IBM JAXBContext Initialization Takes A Long Time - United States</A>
+                    <DT><A HREF="http://java-persistence-performance.blogspot.com/2013/08/optimizing-java-serialization-java-vs.html" ADD_DATE="1552706830">Java Persistence Performance: Optimizing Java Serialization - Java vs XML vs JSON vs Kryo vs POF</A>
+                    <DT><A HREF="https://javaeesupportpatterns.blogspot.com/2011/09/jaxbcontext-performance-problem-case.html" ADD_DATE="1552706830">JAXBContext Performance Problem – Case Study ~ Java EE Support Patterns</A>
+                    <DT><A HREF="http://tedone.typepad.com/blog/2011/06/unmarshalling-benchmark-in-java-jaxb-vs-stax-vs-woodstox.html" ADD_DATE="1552706830">XML unmarshalling benchmark in Java: JAXB vs STax vs Woodstox - Marco Tedone&#39;s blog</A>
+                    <DT><A HREF="http://www.oracle.com/technetwork/articles/javase/javatechandxml-part3-142828.html" ADD_DATE="1552706831">Java Technology and XML-Part 3: Performance Improvement Tips</A>
+                    <DT><A HREF="http://lauraliparulo.altervista.org/jaxb-part-7-increase-performance-with-singleton-jaxbcontext-instance/" ADD_DATE="1552706831">JAXB part 7: increase performance with singleton JaxbContext instance</A>
+                    <DT><A HREF="http://lauraliparulo.altervista.org/jaxb-part-4-handling-cdata-elements/" ADD_DATE="1552706831">JAXB part 4: handling CDATA elements</A>
+                    <DT><A HREF="https://dzone.com/articles/jaxb-sax-dom-performance" ADD_DATE="1552706831">JAXB, SAX, DOM Performance - DZone Performance</A>
+                    <DT><A HREF="https://stackoverflow.com/questions/6043956/how-do-i-improve-performance-of-application-that-uses-the-jaxbcontext-newinstanc" ADD_DATE="1552706832">java - How do I improve performance of application that uses the JAXBContext.newInstance operation? - Stack Overflow</A>
+                    <DT><A HREF="http://app-inf.blogspot.com/2012/10/performance-tuning-logging-right-way.html" ADD_DATE="1552706832">From Applications to Infrastructure: Step-by-Step : How logging caused big performance problem for a JAX-WS web service</A>
+                    <DT><A HREF="http://dublintech.blogspot.com/2011/12/jaxb-sax-dom-performance.html" ADD_DATE="1552706832">Dublin Tech: JAXB, SAX, DOM Performance</A>
+                    <DT><A HREF="http://robaustin.wikidot.com/how-to-improve-perforamance-of-jaxb" ADD_DATE="1552706832">How To Improve Perforamance of Jaxb - Java Wiki</A>
+                </DL><p>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706824">Upload large file</H3>
+            <DL><p>
+                <DT><A HREF="https://github.com/caiofilipini/cloud-upload-java/blob/master/src/main/java/com/caiofilipini/upload/handler/multipart/MultipartRequestHandler.java" ADD_DATE="1552706821">cloud-upload-java/MultipartRequestHandler.java at master · caiofilipini/cloud-upload-java</A>
+                <DT><A HREF="https://www.initialspark.co.uk/blog/articles/java-spring-file-streaming.html" ADD_DATE="1552706821">Tech Series - Large file uploads with Java Spring and the Apache Commons FileUpload Streaming API | Initial Spark Blog</A>
+                <DT><A HREF="https://stackoverflow.com/questions/15432024/how-to-upload-a-file-using-commons-file-upload-streaming-api" ADD_DATE="1552706821">java - how to upload a file using commons file upload streaming api - Stack Overflow</A>
+                <DT><A HREF="http://javasampleapproach.com/aws/amazon-s3/amazon-s3-uploaddownload-large-files-s3-springboot-amazon-s3-multipartfile-application" ADD_DATE="1552706822">Amazon S3 - Upload/download large files to S3 with SpringBoot Amazon S3 MultipartFile application - JavaSampleApproach</A>
+                <DT><A HREF="http://www.admios.com/blog/how-to-split-a-file-using-java" ADD_DATE="1552706822">How to Split a File Using Java — Admios</A>
+                <DT><A HREF="https://github.com/tomdesair/tus-java-server#usage-and-configuration" ADD_DATE="1552706822">tomdesair/tus-java-server: Library to receive tus v1.0.0 file uploads in a Java server environment</A>
+                <DT><A HREF="http://www.jedi.be/blog/2009/04/10/java-servlets-and-large-large-file-uploads-enter-apache-fileupload/" ADD_DATE="1552706823">Java Servlets and Large, Large file Uploads: enter apache fileupload</A>
+                <DT><A HREF="https://www.developer.com/java/web/5-leading-java-file-upload-solutions.html" ADD_DATE="1552706823">5 Leading Java File Upload Solutions, Page 2 - Developer.com</A>
+                <DT><A HREF="https://uppy.io/docs/#Installation" ADD_DATE="1552706823">Getting Started — Uppy File Uploader</A>
+                <DT><A HREF="https://tus.io/" ADD_DATE="1552706824">tus - resumable file uploads</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706823">Gui swing</H3>
+            <DL><p>
+                <DT><A HREF="https://codereview.stackexchange.com/questions/121657/application-for-encrypting-and-decrypting-files-in-java" ADD_DATE="1552706820">Application for encrypting and decrypting files in Java - Code Review Stack Exchange</A>
+                <DT><A HREF="https://www.dreamincode.net/forums/topic/352169-rsa-encryption-decryption-using-separate-codes-with-gui/" ADD_DATE="1552706821">Rsa Encryption Decryption Using Separate Codes With GUI - Java | Dream.In.Code</A>
+                <DT><A HREF="http://www.codejava.net/coding/swing-application-for-sending-e-mail-with-attachments" ADD_DATE="1552706821">Swing application for sending e-mail (with attachments)</A>
+                <DT><A HREF="http://www.zentut.com/java-swing/creating-text-fields-by-using-jtextfield-class/" ADD_DATE="1552706822">Creating Text Fields by Using JTextField Class</A>
+                <DT><A HREF="http://bcbutler.com/Java_Tuts/java_caesar_cipher_GUI.php" ADD_DATE="1552706822">Caesar Cipher</A>
+                <DT><A HREF="https://www.mkyong.com/java/java-symmetric-key-cryptography-example/" ADD_DATE="1552706823">Java – Symmetric-Key Cryptography example – Mkyong.com</A>
+                <DT><A HREF="https://www.mkyong.com/java/java-hybrid-cryptography-example/" ADD_DATE="1552706823">Java – Hybrid Cryptography example – Mkyong.com</A>
+                <DT><A HREF="http://www.appsdeveloperblog.com/encrypt-user-password-example-java/" ADD_DATE="1552706823">Encrypt User Password Example in Java - Apps Developer Blog</A>
+                <DT><A HREF="https://invisiblecomputer.wonderhowto.com/how-to/write-basic-encryption-program-using-java-0134994/" ADD_DATE="1552706823">Privacy error</A>
+            </DL><p>
+        </DL><p>
+        <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706820">J2EE</H3>
+        <DL><p>
+            <DT><H3 ADD_DATE="1552706820" LAST_MODIFIED="1552706829">Hibernate</H3>
+            <DL><p>
+                <DT><A HREF="http://www.onjava.com/pub/a/onjava/2005/12/14/hibernate-class-generation-with-hbm2java.html?page=5" ADD_DATE="1552706821">ONJava.com -- Hibernate Class Generation Using hbm2java</A>
+                <DT><A HREF="http://www.hibernate.org/385.html?cmd=comphist&histnode=2802" ADD_DATE="1552706821">hibernate.org - Hibernate Tools Migration Guide</A>
+                <DT><A HREF="http://www.informit.com/articles/article.asp?p=353736&seqNum=4&rl=1" ADD_DATE="1552706821">Improving Hibernate&#39;s Performance &gt; Connection Pooling</A>
+                <DT><A HREF="http://www-128.ibm.com/developerworks/db2/library/techarticle/dm-0505saracco/#properties" ADD_DATE="1552706822">Using Hibernate with WebSphere Information Integrator</A>
+                <DT><A HREF="http://www.thearcmind.com/confluence/display/SpribernateSF/Configuring+Hibernate,+Spring,+Portlets,+and+OpenInSessionPhaseListener+with+IBM+WebSphere+Portal+Server" ADD_DATE="1552706822">Configuring Hibernate, Spring, Portlets, and OpenInSessionPhaseListener with IBM WebSphere Portal Server - TheArcMind.com</A>
+                <DT><A HREF="http://www-128.ibm.com/developerworks/search/searchResults.jsp?searchSite=dW&searchScope=dW&displaySearchScope=dW&encodedQuery=hibernate+with+DB2&encodedFilter=%2B%28+%29+-%28meta3.tsdoctype%3Adb550%29++-%28meta3.tsdoctype%3Ad100%29++%2B%28meta2.language%3Aen%29++%2B%28meta2.newcountryurl%3Aus+meta2.country%3Azz%29+&summaryShow=on&offset=20&type=all&lastUserQuery1=hibernate+with+DB2&lastUserQuery2=&lastUserQuery3=&lastUserQuery4=&perPage=20&pageDate=&pageLang=&langEncoding=UTF8&rankprofile=0" ADD_DATE="1552706822">IBM developerWorks &gt; Search results</A>
+                <DT><A HREF="http://www.hibernate.org/391.html" ADD_DATE="1552706823">hibernate.org - Session handling with AOP</A>
+                <DT><A HREF="http://www-128.ibm.com/developerworks/websphere/techjournal/0409_patil/0409_patil.html" ADD_DATE="1552706823">IBM WebSphere Developer Technical Journal: Developing Hibernate applications for use with WebSphere Application Server</A>
+                <DT><A HREF="http://www.hibernate.org/162.html" ADD_DATE="1552706823">hibernate.org - Some explanations on lazy loading</A>
+                <DT><A HREF="http://www-128.ibm.com/developerworks/db2/library/techarticle/0306bhogal/0306bhogal.html" ADD_DATE="1552706824">Using Hibernate to Persist Your Java Objects to IBM DB2 Universal Database</A>
+                <DT><A HREF="http://www.javalobby.org/java/forums/t20533.html" ADD_DATE="1552706824">Hibernate: Understanding Lazy Fetching ...</A>
+                <DT><A HREF="http://www.hibernate.org/42.html" ADD_DATE="1552706824">hibernate.org - Sessions and transactions</A>
+                <DT><A HREF="http://www.hibernate.org/43.html" ADD_DATE="1552706825">hibernate.org - Open Session in View</A>
+                <DT><A HREF="http://opensource.atlassian.com/confluence/spring/pages/viewpage.action?pageId=1447" ADD_DATE="1552706825">Implementing Hibernate session-per-application-transaction-with-flush-delayed-to-the-last-request and session-per-request - Spring Discuss - Confluence</A>
+                <DT><A HREF="http://www.jroller.com/page/robwilliams?entry=spring_s_estrangement_from_hibernate" ADD_DATE="1552706825">Rob Williams&#39; Blog</A>
+                <DT><A HREF="http://forum.hibernate.org/viewtopic.php?t=963579" ADD_DATE="1552706825">Hibernate Forums - View topic - comp/UserTransaction not found in context java: on WAS6.0.2</A>
+                <DT><A HREF="http://saloon.javaranch.com/cgi-bin/ubb/ultimatebb.cgi?ubb=get_topic&f=46&t=008434" ADD_DATE="1552706825">JavaRanch Big Moose Saloon: Hibernate 3.2 on WebSphere 6.0.2</A>
+                <DT><A HREF="http://www-128.ibm.com/developerworks/websphere/techjournal/0609_alcott/0609_alcott.html" ADD_DATE="1552706826">IBM WebSphere Developer Technical Journal: Using Spring and Hibernate with WebSphere Application Server</A>
+                <DT><A HREF="http://www-128.ibm.com/developerworks/java/library/j-hibernate/" ADD_DATE="1552706826">Hibernate simplifies inheritance mapping</A>
+                <DT><A HREF="http://koders.com/java/fid65B2D575A98AC05BF246A1C4C5CC2996BD829C1E.aspx?s=mcall%3AtoString" ADD_DATE="1552706826">Koders - DB2Dialect.java</A>
+                <DT><A HREF="http://www.onjava.com/pub/a/onjava/2005/12/14/hibernate-class-generation-with-hbm2java.html?CMP=ILC-VP9761447835&ATT=2743" ADD_DATE="1552706826">ONJava.com -- Hibernate Class Generation Using hbm2java</A>
+                <DT><A HREF="http://www.onjava.com/pub/a/onjava/2005/09/21/what-is-hibernate.html?CMP=ILC-VP9761447835&ATT=2743" ADD_DATE="1552706826">ONJava.com -- What Is Hibernate</A>
+                <DT><A HREF="http://www.onjava.com/pub/a/onjava/2005/11/16/hibernate-for-java-se.html?CMP=ILC-VP9761447835&ATT=2743" ADD_DATE="1552706826">ONJava.com -- Hibernate for Java SE</A>
+                <DT><A HREF="http://www.onjava.com/pub/a/onjava/2005/01/05/hibernate.html" ADD_DATE="1552706827">ONJava.com -- Working with Hibernate in Eclipse</A>
+                <DT><A HREF="http://www.hibernate.org/hib_docs/tools/reference/en/html_single/" ADD_DATE="1552706827">Hibernate Tools</A>
+                <DT><A HREF="http://www.onjava.com/pub/a/onjava/2005/06/29/spring-ejb3.html" ADD_DATE="1552706827">ONJava.com -- POJO Application Frameworks: Spring Vs. EJB 3.0</A>
+                <DT><A HREF="http://www.developer.com/java/ent/article.php/10933_3577101_3" ADD_DATE="1552706827">Developing J2EE Applications Using Hibernate Annotations and Spring MVC</A>
+                <DT><A HREF="http://www.i-proving.ca/space/Technologies/Hibernate/Hibernate+Annotations" ADD_DATE="1552706827">Hibernate Annotations</A>
+                <DT><A HREF="http://blogs.warwick.ac.uk/colinyates/entry/hibernate_executeupdate_stale/" ADD_DATE="1552706827">hibernate executeUpdate + stale data, 21/02/06, Colin&#39;s blog</A>
+                <DT><A HREF="http://www.onjava.com/pub/a/onjava/2006/09/13/dont-let-hibernate-steal-your-identity.html" ADD_DATE="1552706827">ONJava.com -- Don&#39;t Let Hibernate Steal Your Identity</A>
+                <DT><A HREF="http://www.amicabile.com/hybernate/hybernate-chapter5.html" ADD_DATE="1552706828">Transactions, currency, caching</A>
+                <DT><A HREF="http://anonhibernate.labs.jboss.com/tags/start/Hibernate2/doc/reference/src/transactions.xml" ADD_DATE="1552706828">http://anonhibernate.labs.jboss.com/tags/start/Hibernate2/doc/reference/src/transactions.xml</A>
+                <DT><A HREF="http://anonhibernate.labs.jboss.com/branches/vendor/Hibernate2/doc/reference/src/transactions.xml" ADD_DATE="1552706828">http://anonhibernate.labs.jboss.com/branches/vendor/Hibernate2/doc/reference/src/transactions.xml</A>
+                <DT><A HREF="http://www.hibernate.org/hib_docs/tools/reference/en/html/plugins.html#d0e520" ADD_DATE="1552706828">Chapter 3. Eclipse Plugins</A>
+                <DT><A HREF="http://tssblog.techtarget.com/index.php/interoperability/mini-guide-hibernate-and-nhibernate/?track=NL-609&ad=598478&Offer=TSNejb725hib&asrc=EM_USC_1860114&uid=5981985" ADD_DATE="1552706828">The ServerSide Interoperability Blog » Mini-Guide: Hibernate and NHibernate</A>
+                <DT><A HREF="http://hibernate.org/406.html" ADD_DATE="1552706828">hibernate.org - Hibernate Tools Viewlets</A>
+                <DT><A HREF="http://www.writeopenstory.com/Stories/Story1745.html" ADD_DATE="1552706828">ORM and Code generation for persistent layer - which one is better?</A>
+                <DT><A HREF="http://docs.jboss.org/tools/2.0.0.GA/index.html" ADD_DATE="1552706828">JBoss Tools Documentation</A>
+                <DT><A HREF="http://salto-db.sourceforge.net/salto-db-generator/index.html" ADD_DATE="1552706828">Salto-db Generator - Salto-db Generator</A>
+                <DT><A HREF="http://docs.jboss.org/tools/2.0.0.GA/hibernatetools/en/html_single/index.html" ADD_DATE="1552706828">Hibernate Tools</A>
+                <DT><A HREF="http://forum.springframework.org/showthread.php?t=15474" ADD_DATE="1552706828">spring + hibernate (+ clob) transaction sychronization - Spring Framework Support Forums</A>
+                <DT><A HREF="http://forum.springframework.org/showthread.php?t=10802" ADD_DATE="1552706828">Insert Clob using Oracle - Spring Framework Support Forums</A>
+                <DT><A HREF="http://forum.springframework.org/showthread.php?t=44226&highlight=clob+hibernate" ADD_DATE="1552706828">Spring 2.0.6 - Hibernate - Websphere Application Server 6.0 - Oracle - CLOB - Spring Framework Support Forums</A>
+                <DT><A HREF="http://forum.springframework.org/showthread.php?t=47075&highlight=clob+hibernate" ADD_DATE="1552706828">Problem with transactions. Loading 18 million of data. - Spring Framework Support Forums</A>
+                <DT><A HREF="http://forum.springframework.org/showthread.php?t=36082&highlight=clob+hibernate" ADD_DATE="1552706828">Clob - Spring + Hibernate - Spring Framework Support Forums</A>
+                <DT><A HREF="http://forum.springframework.org/showthread.php?t=27805&highlight=clob+hibernate" ADD_DATE="1552706828">HIbernate and Clobs. Could not reset reader - Spring Framework Support Forums</A>
+                <DT><A HREF="http://forum.springframework.org/showthread.php?t=19712&highlight=clob+hibernate" ADD_DATE="1552706828">Spring - Hibernate CLOB/Transaction Issues - Spring Framework Support Forums</A>
+                <DT><A HREF="http://forum.springframework.org/showthread.php?t=15474&highlight=clob+hibernate" ADD_DATE="1552706828">spring + hibernate (+ clob) transaction sychronization - Spring Framework Support Forums</A>
+                <DT><A HREF="http://www.hibernate.org/236.html" ADD_DATE="1552706828">hibernate.org - CLOB/BLOB as linked list</A>
+                <DT><A HREF="http://forum.springframework.org/showthread.php?t=19323&highlight=clob+hibernate" ADD_DATE="1552706828">Imagedb sample and Hibernate [BLOB and CLOB] support - Spring Framework Support Forums</A>
+                <DT><A HREF="http://www.javaworld.com.tw/confluence/pages/viewpage.action?pageId=3146" ADD_DATE="1552706829">Blob、Clob - OpenSource Project - JavaWorld@TW</A>
+                <DT><A HREF="http://my.opera.com/mattroiden3012/blog/tong-quan-hibernate-framework" ADD_DATE="1552706829">Tổng quan Hibernate framework - Today and tomorrow... - by DANG VAN DINH</A>
+                <DT><A HREF="http://simoes.org/docs/hibernate-2.1/110.html" ADD_DATE="1552706829">Hibernate - Data Access with the Spring Framework</A>
+            </DL><p>
